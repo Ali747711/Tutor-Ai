@@ -14,6 +14,8 @@ const {
   EVALUATE_SCHEMA,
   TUTOR_SYSTEM_PROMPT,
 } = require("./prompts");
+const { connectDb } = require("./db");
+const Progress = require("./models/progress");
 
 const PORT = process.env.PORT || 3001;
 const MODEL = "claude-opus-4-8";
@@ -216,6 +218,60 @@ app.post("/api/tts", async (req, res) => {
   } catch (err) {
     console.error("[/api/tts]", err?.message || err);
     res.status(502).json({ error: "Failed to synthesize speech." });
+  }
+});
+
+/**
+ * GET /api/progress/:deviceId
+ * -> { learnedIds, mockCount, scoreSum, scoreCount }
+ */
+app.get("/api/progress/:deviceId", async (req, res) => {
+  const { deviceId } = req.params;
+  if (!deviceId || deviceId.length > 64) {
+    return res.status(400).json({ error: "Invalid deviceId." });
+  }
+  try {
+    await connectDb();
+    const doc = await Progress.findOne({ deviceId });
+    if (!doc) {
+      return res.json({ learnedIds: [], mockCount: 0, scoreSum: 0, scoreCount: 0 });
+    }
+    res.json({
+      learnedIds: doc.learnedIds,
+      mockCount: doc.mockCount,
+      scoreSum: doc.scoreSum,
+      scoreCount: doc.scoreCount,
+    });
+  } catch (err) {
+    console.error("[GET /api/progress]", err?.message || err);
+    res.status(502).json({ error: "Failed to load progress." });
+  }
+});
+
+/**
+ * PUT /api/progress/:deviceId
+ * body: { learnedIds?, mockCount?, scoreSum?, scoreCount? }
+ * -> { ok: true }
+ */
+app.put("/api/progress/:deviceId", async (req, res) => {
+  const { deviceId } = req.params;
+  if (!deviceId || deviceId.length > 64) {
+    return res.status(400).json({ error: "Invalid deviceId." });
+  }
+  try {
+    await connectDb();
+    const { learnedIds, mockCount, scoreSum, scoreCount } = req.body ?? {};
+    const update = {};
+    if (Array.isArray(learnedIds)) update.learnedIds = learnedIds.slice(0, 200);
+    if (typeof mockCount === "number" && mockCount >= 0) update.mockCount = mockCount;
+    if (typeof scoreSum === "number" && scoreSum >= 0) update.scoreSum = scoreSum;
+    if (typeof scoreCount === "number" && scoreCount >= 0) update.scoreCount = scoreCount;
+
+    await Progress.findOneAndUpdate({ deviceId }, { $set: update }, { upsert: true });
+    res.json({ ok: true });
+  } catch (err) {
+    console.error("[PUT /api/progress]", err?.message || err);
+    res.status(502).json({ error: "Failed to save progress." });
   }
 });
 
