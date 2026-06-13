@@ -17,10 +17,6 @@ const {
 
 const PORT = process.env.PORT || 3001;
 const MODEL = "claude-opus-4-8";
-const ALLOWED_ORIGINS = [
-  "http://localhost:5173",
-  "http://127.0.0.1:5173",
-];
 
 // ---- Fail fast on missing secrets (security.md: validate secrets at startup) ----
 if (!process.env.CLAUDE_API_KEY) {
@@ -36,7 +32,7 @@ const anthropic = new Anthropic({ apiKey: process.env.CLAUDE_API_KEY });
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
 const app = express();
-app.use(cors({ origin: ALLOWED_ORIGINS }));
+app.use(cors({ origin: true, credentials: true }));
 app.use(express.json({ limit: "1mb" }));
 
 // ---------------------------------------------------------------------------
