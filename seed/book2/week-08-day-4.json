@@ -1,0 +1,110 @@
+{
+  "week": 8,
+  "day": 4,
+  "order": 53,
+  "keyword": "거짓말",
+  "meaning": "lie",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "거짓말장이",
+      "english": "liar",
+      "notes": ""
+    },
+    {
+      "korean": "뻔한 거짓말",
+      "english": "obvious lie",
+      "notes": "뻔하다 = to be obvious\n뻔한 is the adjective form of 뻔하다."
+    },
+    {
+      "korean": "선의의 거짓말",
+      "english": "white lie; lie with good intentions",
+      "notes": "선의 = good intentions"
+    },
+    {
+      "korean": "새빨간 거짓말",
+      "english": "downright lie; lying through one's teeth",
+      "notes": "새빨간다 = to be bright red, very red\n새빨간 is the adjective form of 새빨간다. When placed before the word 거짓말, it means \"downright\" or \"total.\""
+    },
+    {
+      "korean": "거짓말을 하다",
+      "english": "to tell a lie",
+      "notes": ""
+    },
+    {
+      "korean": "거짓말이죠?",
+      "english": "You're lying, aren't you?",
+      "notes": ""
+    },
+    {
+      "korean": "거짓말하지 마세요.",
+      "english": "Please stop lying.",
+      "notes": "-지 마세요 = (polite) Don't + V"
+    },
+    {
+      "korean": "거짓말인 거 다 알아요.",
+      "english": "I know it's all a lie.",
+      "notes": "다 = all; every (thing)\n알다 = to know"
+    },
+    {
+      "korean": "제 말이 거짓말처럼 들려요?",
+      "english": "Does it sound like I'm lying?",
+      "notes": "말 = language; what one says; expression; word, term\n-지럼 = like + N\n들리다 = to be heard, audible; to sound"
+    },
+    {
+      "korean": "그런 뻔한 거짓말에 누가 속아요?",
+      "english": "Who would be deceived by such an obvious lie?",
+      "notes": "그런 = (something) like that; such + noun\n누가 = who; someone (subject)\n속다 = to be fooled, deceived"
+    },
+    {
+      "korean": "그런 뻔한 거짓말을 누가 믿어요?",
+      "english": "Who believes such an obvious lie?",
+      "notes": "믿다 = to believe (in), trust"
+    },
+    {
+      "korean": "거짓말인지 정말인지 모르겠어요.",
+      "english": "I don't know if it's a lie or the truth.",
+      "notes": "-인지 = whether\n모르다 = to not know"
+    },
+    {
+      "korean": "거짓말하고 있는 것 같지 않아요?",
+      "english": "Don't you think he's lying?",
+      "notes": "-것 같다 = It seems/looks like + S + V\n-것 같지 않아요? = Don't you think + S + V ?"
+    },
+    {
+      "korean": "처음에는 저도 거짓말인 줄 알았어요.",
+      "english": "I also thought that it was a lie at first.",
+      "notes": "처음 = first; for the first time\n-도 = too, also\n-인 줄 알다 = to mistakenly think + S + be + N"
+    },
+    {
+      "korean": "그 사람 거짓말쟁이니까 믿지 마세요.",
+      "english": "He's a liar, so don't trust him.",
+      "notes": "그 = the; that\n거짓말쟁이 = liar\n-(이)니까 = since/because + S+ be + N"
+    },
+    {
+      "korean": "거짓말을 전혀 안 하는 사람은 없을 거예요.",
+      "english": "I don't think there's anyone who doesn't lie at all.",
+      "notes": "전혀 = (not) at all\n없다 = to not have, not exist; to be not there"
+    },
+    {
+      "korean": "어떻게 저한테 그런 거짓말을 할 수가 있어요?",
+      "english": "How could you tell me such a lie?",
+      "notes": "어떻게 + -(으)ㄹ 수 있어요? = How could you + V? How dare you + V?"
+    },
+    {
+      "korean": "그거 거짓말인 거 알고 있으니까 솔직하게 이야기해요.",
+      "english": "I know that's a lie, so just tell me honestly.",
+      "notes": "그거 = that\n솔직하다 = to be honest\n솔직하게 is an adverb form of 솔직하다.\n이야기하다 = to talk, speak, say, tell; to have a conversation; to tell a story"
+    },
+    {
+      "korean": "어렸을 때 거짓말을 많이 해서 엄마한테 자주 혼났어요.",
+      "english": "When I was young, I would tell a lot of lies, so I was often scolded by my mom.",
+      "notes": "어렸다 = to be young\n-(으)ㄹ 때 = when/while + S + V\n많이 = a lot\n해서 = often, frequently\n엄마 = mom\n자주 = often, frequently\n혼나다 = to get scolded"
+    },
+    {
+      "korean": "저도 거짓말을 하는 건 싫어하지만 이번에는 어쩔 수 없어요.",
+      "english": "I hate to lie, but I can't help it this time.",
+      "notes": "싫어하다 = to dislike, hate\n이번 = this; this time\n어쩔 수 없다 = can't help, can't but; there is nothing + S + can do about"
+    }
+  ]
+}

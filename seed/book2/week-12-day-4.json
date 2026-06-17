@@ -1,0 +1,110 @@
+{
+  "week": 12,
+  "day": 4,
+  "order": 81,
+  "keyword": "연락",
+  "meaning": "contact",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "연락처",
+      "english": "contact information; phone number",
+      "notes": ""
+    },
+    {
+      "korean": "연락을 하다",
+      "english": "to contact",
+      "notes": "하다 = to do"
+    },
+    {
+      "korean": "연락을 받다",
+      "english": "to hear from someone",
+      "notes": "받기다 = to be cut"
+    },
+    {
+      "korean": "연락이 끊기다",
+      "english": "to lose touch (with someone)",
+      "notes": ""
+    },
+    {
+      "korean": "연락을 주고받다",
+      "english": "to keep in touch; to stay in contact",
+      "notes": ""
+    },
+    {
+      "korean": "곧 연락할게요.",
+      "english": "I will contact you soon.",
+      "notes": "곧 = soon"
+    },
+    {
+      "korean": "연락하고 지내요.",
+      "english": "Let's keep in touch.",
+      "notes": "지내다 = to live; to spend (time)"
+    },
+    {
+      "korean": "연락처 좀 알 수 있을까요?",
+      "english": "Can I have your contact information?",
+      "notes": "알다 = to know\n-(으)르 수 있다 = can, to be able to; there is a chance that + S + V\n-(으)르기요? = Shall we + S + V?; Do you want me to + V?; Should we + V?; Let's + V."
+    },
+    {
+      "korean": "늦게 가다고 연락했어요?",
+      "english": "Did you call them (and tell them) you were going to be late?",
+      "notes": "늦다 = to be late\n늦게 is the adverb form of 늦다.\n가다 = to go; to leave"
+    },
+    {
+      "korean": "가끔 연락 주고받고 있어요.",
+      "english": "We keep in touch and talk once in a while.",
+      "notes": "가끔 = sometimes"
+    },
+    {
+      "korean": "집에 도착하면 연락 주세요.",
+      "english": "Contact me when you get home.",
+      "notes": "집 = house, home\n도착하다 = to arrive"
+    },
+    {
+      "korean": "이 전화 번호로 연락 주세요.",
+      "english": "Contact me at this phone number.",
+      "notes": "전화 번호 = phone number"
+    },
+    {
+      "korean": "요즘 그 사람하고 연락 돼요?",
+      "english": "Have you been in touch with him lately?",
+      "notes": "요즘 = these days, lately\n그 = that person; he, she\n되다 = to be done; to be possible; (something) works"
+    },
+    {
+      "korean": "오시기 전에 미리 연락 주세요.",
+      "english": "Let me know before you come for a visit.",
+      "notes": "오다 = to come\n-기 전에 = before + S + V\n미리 = in advance; beforehand"
+    },
+    {
+      "korean": "지금 조금 바쁘니까 나중에 연락할게요.",
+      "english": "I'm a little busy now, so I will contact you later.",
+      "notes": "조금 = a little\n바쁘다 = to be busy\n나중에 = later"
+    },
+    {
+      "korean": "더 일찍 연락 드리지 못 해서 죄송합니다.",
+      "english": "I'm sorry that I didn't contact you earlier.",
+      "notes": "일찍 = early; soon\n드리다 = (honorific) to give\n못 = can't\n죄송합니다. = (polite) I'm sorry."
+    },
+    {
+      "korean": "영국에 유학 간 친구에게서 연락이 왔어요.",
+      "english": "I heard from my friend who is studying abroad in England.",
+      "notes": "영국 = The United Kingdom; England; Great Britain\n유학 가다 = to go abroad to study\n연락이 오다 = to hear from someone"
+    },
+    {
+      "korean": "그 사람하고는 연락이 끊긴 지 오래 됐어요.",
+      "english": "It's been a while since I lost touch with him.",
+      "notes": "연락이 끊기다 = to lose touch with someone\n-(으)ㄴ 지 오래 되다 = to have been a long time since"
+    },
+    {
+      "korean": "더 궁금하신 점이 있으면 바로 연락 주세요.",
+      "english": "Please contact us right away if you have any further questions.",
+      "notes": "궁금하다 = to be curious\n점 = point; aspect\n바로 = right away; straight; exactly; close(ly); right; none other than"
+    },
+    {
+      "korean": "그 사람 전화 번호를 집에 두고 와서 지금은 연락할 방법이 없어요.",
+      "english": "I've left his phone number at home, so there is no way I can contact him now.",
+      "notes": "집에 두고 오다 = to leave (something) at home and come (to a place); to leave (something) behind at home\n방법 = method, way\n없다 = to not have, not exist; to be not there"
+    }
+  ]
+}

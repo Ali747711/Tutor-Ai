@@ -1,0 +1,351 @@
+{
+  "chapter": 23,
+  "title": "Work Schedule",
+  "category": "At Work",
+  "shortDialogue": [
+    {
+      "speaker": "팀장",
+      "korean": "김 대리, 이메일 확인했어?",
+      "romanization": "",
+      "english": "Mr. Kim, did you check your e-mail?"
+    },
+    {
+      "speaker": "김 대리",
+      "korean": "네? 아니요. 지금 할게요.",
+      "romanization": "",
+      "english": "Huh? No. I will check it now."
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "팀장",
+      "korean": "김 대리, 이메일 확인했어?",
+      "romanization": "",
+      "english": "Mr. Kim, did you check your e-mail?"
+    },
+    {
+      "speaker": "김 대리",
+      "korean": "네? 아니요. 지금 할게요.",
+      "romanization": "",
+      "english": "Huh? No. I will check it now."
+    },
+    {
+      "speaker": "팀장",
+      "korean": "우리 일본 출장 가야 돼.",
+      "romanization": "",
+      "english": "We have to go on a business trip to Japan."
+    },
+    {
+      "speaker": "김 대리",
+      "korean": "진짜요? 언제요?",
+      "romanization": "",
+      "english": "Really? When?"
+    },
+    {
+      "speaker": "팀장",
+      "korean": "오늘.",
+      "romanization": "",
+      "english": "Today."
+    },
+    {
+      "speaker": "김 대리",
+      "korean": "네? 오늘이요?",
+      "romanization": "",
+      "english": "Huh? Today?"
+    },
+    {
+      "speaker": "팀장",
+      "korean": "그래, 오늘. 아휴.",
+      "romanization": "",
+      "english": "Yes, today. (Sigh)"
+    },
+    {
+      "speaker": "김 대리",
+      "korean": "그럼 오늘 회의는요?",
+      "romanization": "",
+      "english": "Then, what about today's meeting?"
+    },
+    {
+      "speaker": "팀장",
+      "korean": "취소야.",
+      "romanization": "",
+      "english": "It's cancelled."
+    },
+    {
+      "speaker": "김 대리",
+      "korean": "과장님, 저 이 옷밖에 없어요.",
+      "romanization": "",
+      "english": "Sir, I only have these clothes."
+    },
+    {
+      "speaker": "팀장",
+      "korean": "나도 이 옷밖에 없어. 가기 전에 셔츠 하나 사자.",
+      "romanization": "",
+      "english": "I too only have these clothes. Let's buy a shirt before we go."
+    },
+    {
+      "speaker": "김 대리",
+      "korean": "네, 알겠습니다.",
+      "romanization": "",
+      "english": "Ok, I understand."
+    }
+  ],
+  "culturalTip": "Some older Korean companies use military-style leadership to manage their employees. People who work in these types of companies are expected to listen to whatever the boss says and \"take orders\" without question. This often leads to personal obligations being ignored, such as spending time with family or friends. There is rarely an opportunity or prior obligation that warrants ignoring a boss' suggestion.",
+  "koreanReview": "- Short Dialogue\n팀장: 김 대리, 이메일 확인했어?\n김 대리: 네? 아니요. 지금 할게요.\n\n- Long Dialogue\n팀장: 김 대리, 이메일 확인했어?\n김 대리: 네? 아니요. 지금 할게요.\n팀장: 우리 일본 출장 가야 돼.\n김 대리: 진짜요? 언제요?\n팀장: 오늘.\n김 대리: 네? 오늘이요?\n팀장: 그래, 오늘. 아휴.\n김 대리: 그럼 오늘 회의는요?\n팀장: 취소야.\n김 대리: 과장님, 저 이 옷밖에 없어요.\n팀장: 나도 이 옷밖에 없어. 가기 전에 셔츠 하나 사자.\n김 대리: 네, 알겠습니다.",
+  "coreVocab": [
+    {
+      "korean": "대리",
+      "romanization": "dae-ri",
+      "meaning": "assistant manager"
+    },
+    {
+      "korean": "이메일",
+      "romanization": "i-me-il",
+      "meaning": "e-mail"
+    },
+    {
+      "korean": "확인하다",
+      "romanization": "hwa-gi-na-da",
+      "meaning": "to check"
+    },
+    {
+      "korean": "네?",
+      "romanization": "ne?",
+      "meaning": "Huh? / Sorry? / Pardon?"
+    },
+    {
+      "korean": "아니요.",
+      "romanization": "a-ni-yo.",
+      "meaning": "No."
+    },
+    {
+      "korean": "지금",
+      "romanization": "ji-geum",
+      "meaning": "now"
+    },
+    {
+      "korean": "하다",
+      "romanization": "ha-da",
+      "meaning": "to do"
+    },
+    {
+      "korean": "VERB + -(으)ㄹ게요.",
+      "romanization": "-(eu)l-kke-yo.",
+      "meaning": "I will VERB."
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "대리",
+      "romanization": "dae-ri",
+      "meaning": "assistant manager"
+    },
+    {
+      "korean": "이메일",
+      "romanization": "i-me-il",
+      "meaning": "e-mail"
+    },
+    {
+      "korean": "확인하다",
+      "romanization": "hwa-gi-na-da",
+      "meaning": "to check"
+    },
+    {
+      "korean": "지금",
+      "romanization": "ji-geum",
+      "meaning": "now"
+    },
+    {
+      "korean": "하다",
+      "romanization": "ha-da",
+      "meaning": "to do"
+    },
+    {
+      "korean": "우리",
+      "romanization": "u-ri",
+      "meaning": "we, us"
+    },
+    {
+      "korean": "일본",
+      "romanization": "il-bon",
+      "meaning": "Japan"
+    },
+    {
+      "korean": "출장",
+      "romanization": "chul-jjang",
+      "meaning": "business trip"
+    },
+    {
+      "korean": "가다",
+      "romanization": "ga-da",
+      "meaning": "to go"
+    },
+    {
+      "korean": "진짜",
+      "romanization": "jin-jja",
+      "meaning": "really"
+    },
+    {
+      "korean": "언제",
+      "romanization": "eon-je",
+      "meaning": "when"
+    },
+    {
+      "korean": "오늘",
+      "romanization": "o-neul",
+      "meaning": "today"
+    },
+    {
+      "korean": "아휴",
+      "romanization": "a-hyu",
+      "meaning": "onomatopoeia for a sigh in Korean"
+    },
+    {
+      "korean": "그럼",
+      "romanization": "geu-reom",
+      "meaning": "then"
+    },
+    {
+      "korean": "회의",
+      "romanization": "hoe-ui",
+      "meaning": "meeting"
+    },
+    {
+      "korean": "취소",
+      "romanization": "chwi-so",
+      "meaning": "cancellation"
+    },
+    {
+      "korean": "옷",
+      "romanization": "ot",
+      "meaning": "clothes"
+    },
+    {
+      "korean": "없다",
+      "romanization": "eop-tta",
+      "meaning": "to not exist, to not have, to not be there"
+    },
+    {
+      "korean": "가다",
+      "romanization": "ga-da",
+      "meaning": "to go"
+    },
+    {
+      "korean": "전",
+      "romanization": "jeon",
+      "meaning": "before"
+    },
+    {
+      "korean": "하나",
+      "romanization": "ha-na",
+      "meaning": "one"
+    },
+    {
+      "korean": "사다",
+      "romanization": "sa-da",
+      "meaning": "to buy"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "Past Interrogative Sentence",
+      "pattern": "VERB + -았/었/였어(요)? = Did (subject) VERB?",
+      "meaning": "Did (subject) VERB?",
+      "explanation": "Add -았/었/였어(요)? to a verb stem to ask whether an action happened in the past.",
+      "examples": [
+        {
+          "korean": "확인하다 + -았/었/였어(요)? → 확인했어(요)?",
+          "romanization": "",
+          "english": "Did you check?"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "가다 + -았/었/였어(요)?",
+          "answer": "갔어요?",
+          "english": "Did you go?"
+        },
+        {
+          "prompt": "사다 + -았/었/였어(요)?",
+          "answer": "샀어요?",
+          "english": "Did you buy (it)?"
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Adjective: \"Only\" or \"Nothing but\"",
+      "pattern": "NOUN + -밖에 없어요.",
+      "meaning": "There is nothing but NOUN. / There is only NOUN.",
+      "explanation": "Add -밖에 없어요 to a noun to express that there is only that noun / nothing but that noun.",
+      "examples": [
+        {
+          "korean": "이 옷 + -밖에 없어요 → 이 옷밖에 없어요.",
+          "romanization": "",
+          "english": "There's nothing but these clothes. / I only have these clothes."
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "오늘 + -밖에 없어요",
+          "answer": "오늘밖에 없어요.",
+          "english": "There's nothing but today."
+        },
+        {
+          "prompt": "하나 + -밖에 없어요",
+          "answer": "하나밖에 없어요.",
+          "english": "There's only one."
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "For Sino-Korean words (words influenced by hanja or Chinese characters), when a syllable ends with ㄹ and is followed by a syllable that begins with ㅈ, ㅈ is pronounced as ㅉ.",
+      "examples": [
+        {
+          "korean": "출장",
+          "pronounced": "출짱",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "발전",
+          "answer": "발쩐",
+          "gloss": "(development)"
+        },
+        {
+          "prompt": "물질",
+          "answer": "물찔",
+          "gloss": "(matter, substance)"
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "When a syllable ends with ㅅ (which sounds the same as ㄷ when in the 받침 position) and is followed by a syllable that begins with ㅂ, the ㅂ is pronounced as ㅃ.",
+      "examples": [
+        {
+          "korean": "옷밖에",
+          "pronounced": "옫빠께",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "못밖에",
+          "answer": "몯빠께",
+          "gloss": ""
+        },
+        {
+          "prompt": "붓밖에",
+          "answer": "붇빠께",
+          "gloss": ""
+        }
+      ]
+    }
+  ]
+}

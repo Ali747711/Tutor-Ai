@@ -1,0 +1,110 @@
+{
+  "week": 2,
+  "day": 4,
+  "order": 11,
+  "keyword": "일",
+  "meaning": "work; task",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "할 일",
+      "english": "work to do; something to do",
+      "notes": ""
+    },
+    {
+      "korean": "집안일",
+      "english": "housework",
+      "notes": "일 = in; inside"
+    },
+    {
+      "korean": "힘든 일",
+      "english": "difficult work; exhausting work",
+      "notes": "힘들다 = to be difficult, hard, tough; to have a hard time; to be tiring; to be tired\n힘든 is the adjective form of 힘들다."
+    },
+    {
+      "korean": "지루한 일",
+      "english": "boring work; tedious work",
+      "notes": "지루하다 = to be boring; to be bored\n지루한 is the adjective form of 지루하다."
+    },
+    {
+      "korean": "일이 많다",
+      "english": "to have a lot of work",
+      "notes": ""
+    },
+    {
+      "korean": "일이 없다",
+      "english": "to have no work",
+      "notes": ""
+    },
+    {
+      "korean": "일을 하다",
+      "english": "to work",
+      "notes": ""
+    },
+    {
+      "korean": "일을 잘하다",
+      "english": "to do work well",
+      "notes": ""
+    },
+    {
+      "korean": "일을 맡기다",
+      "english": "to leave work to (someone)\nto entrust (someone) with a task",
+      "notes": "맡기다 = to leave something to someone; to entrust"
+    },
+    {
+      "korean": "일 다 했어요?",
+      "english": "Did you finish everything?\nHave you finished working?",
+      "notes": ""
+    },
+    {
+      "korean": "어떤 일 하세요?",
+      "english": "What kind of work do you do?",
+      "notes": "어떤 = what kind of; which"
+    },
+    {
+      "korean": "그 사람은 일을 너무 못해요.",
+      "english": "He really does not do work well.\nHe is really bad at his job.",
+      "notes": "그 사람 = that person; he, she"
+    },
+    {
+      "korean": "그 사람은 일을 아주 열심히 해요.",
+      "english": "He works really hard.",
+      "notes": "아주 = very, really\n열심히 = (to do something) hard, diligently"
+    },
+    {
+      "korean": "오늘 할 일을 내일로 미루지 마세요.",
+      "english": "Don't put off until tomorrow what you should do today.",
+      "notes": "미루다 = to delay, postpone, put off"
+    },
+    {
+      "korean": "회사 일이 너무 힘들어서 회사를 그만 뒀어요.",
+      "english": "I quit the company because the company work was too exhausting.",
+      "notes": "회사 = company; office\n그만두다 = to quit"
+    },
+    {
+      "korean": "할 일이 너무 많아서 지금은 나갈 수가 없어요.",
+      "english": "I have too much work to do, so I cannot go out right now.",
+      "notes": "지금 = now\n나가다 = to go out\n-(으)ㄹ 수가 없다 = to be not able to + V; can't"
+    },
+    {
+      "korean": "지금 많이 안 바쁘면 제 일 좀 도와줄 수 있어요?",
+      "english": "If you are not that busy right now, can you help me with my work?",
+      "notes": "바쁘다 = to be busy\n제 = (polite) my; I\n도와주다 = to help, give a hand\n-(으)ㄹ 수 있다 = can, to be able to; there is a chance that + S + V"
+    },
+    {
+      "korean": "오늘은 회사에 일이 많아서 야근을 해야 할 것 같아요.",
+      "english": "I think I have to work overtime today because there is a lot of work (to be done) at the company.",
+      "notes": "야근 = working overtime\n야근을 하다 = to work overtime\n-(으)ㄹ 것 같다 = I think + S + will/be going to; it seems like + S + will/be going to"
+    },
+    {
+      "korean": "요즘 일이 너무 바빠서 제대로 잠을 잘 시간도 없어요.",
+      "english": "I am so busy with work these days that I don't even have time to sleep properly.",
+      "notes": "제대로 = properly\n잠을 자다 = to sleep\n시간 = time; hour"
+    },
+    {
+      "korean": "일을 열심히 하는 것도 중요하지만 건강도 챙기셔야죠.",
+      "english": "Working hard is important as well, but you should also take care of your health.",
+      "notes": "중요하다 = to be important\n-지만 = but, however; though\n건강 = one's health\n챙기다 = to take care of; to pack, take; to gather all together"
+    }
+  ]
+}

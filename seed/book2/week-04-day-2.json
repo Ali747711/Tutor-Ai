@@ -1,0 +1,110 @@
+{
+  "week": 4,
+  "day": 2,
+  "order": 23,
+  "keyword": "운동",
+  "meaning": "exercise, workout; sport(s)",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "준비 운동",
+      "english": "warm-up exercise",
+      "notes": "준비 = preparation"
+    },
+    {
+      "korean": "운동 부족",
+      "english": "lack of exercise",
+      "notes": "부족 = lack, shortage"
+    },
+    {
+      "korean": "운동 선수",
+      "english": "athlete",
+      "notes": "선수 = athlete, sports player"
+    },
+    {
+      "korean": "운동하다",
+      "english": "to do exercise; to work out",
+      "notes": "하다 = to do"
+    },
+    {
+      "korean": "운동을 좋아하다",
+      "english": "to like working out",
+      "notes": "좋아하다 = to like"
+    },
+    {
+      "korean": "운동 좋아하세요?",
+      "english": "Do you like working out?",
+      "notes": ""
+    },
+    {
+      "korean": "어떤 운동 좋아하세요?",
+      "english": "What kind of exercise do you like?",
+      "notes": "어떤 = what kind of; which"
+    },
+    {
+      "korean": "공원에 가서 같이 운동해요.",
+      "english": "Let's go to the park and work out together.",
+      "notes": "공원 = park\n가다 = to go; to leave\n같이 = together; with + N"
+    },
+    {
+      "korean": "운동하는 거 별로 안 좋아해요.",
+      "english": "I don't like exercising that much.",
+      "notes": "별로 = not particularly, not very, not so much, not really"
+    },
+    {
+      "korean": "운동을 너무 많이 해서 피곤해요.",
+      "english": "I did quite a lot of exercise, so I am tired.",
+      "notes": "많다 = to be a lot\n많이 = is an adverb form of 많다.\n피곤하다 = to be tired, exhausted; to be tiring"
+    },
+    {
+      "korean": "자는 운동하면서 음악을 많이 들어요.",
+      "english": "I listen to a lot of music while I work out.",
+      "notes": "음악 = music\n들다 = to hear; to listen"
+    },
+    {
+      "korean": "살을 빼려면 굶지 말고 운동을 하세요.",
+      "english": "In order to lose weight, don't skip meals, but exercise (instead).",
+      "notes": "살 = fat; flesh\n빼다 = to subtract; to take something out\n살을 빼다 = to lose weight\n-（으）려면 = in order to + V\n굶다 = to skip a meal; to starve"
+    },
+    {
+      "korean": "매일 저녁 헬스장에 가서 운동을 해요.",
+      "english": "I go to the fitness center every evening and work out.",
+      "notes": "매일 = every day\n저녁 = evening; dinner\n헬스장 = gym"
+    },
+    {
+      "korean": "아침에 운동을 했더니 기분이 상쾌해요.",
+      "english": "I exercised this morning and I feel very good.",
+      "notes": "아침 = morning; breakfast\n-았/었/였더니 = since/because + I/we + V-ed\n기분 = feelings; mood\n상쾌하다 = to be refreshing"
+    },
+    {
+      "korean": "수영을 하기 전에는 준비 운동을 해야 돼요.",
+      "english": "Before you swim, you need to warm up.",
+      "notes": "수영 = swimming\n-기 전에 = before + S + V\n-아/어/여야 되다 = to have to + V"
+    },
+    {
+      "korean": "요즘 살을 빼기 위해서 운동을 하고 있어요.",
+      "english": "I am exercising these days in order to lose weight.",
+      "notes": "요즘 = these days, lately\n-기 위해서 = in order to + V"
+    },
+    {
+      "korean": "저 사람이 제가 제일 좋아하는 운동 선수예요.",
+      "english": "That person is my favorite athlete.",
+      "notes": "사람 = person, people\n제일 = the best; the most"
+    },
+    {
+      "korean": "매일 이렇게 피곤한 건 운동이 부족해서인 것 같아요.",
+      "english": "I think the reason I am so tired every day is because of my lack of exercise.",
+      "notes": "이렇게 = like this, in this manner; so +adjective\n부족하다 = to be insufficient; to not have enough + N\n- 것 같다 = it seems/looks like + S + V"
+    },
+    {
+      "korean": "의사 선생님이 건강하지려면 운동을 해야 한다고 했어요.",
+      "english": "The doctor told me that I need to do some exercise in order to become healthy.",
+      "notes": "의사 = doctor\n선생님 = teacher\n의사 선생님 = a more polite way to address a doctor than 의사. When people address/call a doctor in person, people often call them 선생님 or 의사 선생님.\n건강하다 = to be healthy\n-（으）면 = if + S + V; when/once + S + V\n-아/어/여야 하다 = should; have to; must\n-다고 하다 = indirect ending - used to refer to what someone said"
+    },
+    {
+      "korean": "운동을 하는 건 안 좋아하지만, 스포츠 경기를 보는 건 좋아해요.",
+      "english": "I don't like exercising, but I do like watching sports matches.",
+      "notes": "스포츠 = sport(s)\n경기 = sport game, match\n보다 = to see; to look; to watch; to meet up; to read"
+    }
+  ]
+}

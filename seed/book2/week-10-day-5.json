@@ -1,0 +1,110 @@
+{
+  "week": 10,
+  "day": 5,
+  "order": 68,
+  "keyword": "열다",
+  "meaning": "to open",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "문을 열다",
+      "english": "to open a door",
+      "notes": "문 = door"
+    },
+    {
+      "korean": "파일을 열다",
+      "english": "to open a file",
+      "notes": "파일 = file; folder"
+    },
+    {
+      "korean": "마음을 열다",
+      "english": "to open one's mind",
+      "notes": "마음 = heart; mind"
+    },
+    {
+      "korean": "뚜껑을 열다",
+      "english": "to open a lid",
+      "notes": "뚜껑 = lid; cover; cap (of a lens/pen)"
+    },
+    {
+      "korean": "문 좀 열어 주세요.",
+      "english": "Open the door for me, please.",
+      "notes": "-(으)면 되다 = to be just supposed to + V; to just have to + V; can just + V"
+    },
+    {
+      "korean": "이 열쇠로 열면 돼요.",
+      "english": "You can open it with this key.",
+      "notes": "-이/이/이도 되다 = to be okay to + V"
+    },
+    {
+      "korean": "이거 열어 봐도 돼요?",
+      "english": "Can I open this?",
+      "notes": ""
+    },
+    {
+      "korean": "냉장고를 열어 보세요.",
+      "english": "Open the refrigerator.",
+      "notes": "냉장고 = refrigerator"
+    },
+    {
+      "korean": "이 파일 어떻게 열어요?",
+      "english": "How do I open this file?",
+      "notes": ""
+    },
+    {
+      "korean": "전시회를 열 계획이에요.",
+      "english": "I'm planning to open an exhibition.",
+      "notes": "전시회 = exhibition\n계획 = plan\n-(으)ㄹ 계획이다 = to plan to + V"
+    },
+    {
+      "korean": "뚜껑을 열어 둔지 마세요.",
+      "english": "Don't leave the lid open.",
+      "notes": "-이/이/어 놓다 = to leave something in a certain state"
+    },
+    {
+      "korean": "아침 10시에 문을 열어요.",
+      "english": "They open at 10 in the morning.",
+      "notes": "아침 10시 = 10 A.M.\n문을 열다 = (a store/restaurant/etc.); to open the door"
+    },
+    {
+      "korean": "세 번째 서랍 열어 보세요.",
+      "english": "Open the third drawer.",
+      "notes": "세 번째 = third"
+    },
+    {
+      "korean": "까페를 여는 것이 꿈이에요.",
+      "english": "Opening a cafe is my dream.",
+      "notes": "까페 = cafe\n꿈 = dream"
+    },
+    {
+      "korean": "지난 달에 새 가게를 열었어요.",
+      "english": "We opened a new store last month.",
+      "notes": "지난 달 = last month\n가게 = store, shop"
+    },
+    {
+      "korean": "가게를 열자마자 유명해졌어요.",
+      "english": "The store became famous as soon as it opened up.",
+      "notes": "-자마자 = as soon as + S + V\n유명하다 = to be famous"
+    },
+    {
+      "korean": "그 사람이 마침내 입을 열었어요.",
+      "english": "That person finally spoke up.",
+      "notes": "마침내 = finally\n입 = mouth\n입을 열다 = to start talking; to speak up; to open one's mouth"
+    },
+    {
+      "korean": "저 도착했는데 문 좀 열어 주세요.",
+      "english": "I've arrived. Open the door for me.",
+      "notes": "도착하다 = to arrive"
+    },
+    {
+      "korean": "창문을 열자마자 벌이 들어왔어요.",
+      "english": "As soon as I opened the window, a bee came in.",
+      "notes": "창문 = window\n벌 = bee\n들어오다 = to come in"
+    },
+    {
+      "korean": "그 사람은 좀처럼 마음을 열지 않아요.",
+      "english": "That person simply won't open his/her mind.",
+      "notes": "좀처럼 = rarely, hardly; not easily\n마음을 열다 = to open one's mind"
+    }
+  ]
+}

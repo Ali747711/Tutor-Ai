@@ -1,0 +1,110 @@
+{
+  "week": 12,
+  "day": 2,
+  "order": 79,
+  "keyword": "사랑",
+  "meaning": "love",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "첫사랑",
+      "english": "first love; puppy love",
+      "notes": "첫 = first (of something)"
+    },
+    {
+      "korean": "짝사랑",
+      "english": "one-sided love; a crush",
+      "notes": ""
+    },
+    {
+      "korean": "사랑하는 사람",
+      "english": "a person one loves",
+      "notes": "사랑 = person, people"
+    },
+    {
+      "korean": "사랑하다",
+      "english": "to love",
+      "notes": ""
+    },
+    {
+      "korean": "사랑 받다",
+      "english": "to be loved",
+      "notes": "받다 = to receive"
+    },
+    {
+      "korean": "사랑에 빠지다",
+      "english": "to fall in love",
+      "notes": "빠지다 = to fall out (of something); to fall in (to something); to drown; to be dropped; to be hooked"
+    },
+    {
+      "korean": "사랑을 고백하다",
+      "english": "to confess one's love",
+      "notes": "고백하다 = to confess"
+    },
+    {
+      "korean": "사랑에 눈이 멀다",
+      "english": "to be blinded by love",
+      "notes": "눈 = eye\n눈이 멀다 = to be blind; to go blind"
+    },
+    {
+      "korean": "사랑해요.",
+      "english": "I love you.",
+      "notes": ""
+    },
+    {
+      "korean": "사랑이 뭐예요?",
+      "english": "What is love?",
+      "notes": "뭐 = what; something\n뭐 is the contracted form of 무엇."
+    },
+    {
+      "korean": "첫사랑 이야기해 주세요.",
+      "english": "Tell me about your first love.",
+      "notes": "이야기 = story; what one says\n이야기해 하다 = to talk, speak, say, tell; to have a conversation; to tell a story\n-이/어/여 주세요. = (polite) Please do + something + for me."
+    },
+    {
+      "korean": "사랑하는 사람이 생겼어요.",
+      "english": "I have someone that I love now.",
+      "notes": "생기다 = to come into being; to be created; to appear; to be formed"
+    },
+    {
+      "korean": "윤아 씨가 제 첫사랑이에요.",
+      "english": "Yoona is my first love.",
+      "notes": ""
+    },
+    {
+      "korean": "사랑한다는 말을 많이 하세요?",
+      "english": "Do you say the words \"I love you\" a lot?",
+      "notes": "말 = language; what one says; expression; word; term\n말을 하다 = to speak; to talk; to tell; to say\n많다 = to be a lot\n많이 is an adverb form of 많다."
+    },
+    {
+      "korean": "여자는 사랑에 빠지면 더 예뻐진대요.",
+      "english": "They say women become more attractive when they fall in love.",
+      "notes": "여자 = girl, woman\n예쁘다 = to be pretty\n-이/어/여지다 = to become + adjective"
+    },
+    {
+      "korean": "경화 씨가 저 사랑한다고 고백했어요.",
+      "english": "Kyeong-hwa confessed that she loves me.",
+      "notes": "-다고 = just because; saying that + S + V"
+    },
+    {
+      "korean": "노래 가사에는 사랑 이야기가 많아요.",
+      "english": "There are many love stories in song lyrics.",
+      "notes": "노래 = song\n가사 = lyrics"
+    },
+    {
+      "korean": "사랑하는 제 동생이 이번 여름에 결혼을 해요.",
+      "english": "My beloved brother is getting married this summer.",
+      "notes": "동생 = younger sister/brother\n이번 = this; this time\n여름 = summer\n결혼을 하다 = to get married"
+    },
+    {
+      "korean": "이 세상에서 저는 저희 부모님을 가장 사랑해요.",
+      "english": "(Out of all the people) In this world, I love my parents the most.",
+      "notes": "이 = this\n세상 = world\n저희 = (polite) we; us; our\n부모님 = parents\n가장 = the most"
+    },
+    {
+      "korean": "사랑하는 사람 때문에 종교를 바꾸는 사람도 있어요.",
+      "english": "There are people that convert religions because of the people they love.",
+      "notes": "때문에 = because (of), since\n종교 = religion\n바꾸다 = to change\n있다 = to be there; to exist; to have"
+    }
+  ]
+}

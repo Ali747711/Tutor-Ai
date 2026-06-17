@@ -1,0 +1,313 @@
+{
+  "chapter": 12,
+  "title": "Electronics Store",
+  "category": "Shopping",
+  "shortDialogue": [
+    {
+      "speaker": "점원",
+      "korean": "어떤 거 찾으세요?",
+      "romanization": "",
+      "english": "What type of thing are you looking for?"
+    },
+    {
+      "speaker": "소율",
+      "korean": "카메라 찾고 있어요.",
+      "romanization": "",
+      "english": "I am looking for a camera."
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "점원",
+      "korean": "어서 오세요.",
+      "romanization": "",
+      "english": "Welcome."
+    },
+    {
+      "speaker": "소율",
+      "korean": "네. 안녕하세요.",
+      "romanization": "",
+      "english": "Yes. Hi."
+    },
+    {
+      "speaker": "점원",
+      "korean": "어떤 거 찾으세요?",
+      "romanization": "",
+      "english": "What kind of thing are you looking for?"
+    },
+    {
+      "speaker": "소율",
+      "korean": "카메라 찾고 있어요.",
+      "romanization": "",
+      "english": "I am looking for a camera."
+    },
+    {
+      "speaker": "점원",
+      "korean": "어떤 카메라 사고 싶으세요?",
+      "romanization": "",
+      "english": "What kind of camera do you want to buy?"
+    },
+    {
+      "speaker": "소율",
+      "korean": "작고 귀여운 카메라 사고 싶어요.",
+      "romanization": "",
+      "english": "I want to buy a small and cute camera."
+    },
+    {
+      "speaker": "점원",
+      "korean": "이건 어때요?",
+      "romanization": "",
+      "english": "How about this?"
+    },
+    {
+      "speaker": "소율",
+      "korean": "좋아요. 가벼워요.",
+      "romanization": "",
+      "english": "It's good. It's light."
+    },
+    {
+      "speaker": "점원",
+      "korean": "이것도 작고 가벼워요. 가격도 싸요.",
+      "romanization": "",
+      "english": "This one is also small and light. It's cheap, too."
+    },
+    {
+      "speaker": "소율",
+      "korean": "이것보다 아까 그게 더 좋아요.",
+      "romanization": "",
+      "english": "I like the one I saw earlier more than this one."
+    },
+    {
+      "speaker": "점원",
+      "korean": "그럼 그걸로 드릴까요?",
+      "romanization": "",
+      "english": "Then, shall I give you that one?"
+    },
+    {
+      "speaker": "소율",
+      "korean": "조금 깎아 주세요.",
+      "romanization": "",
+      "english": "Give me a small discount, please."
+    },
+    {
+      "speaker": "점원",
+      "korean": "삼만 원 깎아 드릴게요.",
+      "romanization": "",
+      "english": "I will give you a 30,000 won discount."
+    },
+    {
+      "speaker": "소율",
+      "korean": "더 깎아 주시면 살게요.",
+      "romanization": "",
+      "english": "If you lower the price a little more, I will buy it."
+    }
+  ],
+  "culturalTip": "There is a growing trend in Korea to buy electronics online, since there is usually a seller who offers an item for a cheaper price than in a store. Buying electronics via TV home shopping is also quite common since many electronics companies make cheaper products exclusively for home shopping channels.",
+  "koreanReview": "- Short Dialogue\n점원: 어떤 거 찾으세요?\n소율: 카메라 찾고 있어요.\n\n- Long Dialogue\n점원: 어서 오세요.\n소율: 네. 안녕하세요.\n점원: 어떤 거 찾으세요?\n소율: 카메라 찾고 있어요.\n점원: 어떤 카메라 사고 싶으세요?\n소율: 작고 귀여운 카메라 사고 싶어요.\n점원: 이건 어때요?\n소율: 좋아요. 가벼워요.\n점원: 이것도 작고 가벼워요. 가격도 싸요.\n소율: 이것보다 아까 그게 더 좋아요.\n점원: 그럼 그걸로 드릴까요?\n소율: 조금 깎아 주세요.\n점원: 삼만 원 깎아 드릴게요.\n소율: 더 깎아 주시면 살게요.",
+  "coreVocab": [
+    {
+      "korean": "어떤 거",
+      "romanization": "eo-tteon geo",
+      "meaning": "which one, what type of thing, what kind of stuff"
+    },
+    {
+      "korean": "찾다",
+      "romanization": "chat-tta",
+      "meaning": "to find, to look for"
+    },
+    {
+      "korean": "카메라",
+      "romanization": "ka-me-ra",
+      "meaning": "camera"
+    },
+    {
+      "korean": "VERB + -고 있다",
+      "romanization": "-go it-tta",
+      "meaning": "to be VERB-ing"
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "어떤 거",
+      "romanization": "eo-tteon geo",
+      "meaning": "which one, what type of thing, what kind of stuff"
+    },
+    {
+      "korean": "찾다",
+      "romanization": "chat-tta",
+      "meaning": "to find, to look for"
+    },
+    {
+      "korean": "카메라",
+      "romanization": "ka-me-ra",
+      "meaning": "camera"
+    },
+    {
+      "korean": "사다",
+      "romanization": "sa-da",
+      "meaning": "to buy"
+    },
+    {
+      "korean": "작다",
+      "romanization": "jak-tta",
+      "meaning": "to be small"
+    },
+    {
+      "korean": "귀엽다",
+      "romanization": "gwi-yeop-tta",
+      "meaning": "to be cute"
+    },
+    {
+      "korean": "좋다",
+      "romanization": "jo-ta",
+      "meaning": "to be good, to like"
+    },
+    {
+      "korean": "가볍다",
+      "romanization": "ga-byeop-tta",
+      "meaning": "to be light"
+    },
+    {
+      "korean": "가격",
+      "romanization": "ga-gyeok",
+      "meaning": "price"
+    },
+    {
+      "korean": "싸다",
+      "romanization": "ssa-da",
+      "meaning": "to be cheap"
+    },
+    {
+      "korean": "아까",
+      "romanization": "a-kka",
+      "meaning": "earlier"
+    },
+    {
+      "korean": "그것",
+      "romanization": "geu-geot",
+      "meaning": "that one"
+    },
+    {
+      "korean": "더",
+      "romanization": "deo",
+      "meaning": "more"
+    },
+    {
+      "korean": "그럼",
+      "romanization": "geu-reom",
+      "meaning": "then"
+    },
+    {
+      "korean": "드리다",
+      "romanization": "deu-ri-da",
+      "meaning": "to give (honorific)"
+    },
+    {
+      "korean": "깎아 주다",
+      "romanization": "kka-kka ju-da",
+      "meaning": "to give a discount"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "To Want",
+      "pattern": "VERB + -고 싶어요. = I want to VERB.",
+      "meaning": "I want to VERB.",
+      "explanation": "",
+      "examples": [
+        {
+          "korean": "사다 + -고 싶어요 → 사고 싶어요.",
+          "romanization": "",
+          "english": "I want to buy (it)."
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "드리다 + -고 싶어요",
+          "answer": "드리고 싶어요.",
+          "english": "I want to give (it)."
+        },
+        {
+          "prompt": "깎아 주다 + -고 싶어요",
+          "answer": "깎아 주고 싶어요.",
+          "english": "I want to give a discount."
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Conjunction: \"and\"",
+      "pattern": "VERB/ADJECTIVE + -고 + VERB/ADJECTIVE = VERB/ADJECTIVE and VERB/ADJECTIVE",
+      "meaning": "VERB/ADJECTIVE and VERB/ADJECTIVE",
+      "explanation": "",
+      "examples": [
+        {
+          "korean": "작다 + -고 + 가볍다 → 작고 가볍다",
+          "romanization": "",
+          "english": "to be small and light"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "귀엽다 + -고 + 싸다",
+          "answer": "귀엽고 싸다",
+          "english": "to be cute and cheap"
+        },
+        {
+          "prompt": "크다 + -고 + 좋다",
+          "answer": "크고 좋다",
+          "english": "to be big and good"
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "When a syllable ends with ㄲ and is followed by a syllable that begins with a vowel, ㄲ becomes part of the following syllable rather than being pronounced distinctly as two different syllables.",
+      "examples": [
+        {
+          "korean": "깎아",
+          "pronounced": "까까",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "볶아",
+          "answer": "보까",
+          "gloss": ""
+        },
+        {
+          "prompt": "밖에",
+          "answer": "바께",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "When a syllable has ㅅ as the 받침, it is pronounced like ㄷ. If the following syllable begins with ㄷ, it is pronounced as ㄸ.",
+      "examples": [
+        {
+          "korean": "이것도",
+          "pronounced": "이걷또",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "웃다",
+          "answer": "욷따",
+          "gloss": "(to smile, to laugh)"
+        },
+        {
+          "prompt": "붓다",
+          "answer": "붇따",
+          "gloss": "(to pour)"
+        }
+      ]
+    }
+  ]
+}

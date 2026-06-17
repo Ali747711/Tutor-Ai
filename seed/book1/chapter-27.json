@@ -1,0 +1,303 @@
+{
+  "chapter": 27,
+  "title": "Exam",
+  "category": "School",
+  "shortDialogue": [
+    {
+      "speaker": "현아",
+      "korean": "아, 시험 잘 봤어?",
+      "romanization": "",
+      "english": "Hey, did you do well on your exam?"
+    },
+    {
+      "speaker": "현석",
+      "korean": "아니. 완전히 망쳤어.",
+      "romanization": "",
+      "english": "No, I completely screwed up."
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "현아",
+      "korean": "아, 시험 잘 봤어?",
+      "romanization": "",
+      "english": "Hey, did you do well on your exam?"
+    },
+    {
+      "speaker": "현석",
+      "korean": "아니. 완전히 망쳤어.",
+      "romanization": "",
+      "english": "No, I completely screwed up."
+    },
+    {
+      "speaker": "현아",
+      "korean": "진짜? 다행이다.",
+      "romanization": "",
+      "english": "Really? That's a relief."
+    },
+    {
+      "speaker": "현석",
+      "korean": "왜?",
+      "romanization": "",
+      "english": "Why?"
+    },
+    {
+      "speaker": "현아",
+      "korean": "나도 망쳤어.",
+      "romanization": "",
+      "english": "Because I screwed up, too."
+    },
+    {
+      "speaker": "현석",
+      "korean": "진짜? 아휴. 나 이거 하나 틀렸어. 너 이거 맞았어?",
+      "romanization": "",
+      "english": "Really? (Sigh) I got the answer wrong for this one question. Did you get this right?"
+    },
+    {
+      "speaker": "현아",
+      "korean": "뭐? 하나?",
+      "romanization": "",
+      "english": "What? One question?"
+    },
+    {
+      "speaker": "현석",
+      "korean": "응. 이거 하나 틀렸어. 그래서 백 점이 아니야.",
+      "romanization": "",
+      "english": "Yeah, I got this one question wrong. So I didn't get a full score."
+    },
+    {
+      "speaker": "현아",
+      "korean": "너 맞고 싶어?",
+      "romanization": "",
+      "english": "Do you want to get beat up?"
+    },
+    {
+      "speaker": "현석",
+      "korean": "아니. 나 다음 달에는 백 점 맞을 거야. 나 간다.",
+      "romanization": "",
+      "english": "No. I will get a full score next month. I'm going now."
+    }
+  ],
+  "culturalTip": "아 [ya] is the most informal way of addressing someone in Korean, and it is usually translated as \"hey\". It is extremely impolite to use when addressing someone older. Even adults who are the same age, unless they are very close with each other, do not use it. This word is commonly used between kids when addressing someone who is younger than themselves or who is of the same age.",
+  "koreanReview": "- Short Dialogue\n현아: 아, 시험 잘 봤어?\n현석: 아니. 완전히 망쳤어.\n\n- Long Dialogue\n현아: 아, 시험 잘 봤어?\n현석: 아니. 완전히 망쳤어.\n현아: 진짜? 다행이다.\n현석: 왜?\n현아: 나도 망쳤어.\n현석: 진짜? 아휴. 나 이거 하나 틀렸어. 너 이거 맞았어?\n현아: 뭐? 하나?\n현석: 응. 이거 하나 틀렸어. 그래서 백 점이 아니야.\n현아: 너 맞고 싶어?\n현석: 아니. 나 다음 달에는 백 점 맞을 거야. 나 간다.",
+  "coreVocab": [
+    {
+      "korean": "아",
+      "romanization": "ya",
+      "meaning": "hey"
+    },
+    {
+      "korean": "시험 보다",
+      "romanization": "si-heom bo-da",
+      "meaning": "to take a test"
+    },
+    {
+      "korean": "잘",
+      "romanization": "jal",
+      "meaning": "well"
+    },
+    {
+      "korean": "아니.",
+      "romanization": "a-ni.",
+      "meaning": "No. (casual)"
+    },
+    {
+      "korean": "완전히",
+      "romanization": "wan-jeo-ni",
+      "meaning": "completely"
+    },
+    {
+      "korean": "망치다",
+      "romanization": "mang-chi-da",
+      "meaning": "to screw up"
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "시험 보다",
+      "romanization": "si-heom bo-da",
+      "meaning": "to take a test"
+    },
+    {
+      "korean": "완전히",
+      "romanization": "wan-jeo-ni",
+      "meaning": "completely"
+    },
+    {
+      "korean": "망치다",
+      "romanization": "mang-chi-da",
+      "meaning": "to screw up"
+    },
+    {
+      "korean": "맞다",
+      "romanization": "mat-ta",
+      "meaning": "to be beat up"
+    },
+    {
+      "korean": "다음",
+      "romanization": "da-eum",
+      "meaning": "next"
+    },
+    {
+      "korean": "달",
+      "romanization": "dal",
+      "meaning": "month"
+    },
+    {
+      "korean": "가다",
+      "romanization": "ga-da",
+      "meaning": "to go"
+    },
+    {
+      "korean": "진짜",
+      "romanization": "jin-jja",
+      "meaning": "really"
+    },
+    {
+      "korean": "다행",
+      "romanization": "da-haeng",
+      "meaning": "relief"
+    },
+    {
+      "korean": "이거",
+      "romanization": "li-geo",
+      "meaning": "this, this thing"
+    },
+    {
+      "korean": "하나",
+      "romanization": "ha-na",
+      "meaning": "one"
+    },
+    {
+      "korean": "틀리다",
+      "romanization": "teul-li-da",
+      "meaning": "to be wrong"
+    },
+    {
+      "korean": "맞다",
+      "romanization": "mat-ta",
+      "meaning": "to be right"
+    },
+    {
+      "korean": "그래서",
+      "romanization": "geu-rae-seo",
+      "meaning": "so"
+    },
+    {
+      "korean": "백 점",
+      "romanization": "baek jeom",
+      "meaning": "perfect score, 100%"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "Conjunction: \"so\" or \"therefore\"",
+      "pattern": "그래서 = therefore, so",
+      "meaning": "therefore, so",
+      "explanation": "* 그래서 is a conjunctive adverb, and is used at the beginning of the second phrase after the cause, grounds, or condition.",
+      "examples": [
+        {
+          "korean": "하나 틀렸어 + 그래서 + 백 점이 아니야 → 하나 틀렸어. 그래서 백 점이 아니야.",
+          "romanization": "",
+          "english": "I got one wrong. So, I didn't get a full score."
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "공부를 안 했어 + 그래서 + 시험을 망쳤어",
+          "answer": "공부를 안 했어. 그래서 시험을 망쳤어.",
+          "english": "I didn't study. So, I screwed up on the exam."
+        },
+        {
+          "prompt": "공부를 많이 했어 + 그래서 + 시험을 잘 봤어",
+          "answer": "공부를 많이 했어. 그래서 시험을 잘 봤어.",
+          "english": "I studied a lot. Therefore, I did well on the exam."
+        },
+        {
+          "prompt": "이것도",
+          "answer": "이것도",
+          "english": ""
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Adverb: \"also\" or \"too\"",
+      "pattern": "NOUN + -도 = NOUN also/too",
+      "meaning": "also, too",
+      "explanation": "",
+      "examples": [
+        {
+          "korean": "나 + -도 → 나도 = I too",
+          "romanization": "",
+          "english": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "이것 + -도 ·····>",
+          "answer": "이것도",
+          "english": "= this one also"
+        },
+        {
+          "prompt": "다음 달 + -도 ·····>",
+          "answer": "다음 달도",
+          "english": "= next month too"
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "When a syllable ends with 중 and is followed by a syllable that begins with 그, the 그 is pronounced as 는.",
+      "examples": [
+        {
+          "korean": "맞고",
+          "pronounced": "[만꼬]",
+          "romanization": "man-kko"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "같고 ······>",
+          "answer": "[간꼬]",
+          "gloss": ""
+        },
+        {
+          "prompt": "짓고 ······>",
+          "answer": "[진꼬]",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "How well do you remember what's been covered already?",
+      "examples": [],
+      "exercises": [
+        {
+          "prompt": "완전히······>",
+          "answer": "[완저니]",
+          "gloss": ""
+        },
+        {
+          "prompt": "망쳤어 ······>",
+          "answer": "[망쳐써]",
+          "gloss": ""
+        },
+        {
+          "prompt": "백 점 ······>",
+          "answer": "[백쩜]",
+          "gloss": ""
+        },
+        {
+          "prompt": "맞을 거야 ······>",
+          "answer": "[마글거야]",
+          "gloss": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "week": 1,
+  "day": 2,
+  "order": 2,
+  "keyword": "전화",
+  "meaning": "phone call; telephone",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "집 전화",
+      "english": "home phone",
+      "notes": "집 = house, home"
+    },
+    {
+      "korean": "국제 전화",
+      "english": "international phone call",
+      "notes": "국제 = international"
+    },
+    {
+      "korean": "장난 전화",
+      "english": "prank phone call",
+      "notes": "장난 = prank"
+    },
+    {
+      "korean": "전화하다",
+      "english": "to call; to telephone",
+      "notes": "하다 = to do"
+    },
+    {
+      "korean": "전화를 받다",
+      "english": "to receive a call",
+      "notes": "받다 = to receive"
+    },
+    {
+      "korean": "전화를 걸다",
+      "english": "to call someone; to make a phone call",
+      "notes": "걸다 = to dial (a phone call); to hang (something)"
+    },
+    {
+      "korean": "전화를 끊다",
+      "english": "to hang up the phone",
+      "notes": "끊다 = to hang up (a phone); to cut off"
+    },
+    {
+      "korean": "전화 왔어요.",
+      "english": "You have a phone call.",
+      "notes": "오다 = to come"
+    },
+    {
+      "korean": "전화 받으세요.",
+      "english": "Please pick up the phone.",
+      "notes": ""
+    },
+    {
+      "korean": "왜 전화했어요?",
+      "english": "Why did you call?",
+      "notes": ""
+    },
+    {
+      "korean": "장난 전화였어요.",
+      "english": "It was a prank phone call.",
+      "notes": ""
+    },
+    {
+      "korean": "밤에 전화해도 돼요?",
+      "english": "Can I call you at night?",
+      "notes": "밤 = night\n-이/여/여도 되다 = to be okay to + V"
+    },
+    {
+      "korean": "나중에 전화해 주세요.",
+      "english": "Call me later.",
+      "notes": "-이/여/여 주세요 = (polite) Please do + something + for me"
+    },
+    {
+      "korean": "어제 왜 전화 안 했어요?",
+      "english": "Why didn't you call me yesterday?",
+      "notes": ""
+    },
+    {
+      "korean": "앞으로 전화하지 마세요.",
+      "english": "Don't call me ever again.",
+      "notes": "앞으로 = from now on\n-지 마세요 = (polite) Don't + V"
+    },
+    {
+      "korean": "전화를 했으면 말을 하세요.",
+      "english": "You should say something when you've called someone.",
+      "notes": "-(으)면 = if + S + V; when/once + S + V\n말 = language; what one says; expression; word; term\n말을 하다 = to speak; to talk; to tell; to say"
+    },
+    {
+      "korean": "전화를 받자마자 끊어졌어요.",
+      "english": "As soon as I picked up the phone, it got cut off.",
+      "notes": "끊이지다 = to be cut off"
+    },
+    {
+      "korean": "전화를 걸 때마다 통화중이에요.",
+      "english": "Whenever I call, the line is busy.",
+      "notes": "-(으)ㄹ 때 = when/while + S + V\n-(으)ㄹ 때마다 = whenever + S + V\n통화중이다 = the line is busy"
+    },
+    {
+      "korean": "지금 회의 중이라 전화를 받을 수 없어요.",
+      "english": "I am in the middle of a meeting, therefore I can't answer the phone.",
+      "notes": "지금 = now\n회의 = meeting\n회의 중 = in the middle of a meeting"
+    },
+    {
+      "korean": "국제 전화를 많이 해서 전화비가 많이 나왔어요.",
+      "english": "I made a lot of international phone calls, so I received a big phone bill.",
+      "notes": "많다 = to be a lot\n많이 is an adverb form of 많다.\n전화비 = phone bill\n나오다 = to come out"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "week": 9,
+  "day": 7,
+  "order": 63,
+  "keyword": "부럽다",
+  "meaning": "to be jealous, envious",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "부러워하다",
+      "english": "to envy; to be jealous of",
+      "notes": "-이/여/여지다 is used at the end of some adjectives to change them into verbs to express one's feeling or describe how one treats others."
+    },
+    {
+      "korean": "부러운 눈으로 보다",
+      "english": "to look at with envious eyes",
+      "notes": "눈 = eye"
+    },
+    {
+      "korean": "부럽죠?",
+      "english": "You envy me (him/her), right?",
+      "notes": ""
+    },
+    {
+      "korean": "부러워요.",
+      "english": "I envy you.",
+      "notes": ""
+    },
+    {
+      "korean": "별로 안 부러워요.",
+      "english": "I'm not particularly envious.",
+      "notes": ""
+    },
+    {
+      "korean": "부러워하지 마세요.",
+      "english": "Don't be envious.",
+      "notes": ""
+    },
+    {
+      "korean": "부러워할 필요가 없어요.",
+      "english": "There is no need to be jealous.",
+      "notes": "-(으)ㄹ 필요 없다 = to not need to + V"
+    },
+    {
+      "korean": "현우 씨를 왜 부러워해요?",
+      "english": "Why are you envious of Hyunwoo?",
+      "notes": "왜 = why; for what reason; how come"
+    },
+    {
+      "korean": "윤아 씨가 부럽지 않아요?",
+      "english": "Aren't you jealous of Yoona?\nDon't you envy Yoona?",
+      "notes": ""
+    },
+    {
+      "korean": "효진 씨가 그렇게 부러워요?",
+      "english": "Do you envy Hyojin that much?",
+      "notes": ""
+    },
+    {
+      "korean": "새 핸드폰을 샀더니 친구들이 부럽대요.",
+      "english": "My friends say they are jealous of me because I bought a new cellphone.",
+      "notes": "새 = new\n핸드폰 = mobile phone\n샀더니 = I heard that + S + V; They say + S + V"
+    },
+    {
+      "korean": "다른 건 안 부러운데 그거 하나는 부럽거든요.",
+      "english": "I don't envy you, but that one thing, I am jealous of.",
+      "notes": "다른 = other; another\n그거 = that\n하나는 = one (native Korean number)"
+    },
+    {
+      "korean": "다른 사람의 성공을 너무 부러워하지 마세요.",
+      "english": "Don't be too envious of another person's success.",
+      "notes": "성공 = success"
+    },
+    {
+      "korean": "저는 그림을 잘 그리는 사람이 너무 부러워요.",
+      "english": "I really envy people that draw well.",
+      "notes": "그림 = drawing, painting, picture\n그리다 = to draw, paint"
+    },
+    {
+      "korean": "그 일이 얼마나 편할까 생각하니 정말 부러워요.",
+      "english": "As I think about how comfortable that work is, I am really jealous.",
+      "notes": "얼마나 = how + adjective/adverb\n편하다 = to be comfortable; to be convenient\n생각하다 = to think"
+    },
+    {
+      "korean": "그렇게 부러우면 윤아 씨도 그거 사면 되잖아요.",
+      "english": "If you are that envious, Yoona, you can just buy it, too.",
+      "notes": "-(으)면 되다 = to be just supposed to + V; to just have to + V; can just + V"
+    },
+    {
+      "korean": "저도 모르게 부러운 눈으로 그 사람을 쳐다봤어요.",
+      "english": "I look at that person with envious eyes without even noticing it.",
+      "notes": "모르게 = without knowing; without meaning to + V\n쳐다봤어요 = to look (at); to stare"
+    },
+    {
+      "korean": "하고 싶은 일을 하고 있는 사람들이 제일 부러워요.",
+      "english": "I am most envious of people that are doing what they want to do.",
+      "notes": "일을 하다 = to work\n-고 있다 = to be + V-ing\n제일 = the best; the most"
+    },
+    {
+      "korean": "부러워하지 마세요, 현정 씨도 곧 대학생이 될 거예요.",
+      "english": "Don't envy them. You, Hyunjeong, will also be a university student soon.",
+      "notes": "곧 = soon\n대학생 = university student\n되다 = to become"
+    },
+    {
+      "korean": "친구가 얼마 전에 로또에 당첨 됐는데 정말 부러웠어요.",
+      "english": "My friend won that lottery a little while ago, and I was really jealous.",
+      "notes": "얼마 전 = a while ago; the other day\n로또 = lotto, lottery\n로또(에) 당첨 되다 = to win a lottery"
+    }
+  ]
+}

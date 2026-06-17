@@ -1,0 +1,110 @@
+{
+  "week": 5,
+  "day": 7,
+  "order": 35,
+  "keyword": "없다",
+  "meaning": "to not have; to not be there; to not exist",
+  "romanization": "eobsda",
+  "expressions": [
+    {
+      "korean": "돈이 없다",
+      "english": "to have no money",
+      "notes": ""
+    },
+    {
+      "korean": "시간이 없다",
+      "english": "to have no time",
+      "notes": ""
+    },
+    {
+      "korean": "방법이 없다",
+      "english": "there is no way; to have no solution",
+      "notes": "방법 = method, way"
+    },
+    {
+      "korean": "입맛이 없다",
+      "english": "to have no appetite",
+      "notes": "입맛 = appetite"
+    },
+    {
+      "korean": "이상이 없다",
+      "english": "there is no abnormality\neverything is fine",
+      "notes": "이상 = abnormality, something wrong"
+    },
+    {
+      "korean": "할 말이 없다",
+      "english": "to have nothing to say",
+      "notes": "할 말 = something to say"
+    },
+    {
+      "korean": "아는 사람이 없다",
+      "english": "to not know anyone\nthere is no one who knows",
+      "notes": ""
+    },
+    {
+      "korean": "자는 할 말 없어요.",
+      "english": "I don't have anything to say.",
+      "notes": ""
+    },
+    {
+      "korean": "이렇게 해도 문제 없어요?",
+      "english": "There's no problem even if we do it like this?\nEven if we do it like this, there's no problem?",
+      "notes": "이렇게 = like this, in this manner; so +adjective\n-이/이/어도 = even though; no matter how much + S + V\n문제 = problem; issue; thing; matter"
+    },
+    {
+      "korean": "요즘 별로 재미있는 일이 없어요.",
+      "english": "These days, there is nothing very interesting going on.",
+      "notes": "요즘 = these days, lately\n별로 = not particularly, not very, not so much, not really\n재미있다 = to be fun; to be funny; to be interesting"
+    },
+    {
+      "korean": "입맛이 없어서 점심을 안 먹었어요.",
+      "english": "I had no appetite, so I didn't have lunch.",
+      "notes": "점심 = lunch"
+    },
+    {
+      "korean": "가게에 사람이 아무도 없는 것 같아요.",
+      "english": "I think there is no one in the store.\nI think nobody is in the store.",
+      "notes": "가게 = store, shop\n아무도 = nobody; anybody (always used with a negative sentence structure)"
+    },
+    {
+      "korean": "그 사람은 성격이 나빠서 친구가 없어요.",
+      "english": "He has a bad personality, so he doesn't have any friends.",
+      "notes": "성격 = personality, disposition\n나쁘다 = to be bad"
+    },
+    {
+      "korean": "이 신발을 사고 싶은데 지금 돈이 없어요.",
+      "english": "I want to buy these shoes, but I don't have any money (on me) now.",
+      "notes": ""
+    },
+    {
+      "korean": "제가 없는 동안에 제 강아지 좀 돌봐 주세요.",
+      "english": "While I'm not here, please look after my dog.",
+      "notes": "동안 = during; while; for + period of time\n강아지 = puppy\n돌봐다 = to take care of, look after\n-이/이/여 주 세요 = (polite) Please do + something + for me"
+    },
+    {
+      "korean": "인사를 하고 싶었는데 기회가 없어서 못 했어요.",
+      "english": "I wanted to say \"hi,\" but I couldn't because I didn't have the opportunity.",
+      "notes": "인사 = greeting\n인사하다 = to greet, say \"hello\"\n기회 = chance, opportunity"
+    },
+    {
+      "korean": "핸드폰을 잃어버렸는데 찾을 방법이 있을까요?",
+      "english": "I've lost my cellphone. Do you think there is a way I can find it?",
+      "notes": "핸드폰 = mobile phone\n잃어버리다 = to lose + N"
+    },
+    {
+      "korean": "요즘에 회사에서 바빠서 영화 볼 시간이 없었어요.",
+      "english": "I've been busy at work lately, so I haven't had time to watch movies.",
+      "notes": "회사 = company; office\n영화 = movie"
+    },
+    {
+      "korean": "카메라를 떨어뜨렸는데 다행하도 카메라에 아무 이상이 없었어요.",
+      "english": "I dropped my camera, but fortunately there was nothing wrong with the camera.",
+      "notes": "카메라 = camera\n떨어뜨리다 = to drop\n다행하도 = fortunately\n이상 = (not) any"
+    },
+    {
+      "korean": "어제 분명히 열쇠를 서랍 안에 놨는데 지금 찾아 보니까 없어요.",
+      "english": "I am sure that I put the key in the drawer yesterday, but now I can't find it.",
+      "notes": "열쇠 = key\n서랍 = drawer (of desk or dresser)\n놓다 = to put (something) in\n두다 = to leave (something) at a place"
+    }
+  ]
+}

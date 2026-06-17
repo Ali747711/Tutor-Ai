@@ -1,0 +1,341 @@
+{
+  "chapter": 36,
+  "title": "Taxi",
+  "category": "Transportation",
+  "shortDialogue": [
+    {
+      "speaker": "택시 기사",
+      "korean": "다 왔습니다.",
+      "romanization": "",
+      "english": "We are here."
+    },
+    {
+      "speaker": "우정",
+      "korean": "교통 카드로 할게요.",
+      "romanization": "",
+      "english": "I will pay with a transportation card."
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "택시 기사",
+      "korean": "어디 가세요?",
+      "romanization": "",
+      "english": "Where to?"
+    },
+    {
+      "speaker": "우정",
+      "korean": "경복궁이요.",
+      "romanization": "",
+      "english": "Gyeong-bok Palace."
+    },
+    {
+      "speaker": "택시 기사",
+      "korean": "어느 쪽으로 갈까요?",
+      "romanization": "",
+      "english": "Which route shall I take?"
+    },
+    {
+      "speaker": "우정",
+      "korean": "아, 저 길 잘 몰라요.",
+      "romanization": "",
+      "english": "Oh, I don't know the routes well."
+    },
+    {
+      "speaker": "택시 기사",
+      "korean": "성산대교는 지금 엄청 막혀요.",
+      "romanization": "",
+      "english": "Seong-san Bridge has a lot of traffic now."
+    },
+    {
+      "speaker": "우정",
+      "korean": "그래요? 지금 늦었어요. 그래서 빨리 가야 돼요.",
+      "romanization": "",
+      "english": "Really? I'm late now. So, I have to get there quickly."
+    },
+    {
+      "speaker": "택시 기사",
+      "korean": "그럼 양화대교로 갈게요.",
+      "romanization": "",
+      "english": "Then I'll take Yang-hwa Bridge."
+    },
+    {
+      "speaker": "우정",
+      "korean": "네, 빨리 좀 가 주세요.",
+      "romanization": "",
+      "english": "Ok. Please hurry up."
+    },
+    {
+      "speaker": "택시 기사",
+      "korean": "알겠습니다. 경복궁 입구로 갈까요?",
+      "romanization": "",
+      "english": "Alright. Shall I go to the entrance of Gyeong-bok Palace?"
+    },
+    {
+      "speaker": "우정",
+      "korean": "네, 입구에서 내려 주세요.",
+      "romanization": "",
+      "english": "Yes, let me out at the entrance."
+    },
+    {
+      "speaker": "택시 기사",
+      "korean": "다 왔습니다.",
+      "romanization": "",
+      "english": "We are here."
+    },
+    {
+      "speaker": "우정",
+      "korean": "교통 카드로 할게요.",
+      "romanization": "",
+      "english": "I will pay with a transportation card."
+    },
+    {
+      "speaker": "택시 기사",
+      "korean": "네, 안녕히 가세요.",
+      "romanization": "",
+      "english": "Ok. Bye."
+    }
+  ],
+  "culturalTip": "Taxi drivers in Korea are notorious for denying passengers based on their destination, especially if you try to take a taxi at night in a busy area. Some taxi drivers want to take passengers whose destination is far away, while others choose to only take passengers to a destination within a few minutes of the starting point. Nowadays, you can use a mobile app to summon a taxi by entering your current location and your destination. Sometimes, however, your request may not be accepted quickly if you try to use the app at night in a busy area.",
+  "koreanReview": "- Short Dialogue\n택시 기사: 다 왔습니다.\n우정: 교통 카드로 할게요.\n\n- Long Dialogue\n택시 기사: 어디 가세요?\n우정: 경복궁이요.\n택시 기사: 어느 쪽으로 갈까요?\n우정: 아, 저 길 잘 몰라요.\n택시 기사: 성산대교는 지금 엄청 막혀요.\n우정: 그래요? 지금 늦었어요. 그래서 빨리 가야 돼요.\n택시 기사: 그럼 양화대교로 갈게요.\n우정: 네, 빨리 좀 가 주세요.\n택시 기사: 알겠습니다.\n택시 기사: 경복궁 입구로 갈까요?\n우정: 네, 입구에서 내려 주세요.\n택시 기사: 다 왔습니다.\n우정: 교통 카드로 할게요.\n택시 기사: 네, 안녕히 가세요.",
+  "coreVocab": [
+    {
+      "korean": "다",
+      "romanization": "da",
+      "meaning": "all"
+    },
+    {
+      "korean": "오다",
+      "romanization": "o-da",
+      "meaning": "to come"
+    },
+    {
+      "korean": "교통",
+      "romanization": "gyo-tongl",
+      "meaning": "transportation, traffic"
+    },
+    {
+      "korean": "카드",
+      "romanization": "ka-deu",
+      "meaning": "card"
+    },
+    {
+      "korean": "-(으)로",
+      "romanization": "-(eu)-ro",
+      "meaning": "with"
+    },
+    {
+      "korean": "하다",
+      "romanization": "ha-da",
+      "meaning": "to do"
+    },
+    {
+      "korean": "VERB + -았/었/였습니다",
+      "romanization": "",
+      "meaning": "(SUBJECT) VERB-ed. (polite, formal)"
+    },
+    {
+      "korean": "VERB + -(으)께요.",
+      "romanization": "-(eul)-kke-yo",
+      "meaning": "I will VERB."
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "어디",
+      "romanization": "eo-di",
+      "meaning": "where"
+    },
+    {
+      "korean": "가다",
+      "romanization": "ga-da",
+      "meaning": "to go"
+    },
+    {
+      "korean": "어느",
+      "romanization": "eo-neu",
+      "meaning": "which"
+    },
+    {
+      "korean": "쪽",
+      "romanization": "jjok",
+      "meaning": "side, route"
+    },
+    {
+      "korean": "길",
+      "romanization": "gil",
+      "meaning": "road"
+    },
+    {
+      "korean": "잘",
+      "romanization": "jjal",
+      "meaning": "well"
+    },
+    {
+      "korean": "모르다",
+      "romanization": "mo-reu-da",
+      "meaning": "to not know"
+    },
+    {
+      "korean": "지금",
+      "romanization": "ji-geum",
+      "meaning": "now"
+    },
+    {
+      "korean": "엄청",
+      "romanization": "eom-cheong",
+      "meaning": "very, so"
+    },
+    {
+      "korean": "막히다",
+      "romanization": "ma-ki-da",
+      "meaning": "to have a lot of traffic"
+    },
+    {
+      "korean": "늦다",
+      "romanization": "neut-tta",
+      "meaning": "to be late"
+    },
+    {
+      "korean": "그럼",
+      "romanization": "geu-reom",
+      "meaning": "then"
+    },
+    {
+      "korean": "입구",
+      "romanization": "ip-kku",
+      "meaning": "entrance"
+    },
+    {
+      "korean": "내려 주다",
+      "romanization": "nae-ryeo ju-da",
+      "meaning": "to let someone off/out"
+    },
+    {
+      "korean": "다",
+      "romanization": "da",
+      "meaning": "all"
+    },
+    {
+      "korean": "오다",
+      "romanization": "o-da",
+      "meaning": "to come"
+    },
+    {
+      "korean": "교통 카드",
+      "romanization": "gyo-tong ka-deu",
+      "meaning": "transportation card"
+    },
+    {
+      "korean": "빨리",
+      "romanization": "ppal-li",
+      "meaning": "quickly"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "Inquiring",
+      "pattern": "VERB + -시- + -아/어/여요? = Do you VERB? / Are you VERB-ing? (honorific)",
+      "meaning": "Do you VERB? / Are you VERB-ing?",
+      "explanation": "* When -시- is combined with -아/어/여요, it becomes -세요. Over time however, it changed to -세요 because it is easier to pronounce.",
+      "examples": [
+        {
+          "korean": "가다 + -시- + -아/어/여요?",
+          "romanization": "",
+          "english": "가세요? = Do you go? / Are you going?"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "오다 + -시- + -아/어/여요?",
+          "answer": "오세요?",
+          "english": "Do you come? / Are you coming?"
+        },
+        {
+          "prompt": "보다 + -시- + -아/어/여요?",
+          "answer": "보세요?",
+          "english": "Do you watch? / Are you watching?"
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Present Perfect - Accomplishment",
+      "pattern": "다 + VERB + -았/었/였습니다 = I have finished VERB-ing. / I have VERB-ed all. (polite, formal)",
+      "meaning": "I have finished VERB-ing. / I have VERB-ed all.",
+      "explanation": "",
+      "examples": [
+        {
+          "korean": "다 + 오다 + -았/었/였습니다",
+          "romanization": "",
+          "english": "다 왔습니다. = I have come all the way. / We are here."
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "다 + 먹다 + -았/었/였습니다",
+          "answer": "다 먹었습니다.",
+          "english": "I have finished eating."
+        },
+        {
+          "prompt": "다 + 하다 + -았/었/였습니다",
+          "answer": "다 했습니다.",
+          "english": "I have done it all."
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "When a syllable ends with ㄹ and is followed by a syllable that begins with ㄱ, the ㄱ is pronounced as ㅇ.",
+      "examples": [
+        {
+          "korean": "입구",
+          "pronounced": "[입구]",
+          "romanization": "ip-kku"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "법관 (judge, the bench)",
+          "answer": "법관",
+          "gloss": ""
+        },
+        {
+          "prompt": "합격 (pass, acceptance)",
+          "answer": "합격",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "Let's review a few pronunciation rules that have been covered already.",
+      "examples": [],
+      "exercises": [
+        {
+          "prompt": "경복궁",
+          "answer": "경복궁",
+          "gloss": ""
+        },
+        {
+          "prompt": "쪽으로",
+          "answer": "쪽으로",
+          "gloss": ""
+        },
+        {
+          "prompt": "막혀요",
+          "answer": "막혀요",
+          "gloss": ""
+        },
+        {
+          "prompt": "늦었어요",
+          "answer": "늦었어요",
+          "gloss": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "chapter": 25,
+  "title": "Company Dinner",
+  "category": "At Work",
+  "shortDialogue": [
+    {
+      "speaker": "팀장",
+      "korean": "선미 씨, 취했어?",
+      "romanization": "",
+      "english": "Seon-mi, are you drunk?"
+    },
+    {
+      "speaker": "선미",
+      "korean": "아니요. 저 안 취했어요.",
+      "romanization": "",
+      "english": "No. I am not drunk."
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "선미",
+      "korean": "팀장님! 건배!",
+      "romanization": "",
+      "english": "Boss! Cheers!"
+    },
+    {
+      "speaker": "팀장",
+      "korean": "선미 씨, 취했어?",
+      "romanization": "",
+      "english": "Seon-mi, are you drunk?"
+    },
+    {
+      "speaker": "선미",
+      "korean": "아니요! 저 안 취했어요.",
+      "romanization": "",
+      "english": "No! I am not drunk."
+    },
+    {
+      "speaker": "팀장",
+      "korean": "선미 씨 지금 엄청 취했어.",
+      "romanization": "",
+      "english": "You are very drunk now."
+    },
+    {
+      "speaker": "선미",
+      "korean": "아니요. 저 안 취했어요. 팀장님. 감사합니다.",
+      "romanization": "",
+      "english": "No, I am not drunk. Thank you, boss."
+    },
+    {
+      "speaker": "팀장",
+      "korean": "왜?",
+      "romanization": "",
+      "english": "Why?"
+    },
+    {
+      "speaker": "선미",
+      "korean": "저 조금밖에 안 마셨어요. 팀장님! 감사합니다!",
+      "romanization": "",
+      "english": "I've only had a little bit to drink. Thank you, boss!"
+    },
+    {
+      "speaker": "팀장",
+      "korean": "아이고, 맞이 취했네.",
+      "romanization": "",
+      "english": "Oh my god. You are really drunk."
+    },
+    {
+      "speaker": "선미",
+      "korean": "감사합니다! 저 취업하는 거 힘들었어요. 감사합니다.",
+      "romanization": "",
+      "english": "Thank you! Getting a job was so hard. Thank you."
+    },
+    {
+      "speaker": "팀장",
+      "korean": "자, 택시비. 택시 타고 빨리 들어가.",
+      "romanization": "",
+      "english": "Here is some taxi fare for you. Get a taxi and go home quickly."
+    },
+    {
+      "speaker": "선미",
+      "korean": "우와! 감사합니다. 팀장님. 감사합니다. 저 안 취했어요.",
+      "romanization": "",
+      "english": "Wow! Thank you. Thank you, boss. I am not drunk."
+    }
+  ],
+  "culturalTip": "회식 [hoe-sik], or \"company dinner\", is when a group of employees go out for dinner after work. 회식 is typically considered part of the job even though it is after work hours, and employees should not turn down an invitation to 회식 due to personal plans. Employees are also often encouraged by the boss to consume copious amounts of alcohol. However, these days there are some managers who are trying to change the 회식 culture by having it less often, or having only dinner and no drinks.",
+  "koreanReview": "팀장: 선미 씨, 취했어?\n선미: 아니요. 저 안 취했어요.\n\n선미: 팀장님! 건배!\n팀장: 선미 씨, 취했어?\n선미: 아니요! 저 안 취했어요.\n팀장: 선미 씨 지금 엄청 취했어.\n선미: 아니요. 저 안 취했어요. 팀장님. 감사합니다.\n팀장: 왜?\n선미: 저 조금밖에 안 마셨어요. 팀장님! 감사합니다!\n팀장: 아이고, 맞이 취했네.\n선미: 감사합니다! 저 취업하는 거 힘들었어요. 감사합니다.\n팀장: 자, 택시비. 택시 타고 빨리 들어가.\n선미: 우와! 감사합니다. 팀장님. 감사합니다. 저 안 취했어요.",
+  "coreVocab": [
+    {
+      "korean": "취하다",
+      "romanization": "chwi-ha-da",
+      "meaning": "to be drunk"
+    },
+    {
+      "korean": "아니요.",
+      "romanization": "a-ni-yo.",
+      "meaning": "No."
+    },
+    {
+      "korean": "저",
+      "romanization": "jeo",
+      "meaning": "I, me"
+    },
+    {
+      "korean": "안 VERB + -았/었/였어요",
+      "romanization": "-a/eo/yeo-sseo-yo.",
+      "meaning": "(SUBJECT) didn't VERB."
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "건배",
+      "romanization": "geon-bae",
+      "meaning": "cheers"
+    },
+    {
+      "korean": "취하다",
+      "romanization": "chwi-ha-da",
+      "meaning": "to be drunk"
+    },
+    {
+      "korean": "아니요",
+      "romanization": "a-ni-yo",
+      "meaning": "no"
+    },
+    {
+      "korean": "지금",
+      "romanization": "ji-geum",
+      "meaning": "now"
+    },
+    {
+      "korean": "엄청",
+      "romanization": "eom-cheong",
+      "meaning": "very, so"
+    },
+    {
+      "korean": "감사하다",
+      "romanization": "gam-sa-ha-da",
+      "meaning": "to be thankful"
+    },
+    {
+      "korean": "왜",
+      "romanization": "wae",
+      "meaning": "why"
+    },
+    {
+      "korean": "조금",
+      "romanization": "jo-geum",
+      "meaning": "a little bit"
+    },
+    {
+      "korean": "마시다",
+      "romanization": "ma-si-da",
+      "meaning": "to drink"
+    },
+    {
+      "korean": "맞이",
+      "romanization": "mat-i",
+      "meaning": "many, much, a lot"
+    },
+    {
+      "korean": "취업하다",
+      "romanization": "chwi-eo-pa-da",
+      "meaning": "to get a job"
+    },
+    {
+      "korean": "택시",
+      "romanization": "taek-ssi",
+      "meaning": "taxi, cab"
+    },
+    {
+      "korean": "택시비",
+      "romanization": "taek-ssi-bi",
+      "meaning": "taxi fare"
+    },
+    {
+      "korean": "타다",
+      "romanization": "ta-da",
+      "meaning": "to ride"
+    },
+    {
+      "korean": "빨리",
+      "romanization": "ppal-li",
+      "meaning": "quickly"
+    },
+    {
+      "korean": "들어가다",
+      "romanization": "deu-reo-ga-da",
+      "meaning": "to go in"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "To Go Somewhere Using Transportation",
+      "pattern": "(means of transportation) + 타고 가다",
+      "meaning": "to go by (means of transportation)",
+      "explanation": "",
+      "examples": [
+        {
+          "korean": "택시 + 타고 가다 → 택시 타고 가다",
+          "romanization": "",
+          "english": "to go by taxi"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "버스 + 타고 가다",
+          "answer": "버스 타고 가다",
+          "english": "to go by bus"
+        },
+        {
+          "prompt": "지하철 + 타고 가다",
+          "answer": "지하철 타고 가다",
+          "english": "to go by subway"
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Turning a Verb Into a Noun Phrase",
+      "pattern": "VERB + -는 것 = VERB-ing, the act of VERB-ing",
+      "meaning": "",
+      "explanation": "* In daily conversation, people often pronounce 것 as 거.",
+      "examples": [
+        {
+          "korean": "취업하다 + -는 것* → 취업하는 것",
+          "romanization": "",
+          "english": "getting a job"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "취하다 + -는 것",
+          "answer": "취하는 것",
+          "english": "getting drunk"
+        },
+        {
+          "prompt": "들어가다 + -는 것",
+          "answer": "들어가는 것",
+          "english": "going in, the act of going in"
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "When a syllable ends with ㄹ and is followed by a syllable that begins with ㅇ, the ㄹ is combined with the ㅇ and is pronounced as ㅂ.",
+      "examples": [
+        {
+          "korean": "취업하는",
+          "pronounced": "[취어파는]",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "좁히다 (to narrow)",
+          "answer": "쪼피다",
+          "gloss": ""
+        },
+        {
+          "prompt": "금하기 (in a hurry)",
+          "answer": "금하기",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "Take a moment to review some pronunciation rules that were previously covered.",
+      "examples": [
+        {
+          "korean": "삼겹살",
+          "pronounced": "[삼겹쌀]",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "감사합니다",
+          "answer": "감사합니다",
+          "gloss": ""
+        },
+        {
+          "prompt": "조금밖에",
+          "answer": "조금바께",
+          "gloss": ""
+        },
+        {
+          "prompt": "취했네",
+          "answer": "취했네",
+          "gloss": ""
+        },
+        {
+          "prompt": "힘들었어요",
+          "answer": "힘드러써요",
+          "gloss": ""
+        }
+      ]
+    }
+  ]
+}

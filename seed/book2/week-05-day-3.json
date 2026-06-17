@@ -1,0 +1,110 @@
+{
+  "week": 5,
+  "day": 3,
+  "order": 31,
+  "keyword": "잊다",
+  "meaning": "to forget",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "깜빡 잊다",
+      "english": "to completely forget (for a short period of time)\nto just forget; to slip one's mind",
+      "notes": ""
+    },
+    {
+      "korean": "잊어버리다",
+      "english": "to forget",
+      "notes": ""
+    },
+    {
+      "korean": "약속을 잊어버리다",
+      "english": "to forget an appointment",
+      "notes": "약속 = plans; promise"
+    },
+    {
+      "korean": "까망게 잊어버리다",
+      "english": "to completely forget",
+      "notes": ""
+    },
+    {
+      "korean": "시간 가는 것을 잊다",
+      "english": "to forget the time passing",
+      "notes": "시간(이) 가다 = time passes; time goes"
+    },
+    {
+      "korean": "저럼 한 약속 잊으셨어요?",
+      "english": "Did you forget the promise you made me?",
+      "notes": "약속을 하다 = to promise, make a promise"
+    },
+    {
+      "korean": "그 일을 잊을 수가 없어요.",
+      "english": "I cannot forget about that incident.",
+      "notes": "일 = work; task; thing; stuff; occasion\n-ㄹ(으)ㄹ 수가 없다 = to be not able to + V, can't"
+    },
+    {
+      "korean": "여권 챙기는 거 잊지 마세요.",
+      "english": "Don't forget to take your passport.\nDon't forget to pack your passport.",
+      "notes": "여권 = passport\n챙기다 = to take care; to take; to pack"
+    },
+    {
+      "korean": "윗지 말고 우유 좀 사다 주세요.",
+      "english": "Please do not forget to buy and bring me some milk.",
+      "notes": "우유 = milk\n좀 = a little; please\n사다 = to buy\n주세요 = to buy something for someone that person"
+    },
+    {
+      "korean": "이미 지난 일이니 잊어버리세요.",
+      "english": "It's a past incident, so forget about it.",
+      "notes": "이미 = already\n지나다 = to pass"
+    },
+    {
+      "korean": "그때 한 약속 벌써 잊은 거예요?",
+      "english": "Did you already forget the promise you made back then?",
+      "notes": "그때 = at that time; back then"
+    },
+    {
+      "korean": "그 일을 어떻게 잊을 수가 있겠어요.",
+      "english": "How can I forget that incident?",
+      "notes": "어떻게 = how\n-ㄹ(으)ㄹ 수가 있다 = can, to be able to; there is a good chance that + S + V"
+    },
+    {
+      "korean": "매일 아침 꽃에 물 주는 것 잊지 마세요.",
+      "english": "Don't forget to water the flowers every morning.",
+      "notes": "매일 = every day\n아침 = morning; breakfast\n꽃 = flower\n물 주다 = to water; to give water"
+    },
+    {
+      "korean": "어쨌게 제 생일을 잊어버릴 수가 있어요?",
+      "english": "How could you forget my birthday?",
+      "notes": "제 = (polite) my; I\n생일 = birthday"
+    },
+    {
+      "korean": "전화 드리기로 하고 깜빡 잊었네요, 죄송해요.",
+      "english": "I said I would give you a call and it slipped my mind. I'm sorry.",
+      "notes": "전화 = phone call; telephone\n전화 드리다 = (polite) to give one a call, to call\n-기로 하다 = to plan to + V; to decide to + V; to make a promise to + V\n-네요 = is a sentence ending that expresses realization of a fact or agreement to a statement.\n죄송해요. = (polite) I'm sorry."
+    },
+    {
+      "korean": "너무 바빠서 밥 먹는 것도 잊어버리고 있었어요.",
+      "english": "I was so busy that I forgot to eat.",
+      "notes": "너무 = too much, excessively; very\n바쁘다 = to be busy\n-이/이/여서 = because, since\n밥 = food; meal; cooked rice\n먹다 = to eat; to drink\n-도 = too, also"
+    },
+    {
+      "korean": "비밀번호를 잊어버려서 로그인을 못 하고 있어요.",
+      "english": "I forgot my password, so I am unable to log-in.",
+      "notes": "비밀번호 = password\n못 = can't\n로그인 = log-in\n로그인을 하다 = to log-in"
+    },
+    {
+      "korean": "친구랑 만나기로 약속하고는 까망게 잊어버렸어요.",
+      "english": "I made a plan (to meet up) with my friend and I completely forgot.",
+      "notes": "친구 = friend\n만나다 = to meet (up)\n-기로 약속하다 = to promise to + V"
+    },
+    {
+      "korean": "오늘 아침에 중요한 회의가 있다는 걸 잊고 있었어요.",
+      "english": "I forgot that there was an important meeting this morning.",
+      "notes": "오늘 = today\n중요하다 = to be important\n중요한 = is the adjective form of 중요하다.\n회의 = meeting\n있다 = to be there; to exist; to have"
+    },
+    {
+      "korean": "친구랑 오랜만에 만나서 시간 가는 것도 잊고 놀았어요.",
+      "english": "I hung out with my friend and we ended up losing track of time.",
+      "notes": "오랜만에 = first time in a long period of time\n놀다 = to play; to hang out"
+    }
+  ]
+}

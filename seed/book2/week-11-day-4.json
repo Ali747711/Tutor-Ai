@@ -1,0 +1,110 @@
+{
+  "week": 11,
+  "day": 4,
+  "order": 74,
+  "keyword": "부족",
+  "meaning": "shortage, lack, insufficiency",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "수면 부족",
+      "english": "lack of sleep; sleep deprivation",
+      "notes": "수면 = sleep"
+    },
+    {
+      "korean": "경험 부족",
+      "english": "lack of experience",
+      "notes": "경험 = experience"
+    },
+    {
+      "korean": "운동 부족",
+      "english": "lack of exercise",
+      "notes": "운동 = exercise; sports"
+    },
+    {
+      "korean": "부족하다",
+      "english": "to lack; to be short of; to be insufficient",
+      "notes": ""
+    },
+    {
+      "korean": "음식 안 부족해요?",
+      "english": "Would you like more food?",
+      "notes": "음식 = food"
+    },
+    {
+      "korean": "여기 의자가 하나 부족해요.",
+      "english": "We are short of a chair here.",
+      "notes": "여기 = here, this place\n의자 = chair"
+    },
+    {
+      "korean": "부족한 게 있으면 말씀하세요.",
+      "english": "If you are lacking anything, tell us.\nLet us know if there's a shortage of anything.",
+      "notes": "-(으)면 = if/when + S + V, once + S + V\n말씀하다 = (honorific) to talk; to say; to speak; to tell"
+    },
+    {
+      "korean": "요즘 잠이 너무 부족해서 피곤해요.",
+      "english": "I am tired because I am really lacking sleep these days.",
+      "notes": "요즘 = these days, lately\n잠 = sleep"
+    },
+    {
+      "korean": "부족한 게 많지만, 열심히 준비했어요.",
+      "english": "I am lacking a lot, but I diligently prepared.",
+      "notes": "열심히 = (to do something) hard; diligently\n준비하다 = to prepare; to get ready"
+    },
+    {
+      "korean": "이번 프로젝트는 준비가 너무 부족해요.",
+      "english": "This project lacks a lot of preparation.",
+      "notes": "프로젝트 = project\n준비 = preparation"
+    },
+    {
+      "korean": "하고 싶은 일은 많은데 시간이 부족해요.",
+      "english": "I have a lot of things I want to do, but there is not a sufficient amount of time.",
+      "notes": "하다 = to do\n일 = work; task; thing; stuff; occasion"
+    },
+    {
+      "korean": "꼭 사고 싶은 책이 있는데 돈이 부족해요.",
+      "english": "There is a book I really want to buy, but I am short of money.",
+      "notes": "자리 = space, spot, seat, position; occasion\n-(으)니까 = since, because\n옆 = next\n-이/이/어 주세요. = (polite) Please do + something + for me."
+    },
+    {
+      "korean": "자리가 부족하니까 옆으로 좀 비켜 주세요.",
+      "english": "There's not enough space, so please move to the side a little.",
+      "notes": "노래 = song\n잘하다 = to be good at something\n자신감 = confidence"
+    },
+    {
+      "korean": "경은 씨는 노래는 잘하는데 자신감이 부족해요.",
+      "english": "Kyeong-eun sings well, but lacks self-confidence.",
+      "notes": "보고서 = report\n완성하다 = to finish, complete, get something done\n자료 = data; material"
+    },
+    {
+      "korean": "보고서를 완성해야 하는데 자료가 너무 부족해요.",
+      "english": "I have to finish the report, but the data is really insufficient.",
+      "notes": "-다고 해서 = since someone says/said ...\n행복하다 = to be happy"
+    },
+    {
+      "korean": "돈이 부족하다고 해서 행복하지 않은 건 아니에요.",
+      "english": "Just because one has an insufficient amount of money doesn't mean one is unhappy.",
+      "notes": "머리 = head; hair\n아프다 = to be sick, hurt\n병원 = hospital\n-다니 = S + V-ed + and as a result\n원인 = cause\n-래요 = I heard ...; They said ..."
+    },
+    {
+      "korean": "머리가 아파서 병원에 갔더니 수면 부족이 원인이래요.",
+      "english": "I went to the hospital because my head hurt, and they said the cause was lack of sleep.",
+      "notes": "그 사람 = that person; he, she\n실력 = skill, ability\n아직 = (not) yet\n어리다 = to be young"
+    },
+    {
+      "korean": "그 사람은 실력은 있는데 아직 어려서 경험이 부족해요.",
+      "english": "That person has the skills, but lacks experience since he is still young.",
+      "notes": "고백 = confession\n고백을 하다 = to confess\n-(으)려고 하다 = to plan to + V; to think of + V-ing; to mean to + V\n용기 = courage"
+    },
+    {
+      "korean": "오늘은 꼭 고백을 하려고 했는데 용기가 부족해서 못 했어요.",
+      "english": "I really wanted to confess (my feelings) today, but I couldn't because I lacked the courage.",
+      "notes": "컴퓨터 = computer\n저장하다 = to save\n용량 = capacity; volume"
+    },
+    {
+      "korean": "제 컴퓨터에 저장하려고 했는데 용량이 부족해서 못 했어요.",
+      "english": "I was going to save it on my computer, but I couldn't because there was insufficient memory.",
+      "notes": ""
+    }
+  ]
+}

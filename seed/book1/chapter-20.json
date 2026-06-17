@@ -1,0 +1,311 @@
+{
+  "chapter": 20,
+  "title": "Rejection",
+  "category": "On a Date",
+  "shortDialogue": [
+    {
+      "speaker": "준서",
+      "korean": "주희 씨, 남자 친구 있어요?",
+      "romanization": "",
+      "english": "Ju-hee, do you have a boyfriend?"
+    },
+    {
+      "speaker": "주희",
+      "korean": "아니요. 없어요.",
+      "romanization": "",
+      "english": "No, I don't."
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "준서",
+      "korean": "주희 씨, 남자 친구 있어요?",
+      "romanization": "",
+      "english": "Ju-hee, do you have a boyfriend?"
+    },
+    {
+      "speaker": "주희",
+      "korean": "아니요. 없어요.",
+      "romanization": "",
+      "english": "No, I don't."
+    },
+    {
+      "speaker": "준서",
+      "korean": "그래요? 그럼 저는 어때요?",
+      "romanization": "",
+      "english": "Really? Well, how about me?"
+    },
+    {
+      "speaker": "주희",
+      "korean": "네? 무슨 말이에요?",
+      "romanization": "",
+      "english": "What? What are you talking about?"
+    },
+    {
+      "speaker": "준서",
+      "korean": "저 주희 씨 좋아해요. 주희 씨랑 만나고 싶어요.",
+      "romanization": "",
+      "english": "Ju-hee, I like you. I want to go out with you."
+    },
+    {
+      "speaker": "주희",
+      "korean": "네? 우리 아직 한 번밖에 안 만났어요.",
+      "romanization": "",
+      "english": "What? We've only met once so far."
+    },
+    {
+      "speaker": "준서",
+      "korean": "알아요. 그래도 전 주희 씨가 너무 좋아요. 주희 씨는 제가 싫어요?",
+      "romanization": "",
+      "english": "I know. But still, I like you very much, Ju-hee. Do you not like me?"
+    },
+    {
+      "speaker": "주희",
+      "korean": "아니요. 싫지 않아요.",
+      "romanization": "",
+      "english": "No, I don't dislike you."
+    },
+    {
+      "speaker": "준서",
+      "korean": "그럼 우리 사귀어요.",
+      "romanization": "",
+      "english": "Then, let's see each other."
+    },
+    {
+      "speaker": "주희",
+      "korean": "저는 아직 준서 씨 잘 몰라요.",
+      "romanization": "",
+      "english": "Jun-seo, I don't know you that well yet."
+    },
+    {
+      "speaker": "준서",
+      "korean": "천천히 알게 될 거예요.",
+      "romanization": "",
+      "english": "You will slowly get to know me."
+    },
+    {
+      "speaker": "주희",
+      "korean": "아니요. 저는 아직 사귀기 싫어요.",
+      "romanization": "",
+      "english": "No, I don't want to date you yet."
+    }
+  ],
+  "culturalTip": "The native Korean word, 사귀다 [sa-gwi-da], commonly translates as \"to go out\" or \"to date\" in English. However, there are also the loanwords 데이트 [de-i-teu], which means \"a date\", and 데이트하다, meaning \"to go on a date\". Although these three words seem to be interchangeable, they are definitely used in specific situations to imply different things. 데이트 or 데이트하다 are used when two people are meeting one-on-one or are not officially a couple, while 사귀다 is used to indicate that two people are a couple and have gone out on dates before.",
+  "koreanReview": "- Short Dialogue\n준서: 주희 씨, 남자 친구 있어요?\n주희: 아니요. 없어요.\n\n- Long Dialogue\n준서: 주희 씨, 남자 친구 있어요?\n주희: 아니요. 없어요.\n준서: 그래요? 그럼 저는 어때요?\n주희: 네? 무슨 말이에요?\n준서: 저 주희 씨 좋아해요. 주희 씨랑 만나고 싶어요.\n주희: 네? 우리 아직 한 번밖에 안 만났어요.\n준서: 알아요. 그래도 전 주희 씨가 너무 좋아요. 주희 씨는 제가 싫어요?\n주희: 아니요. 싫지 않아요.\n준서: 그럼 우리 사귀어요.\n주희: 저는 아직 준서 씨 잘 몰라요.\n준서: 천천히 알게 될 거예요.\n주희: 아니요. 저는 아직 사귀기 싫어요.",
+  "coreVocab": [
+    {
+      "korean": "씨",
+      "romanization": "ssi",
+      "meaning": "honorific suffix which implies respect toward the person whose name it is attached to"
+    },
+    {
+      "korean": "남자 친구",
+      "romanization": "nam-ja chin-gu",
+      "meaning": "boyfriend"
+    },
+    {
+      "korean": "있다",
+      "romanization": "it-ta",
+      "meaning": "to exist, to have"
+    },
+    {
+      "korean": "아니요.",
+      "romanization": "a-ni-yo.",
+      "meaning": "No."
+    },
+    {
+      "korean": "없다",
+      "romanization": "eop-tta",
+      "meaning": "to not exist, to not have, to not be there"
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "남자 친구",
+      "romanization": "nam-ja chin-gu",
+      "meaning": "boyfriend"
+    },
+    {
+      "korean": "있다",
+      "romanization": "it-ta",
+      "meaning": "to exist, to have"
+    },
+    {
+      "korean": "없다",
+      "romanization": "eop-tta",
+      "meaning": "to not exist, to not have, to not be there"
+    },
+    {
+      "korean": "저",
+      "romanization": "jeo",
+      "meaning": "I, me"
+    },
+    {
+      "korean": "무슨",
+      "romanization": "mu-seun",
+      "meaning": "what"
+    },
+    {
+      "korean": "말",
+      "romanization": "mal",
+      "meaning": "word, talking"
+    },
+    {
+      "korean": "좋아하다",
+      "romanization": "jo-a-ha-da",
+      "meaning": "to like"
+    },
+    {
+      "korean": "만나다",
+      "romanization": "man-na-da",
+      "meaning": "to meet"
+    },
+    {
+      "korean": "한 번",
+      "romanization": "han beon",
+      "meaning": "once"
+    },
+    {
+      "korean": "알다",
+      "romanization": "al-da",
+      "meaning": "to know"
+    },
+    {
+      "korean": "너무",
+      "romanization": "neo-mu",
+      "meaning": "really, so, too much"
+    },
+    {
+      "korean": "싫다",
+      "romanization": "sil-ta",
+      "meaning": "to not like, to hate"
+    },
+    {
+      "korean": "그럼",
+      "romanization": "geu-reom",
+      "meaning": "then"
+    },
+    {
+      "korean": "우리",
+      "romanization": "u-ri",
+      "meaning": "we, us"
+    },
+    {
+      "korean": "사귀다",
+      "romanization": "sa-gwi-da",
+      "meaning": "to date, to go out"
+    },
+    {
+      "korean": "잘",
+      "romanization": "jal",
+      "meaning": "well"
+    },
+    {
+      "korean": "모르다",
+      "romanization": "mo-reu-da",
+      "meaning": "to not know"
+    },
+    {
+      "korean": "천천히",
+      "romanization": "cheon-cheo-ni",
+      "meaning": "slowly"
+    },
+    {
+      "korean": "아직",
+      "romanization": "a-jik",
+      "meaning": "yet"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "Making a Suggestion to Include Yourself",
+      "pattern": "우리 + VERB + -아/어/여요. = Let's VERB.",
+      "meaning": "Let's VERB.",
+      "explanation": "Used to make a suggestion that includes the speaker.",
+      "examples": [
+        {
+          "korean": "우리 + 사귀다 + -아/어/여요 → 우리 사귀어요.",
+          "romanization": "",
+          "english": "Let's go out. / Let's date."
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "우리 + 만나다 + -아/어/여요",
+          "answer": "우리 만나요.",
+          "english": "Let's meet."
+        },
+        {
+          "prompt": "우리 + 가다 + -아/어/여요",
+          "answer": "우리 가요.",
+          "english": "Let's go."
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "To Not Like/Want To Do Something",
+      "pattern": "VERB + -기 싫어요. = I don't like VERB-ing, I don't want to VERB.",
+      "meaning": "I don't like VERB-ing, I don't want to VERB.",
+      "explanation": "Used to express that you do not like or want to do something.",
+      "examples": [
+        {
+          "korean": "사귀다 + -기 싫어요. → 사귀기 싫어요.",
+          "romanization": "",
+          "english": "I don't want to go out (with you)."
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "하다 + -기 싫어요.",
+          "answer": "하기 싫어요.",
+          "english": "I don't want to do (it)."
+        },
+        {
+          "prompt": "만나다 + -기 싫어요.",
+          "answer": "만나기 싫어요.",
+          "english": "I don't want to meet."
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "When a syllable ends with ㅀ and is followed by a syllable that begins with a vowel, only the ㄹ is pronounced while ㅎ is not pronounced.",
+      "examples": [
+        {
+          "korean": "싫어요",
+          "pronounced": "시러요",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "닳아요",
+          "answer": "다라요",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "When a syllable ends with ㅀ and is followed by a syllable that begins with ㅈ, the ㄹ is pronounced, but the ㅎ changes the pronunciation of ㅈ to ㅊ. ㅎ is not pronounced because it is used to create the ㅊ sound.",
+      "examples": [
+        {
+          "korean": "싫지",
+          "pronounced": "실치",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "닳지",
+          "answer": "달치",
+          "gloss": ""
+        }
+      ]
+    }
+  ]
+}

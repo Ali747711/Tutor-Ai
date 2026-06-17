@@ -1,0 +1,110 @@
+{
+  "week": 2,
+  "day": 1,
+  "order": 8,
+  "keyword": "먹다",
+  "meaning": "to eat; to drink",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "먹을 것",
+      "english": "something to eat; food",
+      "notes": "것 = thing, stuff; object\n먹을 것 literally means \"thing to eat,\" but it is often used as a set expression that refers to food in general."
+    },
+    {
+      "korean": "밥을 먹다.",
+      "english": "to eat something; to have a meal",
+      "notes": "밥 = food; meal; cooked rice"
+    },
+    {
+      "korean": "밥 먹었어요.",
+      "english": "I ate.",
+      "notes": ""
+    },
+    {
+      "korean": "뭐 먹었어요?",
+      "english": "What did you eat?",
+      "notes": "뭐 = what; something\n뭐 is the contracted form of 무엇."
+    },
+    {
+      "korean": "뭐 먹고 싶어요?",
+      "english": "What do you want to eat?",
+      "notes": "-고 싶다 = to want to + V"
+    },
+    {
+      "korean": "같이 밥 먹어요.",
+      "english": "Let's eat together.",
+      "notes": "같이 = together; with + N"
+    },
+    {
+      "korean": "밥 먹으러 가요.",
+      "english": "Let's go eat.",
+      "notes": "-(으)러 가다 = to go to + V"
+    },
+    {
+      "korean": "이거 먹어도 돼요?",
+      "english": "Can I eat this?",
+      "notes": "이거 = this thing; this\n-이/어/여도 되다 = to be okay to + V"
+    },
+    {
+      "korean": "누가 다 먹었어요?",
+      "english": "Who ate all of this?",
+      "notes": "누가 = who; someone (subject)\n누가 is the subject form of 누구.\n다 = all; every (thing)"
+    },
+    {
+      "korean": "아무도 안 먹어요?",
+      "english": "Nobody wants to eat?",
+      "notes": "아무도 = nobody; anybody (always used with a negative sentence structure)\n안 = not"
+    },
+    {
+      "korean": "먹을 것 좀 주세요.",
+      "english": "Please give me something to eat.",
+      "notes": "좀 = a little; please\n주다 = to give\n-(으)세요 = (polite) imperative"
+    },
+    {
+      "korean": "먹을 거 사러 왔어요.",
+      "english": "I came here to buy something to eat.",
+      "notes": "먹을 거 = food (the same as 먹을 것)\n사다 = to buy\n-(으)려 왔다 = to come to + V"
+    },
+    {
+      "korean": "매운 거 잘 못 먹어요.",
+      "english": "I can't eat spicy food that well.",
+      "notes": "맵다 = to be spicy; to be hot\n매운 = the adjective form of 맵다\n거 = thing, stuff; object (the same as 것)\n잘 = well; carefully\n못 = can't"
+    },
+    {
+      "korean": "먹자마자 잠들었어요.",
+      "english": "I fell asleep as soon as I ate.",
+      "notes": "-자마자 = as soon as + S + V\n잠들다 = to fall asleep"
+    },
+    {
+      "korean": "집에 먹을 것이 없어요.",
+      "english": "There is nothing to eat at home.",
+      "notes": "집 = house, home\n없다 = to not have; to not be there; to not exist"
+    },
+    {
+      "korean": "배불러서 먹고 싶지 않아요.",
+      "english": "I'm full, so I don't want to eat.",
+      "notes": "배 = stomach, belly\n부르다 = to feel full\n-고 싶지 않다 = to not want to + V"
+    },
+    {
+      "korean": "너무 많이 먹어서 배가 불러요.",
+      "english": "I ate too much, so I'm full.",
+      "notes": "너무 = too much, excessively; very\n많다 = to be a lot\n많이 = is an adverb form of 많다.\n배 = stomach, belly"
+    },
+    {
+      "korean": "내일은 친구랑 저녁을 먹을 거예요.",
+      "english": "Tomorrow I am going to eat dinner with my friend.",
+      "notes": "내일 = tomorrow\n친구 = friend\n저녁 = evening; dinner\n-(으)ㄹ 것이다 = will; to be going to + V"
+    },
+    {
+      "korean": "먹는 음식 가지고 장난치지 마세요.",
+      "english": "Don't play with your food.",
+      "notes": "음식 = food\n먹는 음식 is a commonly used set expression that refers to food.\n가지고 = with; using\n장난치다 = to play with something; to play a trick/prank\n-지 마세요 = (polite) Don't + V"
+    },
+    {
+      "korean": "너무 맛이 없어서 먹을 수가 없어요.",
+      "english": "It tastes really bad, so I can't eat it.",
+      "notes": "맛 = taste\n맛이 없다 = to be not tasty; to taste bad\n-(으)ㅂ 수 없다 = to be unable to + V, can't"
+    }
+  ]
+}

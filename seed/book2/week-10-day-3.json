@@ -1,0 +1,110 @@
+{
+  "week": 10,
+  "day": 3,
+  "order": 66,
+  "keyword": "입다",
+  "meaning": "to wear (clothes)",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "갈아입다",
+      "english": "to change (one's clothes)",
+      "notes": ""
+    },
+    {
+      "korean": "옷을 입다",
+      "english": "to wear clothes; to put on clothes",
+      "notes": "옷 = clothes, outfit"
+    },
+    {
+      "korean": "바지를 입다",
+      "english": "to wear pants; to put on pants",
+      "notes": "바지 = pants"
+    },
+    {
+      "korean": "잠옷을 입다",
+      "english": "to wear pajamas; to put on pajamas",
+      "notes": "잠옷 = pajamas"
+    },
+    {
+      "korean": "뒤집어 입다",
+      "english": "to wear (clothes) inside out",
+      "notes": "뒤집다 = to turn something inside out; to flip"
+    },
+    {
+      "korean": "정장 입고 오세요.",
+      "english": "Wear a suit/dress.",
+      "notes": "정장 = suit"
+    },
+    {
+      "korean": "그 옷 잘 어울려요.",
+      "english": "You look good in that outfit.",
+      "notes": "잘 = well\n어울리다 = to suit, match"
+    },
+    {
+      "korean": "이 옷 입어 봐도 돼요?",
+      "english": "Can I try this on?",
+      "notes": "이 = this\n-이/-이/여도 되다 = to be okay to + V"
+    },
+    {
+      "korean": "뭐 입고 갈지 정했어요?",
+      "english": "Have you decided what to wear?",
+      "notes": "정하다 = to decide"
+    },
+    {
+      "korean": "옷을 좀 더 따뜻하게 입으세요.",
+      "english": "Wear warmer clothes.",
+      "notes": "따뜻하다 = to be warm\n따뜻하게 is the adverb form of 따뜻하다."
+    },
+    {
+      "korean": "거기는 어떤 옷 입고 가야 돼요?",
+      "english": "What kind of clothes do I have to wear when I go there?",
+      "notes": "거기 = there\t가다 = to go; to leave\n어떤 = what kind of\t-이/-이/여야 되다 = to have to + V"
+    },
+    {
+      "korean": "티셔츠를 뒤집어 입은 것 같아요.",
+      "english": "I think you are wearing your t-shirt inside out.",
+      "notes": "티셔츠 = t-shirt\n- 것 같다 = it seems/looks like + S + V"
+    },
+    {
+      "korean": "저기 노란 옷 입은 사람 누구예요?",
+      "english": "Who's that person in the yellow shirt?",
+      "notes": "저기 = there\n노랗다 = to be yellow\n누란 is the adjective form of 노랗다.\n누구 = who"
+    },
+    {
+      "korean": "이 옷 입어 봤는데 좀 큰 것 같아요.",
+      "english": "I've just tried this on, but I think it's a little too big for me.",
+      "notes": "크다 = to be big; to be tall; to be loud\n큼 is the adjective form of 크다."
+    },
+    {
+      "korean": "지금 그 옷 입기에는 너무 덥지 않아요?",
+      "english": "Isn't it too hot to wear those clothes?",
+      "notes": "지금 = now\n-기에 = (to be too + adjective) + to + V\n너무 = too much, excessively; very\n덥다 = to be hot"
+    },
+    {
+      "korean": "입을 옷이 별로 없어서 옷 사러 가려고요.",
+      "english": "I don't have many clothes to wear, so I am going shopping for clothes.",
+      "notes": "별로 = not particularly, not very, not so much, not really\n사다 = to buy\n-(으)는 가다 = to go to + V"
+    },
+    {
+      "korean": "한 번 입었는데 벌써 이렇게 더러워졌어요.",
+      "english": "I've worn this just once and it already got dirty like this.",
+      "notes": "한 번 = once, one time\n벌써 = already\n더럽다 = to be dirty\n-이/-이/여지다 = to become + adjective"
+    },
+    {
+      "korean": "지금 입고 있는 티셔츠는 어디에서 샀어요?",
+      "english": "Where did you buy the t-shirt you are wearing now?",
+      "notes": "어디 = where; somewhere"
+    },
+    {
+      "korean": "옷이 더러워져서 그대로는 못 입을 것 같아요.",
+      "english": "My clothes got dirty, so I don't think I can wear them.",
+      "notes": "그대로 = as it is, without changing anything"
+    },
+    {
+      "korean": "인터넷 쇼핑몰에서는 옷을 사기 전에 입어 볼 수가 없어요.",
+      "english": "On Internet shopping malls, you can't try on clothes before you buy them.",
+      "notes": "인터넷 = the Internet\n쇼핑몰 = shopping mall\n-기 전에 = before + S + V"
+    }
+  ]
+}

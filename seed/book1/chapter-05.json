@@ -1,0 +1,356 @@
+{
+  "chapter": 5,
+  "title": "Dinner",
+  "category": "Invitations",
+  "shortDialogue": [
+    {
+      "speaker": "현우",
+      "korean": "내일 어디로 가면 돼?",
+      "romanization": "",
+      "english": "Where should I go tomorrow?"
+    },
+    {
+      "speaker": "세경",
+      "korean": "내일 퇴근 후에 나랑 같이 가자.",
+      "romanization": "",
+      "english": "Let's go together after work tomorrow."
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "현우",
+      "korean": "세경아, 내일 바빠?",
+      "romanization": "",
+      "english": "Se-kyeong, are you busy tomorrow?"
+    },
+    {
+      "speaker": "세경",
+      "korean": "내일 선영이 만나.",
+      "romanization": "",
+      "english": "I'm meeting Seon-yeong tomorrow."
+    },
+    {
+      "speaker": "현우",
+      "korean": "그래?",
+      "romanization": "",
+      "english": "You are?"
+    },
+    {
+      "speaker": "세경",
+      "korean": "응. 왜? 무슨 일 있어?",
+      "romanization": "",
+      "english": "Yeah. Why? Anything happening?"
+    },
+    {
+      "speaker": "현우",
+      "korean": "아니, 그냥. 술 한잔하고 싶어서.",
+      "romanization": "",
+      "english": "No, nothing. I wanted to have a drink."
+    },
+    {
+      "speaker": "세경",
+      "korean": "그래? 내일 우리도 술 한잔할 거야. 너도 와!",
+      "romanization": "",
+      "english": "Really? We are also going to have a drink tomorrow. You should come, too!"
+    },
+    {
+      "speaker": "현우",
+      "korean": "그래도 돼?",
+      "romanization": "",
+      "english": "Is it ok?"
+    },
+    {
+      "speaker": "세경",
+      "korean": "응, 와도 돼. 선영이도 괜찮을 거야.",
+      "romanization": "",
+      "english": "Yeah, you can come. I think Seon-yeong will be fine with that."
+    },
+    {
+      "speaker": "현우",
+      "korean": "좋아. 그럼 어디로 가면 돼?",
+      "romanization": "",
+      "english": "Sounds good. Then, where should I go?"
+    },
+    {
+      "speaker": "세경",
+      "korean": "내일 퇴근 후에 나랑 같이 가자.",
+      "romanization": "",
+      "english": "Let's go together after work tomorrow."
+    },
+    {
+      "speaker": "현우",
+      "korean": "선영이는?",
+      "romanization": "",
+      "english": "How about Seon-yeong?"
+    },
+    {
+      "speaker": "세경",
+      "korean": "선영이는 일곱 시까지 술집으로 올 거야.",
+      "romanization": "",
+      "english": "Seon-yeong will come to the pub by 7."
+    }
+  ],
+  "culturalTip": "When native Korean speakers suggest having a drink, they use the expression \"한잔하다\". When translated literally, 한 means \"one\", 잔 means \"glass\" (and is also used as a counter for alcohol), and 하다 means \"to do\" or \"to have\". Therefore, they say, \"to have one glass\" as a suggestion. Let's have a glass!",
+  "koreanReview": "- Short Dialogue\n현우: 내일 어디로 가면 돼?\n세경: 내일 퇴근 후에 나랑 같이 가자.\n\n- Long Dialogue\n현우: 세경아, 내일 바빠?\n세경: 내일 선영이 만나.\n현우: 그래?\n세경: 응. 왜? 무슨 일 있어?\n현우: 아니, 그냥. 술 한잔하고 싶어서.\n세경: 그래? 내일 우리도 술 한잔할 거야. 너도 와!\n현우: 그래도 돼?\n세경: 응, 와도 돼. 선영이도 괜찮을 거야.\n현우: 좋아. 그럼 어디로 가면 돼?\n세경: 내일 퇴근 후에 나랑 같이 가자.\n현우: 선영이는?\n세경: 선영이는 일곱 시까지 술집으로 올 거야.",
+  "coreVocab": [
+    {
+      "korean": "내일",
+      "romanization": "nae-il",
+      "meaning": "tomorrow"
+    },
+    {
+      "korean": "어디",
+      "romanization": "eo-di",
+      "meaning": "where"
+    },
+    {
+      "korean": "-(으)로",
+      "romanization": "-(eu)-ro",
+      "meaning": "to, toward"
+    },
+    {
+      "korean": "가다",
+      "romanization": "ga-da",
+      "meaning": "to go"
+    },
+    {
+      "korean": "퇴근",
+      "romanization": "toe-geun",
+      "meaning": "getting off work"
+    },
+    {
+      "korean": "VERB + -(으)면 되다",
+      "romanization": "-(eu)-myeon doe-da",
+      "meaning": "to just have to + VERB, to be just supposed to + VERB, can just + VERB"
+    },
+    {
+      "korean": "NOUN + 후에",
+      "romanization": "hu-e",
+      "meaning": "after + NOUN"
+    },
+    {
+      "korean": "나",
+      "romanization": "na",
+      "meaning": "I, me (casual)"
+    },
+    {
+      "korean": "-(이)랑",
+      "romanization": "-(i)-rang",
+      "meaning": "with"
+    },
+    {
+      "korean": "같이",
+      "romanization": "ga-chi",
+      "meaning": "together"
+    },
+    {
+      "korean": "-자",
+      "romanization": "-ja",
+      "meaning": "let's (casual)"
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "내일",
+      "romanization": "nae-il",
+      "meaning": "tomorrow"
+    },
+    {
+      "korean": "바쁘다",
+      "romanization": "ba-ppeu-da",
+      "meaning": "to be busy"
+    },
+    {
+      "korean": "만나다",
+      "romanization": "man-na-da",
+      "meaning": "to meet"
+    },
+    {
+      "korean": "왜",
+      "romanization": "wae",
+      "meaning": "why"
+    },
+    {
+      "korean": "무슨",
+      "romanization": "mu-seun",
+      "meaning": "what"
+    },
+    {
+      "korean": "일",
+      "romanization": "il",
+      "meaning": "work"
+    },
+    {
+      "korean": "있다",
+      "romanization": "it-tta",
+      "meaning": "to exist, to have"
+    },
+    {
+      "korean": "그냥",
+      "romanization": "geu-nyang",
+      "meaning": "just, just because"
+    },
+    {
+      "korean": "술",
+      "romanization": "sul",
+      "meaning": "alcoholic drink"
+    },
+    {
+      "korean": "우리",
+      "romanization": "u-ri",
+      "meaning": "we"
+    },
+    {
+      "korean": "한잔하다",
+      "romanization": "han-ja-na-da",
+      "meaning": "to have a drink"
+    },
+    {
+      "korean": "오다",
+      "romanization": "o-da",
+      "meaning": "to come"
+    },
+    {
+      "korean": "괜찮다",
+      "romanization": "gwaen-chan-ta",
+      "meaning": "to be ok, to be alright"
+    },
+    {
+      "korean": "좋다",
+      "romanization": "jo-ta",
+      "meaning": "to be good, to like"
+    },
+    {
+      "korean": "그럼",
+      "romanization": "geu-reom",
+      "meaning": "then"
+    },
+    {
+      "korean": "어디",
+      "romanization": "eo-di",
+      "meaning": "where"
+    },
+    {
+      "korean": "가다",
+      "romanization": "ga-da",
+      "meaning": "to go"
+    },
+    {
+      "korean": "퇴근",
+      "romanization": "toe-geun",
+      "meaning": "getting off work"
+    },
+    {
+      "korean": "후",
+      "romanization": "hu",
+      "meaning": "after"
+    },
+    {
+      "korean": "같이",
+      "romanization": "ga-chi",
+      "meaning": "together"
+    },
+    {
+      "korean": "일곱 시",
+      "romanization": "il-gop si",
+      "meaning": "seven o'clock"
+    },
+    {
+      "korean": "술집",
+      "romanization": "sul-jjip",
+      "meaning": "pub, bar"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "Giving Permission",
+      "pattern": "VERB + -아/어/여도 돼(요) = you can VERB / it is ok to VERB",
+      "meaning": "you can VERB / it is ok to VERB",
+      "explanation": "",
+      "examples": [
+        {
+          "korean": "오다 + -아/어/여도 돼(요) → 와도 돼(요).",
+          "romanization": "",
+          "english": "You can come. / It is ok for you to come."
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "한잔하다 + -아/어/여도 돼(요)",
+          "answer": "한잔해도 돼(요).",
+          "english": "You can have a drink. / It is ok for you to have a drink."
+        },
+        {
+          "prompt": "가다 + -아/어/여도 돼(요)",
+          "answer": "가도 돼(요).",
+          "english": "You can go/leave. / It is ok for you to leave."
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Asking about the Requirements/Instructions When Given a Task",
+      "pattern": "VERB + -(으)면 돼(요)? : I just have to VERB? / So, all I have to do is VERB? / Is it ok if I just VERB?",
+      "meaning": "I just have to VERB? / So, all I have to do is VERB? / Is it ok if I just VERB?",
+      "explanation": "* If a verb stem ends with a vowel, attach -면 돼(요)? at the end, and if it ends with a consonant, use -으면 돼(요)?\n** There is no set translation of this phrase as the English meaning changes depending on the context of the sentence.",
+      "examples": [
+        {
+          "korean": "가다 + -(으)면 돼(요)? → 가면 돼(요)? = I just have to go?",
+          "romanization": "",
+          "english": "I just have to go?"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "만나다 + -(으)면 돼(요)?",
+          "answer": "만나면 돼(요)?",
+          "english": "So, all I have to do is meet?"
+        },
+        {
+          "prompt": "하다 + -(으)면 돼(요)?",
+          "answer": "하면 돼(요)?",
+          "english": "Is it ok if I just do (it)?"
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "When a syllable ends with ㄶ and is followed by a syllable that begins with a vowel, only the ㄴ is pronounced, while the ㅎ is not pronounced.",
+      "examples": [
+        {
+          "korean": "괜찮을 거야",
+          "pronounced": "괜찬을 꺼야",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "많은",
+          "answer": "마는",
+          "gloss": "a lot of"
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "When a syllable ends with ㄴ and is followed by a syllable that begins with a vowel, ㄴ becomes part of the following syllable rather than being pronounced distinctly as two different syllables.",
+      "examples": [
+        {
+          "korean": "[괜찬을 꺼야]",
+          "pronounced": "괜차늘 꺼야",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "끊을게",
+          "answer": "끄늘께",
+          "gloss": "I'll hang up"
+        }
+      ]
+    }
+  ]
+}

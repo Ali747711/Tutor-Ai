@@ -81,10 +81,206 @@ Guidelines:
 - When the user writes Korean with mistakes, gently correct it and show the natural version.
 - Use plain text (no markdown headers); short paragraphs and the occasional bullet are fine.`;
 
+// ---------------------------------------------------------------------------
+// Book 1 chapter extraction (vision → structured JSON)
+// ---------------------------------------------------------------------------
+
+/**
+ * System prompt for extracting one chapter of "Real-Life Korean Conversations
+ * for Beginners" from its page images into structured JSON. The caller supplies
+ * the chapter number, English title, and category as trusted hints.
+ */
+function buildExtractSystemPrompt({ chapter, title, category }) {
+  return `You are a meticulous bilingual (Korean/English) data-entry specialist transcribing one chapter of the textbook "Real-Life Korean Conversations for Beginners" into structured JSON.
+
+This is Chapter ${chapter}: "${title}" (category: ${category}).
+
+You will receive the ${"~8"} page images of this chapter in order: a title page, a Short Dialogue, a Vocabulary list, a Long Dialogue, an extended Vocabulary list, a "Grammar Points & Exercises" page (exactly two points, A and B), a "Pronunciation Points & Exercises" page (exactly two points, A and B), and a Korean-only review page (which also contains the Answer Keys at the bottom).
+
+Transcribe EXACTLY what is printed. Rules:
+- Preserve Hangul precisely, including spacing and punctuation. Do not translate, paraphrase, or "correct" anything.
+- Romanization appears in the book in [brackets] beneath words — copy it without the brackets. If a word has no printed romanization, use an empty string.
+- shortDialogue/longDialogue: one entry per spoken line, in order, with the speaker's name (e.g. "성찬"), the Korean line, its romanization if present (the short/long dialogue lines usually have none — use ""), and the English translation printed beneath.
+- coreVocab = the first Vocabulary list (after the short dialogue); extendedVocab = the second Vocabulary list (after the long dialogue). Each item: korean, romanization (from [brackets]), meaning (the English gloss, copied verbatim including any parenthetical).
+- grammar: exactly two objects, slot "A" then "B". Capture the bold section title (e.g. "Simple Statement"), the pattern formula line (e.g. "저는 NOUN + -이에요/예요."), a short English meaning, the explanation/notes text, the worked examples (Ex), and the numbered fill-in exercises. For each exercise, "prompt" is the cue shown (e.g. "저는 회사원 + -이에요/예요"), "answer" is the correct completed form from the Answer Key on the review page, and "english" is the English gloss printed under the exercise if any.
+- pronunciation: exactly two objects, slot "A" then "B". Capture the rule text, the worked examples (korean, the bracketed [pronunciation], romanization if shown), and the numbered exercises. For each exercise, "prompt" is the word to transcribe, "answer" is the correct pronunciation from the Answer Key, and "gloss" is any parenthetical meaning shown (e.g. "(nation)").
+- culturalTip: the full text of the "Cultural Tip" box (omit any example table).
+- koreanReview: the Korean-only text from the final review page (both short and long dialogues), newline-separated, no English.
+
+Match the Answer Keys at the bottom of the review page to the correct exercises. If a value is genuinely absent, use an empty string rather than inventing content.`;
+}
+
+const example = {
+  type: "object",
+  properties: {
+    korean: { type: "string" },
+    romanization: { type: "string" },
+    english: { type: "string" },
+  },
+  required: ["korean", "romanization", "english"],
+  additionalProperties: false,
+};
+
+const dialogueLine = {
+  type: "object",
+  properties: {
+    speaker: { type: "string" },
+    korean: { type: "string" },
+    romanization: { type: "string" },
+    english: { type: "string" },
+  },
+  required: ["speaker", "korean", "romanization", "english"],
+  additionalProperties: false,
+};
+
+const vocabItem = {
+  type: "object",
+  properties: {
+    korean: { type: "string" },
+    romanization: { type: "string" },
+    meaning: { type: "string" },
+  },
+  required: ["korean", "romanization", "meaning"],
+  additionalProperties: false,
+};
+
+const LESSON_EXTRACT_SCHEMA = {
+  type: "object",
+  properties: {
+    shortDialogue: { type: "array", items: dialogueLine },
+    longDialogue: { type: "array", items: dialogueLine },
+    culturalTip: { type: "string" },
+    koreanReview: { type: "string" },
+    coreVocab: { type: "array", items: vocabItem },
+    extendedVocab: { type: "array", items: vocabItem },
+    grammar: {
+      type: "array",
+      items: {
+        type: "object",
+        properties: {
+          slot: { type: "string", enum: ["A", "B"] },
+          title: { type: "string" },
+          pattern: { type: "string" },
+          meaning: { type: "string" },
+          explanation: { type: "string" },
+          examples: { type: "array", items: example },
+          exercises: {
+            type: "array",
+            items: {
+              type: "object",
+              properties: {
+                prompt: { type: "string" },
+                answer: { type: "string" },
+                english: { type: "string" },
+              },
+              required: ["prompt", "answer", "english"],
+              additionalProperties: false,
+            },
+          },
+        },
+        required: ["slot", "title", "pattern", "meaning", "explanation", "examples", "exercises"],
+        additionalProperties: false,
+      },
+    },
+    pronunciation: {
+      type: "array",
+      items: {
+        type: "object",
+        properties: {
+          slot: { type: "string", enum: ["A", "B"] },
+          rule: { type: "string" },
+          examples: {
+            type: "array",
+            items: {
+              type: "object",
+              properties: {
+                korean: { type: "string" },
+                pronounced: { type: "string" },
+                romanization: { type: "string" },
+              },
+              required: ["korean", "pronounced", "romanization"],
+              additionalProperties: false,
+            },
+          },
+          exercises: {
+            type: "array",
+            items: {
+              type: "object",
+              properties: {
+                prompt: { type: "string" },
+                answer: { type: "string" },
+                gloss: { type: "string" },
+              },
+              required: ["prompt", "answer", "gloss"],
+              additionalProperties: false,
+            },
+          },
+        },
+        required: ["slot", "rule", "examples", "exercises"],
+        additionalProperties: false,
+      },
+    },
+  },
+  required: [
+    "shortDialogue",
+    "longDialogue",
+    "culturalTip",
+    "koreanReview",
+    "coreVocab",
+    "extendedVocab",
+    "grammar",
+    "pronunciation",
+  ],
+  additionalProperties: false,
+};
+
+// ---------------------------------------------------------------------------
+// Book 2 day extraction (vision → structured JSON)
+// ---------------------------------------------------------------------------
+
+function buildKeywordExtractSystemPrompt({ week, day, keyword, meaning }) {
+  return `You are a meticulous bilingual (Korean/English) data-entry specialist transcribing one day of "My Weekly Korean Vocabulary Book 1" into structured JSON.
+
+This is Week ${week}, Day ${day}: keyword "${keyword}" (${meaning}).
+
+You will receive the page images for this day: a title page (the keyword + an illustration) followed by one or two pages listing exactly 20 sample expressions. Each expression has the Korean phrase (bold, left), its English translation directly beneath it, and a "Notes" breakdown in the right-hand column.
+
+Transcribe EXACTLY what is printed. Rules:
+- Confirm the keyword's romanization from the [brackets] on the title page; if absent, use an empty string.
+- expressions: exactly 20 objects in printed order. Each: "korean" = the bold Korean phrase, "english" = the English translation printed beneath it, "notes" = the full right-column Notes text for that expression joined with newlines (or "" if that expression has no notes).
+- Preserve Hangul precisely. Do not translate, paraphrase, or correct anything.`;
+}
+
+const KEYWORD_EXTRACT_SCHEMA = {
+  type: "object",
+  properties: {
+    romanization: { type: "string" },
+    expressions: {
+      type: "array",
+      items: {
+        type: "object",
+        properties: {
+          korean: { type: "string" },
+          english: { type: "string" },
+          notes: { type: "string" },
+        },
+        required: ["korean", "english", "notes"],
+        additionalProperties: false,
+      },
+    },
+  },
+  required: ["romanization", "expressions"],
+  additionalProperties: false,
+};
+
 module.exports = {
   buildQuestionSystemPrompt,
   QUESTION_SCHEMA,
   buildEvaluateSystemPrompt,
   EVALUATE_SCHEMA,
   TUTOR_SYSTEM_PROMPT,
+  buildExtractSystemPrompt,
+  LESSON_EXTRACT_SCHEMA,
+  buildKeywordExtractSystemPrompt,
+  KEYWORD_EXTRACT_SCHEMA,
 };

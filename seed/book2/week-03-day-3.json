@@ -1,0 +1,110 @@
+{
+  "week": 3,
+  "day": 3,
+  "order": 17,
+  "keyword": "느리다",
+  "meaning": "to be slow",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "느린 노래",
+      "english": "slow song",
+      "notes": "노래 = song"
+    },
+    {
+      "korean": "말이 느리다",
+      "english": "(someone) speaks slowly",
+      "notes": ""
+    },
+    {
+      "korean": "걸음이 느리다",
+      "english": "(someone) walks slowly",
+      "notes": ""
+    },
+    {
+      "korean": "반응이 느리다",
+      "english": "one's reaction is slow",
+      "notes": "반응 = one's reaction"
+    },
+    {
+      "korean": "이해가 느리다",
+      "english": "to be slow at understanding",
+      "notes": ""
+    },
+    {
+      "korean": "동작이 느리다",
+      "english": "to act slowly",
+      "notes": "동작 = one's action"
+    },
+    {
+      "korean": "한 박자 느리다",
+      "english": "one beat behind in responding or understanding\na little slow in responding or understanding\na little slow on the uptake",
+      "notes": "하나 = one (native Korean number)\n한 is the adjective form of 하나.\n박자 = tempo"
+    },
+    {
+      "korean": "왜 그렇게 반응이 느려요?",
+      "english": "Why is your reaction so slow?",
+      "notes": ""
+    },
+    {
+      "korean": "윤아 씨는 말이 정말 느려요.",
+      "english": "Yoona speaks very slowly.",
+      "notes": ""
+    },
+    {
+      "korean": "석진 씨는 이해가 좀 느려요.",
+      "english": "Seokjin is a little slow in understanding.",
+      "notes": "좀 = a little; please"
+    },
+    {
+      "korean": "인터넷이 너무 느려서 짜증나요.",
+      "english": "The Internet is really slow and I'm really annoyed.",
+      "notes": "짜증나다 = to be annoying; to be annoyed"
+    },
+    {
+      "korean": "컴퓨터가 너무 느려서 일을 하기 힘들 어요.",
+      "english": "The computer is so slow that it's hard to work (with it).",
+      "notes": "컴퓨터 = computer\n일을 하다 = to work"
+    },
+    {
+      "korean": "앞 차가 너무 느리게 가서 추월해 버렸 어요.",
+      "english": "The car in front of me was driving really slow, so I passed it.",
+      "notes": "앞 = in front of; front\n차 = car\n추월하다 = to pass (a car)\n-이/이/여 버리다 is used when talking about something that happened against your hope or expectations."
+    },
+    {
+      "korean": "KTX가 아무리 빨라도 비행기보다는 느 려요.",
+      "english": "No matter how fast KTX is, it's slower than an airplane.",
+      "notes": "KTX = Korean Train eXpress\nThe fastest train running in Korea. Top speed for trains in regular service is currently 305 km/h (190 mph).\n아무리 = no matter + adjective/adverb\n빨르다 = to be fast\n-이/이/여도 = even though; no matter how much + S + V\n비행기 = airplane\n-보다 = than + N"
+    },
+    {
+      "korean": "컴퓨터가 많이 느리면 메모리를 추가하 세요.",
+      "english": "If your computer is too slow, add memory.",
+      "notes": "많다 = to be a lot\n많이 is the adverb form of 많다.\n메모리 = (computer) memory\n추가하다 = to add"
+    },
+    {
+      "korean": "핸드폰을 4년 동안 썼더니 이제 많이 느려요.",
+      "english": "I've been using my mobile phone for four years now, so it's really slow.",
+      "notes": "핸드폰 = mobile phone\n4년 = four years\n동안 = during, while; for + period of time\n쓰다 = to use; to spend [+ money]\n-았/었/였던 = since/because + I/we + V-ed\n이제 = now"
+    },
+    {
+      "korean": "저는 겨울에는 이런 느린 노래를 듣는 걸 좋아해요.",
+      "english": "I like listening to slow songs like this in the winter.",
+      "notes": "겨울 = winter\n이런 = N + like this\n듣다 = to hear; to listen\n좋아하다 = to like"
+    },
+    {
+      "korean": "저는 걸음이 많이 느려서 어디 갈 때면 집에서 일찍 출발해요.",
+      "english": "I walk very slowly whenever I go somewhere, so I leave the house early.",
+      "notes": "어디 = where; somewhere\n-(으)면 = whenever + S + V\n집 = house; home\n일찍 = early; soon\n출발하다 = to depart"
+    },
+    {
+      "korean": "일본어를 배운 지 1주일 밖에 안 돼서 아직 일본어 읽는 속도가 많이 느려요.",
+      "english": "It's only been a week since I started learning Japanese, therefore I'm still slow at reading it.",
+      "notes": "일본어 = the Japanese language\n배우다 = to learn; to study\n-(으)ㄴ, X = (to have been a certain amount of time) since + S + V\n1주일 = one week\n밖에 = just, only\n안 = not\n~ 밖에 안 되다 = It's only been + (time); It's only been + (time) + since ...\n아직 = (not) yet\n읽다 = to read"
+    },
+    {
+      "korean": "저는 밥 먹는 속도가 느려서 남들이 밥 먹으면서 대화를 할 때 저는 조용히 먹 기만 해요.",
+      "english": "I eat slowly, so when people have a conversation while eating, I just eat quietly.",
+      "notes": "남 = other people; others\n-(으)면서 = while + S + V-ing\n대화 = conversation\n대화를 하다 = to have a conversation; to talk\n조용하다 = to be quiet\n조용히 is an adverb form of 조용하다.\n-기만 하다 = just + V; to only + V"
+    }
+  ]
+}

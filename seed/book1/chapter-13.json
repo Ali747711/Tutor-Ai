@@ -1,0 +1,351 @@
+{
+  "chapter": 13,
+  "title": "Furniture Store",
+  "category": "Shopping",
+  "shortDialogue": [
+    {
+      "speaker": "손님",
+      "korean": "이 침대 얼마예요?",
+      "romanization": "",
+      "english": "How much is this bed?"
+    },
+    {
+      "speaker": "점원",
+      "korean": "이건 오백만 원이에요.",
+      "romanization": "",
+      "english": "It's 5 million won."
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "손님",
+      "korean": "이 침대 얼마예요?",
+      "romanization": "",
+      "english": "How much is this bed?"
+    },
+    {
+      "speaker": "점원",
+      "korean": "이건 오백만 원이에요.",
+      "romanization": "",
+      "english": "It's 5 million won."
+    },
+    {
+      "speaker": "손님",
+      "korean": "비싸네요. 더 싼 거 있어요?",
+      "romanization": "",
+      "english": "It's expensive. Do you have something cheaper?"
+    },
+    {
+      "speaker": "점원",
+      "korean": "네. 있어요. 그럼 이건 어떠세요?",
+      "romanization": "",
+      "english": "Yes, we do. Then, how about this one?"
+    },
+    {
+      "speaker": "손님",
+      "korean": "이건 그것보다 사이즈가 좀 작네요. 가격이 더 싸요?",
+      "romanization": "",
+      "english": "This one is a little smaller than that one. Is it cheaper?"
+    },
+    {
+      "speaker": "점원",
+      "korean": "네. 아주 싸요. 사백구십만 원이에요.",
+      "romanization": "",
+      "english": "Yes, it's very cheap. It's 4 million, 9 hundred thousand won."
+    },
+    {
+      "speaker": "손님",
+      "korean": "별로 안 싸네요. 세일 안 해요?",
+      "romanization": "",
+      "english": "It's not that cheap. Is there no sale?"
+    },
+    {
+      "speaker": "점원",
+      "korean": "지금은 세일 안 해요.",
+      "romanization": "",
+      "english": "We are not having a sale yet."
+    },
+    {
+      "speaker": "손님",
+      "korean": "언제 세일해요?",
+      "romanization": "",
+      "english": "When are you having a sale?"
+    },
+    {
+      "speaker": "점원",
+      "korean": "아직은 계획이 없어요. 세일하면 연락드릴게요.",
+      "romanization": "",
+      "english": "We don't have any plans yet. I will let you know when we do."
+    },
+    {
+      "speaker": "손님",
+      "korean": "네. 침대 배달해 주세요?",
+      "romanization": "",
+      "english": "Yes. Do you deliver your beds?"
+    },
+    {
+      "speaker": "점원",
+      "korean": "네. 배달해 드려요.",
+      "romanization": "",
+      "english": "Yes, we deliver them."
+    }
+  ],
+  "culturalTip": "Sleeping on a bed only became a common practice in Korea during the 1990s. Older generations of Koreans still find it comfortable to sleep on the heated floor, known as 온돌 (on-dol). For that reason, many middle-aged Korean people often buy a stone or soil bed with a hard surface (no mattress) that can be heated, just like a traditional Korean floor.",
+  "koreanReview": "- Short Dialogue\n손님: 이 침대 얼마예요?\n점원: 이건 오백만 원이에요.\n\n- Long Dialogue\n손님: 이 침대 얼마예요?\n점원: 이건 오백만 원이에요.\n손님: 비싸네요. 더 싼 거 있어요?\n점원: 네. 있어요. 그럼 이건 어떠세요?\n손님: 이건 그것보다 사이즈가 좀 작네요. 가격이 더 싸요?\n점원: 네. 아주 싸요. 사백구십만 원이에요.\n손님: 별로 안 싸네요. 세일 안 해요?\n점원: 지금은 세일 안 해요.\n손님: 언제 세일해요?\n점원: 아직은 계획이 없어요. 세일하면 연락드릴게요.\n손님: 네. 침대 배달해 주세요?\n점원: 네. 배달해 드려요.",
+  "coreVocab": [
+    {
+      "korean": "이",
+      "romanization": "i",
+      "meaning": "this, these"
+    },
+    {
+      "korean": "침대",
+      "romanization": "chim-dae",
+      "meaning": "bed"
+    },
+    {
+      "korean": "얼마",
+      "romanization": "eol-ma",
+      "meaning": "how much"
+    },
+    {
+      "korean": "이건",
+      "romanization": "i-geon",
+      "meaning": "this, this thing"
+    },
+    {
+      "korean": "오백만",
+      "romanization": "o-baeng-man",
+      "meaning": "5 million"
+    },
+    {
+      "korean": "원",
+      "romanization": "won",
+      "meaning": "unit of Korean money, Korean won (₩)"
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "침대",
+      "romanization": "chim-dae",
+      "meaning": "bed"
+    },
+    {
+      "korean": "얼마",
+      "romanization": "eol-ma",
+      "meaning": "how much"
+    },
+    {
+      "korean": "오백만",
+      "romanization": "o-baeng-man",
+      "meaning": "5 million"
+    },
+    {
+      "korean": "비싸다",
+      "romanization": "bi-ssa-da",
+      "meaning": "to be expensive"
+    },
+    {
+      "korean": "더",
+      "romanization": "deo",
+      "meaning": "more"
+    },
+    {
+      "korean": "싸다",
+      "romanization": "ssa-da",
+      "meaning": "to be cheap"
+    },
+    {
+      "korean": "있다",
+      "romanization": "it-tta",
+      "meaning": "to exist, to have"
+    },
+    {
+      "korean": "그럼",
+      "romanization": "geu-reom",
+      "meaning": "then"
+    },
+    {
+      "korean": "이것",
+      "romanization": "i-geot",
+      "meaning": "this, this thing"
+    },
+    {
+      "korean": "좀",
+      "romanization": "jom",
+      "meaning": "a little bit"
+    },
+    {
+      "korean": "작다",
+      "romanization": "jak-tta",
+      "meaning": "to be small"
+    },
+    {
+      "korean": "가격",
+      "romanization": "ga-gyeok",
+      "meaning": "price"
+    },
+    {
+      "korean": "아주",
+      "romanization": "a-ju",
+      "meaning": "very"
+    },
+    {
+      "korean": "사백구십만",
+      "romanization": "sa-baek-gu-sim-man",
+      "meaning": "4 million, 9 hundred thousand"
+    },
+    {
+      "korean": "별로",
+      "romanization": "byeol-lo",
+      "meaning": "not so much"
+    },
+    {
+      "korean": "세일",
+      "romanization": "sse-il",
+      "meaning": "sale"
+    },
+    {
+      "korean": "하다",
+      "romanization": "ha-da",
+      "meaning": "to do"
+    },
+    {
+      "korean": "지금",
+      "romanization": "ji-geum",
+      "meaning": "now"
+    },
+    {
+      "korean": "언제",
+      "romanization": "eon-je",
+      "meaning": "when"
+    },
+    {
+      "korean": "아직",
+      "romanization": "a-jik",
+      "meaning": "yet"
+    },
+    {
+      "korean": "계획",
+      "romanization": "gye-hoek",
+      "meaning": "plan"
+    },
+    {
+      "korean": "없다",
+      "romanization": "eop-tta",
+      "meaning": "to not exist, to not have, to not be there"
+    },
+    {
+      "korean": "연락드리다",
+      "romanization": "yeol-lak-deu-ri-da",
+      "meaning": "to contact, to let (someone) know (honorific)"
+    },
+    {
+      "korean": "배달하다",
+      "romanization": "bae-da-ra-da",
+      "meaning": "to deliver"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "Expressing Your Impression",
+      "pattern": "VERB/ADJECTIVE + -네요.",
+      "meaning": "(Oh, I see that) it is VERB/ADJECTIVE.",
+      "explanation": "",
+      "examples": [
+        {
+          "korean": "작다 + -네요 → 작네요",
+          "romanization": "",
+          "english": "(Oh, I see that) it is small."
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "안 싸다 + -네요",
+          "answer": "안 싸네요.",
+          "english": "(Oh, I see that) it is not cheap."
+        },
+        {
+          "prompt": "세일하다 + -네요",
+          "answer": "세일하네요.",
+          "english": "(Oh, I see that) it is on sale."
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Conjunction: \"if\"",
+      "pattern": "VERB + -(으)면 = if (SUBJECT) VERB",
+      "meaning": "if (SUBJECT) VERB",
+      "explanation": "",
+      "examples": [
+        {
+          "korean": "세일하다 + -(으)면 → 세일하면",
+          "romanization": "",
+          "english": "if we have a sale"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "없다 + -(으)면",
+          "answer": "없으면",
+          "english": "if there is not"
+        },
+        {
+          "prompt": "배달하다 + -(으)면",
+          "answer": "배달하면",
+          "english": "if you deliver"
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "When a syllable ends with ㄱ and is followed by a syllable that begins with ㅁ, the ㄱ is pronounced as ㅇ.",
+      "examples": [
+        {
+          "korean": "백만원",
+          "pronounced": "뱅마뉜",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "국물",
+          "answer": "궁물",
+          "gloss": "(soup)"
+        },
+        {
+          "prompt": "곡물",
+          "answer": "공물",
+          "gloss": "(grain, cereal)"
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "When a syllable ends with ㅂ and is followed by a syllable that begins with ㅁ, the ㅂ is pronounced as ㅁ.",
+      "examples": [
+        {
+          "korean": "사백구십만",
+          "pronounced": "사백구심만",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "집문서",
+          "answer": "짐문서",
+          "gloss": "(house deed)"
+        },
+        {
+          "prompt": "입맛",
+          "answer": "임맏",
+          "gloss": "(appetite)"
+        }
+      ]
+    }
+  ]
+}

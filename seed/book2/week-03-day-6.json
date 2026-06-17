@@ -1,0 +1,110 @@
+{
+  "week": 3,
+  "day": 6,
+  "order": 20,
+  "keyword": "냄새",
+  "meaning": "smell, odor",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "좋은 냄새",
+      "english": "good smell",
+      "notes": "좋은 is the adjective form of 좋다."
+    },
+    {
+      "korean": "독특한 냄새",
+      "english": "unique smell",
+      "notes": "독특하다 = to be unique\n독특한 is the adjective form of 독특하다."
+    },
+    {
+      "korean": "이상한 냄새",
+      "english": "weird smell",
+      "notes": "이상하다 = to be weird, odd, strange\n이상한 is the adjective form of 이상하다."
+    },
+    {
+      "korean": "냄새가 나다",
+      "english": "something smells",
+      "notes": ""
+    },
+    {
+      "korean": "냄새를 맡다",
+      "english": "to smell (something)",
+      "notes": "맡다 = to smell"
+    },
+    {
+      "korean": "이거 무슨 냄새예요?",
+      "english": "What is this smell?",
+      "notes": "무슨 = what; what kind of"
+    },
+    {
+      "korean": "뭔가 타는 냄새 안 나요?",
+      "english": "Don't you smell something burning?",
+      "notes": "뭔가 = something (subject)\n뭔가 is the contracted form of 무언가.\n타다 = to burn; to get tan\n냄새가 나다 = something smells"
+    },
+    {
+      "korean": "바다 냄새가 너무 좋아요.",
+      "english": "I really like the smell of the sea.",
+      "notes": ""
+    },
+    {
+      "korean": "이상한 냄새가 나지 않아요?",
+      "english": "Don't you smell something strange?",
+      "notes": ""
+    },
+    {
+      "korean": "이거 냄새 한번 맡아 보세요.",
+      "english": "Try smelling this.",
+      "notes": "-이/어/여 보세요 = Please try + V-ing"
+    },
+    {
+      "korean": "맛있는 냄새가 나는 것 같아요.",
+      "english": "I think I smell something delicious.",
+      "notes": "맛있다 = to be delicious\n맛있는 is the adjective form of 맛있다."
+    },
+    {
+      "korean": "이 종이에서는 꽃 냄새가 나요.",
+      "english": "This paper smells like a flower.",
+      "notes": "종이 = paper\n꽃 = flower"
+    },
+    {
+      "korean": "이 냄새는 어디에서 나는 거죠?",
+      "english": "Where is the smell coming from?",
+      "notes": ""
+    },
+    {
+      "korean": "이걸 넣으면 냄새가 좋아질 거예요.",
+      "english": "If you put this in, it will make it smell better.",
+      "notes": "이걸 = this (object)\n넣다 = to put (something) in\n좋아지다 = to become good/fine\n이걸 is the contracted form of 이것을."
+    },
+    {
+      "korean": "맛있는 냄새가 나서 더 배고파졌어요.",
+      "english": "Because of the delicious smell, I feel more hungry now.",
+      "notes": "배고프다 = to be hungry, to be starving"
+    },
+    {
+      "korean": "냄새가 나는 물건은 밖에 내놓으세요.",
+      "english": "Put the stuff that smells outside.",
+      "notes": "물건 = thing, item, stuff, belonging\n밖 = outside\n내놓다 = to put something outside"
+    },
+    {
+      "korean": "어디에서가 좋은 냄새가 나는 것 같아요.",
+      "english": "I think there's a good smell coming from somewhere.",
+      "notes": "어디에서가 = from somewhere"
+    },
+    {
+      "korean": "청소를 하고 나면 냄새가 없어질 거예요.",
+      "english": "After cleaning, the smell will disappear.",
+      "notes": "청소 = cleaning\n청소를 하다 = to clean\n-고 나면 = once + S + finish + V-ing\n없어지다 = to disappear"
+    },
+    {
+      "korean": "그 음식은 맛은 있는데 냄새가 이상해요.",
+      "english": "That food is delicious, but it smells weird.",
+      "notes": "그 = the; that\n음식 = food\n맛이 있다 = to be delicious"
+    },
+    {
+      "korean": "그 옷은 냄새가 나니까 빨아야 할 것 같아요.",
+      "english": "Those clothes smell, so I think you should wash them.",
+      "notes": "옷 = clothes, outfit\n빨다 = to wash one's clothes\n-이/어/여야 하다 = should; have to; must"
+    }
+  ]
+}

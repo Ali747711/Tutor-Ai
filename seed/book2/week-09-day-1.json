@@ -1,0 +1,110 @@
+{
+  "week": 9,
+  "day": 1,
+  "order": 57,
+  "keyword": "무섭다",
+  "meaning": "to be scary; to be scared",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "무서운 꿈",
+      "english": "scary dream",
+      "notes": "꿈 = dream"
+    },
+    {
+      "korean": "무서운 영화",
+      "english": "scary movie",
+      "notes": "영화 = movie"
+    },
+    {
+      "korean": "무서운 이야기",
+      "english": "scary story",
+      "notes": "이야기 = story; what one says"
+    },
+    {
+      "korean": "무서운 꿈을 꾸다",
+      "english": "to have a scary dream",
+      "notes": "꿈을 꾸다 = to have a dream; to dream"
+    },
+    {
+      "korean": "무서운 이야기를 하다",
+      "english": "to tell a scary story",
+      "notes": "이야기를 하다 = to talk, speak, say, tell; to have a conversation; to tell a story"
+    },
+    {
+      "korean": "안 무서워요?",
+      "english": "Aren't you scared?\nIsn't it scary?",
+      "notes": "안 = not"
+    },
+    {
+      "korean": "하나도 안 무서워요.",
+      "english": "It's not scary at all.\nI'm not scared at all.",
+      "notes": "하나도 = not even one; not at all"
+    },
+    {
+      "korean": "무서워하지 마세요.",
+      "english": "Don't be afraid.",
+      "notes": "무서워하다 = to be afraid; to fear\n-지 마세요 = (polite) Don't + V"
+    },
+    {
+      "korean": "안 무서운 척 하지 말아요.",
+      "english": "Don't pretend you are not scared.",
+      "notes": "- 척 하다 = to pretend\n-지 말아요. = Don't + V."
+    },
+    {
+      "korean": "어제 본 영화 정말 무서웠어요.",
+      "english": "The movie I saw yesterday was really scary.",
+      "notes": "어제 = yesterday\n보다 = to see; to look; to watch; to meet up; to read\n정말 = really; very"
+    },
+    {
+      "korean": "집에 혼자 있으면 정말 무서워요.",
+      "english": "When I'm at home alone, it's really scary.",
+      "notes": "집 = house, home\n혼자 = alone, by oneself\n있다 = to be there; to exist; to have\n-(으)면 = if + S + V; when/once + S + V"
+    },
+    {
+      "korean": "무서운 영화 보는 거 좋아하세요?",
+      "english": "Do you like watching scary movies?",
+      "notes": "좋아하다 = to like"
+    },
+    {
+      "korean": "저는 무서운 놀이기구는 잘 못 타요.",
+      "english": "I can't ride scary theme park rides very well.",
+      "notes": "저 = (polite) I; me\n못 = can't\n놀이기구 = amusement park rides\n잘 = well; carefully\n타다 = to ride; to get on; to take (vehicle)"
+    },
+    {
+      "korean": "이 영화 별로 안 무서우니까 걱정하지 마세요.",
+      "english": "This movie is not that scary, so don't worry.",
+      "notes": "이 = this\n별로 = not particularly, not very, not so much, not really\n-(으)니까 = since, because\n걱정하다 = to worry"
+    },
+    {
+      "korean": "어제 무서운 영화를 봐서 밤에 무서운 꿈을 꿨어요.",
+      "english": "I watched a scary movie yesterday, so I had a scary dream at night.",
+      "notes": "밤 = night"
+    },
+    {
+      "korean": "속으로는 무서웠지만 겉으로는 안 무서운 척 했어요.",
+      "english": "I was scared on the inside, but I pretended that I wasn't scared.",
+      "notes": "속 = inside\n-지만 = but, however; though\n겉 = outside, exterior"
+    },
+    {
+      "korean": "옆집에 큰 개가 있는데 지나갈 때마다 너무 무서워요.",
+      "english": "There is a huge dog next door that scares me every time I pass by it.",
+      "notes": "옆 = next\n크다 = to be big; to be tall; to be loud\n큰 is the adjective form of 크다.\n개 = dog\n지나가다 = to pass by, go past\n-(으)ㄹ = whenever + S + V\n너무 = too much, excessively; very"
+    },
+    {
+      "korean": "친구한테 무서운 이야기를 들어서 밤에 잠을 못 잤어요.",
+      "english": "I heard a scary story from my friend, so I couldn't sleep at night.",
+      "notes": "듣다 = to hear; to listen\n잠 = sleep\n잠을 자다 = to sleep"
+    },
+    {
+      "korean": "그 선생님은 평소에는 온화하신데 화가 나면 정말 무서우세요.",
+      "english": "The teacher is usually mild-tempered, but when he gets mad, he's really scary.",
+      "notes": "그 = the; that\n선생님 = teacher\n평소 = usual day, ordinary day\n온화하다 = to be mild-tempered; to be gentle, mild-mannered\n화 = anger\n화가 나다 = to get angry/upset"
+    },
+    {
+      "korean": "어제 택시를 탔는데 기사 아저씨가 너무 빨리 운전해서 무서웠어요.",
+      "english": "I took a taxi yesterday, but the driver drove too fast, so I was scared.",
+      "notes": "택시 = cab, taxi\n기사 아저씨 = male driver (mainly of a bus or a taxi)\n빨리다 = to be fast\n빨리 is an adverb form of 빨라다.\n운전하다 = to drive\n-아/어/여서 = because, since"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "week": 6,
+  "day": 1,
+  "order": 36,
+  "keyword": "울다",
+  "meaning": "to cry",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "밤새 울다",
+      "english": "to cry all night long",
+      "notes": "밤 = night\n밤새 = overnight; all night long"
+    },
+    {
+      "korean": "기뻐서 울다",
+      "english": "to cry out of joy",
+      "notes": "기뻐다 = to be joyful, glad\n-아/어/여서 = because, since"
+    },
+    {
+      "korean": "큰 소리로 울다",
+      "english": "to cry out loud",
+      "notes": "크다 = to be big; to be tall; to be loud\n큰 is the adjective form of 크다.\n소리 = sound\n큰 소리 = loud noise, loud sound"
+    },
+    {
+      "korean": "울지 마세요.",
+      "english": "Don't cry.",
+      "notes": "-지 마세요 = (polite) Don't + V"
+    },
+    {
+      "korean": "그만 울어요.",
+      "english": "Stop crying.",
+      "notes": "그만 -아/어/여요. = Stop + V-ing.; Now, let's just + V."
+    },
+    {
+      "korean": "왜 울고 있어요?",
+      "english": "Why are you crying?",
+      "notes": "왜 = why; for what reason; how come\n-고 있다 = to be + V-ing"
+    },
+    {
+      "korean": "울고 싶었지만 참았어요.",
+      "english": "I wanted to cry, but I held back.",
+      "notes": "-고 싶다 = to want to + V\n-지만 = but, however; though\n참다 = to suppress, to hold back"
+    },
+    {
+      "korean": "그 여자는 울 때도 예뻐요.",
+      "english": "She is pretty even when she cries.",
+      "notes": "그 = the; that\n여자 = girl, woman\n-(으)ㄹ 때 = when/while + S + V\n-도 = too, also\n예쁘다 = to be pretty"
+    },
+    {
+      "korean": "너무 슬퍼서 밤새 울었어요.",
+      "english": "I was so sad that I cried all night long.",
+      "notes": "너무 = too much, excessively; very\n슬프다 = to be sad"
+    },
+    {
+      "korean": "너무 울어서 눈이 부었어요.",
+      "english": "I cried so much that my eyes got swollen.",
+      "notes": "눈 = eye\n붓다 = to swell"
+    },
+    {
+      "korean": "그 사람은 잘 우는 편이에요.",
+      "english": "He tends to cry easily.",
+      "notes": "사람 = person, people\n잘 = well; carefully\n-(으)ㄴ 편이다 = to tend to + V"
+    },
+    {
+      "korean": "아기가 울다 지쳐 잠이 들었어요.",
+      "english": "The baby cried himself to sleep.",
+      "notes": "아기 = baby\n-다 지치다 = to get tired from + V-ing; to get tired while + V-ing\n잠 = sleep\n잠이 들다 = to fall asleep"
+    },
+    {
+      "korean": "아기가 배고파서 우는 것 같아요.",
+      "english": "It seems like the baby is crying because she's hungry.",
+      "notes": "배고프다 = to be hungry, starving\n-것 같다 = It seems/looks like + S + V"
+    },
+    {
+      "korean": "상을 받고 너무 기뻐서 울었어요.",
+      "english": "I was so happy to receive the award that I cried.",
+      "notes": "상 = prize\n받다 = to receive"
+    },
+    {
+      "korean": "울지 말고 자세히 설명해 보세요.",
+      "english": "Stop crying and explain it to me in detail.",
+      "notes": "자세하다 = to be specific, detailed\n자세히 is an adverb form of 자세하다.\n설명하다 = to explain\n-아/어/여 보다 = (polite) imperative\n-(으)세요 = (polite) imperative"
+    },
+    {
+      "korean": "어린 아이가 넘어져서 울고 있어요.",
+      "english": "A kid fell down and is crying.",
+      "notes": "어리다 = to be young\n아린 is the adjective form of 어리다.\n아이 = child, kid; baby\n넘어지다 = to fall (down); to trip"
+    },
+    {
+      "korean": "심킷 울었더니 기분이 좀 나아졌어요.",
+      "english": "I cried my eyes out, and now I feel better.",
+      "notes": "심킷 = as much as one wishes, to one's heart's content\n-더니 = S + V-ed and and as a result\n기분 = feelings; mood\n좀 = a little; please\n나아지다 = to get better; to improve"
+    },
+    {
+      "korean": "어제 슬픈 영화를 보고 많이 울었어요.",
+      "english": "Yesterday, I watched a sad movie and cried a lot.",
+      "notes": "어제 = yesterday\n보다 = to see; to look; to watch; to meet up; to read\n슬픈 is the adjective form of 슬프다.\n영화 = movie\n많이 = a lot\n많이 is an adverb form of 많다."
+    },
+    {
+      "korean": "울지만 말고 무슨 일이 있었는지 말을 해 봐요.",
+      "english": "Don't cry, just tell me what happened.",
+      "notes": "무슨 = what; what kind of\n일 = work; task; thing; stuff; occasion\n있다 = something happened, something came up\n-기만 하다 = just + V, to only + V\n문제 = problem, issue; thing; matter\n해결되다 = to be solved\n-(으)세요 = (polite) imperative"
+    },
+    {
+      "korean": "울기만 하다고 문제가 해결되는 건 아니잖아요.",
+      "english": "Crying doesn't solve the problem.",
+      "notes": "-기만 하다 = just + V, to only + V\n문제 = problem, issue; thing; matter\n해결되다 = to be solved\n-(으)세요 = (polite) imperative\n-(잖아요) is a sentence ending used most commonly when correcting another person's remark or when refreshing someone's memory."
+    }
+  ]
+}

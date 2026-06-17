@@ -1,0 +1,110 @@
+{
+  "week": 6,
+  "day": 6,
+  "order": 41,
+  "keyword": "문제",
+  "meaning": "problem, issue, thing; matter",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "시험 문제",
+      "english": "exam questions",
+      "notes": ""
+    },
+    {
+      "korean": "사회 문제",
+      "english": "social problem",
+      "notes": "사회 = society"
+    },
+    {
+      "korean": "개인적인 문제",
+      "english": "personal problem",
+      "notes": "개인적이다 = to be personal; to be private"
+    },
+    {
+      "korean": "문제를 풀다",
+      "english": "to solve a problem",
+      "notes": "풀다 = to solve; to resolve"
+    },
+    {
+      "korean": "문제가 있다",
+      "english": "a problem exists; there is a problem",
+      "notes": ""
+    },
+    {
+      "korean": "중요한 문제",
+      "english": "an important matter",
+      "notes": "중요하다 = to be important\n중요한 is the adjective form of 중요하다."
+    },
+    {
+      "korean": "어려운 문제",
+      "english": "a difficult problem",
+      "notes": "어려운 is the adjective form of 어렵다."
+    },
+    {
+      "korean": "문제가 복잡하다",
+      "english": "the problem is complicated",
+      "notes": "복잡하다 = complicated"
+    },
+    {
+      "korean": "문제를 일으키다",
+      "english": "to cause a problem",
+      "notes": "일으키다 = to cause"
+    },
+    {
+      "korean": "문제를 처리하다",
+      "english": "to take care of a problem",
+      "notes": "처리하다 = to take care of + N"
+    },
+    {
+      "korean": "문제를 해결하다",
+      "english": "to (re)solve a problem",
+      "notes": ""
+    },
+    {
+      "korean": "문제가 생겼어요.",
+      "english": "A problem has appeared.; We have a problem.",
+      "notes": "생기다 = to come into being; to be created; to appear; to be formed"
+    },
+    {
+      "korean": "이 문제는 너무 어려워요.",
+      "english": "This question is too difficult.",
+      "notes": "이 = this\n어렵다 = to be difficult"
+    },
+    {
+      "korean": "그 사람은 맨날 문제를 일으켜요.",
+      "english": "That person always causes problems.",
+      "notes": ""
+    },
+    {
+      "korean": "이건 중요한 문제니까 잘 들으세요.",
+      "english": "This is an important matter, so listen carefully.",
+      "notes": ""
+    },
+    {
+      "korean": "시험 문제가 너무 어려워서 다 못 풀었어요.",
+      "english": "The questions on the exam were too difficult, so I couldn't solve all of them.\nThe exam was too difficult, so I couldn't finish it.",
+      "notes": "못 = can't"
+    },
+    {
+      "korean": "그건 개인적인 문제라 말씀드릴 수가 없네요.",
+      "english": "That is a personal matter, so I cannot tell you.",
+      "notes": "개인적인 is the adjective form of 개인적이다.\n말씀드리다 = (polite) to talk; to say; to speak; to tell"
+    },
+    {
+      "korean": "핸드폰에 문제가 있는 것 같아요, 자꾸 꺼져요.",
+      "english": "I think there is a problem with my phone. It keeps turning off.",
+      "notes": "핸드폰 = mobile phone\n꺼지다 = N + turns off"
+    },
+    {
+      "korean": "저는 수학 문제 푸는데 시간이 너무 오래 걸려요.",
+      "english": "It takes too much time for me to solve math problems.",
+      "notes": "수학 = math\n시간 = time; hour\n오래 = for a long time, a long time\n-는 데(에) 시간이 걸리다 = to take (a certain amount of) time in + V-ing"
+    },
+    {
+      "korean": "그 사람은 문제를 해결하려고 하지 않고 피하려고만 해요.",
+      "english": "That person never tries to solve the problem and only tries to avoid it.",
+      "notes": "피하다 = to avoid"
+    }
+  ]
+}

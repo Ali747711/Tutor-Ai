@@ -1,0 +1,110 @@
+{
+  "week": 8,
+  "day": 6,
+  "order": 55,
+  "keyword": "사이",
+  "meaning": "relationship, relations",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "친구 사이",
+      "english": "friend(ly) relation; friends",
+      "notes": ""
+    },
+    {
+      "korean": "연인 사이",
+      "english": "a couple",
+      "notes": "연인 = unmarried couple"
+    },
+    {
+      "korean": "친한 사이",
+      "english": "close relation",
+      "notes": "친하다 = to be close (with other people)"
+    },
+    {
+      "korean": "사이가 좋다",
+      "english": "to have a good relationship\nto get along well",
+      "notes": "좋다 = to be good, likable; to be desirable; to be nice; to like"
+    },
+    {
+      "korean": "사이가 안 좋다",
+      "english": "to have a bad relationship\nto not get along well",
+      "notes": ""
+    },
+    {
+      "korean": "어떻게 아는 사이에요?",
+      "english": "How do you know each other?",
+      "notes": ""
+    },
+    {
+      "korean": "두 사람 아는 사이였어요?",
+      "english": "You two know each other?",
+      "notes": "둘 = two (native Korean number)\n두 is the adjective form of 둘."
+    },
+    {
+      "korean": "저희는 그냥 친구 사이에요.",
+      "english": "We are just friends.",
+      "notes": "저희 = (polite) we; us; our\n그냥 = just, only, simply"
+    },
+    {
+      "korean": "그 사람하고 어떤 사이에요?",
+      "english": "What kind of relationship do you have with him/her?",
+      "notes": "어떤 = what kind of; which"
+    },
+    {
+      "korean": "우리 사이에 못 할 말이 어디 있어요?",
+      "english": "What words are there that cannot be spoken between us?\nIs there anything we can't tell each other?",
+      "notes": "할(을) 하다 = to say, speak, tell, talk"
+    },
+    {
+      "korean": "자는 부모님하고 사이가 아주 좋아요.",
+      "english": "I have a good relationship with my parents.",
+      "notes": "부모님 = parents\n아주 = very, really"
+    },
+    {
+      "korean": "여기에서 누구랑 사이가 제일 좋아요?",
+      "english": "Who do you get along with the best out of the people here?",
+      "notes": "여기 = here, this place\n누구 = who\n제일 = the best; the most"
+    },
+    {
+      "korean": "친구 사이에 부끄러움 게 뭐가 있어요?",
+      "english": "What is there to be embarrassed about between friends?",
+      "notes": "부끄럽다 = to be ashamed; to be shameful; to be embarrassed; to be embarrassing"
+    },
+    {
+      "korean": "그 사람하고 아는 사이인 줄 몰랐어요.",
+      "english": "I didn't know you were acquainted with her.",
+      "notes": "-은 줄 모르다 = to not know/notice + S + be\n+ N"
+    },
+    {
+      "korean": "룸메이트하고 사이 좋게 잘 지내고 있어요.",
+      "english": "I am getting along well with my roommate.\nI have a good report with my roommate.\nI have a good relationship with my roommate.",
+      "notes": "룸메이트 = roommate\n사이 좋게 지내다 = to get along"
+    },
+    {
+      "korean": "그 사람은 친구들 사이에서 인기가 많아요.",
+      "english": "He is popular among his friends.",
+      "notes": "인기가 많다 = to be popular"
+    },
+    {
+      "korean": "자는 제 여동생하고 사이가 별로 안 좋아요.",
+      "english": "I don't have a very good relationship with my younger sister.\nI don't get along well with my younger sister.",
+      "notes": "여동생 = younger sister\n별로 = not particularly, not very, not so much, not really"
+    },
+    {
+      "korean": "그 두 사람은 사이가 별로 안 좋은 것 같아요.",
+      "english": "It seemed like the two people did not have a very good relationship.",
+      "notes": ""
+    },
+    {
+      "korean": "그 두 사람이 그렇게 사이가 좋은 줄 몰랐어요.",
+      "english": "I didn't know those two were in such a good relationship.",
+      "notes": "그렇게 = like that; such + adjective/adverb\n-는 줄 모르다 = to not know/notice + S + V"
+    },
+    {
+      "korean": "지난번에 그 사람하고 싸워서 사이가 안 좋아졌어요.",
+      "english": "I argued with him last time, and the relationship became bad.\nI argued with him last time, and the relationship took a turn for the worse.",
+      "notes": "지난번 = last time"
+    }
+  ]
+}

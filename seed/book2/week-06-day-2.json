@@ -1,0 +1,110 @@
+{
+  "week": 6,
+  "day": 2,
+  "order": 37,
+  "keyword": "짜증",
+  "meaning": "irritation, annoyance",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "짜증 나는 일",
+      "english": "something irritating",
+      "notes": ""
+    },
+    {
+      "korean": "짜증이 나다",
+      "english": "to be irritated/irritating; to be annoyed/annoying",
+      "notes": ""
+    },
+    {
+      "korean": "짜증을 내다",
+      "english": "to show irritation; to act irritated",
+      "notes": ""
+    },
+    {
+      "korean": "짜증을 부리다",
+      "english": "to show irritation; to act irritated",
+      "notes": ""
+    },
+    {
+      "korean": "짜증 나게 하다",
+      "english": "to annoy; to make (someone) annoyed",
+      "notes": "-게 하다 = to make someone/something + V"
+    },
+    {
+      "korean": "왜 그렇게 짜증을 내요?",
+      "english": "Why are you acting irritated like that?",
+      "notes": "그렇게 = like that; such + adjective/adverb"
+    },
+    {
+      "korean": "그 사람은 맨날 짜증 내요.",
+      "english": "He always acts irritated.; He's always irritated.",
+      "notes": "그 사람 = that person; he, she\n맨날 = every day; all the time"
+    },
+    {
+      "korean": "무슨 짜증 나는 일 있어요?",
+      "english": "Is there something that's irritating (you)?\nWhat's bugging you?",
+      "notes": "있어요 = to be there; to exist; to have"
+    },
+    {
+      "korean": "짜증 내지 말고 즐겁게 해요.",
+      "english": "Don't be annoyed, just be pleasant about it.",
+      "notes": "즐겁다 = to be pleasant, enjoyable\n즐겁게 is an adverb form of 즐겁다.\n하다 = to do"
+    },
+    {
+      "korean": "짜증이 가득 섞인 목소리였어요.",
+      "english": "It was a voice filled with irritation.",
+      "notes": "가득 = full, in full capacity\n섞이다 = to be mixed; to blend; to be blended\n목소리 = voice"
+    },
+    {
+      "korean": "그 사람은 저를 너무 짜증 나게 해요.",
+      "english": "He makes me so irritated.",
+      "notes": "저 = (polite) I; me"
+    },
+    {
+      "korean": "아기가 배가 고픈지 짜증을 부리네요.",
+      "english": "The baby is showing irritation. She seems hungry.",
+      "notes": "배기 = hungry\n고픈다 = to be hungry\n-(으)ㄴ지 = maybe because\n-네요 is a sentence ending that expresses realization of a fact or agreement to a statement."
+    },
+    {
+      "korean": "엘리베이터가 층마다 서니까 짜증 나요.",
+      "english": "The elevator is stopping at every floor and it's annoying.",
+      "notes": "엘리베이터 = elevator\n층 = floor\n-마다 = every + N\n서다 = to stand; to stop\n-(으)ㄴ까 = since, because"
+    },
+    {
+      "korean": "아침부터 왜 그렇게 짜증을 내고 그래요?",
+      "english": "Why have you been acting so annoyed since this morning?",
+      "notes": "아침 = morning; breakfast"
+    },
+    {
+      "korean": "몸이 안 좋아서 그런지 자꾸 짜증이 나요.",
+      "english": "I keep getting irritated, and I think it's because I don't feel well.",
+      "notes": "몸 = body\n안 = not\n좋다 = to be good, likable; to be desirable; to be nice; to like\n자꾸 = repeatedly, again and again"
+    },
+    {
+      "korean": "동생이 자꾸 제 옷을 몰래 입어서 너무 짜증 나요.",
+      "english": "My younger sister keeps secretly wearing my clothes and it's so annoying!",
+      "notes": "동생 = younger sister/brother\n제 = (polite) my; I\n옷 = clothes, outfit\n입다 = to wear"
+    },
+    {
+      "korean": "너무 그렇게 자주 짜증 내면 옆에 있는 사람도 짜증 나요.",
+      "english": "If you keep acting irritated like that, people around you will also get annoyed.",
+      "notes": "자주 = often, frequently\n-(으)면 = if + S + V; when/once + S + V\n옆 = next (to); on the side (of); around\n옆에 있는 사람 = nearby person"
+    },
+    {
+      "korean": "집안일을 아무도 안 도와줘서 혼자 다 하려니까 짜증 나요.",
+      "english": "It's annoying that no one is helping with the housework and I have to do all of it alone.",
+      "notes": "집안일 = homework\n아무도 = nobody; anybody (always used with a negative sentence structure)\n도와주다 = to help, give a hand\n혼자 = alone, by oneself\n다 = all; every (thing)\n-(으)려니까 = as one is about to + V"
+    },
+    {
+      "korean": "숙제가 많아서 바쁜데 동생이 자꾸 짜증 나게 해요.",
+      "english": "I'm busy because I have a lot of homework, but my younger brother, who's sitting next to me, keeps bugging me.",
+      "notes": "숙제 = homework, assignment\n비쌀다 = to be busy"
+    },
+    {
+      "korean": "안 그래도 늦었는데 왜 안 가져왔는 집에 다시 가야 되니까 짜증 나요.",
+      "english": "I'm already late and I'm annoyed since I have to go back home because I didn't bring something.",
+      "notes": "안 그래도 = already; anyway\n늦다 = to be late\n뭔 = what (object)\n뭔 is the contracted form of 무엇의.\n가져오다 = to bring\n집 = house, home\n다시 = again\n가다 = to go; to leave\n-아/어/여 되다 = to have to + V"
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "chapter": 10,
+  "title": "Clothing Store",
+  "category": "Shopping",
+  "shortDialogue": [
+    {
+      "speaker": "상미",
+      "korean": "이거 입어 볼 수 있어요?",
+      "romanization": "",
+      "english": "Can I try this on?"
+    },
+    {
+      "speaker": "점원",
+      "korean": "네. 입어 보세요.",
+      "romanization": "",
+      "english": "Yes, please try it on."
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "점원",
+      "korean": "어서 오세요.",
+      "romanization": "",
+      "english": "Welcome."
+    },
+    {
+      "speaker": "상미",
+      "korean": "네. 안녕하세요.",
+      "romanization": "",
+      "english": "Yes. Hi."
+    },
+    {
+      "speaker": "점원",
+      "korean": "뭐 찾으세요?",
+      "romanization": "",
+      "english": "What are you looking for?"
+    },
+    {
+      "speaker": "상미",
+      "korean": "치마요.",
+      "romanization": "",
+      "english": "A skirt."
+    },
+    {
+      "speaker": "점원",
+      "korean": "치마는 여기에 있어요. 여기 보세요.",
+      "romanization": "",
+      "english": "Skirts are here. Look here."
+    },
+    {
+      "speaker": "상미",
+      "korean": "네. 이거 다른 색깔은 없나요?",
+      "romanization": "",
+      "english": "Ok. Do you have any other colors?"
+    },
+    {
+      "speaker": "점원",
+      "korean": "이건 검은색이랑 빨간색밖에 없어요.",
+      "romanization": "",
+      "english": "This one only comes in black and red."
+    },
+    {
+      "speaker": "상미",
+      "korean": "이거 입어 볼 수 있어요?",
+      "romanization": "",
+      "english": "Can I try it on?"
+    },
+    {
+      "speaker": "점원",
+      "korean": "네. 입어 보세요.",
+      "romanization": "",
+      "english": "Yes, please try it on."
+    },
+    {
+      "speaker": "상미",
+      "korean": "사이즈가 작아요. 더 큰 거 있어요?",
+      "romanization": "",
+      "english": "It's too small. Do you have something bigger?"
+    },
+    {
+      "speaker": "점원",
+      "korean": "네, 어떤 사이즈요?",
+      "romanization": "",
+      "english": "Yes. What size?"
+    },
+    {
+      "speaker": "상미",
+      "korean": "허리 27사이즈요.",
+      "romanization": "",
+      "english": "Waist size 27."
+    }
+  ],
+  "culturalTip": "At some small independent clothing stores in Korea, often times you are not allowed to try on clothes before you make a purchase, especially with t-shirts. This is usually because the neck part could get stretched, or your makeup or sweat could wipe off on the t-shirt.",
+  "koreanReview": "- Short Dialogue\n상미: 이거 입어 볼 수 있어요?\n점원: 네. 입어 보세요.\n\n- Long Dialogue\n점원: 어서 오세요.\n상미: 네. 안녕하세요.\n점원: 뭐 찾으세요?\n상미: 치마요.\n점원: 치마는 여기에 있어요. 여기 보세요.\n상미: 네. 이거 다른 색깔은 없나요?\n점원: 이건 검은색이랑 빨간색밖에 없어요.\n상미: 이거 입어 볼 수 있어요?\n점원: 네. 입어 보세요.\n상미: 사이즈가 작아요. 더 큰 거 있어요?\n점원: 네, 어떤 사이즈요?\n상미: 허리 27사이즈요.",
+  "coreVocab": [
+    {
+      "korean": "이거",
+      "romanization": "i-geo",
+      "meaning": "this, this thing"
+    },
+    {
+      "korean": "입다",
+      "romanization": "ip-tta",
+      "meaning": "to wear, to put on"
+    },
+    {
+      "korean": "VERB + -아/어/여 보다",
+      "romanization": "-a/eo/yeo bo-da",
+      "meaning": "to try out VERB-ing"
+    },
+    {
+      "korean": "-(으)ㄹ 수 있다",
+      "romanization": "-(eu)l ssu it-tta",
+      "meaning": "can, to be able to"
+    },
+    {
+      "korean": "네.",
+      "romanization": "ne.",
+      "meaning": "Yes."
+    },
+    {
+      "korean": "-(으)세요",
+      "romanization": "-(eu)-se-yo",
+      "meaning": "imperative ending (polite)"
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "뭐",
+      "romanization": "mwo",
+      "meaning": "what"
+    },
+    {
+      "korean": "찾다",
+      "romanization": "chat-tta",
+      "meaning": "to find, to look for"
+    },
+    {
+      "korean": "치마",
+      "romanization": "chi-ma",
+      "meaning": "skirt"
+    },
+    {
+      "korean": "여기",
+      "romanization": "yeo-gi",
+      "meaning": "here"
+    },
+    {
+      "korean": "있다",
+      "romanization": "it-tta",
+      "meaning": "to exist, to have"
+    },
+    {
+      "korean": "보다",
+      "romanization": "bo-da",
+      "meaning": "to see, to watch"
+    },
+    {
+      "korean": "이거",
+      "romanization": "i-geo",
+      "meaning": "this, this thing"
+    },
+    {
+      "korean": "다른",
+      "romanization": "da-reun",
+      "meaning": "different"
+    },
+    {
+      "korean": "색깔",
+      "romanization": "saek-kkal",
+      "meaning": "color"
+    },
+    {
+      "korean": "없다",
+      "romanization": "eop-tta",
+      "meaning": "to not exist, to not have, to not be there"
+    },
+    {
+      "korean": "검은색",
+      "romanization": "geo-meun-saek",
+      "meaning": "black color"
+    },
+    {
+      "korean": "빨간색",
+      "romanization": "ppal-gan-saek",
+      "meaning": "red color"
+    },
+    {
+      "korean": "입어 보다",
+      "romanization": "i-beo bo-da",
+      "meaning": "to try on"
+    },
+    {
+      "korean": "사이즈",
+      "romanization": "ssa-i-jeu",
+      "meaning": "size"
+    },
+    {
+      "korean": "작다",
+      "romanization": "jak-tta",
+      "meaning": "to be small"
+    },
+    {
+      "korean": "더",
+      "romanization": "deo",
+      "meaning": "more"
+    },
+    {
+      "korean": "크다",
+      "romanization": "keu-da",
+      "meaning": "to be big"
+    },
+    {
+      "korean": "어떤",
+      "romanization": "eo-tteon",
+      "meaning": "which"
+    },
+    {
+      "korean": "허리",
+      "romanization": "heo-ri",
+      "meaning": "waist"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "Conjunction: \"and\"",
+      "pattern": "NOUN + -(이)랑 : NOUN and NOUN",
+      "meaning": "NOUN and NOUN",
+      "explanation": "",
+      "examples": [
+        {
+          "korean": "검은색 + -(이)랑 + 빨간색 → 검은색이랑 빨간색",
+          "romanization": "",
+          "english": "black and red"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "치마 + -(이)랑 + 바지",
+          "answer": "치마랑 바지",
+          "english": "a skirt and pants"
+        },
+        {
+          "prompt": "가족 + -(이)랑 + 친구",
+          "answer": "가족이랑 친구",
+          "english": "family and a friend"
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Modifier: \"nothing but\" or \"only\"",
+      "pattern": "NOUN + -밖에 : nothing but NOUN / only NOUN",
+      "meaning": "nothing but NOUN / only NOUN",
+      "explanation": "* This is always followed by a negative expression.",
+      "examples": [
+        {
+          "korean": "빨간색 + -밖에 → 빨간색밖에",
+          "romanization": "",
+          "english": "nothing but red color / only red color"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "이거 + -밖에",
+          "answer": "이거밖에",
+          "english": "nothing but this one / only this one"
+        },
+        {
+          "prompt": "친구 + -밖에",
+          "answer": "친구밖에",
+          "english": "nothing but a friend / only a friend"
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "When a word or syllable ends with ㅄ and is followed by a consonant, only ㅂ is pronounced, not ㅅ.",
+      "examples": [
+        {
+          "korean": "없",
+          "pronounced": "업",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "값",
+          "answer": "갑",
+          "gloss": "(price)"
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "When ㅄ is followed by a syllable that begins with a vowel, the ㅅ becomes part of the following syllable and is pronounced as ㅆ.",
+      "examples": [
+        {
+          "korean": "없어요",
+          "pronounced": "업써요",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "값이",
+          "answer": "갑씨",
+          "gloss": "(the price is …)"
+        }
+      ]
+    }
+  ]
+}

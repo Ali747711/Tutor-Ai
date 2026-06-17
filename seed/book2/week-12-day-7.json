@@ -1,0 +1,110 @@
+{
+  "week": 12,
+  "day": 7,
+  "order": 84,
+  "keyword": "빌리다",
+  "meaning": "to borrow; to rent",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "돈을 빌리다",
+      "english": "to borrow money",
+      "notes": ""
+    },
+    {
+      "korean": "책을 빌리다",
+      "english": "to borrow a book",
+      "notes": "책 = book"
+    },
+    {
+      "korean": "힘을 빌리다",
+      "english": "to get (someone's) help",
+      "notes": "힘 = strength, power, energy"
+    },
+    {
+      "korean": "돈 좀 빌릴 수 있어요?",
+      "english": "Can I borrow some money?",
+      "notes": ""
+    },
+    {
+      "korean": "펜 하나만 빌려도 될까요?",
+      "english": "Can I borrow a pen?",
+      "notes": "펜 = pen\n-이/이/여도 될까요? = Can I/we + V?"
+    },
+    {
+      "korean": "만원만 빌릴 수 있을까요?",
+      "english": "Do you think I could borrow 10,000 won?",
+      "notes": "만원 = 10,000 won"
+    },
+    {
+      "korean": "어제 빌린 돈 언제 갚을 거예요?",
+      "english": "When are you going to pay me back the money that you borrowed yesterday?",
+      "notes": "언제 = when\n갚다 = to pay back"
+    },
+    {
+      "korean": "도서관에 가서 책 좀 빌려 올게요.",
+      "english": "I will go borrow some books from the library.",
+      "notes": "도서관 = library\n-이/이/여 오다 = to go + V + and come back\n-(으)르 게요, = I promise I will + V.; I will + V."
+    },
+    {
+      "korean": "친구한테 빌린 책을 잃어버렸어요.",
+      "english": "I lost the book that I borrowed from a friend.",
+      "notes": "잃어버리다 = to lose + N"
+    },
+    {
+      "korean": "잠깐만 핸드폰 좀 빌릴 수 있을까요?",
+      "english": "Can I borrow your cellphone for a minute?",
+      "notes": "잠깐 = short time; for a moment"
+    },
+    {
+      "korean": "그 사람은 돈을 빌리고 잘 안 갚아요.",
+      "english": "He usually doesn't pay back the money he owes.",
+      "notes": "안 = not"
+    },
+    {
+      "korean": "이번 주말에 차 좀 빌릴 수 있을까요?",
+      "english": "Can I borrow your car this weekend?",
+      "notes": "주말 = weekend"
+    },
+    {
+      "korean": "지난 일요일에는 DVD를 빌려 봤어요.",
+      "english": "Last Sunday, I rented and watched some DVDs.",
+      "notes": "지난 = last\n일요일 = Sunday"
+    },
+    {
+      "korean": "저번에 빌려 간 책은 언제 돌려주실 거 예요?",
+      "english": "When are you going to return the book that you borrowed last time?",
+      "notes": "저번에 = the other day; last time\n돌려주다 = to return something to someone, give something back"
+    },
+    {
+      "korean": "지난번에 저한테서 만 원 빌린 거 있었어요?",
+      "english": "Did you forget that you borrowed 10,000 won from me last time?",
+      "notes": "지난번 = last time"
+    },
+    {
+      "korean": "밖이 너무 추워서 친구의 자켓을 빌려 입었어요.",
+      "english": "It was too cold outside, so I borrowed my friend's jacket.",
+      "notes": "밖 = outside\n춥다 = (place) to be cold; to feel cold\n자켓 = jacket\n입다 = to wear (clothes)"
+    },
+    {
+      "korean": "친구가 돈을 빌리고 한 달이 넘도록 갚지 않아요.",
+      "english": "My friend borrowed some money and she hasn't paid me back for over a month.",
+      "notes": "한 달 = one month\n넘다 = to be over + time/amount\n-도록 = till, until, to the point where"
+    },
+    {
+      "korean": "오랜만에 만화책방에 가서 만화책을 빌려 봤어요.",
+      "english": "I went to a comic book rental shop after a long time and read some comic books.",
+      "notes": "오랜만에 = after a long time\n만화책방 = comic book rental shop\n만화책 = comic book"
+    },
+    {
+      "korean": "도서관에서 책을 빌렸는데 반납하는 걸 깜빡했어요.",
+      "english": "I borrowed some books from the library, but I forgot to return (them).",
+      "notes": "반납하다 = to return something that one rented\n깜빡하다 = to completely forget (for a short period of time)"
+    },
+    {
+      "korean": "친구가 노트북을 빌려 갔다가 돌려줬는데 고장이 났어요.",
+      "english": "My friend borrowed my laptop computer and gave it back, but it is not working.",
+      "notes": "-았/었/였 + and then\n고장이 나다 = to break; to be broken"
+    }
+  ]
+}

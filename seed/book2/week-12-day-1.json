@@ -1,0 +1,110 @@
+{
+  "week": 12,
+  "day": 1,
+  "order": 78,
+  "keyword": "주다",
+  "meaning": "to give",
+  "romanization": "juda",
+  "expressions": [
+    {
+      "korean": "벌을 주다",
+      "english": "to give a punishment; to punish",
+      "notes": "벌 = punishment"
+    },
+    {
+      "korean": "상을 주다",
+      "english": "to give a prize",
+      "notes": "상 = prize; award"
+    },
+    {
+      "korean": "선물로 주다",
+      "english": "to give as a present",
+      "notes": "선물 = gift, present"
+    },
+    {
+      "korean": "먹을 것을 주다",
+      "english": "to give something to eat; to feed",
+      "notes": "먹을 것 = food, something to eat\n먹을 것 literally means \"thing to eat,\" but it is a set expression that refers to food in general."
+    },
+    {
+      "korean": "더 주세요.",
+      "english": "Please give me more.",
+      "notes": "더 = more\n-(으)세요 = (polite) imperative"
+    },
+    {
+      "korean": "저도 주세요.",
+      "english": "Please give me (some), too.",
+      "notes": "저 = (polite) I; me\n-도 = too, also"
+    },
+    {
+      "korean": "힌트 좀 주세요.",
+      "english": "Give me some hints.",
+      "notes": "힌트 = hint; heads-up\n좀 = a little; please"
+    },
+    {
+      "korean": "그 책 좀 주세요.",
+      "english": "Please give me that book.",
+      "notes": "그 = the; that"
+    },
+    {
+      "korean": "시간을 좀 더 주세요.",
+      "english": "Please give me a little more time.",
+      "notes": "시간 = time; hour"
+    },
+    {
+      "korean": "어제 꽃에 물 줬어요?",
+      "english": "Did you give water to the flowers yesterday?\nDid you water the flowers yesterday?",
+      "notes": "어제 = yesterday\n꽃 = flower\n물 = water"
+    },
+    {
+      "korean": "저도 같은 걸로 주세요.",
+      "english": "Give me the same one.\nI will have the same one.",
+      "notes": "같다 = to be the same\n같은 is the adjective form of 같다."
+    },
+    {
+      "korean": "지금 사면 하나 더 줘대요.",
+      "english": "I heard if you buy it now, they will give you one more.",
+      "notes": "지금 = now\n사다 = to buy\n-(으)면 = if/when + S + V, once + S + V\n하나 = one (native Korean number)\n-대요 = I heard that + S + V. They say + S + V"
+    },
+    {
+      "korean": "엄마, 책 사거 돈 좀 주세요.",
+      "english": "Mom, please give me some money so that I can buy books.",
+      "notes": "엄마 = mom\n-게 = so that + S can + V\n돈 = money"
+    },
+    {
+      "korean": "그거 친구가 선물로 줬어요.",
+      "english": "My friend gave me that as a present.",
+      "notes": "그거 = that\n친구 = friend"
+    },
+    {
+      "korean": "그거 어제 저한테 안 주셨어요.",
+      "english": "You didn't give me that yesterday.",
+      "notes": "안 = not"
+    },
+    {
+      "korean": "이거 제가 작년에 준 장갑 아니에요?",
+      "english": "Aren't these the gloves I gave you last year?",
+      "notes": "이거 = this thing; this\n제 = (polite) my; I\n지난 = last year\n장갑 = glove\n아니다 = to be not"
+    },
+    {
+      "korean": "목이 너무 말라서 그러는데 물 좀 주세",
+      "english": "I'm thirsty, so please give me some water.",
+      "notes": "목 = throat; neck\n너무 = too much, excessively; very\n목이 마르다 = to be thirsty"
+    },
+    {
+      "korean": "작년에 제가 준 책 아직도 다 안 읽었어요?",
+      "english": "You still have not finished the book I gave you last year?",
+      "notes": "아직도 = still, (not) yet\n읽다 = to read"
+    },
+    {
+      "korean": "친구가 콘서트 티켓을 줘서 어제 보고 왔어요.",
+      "english": "My friend gave me concert tickets, so I went and watched it yesterday.",
+      "notes": "콘서트 = concert\n티켓 = ticket\n-아이/어서 = because, since\n보다 = to see; to look; to watch; to meet up; to read\n-고 오다 = to go do something and then come back"
+    },
+    {
+      "korean": "친구한테 선물로 주려고 샀는데 너무 마음에 들어서 그냥 제가 쓸 거예요.",
+      "english": "I bought it to give it to my friend as a present, but I like it so much that I will just use it myself.",
+      "notes": "-(으)려고 = in order to + V\n마음에 들다 = to like\n그냥 = just, only, simply\n쓰다 = to use; to spend (+ money)\n-(으)ㄹ 것이다 = will; be going to + V"
+    }
+  ]
+}

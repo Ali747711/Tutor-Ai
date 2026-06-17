@@ -1,0 +1,105 @@
+{
+  "week": 4,
+  "day": 7,
+  "order": 28,
+  "keyword": "앉다",
+  "meaning": "to sit",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "자리에 앉다",
+      "english": "to sit down (on a seat)",
+      "notes": "자리 = space, spot, seat, position; occasion"
+    },
+    {
+      "korean": "여기 앉으세요.",
+      "english": "Sit here.",
+      "notes": ""
+    },
+    {
+      "korean": "똑바로 앉으세요.",
+      "english": "Sit up straight.",
+      "notes": "똑바로 = straight (adverb)"
+    },
+    {
+      "korean": "앉으니까 편하죠?",
+      "english": "It feels good to sit down, right?",
+      "notes": "편하다 = to be comfortable; to be convenient"
+    },
+    {
+      "korean": "앉을 데가 없어요.",
+      "english": "There is no place to sit.",
+      "notes": "-(으)ㄹ 데 = place to + V"
+    },
+    {
+      "korean": "여기 앉아도 되나요?",
+      "english": "Can I sit here?",
+      "notes": ""
+    },
+    {
+      "korean": "이 소파에 앉아 보세요.",
+      "english": "Now, sit on this sofa.",
+      "notes": "소파 = sofa"
+    },
+    {
+      "korean": "모두 자리에 앉아 주세요.",
+      "english": "Everyone, please be seated.",
+      "notes": "모두 = all; every; everyone"
+    },
+    {
+      "korean": "다리 아파요. 앉고 싶어요.",
+      "english": "My legs hurt. I want to sit down.",
+      "notes": ""
+    },
+    {
+      "korean": "노약자석에는 앉으면 안 돼요.",
+      "english": "You can't sit in the seats reserved for the elderly.",
+      "notes": "노약자석 = seats reserved for the elderly"
+    },
+    {
+      "korean": "우리 좀 앉아서 이야기할까요?",
+      "english": "Shall we sit down for a second and talk?",
+      "notes": "우리 -(으)ㄹ까요? = Shall we ...?\n이야기하다 = to talk, speak, say, tell; to have a conversation; to tell a story"
+    },
+    {
+      "korean": "자기 앉아 있는 사람은 누구예요?",
+      "english": "Who is that person sitting there?",
+      "notes": "자기 = there\n누구 = who"
+    },
+    {
+      "korean": "여기 앉아 있던 사람 못 봤어요?",
+      "english": "Did you see the person who was sitting here?",
+      "notes": ""
+    },
+    {
+      "korean": "저 벤치에 앉아서 좀 쉬었다 가요.",
+      "english": "Let's sit down on that bench there and rest before we walk again.",
+      "notes": "저 = that\n벤치 = bench"
+    },
+    {
+      "korean": "지기요. 안 보이니까 좀 앉아 주세요.",
+      "english": "Excuse me, I can't see (because of you), so please sit down.",
+      "notes": "지기요. = Excuse me."
+    },
+    {
+      "korean": "가만히 앉아 있으면 문제가 해결되지 앉아요.",
+      "english": "If you just sit there doing nothing, the problem won't be solved.",
+      "notes": "가만히 = still; motionlessly\n문제 = problem; issue; thing; matter\n해결되다 = to be solved"
+    },
+    {
+      "korean": "지금 이 시간에 버스에 타면 앉을 자리 가 있을까요?",
+      "english": "If you take the bus at this hour, will there be any seats left?",
+      "notes": "지금 = now\n지금 이 시간 = at this hour\n타다 = to ride; to get on; to take (vehicle)"
+    },
+    {
+      "korean": "어제 책상에 앉아서 공부하다가 잠이 들어 버렸어요.",
+      "english": "I fell asleep yesterday while sitting in the chair and studying.",
+      "notes": "책상 = desk\n공부하다 = to study\n잠 = sleep\n잠이 들다 = to fall asleep\n-아/어/여 버리다 is used when talking about something that happened against your hope or expectations."
+    },
+    {
+      "korean": "가만히 앉아서 컴퓨터만 하지 말고 밖에 나가서 운동도 하세요.",
+      "english": "Don't just sit there using your computer, but also go out and do some exercise.",
+      "notes": "컴퓨터 = computer\n운동 = exercise; sports\n-도 = too, also\n운동하다 = to exercise, work out"
+    }
+  ]
+}

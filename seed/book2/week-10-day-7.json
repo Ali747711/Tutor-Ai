@@ -1,0 +1,110 @@
+{
+  "week": 10,
+  "day": 7,
+  "order": 70,
+  "keyword": "닫다",
+  "meaning": "to close",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "문을 닫다",
+      "english": "to close the door; to go out of business",
+      "notes": ""
+    },
+    {
+      "korean": "뚜껑을 닫다",
+      "english": "to close the lid",
+      "notes": ""
+    },
+    {
+      "korean": "창문을 닫다",
+      "english": "to close the window",
+      "notes": ""
+    },
+    {
+      "korean": "문 닫고 들어오세요.",
+      "english": "Please come in and close the door.",
+      "notes": ""
+    },
+    {
+      "korean": "은행은 몇 시에 문을 닫아요?",
+      "english": "What time does the bank close?",
+      "notes": "은행 = bank\n몇 시 = what time"
+    },
+    {
+      "korean": "추워요, 창문 좀 닫아 주세요.",
+      "english": "It's cold, please close the window.",
+      "notes": "춥다 = (place) to be cold; to feel cold"
+    },
+    {
+      "korean": "더운데 왜 창문을 닫아 뒀어요?",
+      "english": "Why do you keep the window closed even though it's hot?\nIt's hot, so why is the window still closed?",
+      "notes": "왜 = why; for what reason; how come\n-이/여 도다 = to leave something in a certain state"
+    },
+    {
+      "korean": "그 가게는 밤 11시에 문을 닫아요.",
+      "english": "That store closes at 11 at night.",
+      "notes": "밤 = night\n11시 = eleven o'clock"
+    },
+    {
+      "korean": "펜을 다 쓰면 뚜껑을 꼭 닫아 주세요.",
+      "english": "When you finish using the pen, please make sure to put the cap back on.",
+      "notes": "펜 = pen\n쓰다 = to use; to spend (+ money)\n꼭 = for sure; at any cost; certainly; definitely; make sure to (do something); tight"
+    },
+    {
+      "korean": "제가 좋아하는 식당이 문을 닫았어요.",
+      "english": "The restaurant that I like went out of business.",
+      "notes": "식당 = restaurant; cafeteria\n식당 means \"restaurant\", but the word \"레스토랑\" refers to fancier or more upscale restaurants than \"식당.\""
+    },
+    {
+      "korean": "물병의 뚜껑을 꼭 안 닫아서 물이 쌀어요.",
+      "english": "Since I didn't close the cap on the water bottle tightly, the water leaked out.",
+      "notes": "물병 = water bottle\n꼭 = fully; tight\n물 = water\n새다 = to leak"
+    },
+    {
+      "korean": "여기는 문을 닫았으니까 다른 곳으로 가요.",
+      "english": "This place is closed, let's go to a different place.",
+      "notes": "곳 = place\n-이/여요 = imperative; Let's + V"
+    },
+    {
+      "korean": "냄비 뚜껑을 닫아 두면 물이 더 빨리 끓어요.",
+      "english": "If you keep the lid of the pot closed, the water boils faster.",
+      "notes": "냄비 = pot\n끓다 = to boil"
+    },
+    {
+      "korean": "나오기 전에 창문 다 닫았는지 확인해 주세요.",
+      "english": "Before going out, please check if you closed all the windows.",
+      "notes": "-ㅣ/여/았는지 = probably because + S + V-ed; whether + S + V-ed\n확인하다 = to check"
+    },
+    {
+      "korean": "아기가 자고 있으니까 문을 조심히 닫아 주세요.",
+      "english": "Since the baby is sleeping, please carefully close the door.",
+      "notes": "아기 = baby\n자다 = to sleep\n조심하다 = to be careful\n조심히 is the adverb form of 조심하다."
+    },
+    {
+      "korean": "바람 들어오니까 들어올 때 문을 꼭 닫아 주세요.",
+      "english": "Since the wind is coming in, close the door all the way when you come in.",
+      "notes": "바람 = wind\n-(으)ㄹ 때 = when/while + S + V"
+    },
+    {
+      "korean": "문 닫지 마세요. 환기시키려고 열어 놀은 거예요.",
+      "english": "Don't close the door. I kept it open to circulate the air.",
+      "notes": "환기시키다 = to circulate the air\n-(으)려고 = in order to + V\n열다 = to open"
+    },
+    {
+      "korean": "그 가게는 인테리어 공사를 하려고 한 달간 문을 닫는대요.",
+      "english": "I heard that store is closing for a month to have the interior renovated.\nThey say that store is closing for one month to have interior construction.",
+      "notes": "인테리어 = interior\n공사 = construction\n공사를 하다 = to do construction work; to construct\n(amount of time) + -간 = for, during\n-대요 = I heard that + S + V; They say + S + V"
+    },
+    {
+      "korean": "어제 문 닫는 걸 잊었나 봐요. 아침에 오니까 문이 열려 있었어요.",
+      "english": "I must have forgotten to close the door yesterday. The door was open when I came in the morning.",
+      "notes": "잊다 = to forget\n-우/았나 봐요 = S + must have + p.p.; It seems like + S + V-ed\n-이/여 있다 is used to express the continuing state of a completed action (past continuous)."
+    },
+    {
+      "korean": "가게에 손님이 오셨는데 문 닫을 시간이 다 되어서 돌려보냈어요.",
+      "english": "Customers came to the store, but since it was time to close, I sent them back out.",
+      "notes": "시간 = time; hour\n시간이 되다 = time is up\n돌려보내다 = to send someone back"
+    }
+  ]
+}

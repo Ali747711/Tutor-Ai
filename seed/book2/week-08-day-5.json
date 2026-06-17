@@ -1,0 +1,110 @@
+{
+  "week": 8,
+  "day": 5,
+  "order": 54,
+  "keyword": "만나다",
+  "meaning": "to meet (up); to be seeing someone",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "우연히 만나다",
+      "english": "to run into someone",
+      "notes": "우연히 = by chance"
+    },
+    {
+      "korean": "어쌜게 만났어요?",
+      "english": "How did you meet each other?",
+      "notes": ""
+    },
+    {
+      "korean": "우리 그만 만나요.",
+      "english": "Let's stop seeing each other.",
+      "notes": "우리 = we; us\n그만 -이/어/아요. = Stop + V-ing.; Now, let's just + V."
+    },
+    {
+      "korean": "만나서 애기할까요?",
+      "english": "Do you want to meet up and talk?",
+      "notes": "애기하다 = to talk, speak, say, tell; to have a conversation; to tell a story"
+    },
+    {
+      "korean": "우리 언제 만날까요?",
+      "english": "When shall we meet?",
+      "notes": "언제 = when"
+    },
+    {
+      "korean": "아직 만난 적 없어요.",
+      "english": "I have not met him/her yet.",
+      "notes": "-(으)ㄴ- 적 있다 = to have never p.p."
+    },
+    {
+      "korean": "직접 만난 적 있어요?",
+      "english": "Have you ever met him/her in person?",
+      "notes": "직접 = in person, directly\n-(으)ㄴ- 적 있다 = to have + p.p."
+    },
+    {
+      "korean": "만나서 뭐 할 거예요?",
+      "english": "What are you going to do when you meet him/her?",
+      "notes": ""
+    },
+    {
+      "korean": "만나자마자 싸웠어요.",
+      "english": "We started to fight as soon as we met.",
+      "notes": "싸우다 = to fight"
+    },
+    {
+      "korean": "어디에서 만나고 싶어요?",
+      "english": "Where do you want to meet up?",
+      "notes": "어디 = where; somewhere"
+    },
+    {
+      "korean": "만나지 말았어야 했어요.",
+      "english": "I shouldn't have met him/her.",
+      "notes": "-지 말았어야 했다 = should have not + p.p."
+    },
+    {
+      "korean": "너무 늦어서 못 만났어요.",
+      "english": "It was too late, so we couldn't see each other.",
+      "notes": ""
+    },
+    {
+      "korean": "요즘 만나는 사람 있어요?",
+      "english": "Is there anyone you are seeing lately?",
+      "notes": "있다 = to be there; to exist; to have"
+    },
+    {
+      "korean": "친구들 못 만난 지 오래 됐어요.",
+      "english": "It's been a long time since I have seen my friends.",
+      "notes": "-(으)ㄴ- 지 오래 되다 = to have been a long time since"
+    },
+    {
+      "korean": "만날 시간을 정해서 알려주세요.",
+      "english": "Decide when to meet and let me know.",
+      "notes": "시간 = time; hour\n정하다 = to decide\n알려주다 = to let someone know; to teach something to someone"
+    },
+    {
+      "korean": "우리는 만날 때마다 커피숍에 가요.",
+      "english": "Whenever we meet up, we go to a coffee shop.",
+      "notes": "-(으)ㄴ- 때마다 = whenever + S + V\n커피숍 = coffee shop\n가다 = to go; to leave"
+    },
+    {
+      "korean": "입단 만나 보면 생각이 바뀔 거예요.",
+      "english": "Once you meet him/her, you will change your mind.",
+      "notes": "입단 = once (+ S + V); first of all\n-이/어/어 보다 = to try V-ing\n입단 -이/어/어 보면 = once + S + V, (S + will/might + V₂)\n생각 = thought; opinion; idea\n바뀌다 = to change; to be changed"
+    },
+    {
+      "korean": "어제 길에서 친구를 우연히 만났어요.",
+      "english": "Yesterday, I saw a friend on the street by chance.",
+      "notes": "길 = road, street; way"
+    },
+    {
+      "korean": "만나는 사람마다 저를 보고 웃었어요.",
+      "english": "Everyone I met laughed at me.",
+      "notes": "-마다 = every + N\n웃다 = to laugh, smile"
+    },
+    {
+      "korean": "만날 수만 있다면 뭐든지 할 거예요.",
+      "english": "As long as I can meet him/her, I will do whatever it takes.",
+      "notes": "-(으)ㄴ- 수만 있다면 = as long as + S + can + V\n뭐든지 = whatever it is, anything"
+    }
+  ]
+}

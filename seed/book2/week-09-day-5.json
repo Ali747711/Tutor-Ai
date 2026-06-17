@@ -1,0 +1,110 @@
+{
+  "week": 9,
+  "day": 5,
+  "order": 61,
+  "keyword": "화내다",
+  "meaning": "to be angry at someone; to yell at someone out of anger",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "화날 일",
+      "english": "something to be upset about",
+      "notes": ""
+    },
+    {
+      "korean": "화내지 마세요.",
+      "english": "Don't get angry.; Don't be upset.",
+      "notes": ""
+    },
+    {
+      "korean": "저 화낸 적 없어요.",
+      "english": "I wasn't angry.",
+      "notes": "-(으)ㄴ 적 없다 = to have never + p.p. (in this context, -(으)ㄴ 적 없다 means \"No, I didn't.\")"
+    },
+    {
+      "korean": "화나고 싶지 않아요.",
+      "english": "I don't want to get angry.",
+      "notes": "-고 싶지 않다 = to not want to + V"
+    },
+    {
+      "korean": "저라도 화날 것 같아요.",
+      "english": "I think I would be angry, too.",
+      "notes": "-리도 = even"
+    },
+    {
+      "korean": "그건 화날 일이 아니에요.",
+      "english": "That's nothing to get upset about.",
+      "notes": "그건 = that (subject)\n그건 is the contracted form of 그것은.\n화날 일 = something to be upset about"
+    },
+    {
+      "korean": "그 사람은 쉽게 화를 내요.",
+      "english": "He gets angry easily.\nHe loses his temper easily.",
+      "notes": "쉽다 = to be easy\n쉽게 is an adverb form of 쉽다."
+    },
+    {
+      "korean": "계속 그러면 저도 화날 거예요.",
+      "english": "If you keep acting like that, I will get mad.",
+      "notes": "계속 = repeatedly, again and again, continuously\n그러다 = to act like that, to behave like that"
+    },
+    {
+      "korean": "그만 화내고 이제 기분 풀어요.",
+      "english": "Stop being upset (about it) and lighten up a bit.",
+      "notes": "그만 -고 = stop + V-ing and\n이제 = now\n기분 풀다 = to relieve anger in a mental (not physical) way; to calm down; to lighten up"
+    },
+    {
+      "korean": "부탁 안 들어 주면 화날 거예요?",
+      "english": "If I refuse your request, will you get angry (at me)?",
+      "notes": "부탁 = favor\n부탁을 들어주다 = to grant one's favor"
+    },
+    {
+      "korean": "화내다고 해결될 일이 아니에요.",
+      "english": "Getting mad about it won't help solve the problem (for you).\nNothing changes, even if you get mad (at me).",
+      "notes": "-다고 = just because; saying that S + V\n해결되다 = to be solved"
+    },
+    {
+      "korean": "그 사람이 화내는 걸 처음 봤어요.",
+      "english": "I've never seen him get angry before.",
+      "notes": "처음 = first; for the first time"
+    },
+    {
+      "korean": "그게 그렇게 싶하게 화날 일이에요?",
+      "english": "Is that something that you need to get so upset about?",
+      "notes": "그게 = that, that thing (subject)\n그게 is the contracted form of 그것은.\n그렇게 = like that; such + adjective/adverb\n싶하게 is an adverb form of 싶하다.\n싶하다 = to be excessive, too much; to be harsh"
+    },
+    {
+      "korean": "집에 늦게 가면 엄마가 화날 거예요.",
+      "english": "If I go home late, my mom will get mad.",
+      "notes": "늦다 = to be late\n늦게 is the adverb form of 늦다.\n엄마 = mom"
+    },
+    {
+      "korean": "제가 뭘 잘못 했길래 그렇게 화내요?",
+      "english": "What have I done (to you) to make you get angry at me?",
+      "notes": "뭘 = what (object)\n뭘 is the contracted form of 무엇을.\n잘못하다 = to do something wrong; to do something bad to someone\n-길래 = for what reason, resulting from which situation"
+    },
+    {
+      "korean": "그 사람은 사소한 일에도 맨날 화내요.",
+      "english": "He always gets mad, even over small things.",
+      "notes": "사소하다 = to be trivial, minor, petty\n사소한 is the adjective form of 사소하다.\n맨날 = everyday; all the time"
+    },
+    {
+      "korean": "화내지 말고 제 이야기를 들어 보세요.",
+      "english": "Don't get angry, but try listening to me.",
+      "notes": "-이/이/ 보다 = to try + V-ing"
+    },
+    {
+      "korean": "약속에 늦어서 친구가 저한테 화났어요.",
+      "english": "I was late, so my friend got mad at me.",
+      "notes": "약속 = plans; promise"
+    },
+    {
+      "korean": "저희 아버지는 화내실 때 정말 무서워요.",
+      "english": "When my father gets angry, he is really scary.",
+      "notes": "저희 = (polite) we; us; our\n아버지 = father\n무섭다 = to be scary; to be scared"
+    },
+    {
+      "korean": "무조건 화내지 말고, 어떻게 할지 생각해 봐요.",
+      "english": "Don't get mad without thinking, let's just think about how we can figure this out.",
+      "notes": "무조건 = no matter what, unconditionally, without considering other factors\n-이/이/여요 = imperative; Let's + V"
+    }
+  ]
+}

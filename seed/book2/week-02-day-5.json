@@ -1,0 +1,110 @@
+{
+  "week": 2,
+  "day": 5,
+  "order": 12,
+  "keyword": "읽다",
+  "meaning": "to read",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "읽을거리",
+      "english": "reading material; something to read",
+      "notes": ""
+    },
+    {
+      "korean": "책을 읽다",
+      "english": "to read a book",
+      "notes": ""
+    },
+    {
+      "korean": "신문을 읽다",
+      "english": "to read a newspaper",
+      "notes": "신문 = newspaper"
+    },
+    {
+      "korean": "큰 소리로 읽다",
+      "english": "to read loudly; to read out loud",
+      "notes": "크다 = to be big; to be tall; to be loud\n큰 is the adjective form of 크다.\n소리 = sound"
+    },
+    {
+      "korean": "이 책 읽어 봤어요?",
+      "english": "Have you read this book?",
+      "notes": "이 = this\n-어/여 봤다 = to try + V-ing"
+    },
+    {
+      "korean": "그 기사 읽어 봤어요?",
+      "english": "Did you read that article?",
+      "notes": "기사 = article"
+    },
+    {
+      "korean": "뭔가 읽을거리 없나요?",
+      "english": "Is there anything to read?",
+      "notes": "뭔가 = something (subject)\n뭔가 is the contracted form of 무언가.\n읽을거리 = reading material, something to read"
+    },
+    {
+      "korean": "큰 소리로 읽어 보세요.",
+      "english": "Read out loud, please.",
+      "notes": ""
+    },
+    {
+      "korean": "이 잡지 읽어도 돼나요?",
+      "english": "Can I read this magazine?",
+      "notes": ""
+    },
+    {
+      "korean": "저는 한자를 읽을 줄 몰라요.",
+      "english": "I don't know how to read Chinese characters.",
+      "notes": "한자 = Korean name for Chinese characters\n-(으)ㄹ 줄 모르다 = to not know how to + V"
+    },
+    {
+      "korean": "저는 책을 읽으면 졸이 와요.",
+      "english": "I feel sleepy when I read a book.",
+      "notes": "졸이 오다 = to be sleepy; to feel drowsy"
+    },
+    {
+      "korean": "제가 빌려준 책 다 읽으셨어요?",
+      "english": "Have you finished reading the book I lent you?",
+      "notes": "빌려주다 = to lend\n다 + verb = to finish + V-ing"
+    },
+    {
+      "korean": "주말 동안에 이 책을 다 읽었어요.",
+      "english": "I finished this book over the weekend.",
+      "notes": "주말 = weekend\n동안 = during, while; for + period of time"
+    },
+    {
+      "korean": "그 책 다 읽으면 저 좀 빌려주세요.",
+      "english": "When you finish the book, please lend it to me.",
+      "notes": ""
+    },
+    {
+      "korean": "이 잡지는 재미가 없어서 읽기 싫어요.",
+      "english": "This magazine is not interesting, so I don't want to read it.",
+      "notes": "잡지 = magazine\n재미가 없다 = to be not fun; to be not funny; to be not interesting; to be boring\n-기 싫다 = to not feel like + V-ing; to not want to + V"
+    },
+    {
+      "korean": "어제 책을 읽느라고 밤에 늦게 잤어요.",
+      "english": "I went to bed late last night because I was reading a book.",
+      "notes": "-느라고 = because + S + was V-ing\n늦다 = to be late\n늦게 is the adverb form of 늦다.\n자다 = to sleep"
+    },
+    {
+      "korean": "한글을 읽을 줄은 아는데 쓸 줄은 몰라요.",
+      "english": "I know how to read Hangeul, but I don't know how to write it.",
+      "notes": "한글 = Hangeul (Korean alphabet)\n-(으)ㄹ 줄 알다 = to know how to + V\n쓰다 = to write"
+    },
+    {
+      "korean": "과제 때문에 읽어야 할 책을 아직 안 읽었어요.",
+      "english": "Reading that book is my assignment, but I haven't read it yet.",
+      "notes": "과제 = homework; assignment\n때문에 = because (of), since\n아직 = (not) yet"
+    },
+    {
+      "korean": "이 책은 어린이들이 읽기에는 어려운 것 같아요.",
+      "english": "I think this book is difficult for children to read.",
+      "notes": "어린이 = kid, child\n-기에 = (to be too + adjective) + to + V\n어렵다 = to be difficult\n어려운 is the adjective form of 어렵다.\n- 것 같다 = it seems; looks like + S + V"
+    },
+    {
+      "korean": "그 책 너무 재미있어서 하루만에 다 읽었어요.",
+      "english": "The book is so interesting that I finished reading it in only one day.",
+      "notes": "하루 = one day\n-만 = only; just"
+    }
+  ]
+}

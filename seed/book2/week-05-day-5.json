@@ -1,0 +1,110 @@
+{
+  "week": 5,
+  "day": 5,
+  "order": 33,
+  "keyword": "있다",
+  "meaning": "to be there; to exist; to have",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "집에 있다",
+      "english": "to be at home",
+      "notes": "집 = house, home"
+    },
+    {
+      "korean": "책이 있다",
+      "english": "to have a book",
+      "notes": "책 = book"
+    },
+    {
+      "korean": "돈이 있다",
+      "english": "to have money",
+      "notes": "돈 = money"
+    },
+    {
+      "korean": "가만히 있다",
+      "english": "to stay still, not move",
+      "notes": "가만히 = still; motionlessly\n가만히 있다 = to stay still, not move"
+    },
+    {
+      "korean": "수업이 있다",
+      "english": "to have a class (to attend/teach)",
+      "notes": "수업 = class"
+    },
+    {
+      "korean": "약속이 있다",
+      "english": "to have plans; to have someone to meet; to have somewhere to go",
+      "notes": ""
+    },
+    {
+      "korean": "무슨 일 있어요?",
+      "english": "Is there a problem?; Is there anything wrong?; What's going on?",
+      "notes": "무슨 = what; what kind of"
+    },
+    {
+      "korean": "여행 갈 돈 있어요?",
+      "english": "Do you have money to go on a trip?",
+      "notes": "여행 = travel, trip\n가다 = to go; to leave"
+    },
+    {
+      "korean": "어제 집에 있었어요?",
+      "english": "Were you at home yesterday?",
+      "notes": ""
+    },
+    {
+      "korean": "거실에 에어컨이 있어요.",
+      "english": "There is an air conditioner in the living room.",
+      "notes": "거실 = living room\n에어컨 = air conditioner"
+    },
+    {
+      "korean": "자기 아는 사람이 있어요.",
+      "english": "There is someone I know.",
+      "notes": "자기 = there\n알다 = to know"
+    },
+    {
+      "korean": "책상 위에 지우개가 있어요.",
+      "english": "There is an eraser on the desk.",
+      "notes": "책상 = desk\n위 = above; on; up\n지우개 = an eraser"
+    },
+    {
+      "korean": "안에 누군가가 있는 것 같아요.",
+      "english": "I think there is someone in there.\nI think someone's in there.",
+      "notes": "안 = in; inside\n누군가 = someone"
+    },
+    {
+      "korean": "우리 집에는 방이 세 개 있어요.",
+      "english": "There are three rooms in my house.",
+      "notes": "우리 = we; us\n집 = house, home\n우리 집 = my house\n방 = room\n세 = three (native Korean number)\n개 = a general counter for inanimate objects."
+    },
+    {
+      "korean": "움직이지 말고 가만히 좀 있어요.",
+      "english": "Don't move and stay still.",
+      "notes": "움직이다 = to move"
+    },
+    {
+      "korean": "냉장고에 아이스크림이 있어요.",
+      "english": "There is ice cream in the refrigerator.",
+      "notes": "냉장고 = refrigerator\n아이스크림 = ice cream"
+    },
+    {
+      "korean": "잠깐만 여기 있어요. 금방 돌아올게요.",
+      "english": "Stay here for a second. I will be right back.",
+      "notes": "잠깐만 = short time; for a moment\n-만 = only; just\n여기 = here, this place\n돌아오다 = to return; to come back\n-(으)ㄹ게 것이다 = will; be going to + V"
+    },
+    {
+      "korean": "오늘은 약속이 있어서 먼저 가 봐야 돼요.",
+      "english": "I have to go somewhere today, so I'm going to leave first.",
+      "notes": "먼저 = first; before + N"
+    },
+    {
+      "korean": "저희 집은 여기에서 가까운 곳에 있어 요.",
+      "english": "My house is near here.",
+      "notes": "저희 = (polite) we; us; our\n저희 집 = (polite) my house\n가깝다 = to be near, close (in distance)\n가까운 = is the adjective form of 가깝다."
+    },
+    {
+      "korean": "저는 3시에 수업이 있어서 지금 가 봐 야 돼요.",
+      "english": "I have a class at three, so I have to go now.",
+      "notes": "3시 = three o'clock\n가 보다 = to leave (due to a previous engagement or time restriction)\n-이/어/(아) 되다 = to have to + V"
+    }
+  ]
+}

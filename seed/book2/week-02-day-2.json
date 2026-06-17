@@ -1,0 +1,105 @@
+{
+  "week": 2,
+  "day": 2,
+  "order": 9,
+  "keyword": "공부",
+  "meaning": "studies, one's learning",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "영어 공부",
+      "english": "English studies",
+      "notes": "영어 = the English language"
+    },
+    {
+      "korean": "공부 방법",
+      "english": "study method",
+      "notes": "방법 = method, way"
+    },
+    {
+      "korean": "한국어 공부",
+      "english": "studying Korean",
+      "notes": "한국어 = the Korean language"
+    },
+    {
+      "korean": "공부할 시간",
+      "english": "time for studying",
+      "notes": "-(으)로 시간 = time to + V; time for + V-ing"
+    },
+    {
+      "korean": "공부하다",
+      "english": "to study",
+      "notes": "하다 = to do"
+    },
+    {
+      "korean": "공부를 잘하다",
+      "english": "to be good at studying; to have good grades in school",
+      "notes": "잘하다 = to be good at something"
+    },
+    {
+      "korean": "공부를 못하다",
+      "english": "to be bad at studying; to have bad grades in school",
+      "notes": "못하다 = to be bad/poor at something"
+    },
+    {
+      "korean": "요즘 뭐 공부하세요?",
+      "english": "What are you studying these days?",
+      "notes": "요즘 = these days, lately"
+    },
+    {
+      "korean": "공부할 게 너무 많아요.",
+      "english": "I have too much to study.",
+      "notes": "-(으)로 게 = to + V (subject)\n-(으)로 게 is the contracted form of -(으)로 것이"
+    },
+    {
+      "korean": "시끄러워서 공부가 안 돼요.",
+      "english": "Since it's noisy here, I can't study.",
+      "notes": "시끄럽다 = to be noisy, loud\n-아/어/서 = because, since\n안 되다 = S + doesn't work; can't + V"
+    },
+    {
+      "korean": "공부는 해도 해도 끝이 없어요.",
+      "english": "No matter how much you study, there's always more (to study).",
+      "notes": "-아/어/도 = even though; no matter how much + S + V\n끝 = end, finish\n끝이 없다 = there is no end; to never end"
+    },
+    {
+      "korean": "혼자 공부하면 포기하기 쉬워요.",
+      "english": "If you study alone, it's easy to give up.",
+      "notes": "혼자 = alone, by oneself\n-(으)면 = if + S + V; when/once + S + V\n포기하다 = to give up\n-기 쉽다 = to be easy to + V"
+    },
+    {
+      "korean": "이 책은 공부에 도움이 많이 돼요.",
+      "english": "This book helps a lot with studying.",
+      "notes": "이 = this\n책 = book\n도움 = help\n도움이 되다 = to be helpful"
+    },
+    {
+      "korean": "저는 학교 다닐 때 공부를 못했어요.",
+      "english": "When I was going to school, I was not a good student.",
+      "notes": "저 = (polite) I; me\n학교 = school\n다니다 = to go to (a place); to attend\n-(으)ㄹ 때 = when/while + S + V"
+    },
+    {
+      "korean": "그 사람은 외국에서 공부하고 왔어요.",
+      "english": "He studied abroad (and returned).",
+      "notes": "그 = the; that\n외국 = foreign country\n-고 오다 = to go do something and then come back"
+    },
+    {
+      "korean": "엄마가 방에 들어와서 공부하는 척 했어요.",
+      "english": "My mom came into my room, so I pretended to be studying.",
+      "notes": "엄마 = mom\n방 = room\n들어오다 = to come in\n-는 척 하다 = to pretend"
+    },
+    {
+      "korean": "어제 공부한 내용이 하나도 기억이 안 나요.",
+      "english": "I can't remember anything I studied yesterday.",
+      "notes": "어제 = yesterday\n내용 = content; material\n하나 = one (native Korean number)\n하나도 = not even one; not at all\n기억 = memory\n기억이 나다 = to remember"
+    },
+    {
+      "korean": "한국어는 공부하면 공부할수록 재미있어요.",
+      "english": "The more you study the Korean language, the more fun it is.",
+      "notes": "-(으)면 -(으)ㄹ수록 = the more ..., the more ....\n재미있다 = to be fun; to be funny; to be interesting"
+    },
+    {
+      "korean": "어제 밤을 새워서 공부했더니 너무 피곤해요.",
+      "english": "I stayed up all night studying, so I am really exhausted.",
+      "notes": "밤 = night\n밤을 새우다 = to stay up all night\n-았/었기 때문에 = since/because + I/we + V-ed\n피곤하다 = to be tired, exhausted; to be tiring"
+    }
+  ]
+}

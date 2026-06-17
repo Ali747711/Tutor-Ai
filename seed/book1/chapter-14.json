@@ -1,0 +1,372 @@
+{
+  "chapter": 14,
+  "title": "Cosmetics Store",
+  "category": "Shopping",
+  "shortDialogue": [
+    {
+      "speaker": "손님",
+      "korean": "토너하고 로션 추천해 주세요.",
+      "romanization": "",
+      "english": "Please recommend a toner and a lotion."
+    },
+    {
+      "speaker": "점원",
+      "korean": "네. 피부가 지성이에요? 건성이에요?",
+      "romanization": "",
+      "english": "Ok. Do you have oily or dry skin?"
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "손님",
+      "korean": "토너하고 로션 추천해 주세요.",
+      "romanization": "",
+      "english": "Please recommend a toner and a lotion."
+    },
+    {
+      "speaker": "점원",
+      "korean": "네. 피부가 지성이세요? 건성이세요?",
+      "romanization": "",
+      "english": "Ok. Do you have oily or dry skin?"
+    },
+    {
+      "speaker": "손님",
+      "korean": "건성이에요.",
+      "romanization": "",
+      "english": "I have dry skin."
+    },
+    {
+      "speaker": "점원",
+      "korean": "그럼 이거 써 보세요. 촉촉한 로션이에요.",
+      "romanization": "",
+      "english": "Then try using this. It's a moisturizer."
+    },
+    {
+      "speaker": "손님",
+      "korean": "고맙습니다. 이거 세 개 주세요.",
+      "romanization": "",
+      "english": "Thank you. Please give me three of these."
+    },
+    {
+      "speaker": "점원",
+      "korean": "두 개밖에 없어요. 다 떨어졌어요.",
+      "romanization": "",
+      "english": "We only have two. We ran out of the rest."
+    },
+    {
+      "speaker": "손님",
+      "korean": "아, 그래요? 그럼 두 개만 주세요.",
+      "romanization": "",
+      "english": "Oh, really? Then, just give me two."
+    },
+    {
+      "speaker": "점원",
+      "korean": "네. 삼만 원입니다.",
+      "romanization": "",
+      "english": "Ok. It's 30,000 won."
+    },
+    {
+      "speaker": "손님",
+      "korean": "여기요.",
+      "romanization": "",
+      "english": "Here."
+    },
+    {
+      "speaker": "점원",
+      "korean": "삼만 원 받았습니다. 포인트 적립해 드릴까요?",
+      "romanization": "",
+      "english": "I've received 30,000 won. Shall I add points to your points account?"
+    },
+    {
+      "speaker": "손님",
+      "korean": "아니요, 괜찮아요.",
+      "romanization": "",
+      "english": "No, it's ok."
+    },
+    {
+      "speaker": "점원",
+      "korean": "네, 영수증 여기 있습니다. 감사합니다.",
+      "romanization": "",
+      "english": "Ok. Here is your receipt. Thank you."
+    },
+    {
+      "speaker": "손님",
+      "korean": "네, 수고하세요.",
+      "romanization": "",
+      "english": "Ok. Bye."
+    }
+  ],
+  "culturalTip": "You will see a multitude of cosmetic stores while walking down the street in Korea. Most stores have good quality and affordable products. In addition to cosmetic stores, there are also drugstores. Drugstores carry affordable cosmetics and skincare products from Korea as well as other countries, such as Japan, France, or Germany. If you are looking to purchase more luxury or high-end brands of cosmetics or skincare products, visit a department store.",
+  "koreanReview": "- Short Dialogue\n손님: 토너하고 로션 추천해 주세요.\n점원: 네. 피부가 지성이에요? 건성이에요?\n\n- Long Dialogue\n손님: 토너하고 로션 추천해 주세요.\n점원: 네. 피부가 지성이세요? 건성이세요?\n손님: 건성이에요.\n점원: 그럼 이거 써 보세요. 촉촉한 로션이에요.\n손님: 고맙습니다. 이거 세 개 주세요.\n점원: 두 개밖에 없어요. 다 떨어졌어요.\n손님: 아, 그래요? 그럼 두 개만 주세요.\n점원: 네. 삼만 원입니다.\n손님: 여기요.\n점원: 삼만 원 받았습니다. 포인트 적립해 드릴까요?\n손님: 아니요, 괜찮아요.\n점원: 네, 영수증 여기 있습니다. 감사합니다.\n손님: 네, 수고하세요.",
+  "coreVocab": [
+    {
+      "korean": "토너",
+      "romanization": "to-neo",
+      "meaning": "toner"
+    },
+    {
+      "korean": "-하고",
+      "romanization": "-ha-go",
+      "meaning": "and"
+    },
+    {
+      "korean": "로션",
+      "romanization": "lo-syeon",
+      "meaning": "lotion"
+    },
+    {
+      "korean": "추천하다",
+      "romanization": "chu-cheo-na-da",
+      "meaning": "to recommend"
+    },
+    {
+      "korean": "VERB + -아/어/여 주세요.",
+      "romanization": "-a/eo/yeo ju-se-yo.",
+      "meaning": "Please VERB (me)."
+    },
+    {
+      "korean": "A-이/가 B-이에요/예요?",
+      "romanization": "A-i/ga B-i-e-yo/ye-yo?",
+      "meaning": "Is A B?"
+    },
+    {
+      "korean": "네.",
+      "romanization": "ne.",
+      "meaning": "Ok. / Yes."
+    },
+    {
+      "korean": "피부",
+      "romanization": "pi-bu",
+      "meaning": "skin"
+    },
+    {
+      "korean": "지성",
+      "romanization": "ji-seong",
+      "meaning": "oily skin"
+    },
+    {
+      "korean": "건성",
+      "romanization": "geon-seong",
+      "meaning": "dry skin"
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "토너",
+      "romanization": "to-neo",
+      "meaning": "toner"
+    },
+    {
+      "korean": "로션",
+      "romanization": "lo-syeon",
+      "meaning": "lotion"
+    },
+    {
+      "korean": "추천하다",
+      "romanization": "chu-cheo-na-da",
+      "meaning": "to recommend"
+    },
+    {
+      "korean": "피부",
+      "romanization": "pi-bu",
+      "meaning": "skin"
+    },
+    {
+      "korean": "지성",
+      "romanization": "ji-seong",
+      "meaning": "oily skin"
+    },
+    {
+      "korean": "건성",
+      "romanization": "geon-seong",
+      "meaning": "dry skin"
+    },
+    {
+      "korean": "그럼",
+      "romanization": "geu-reom",
+      "meaning": "then"
+    },
+    {
+      "korean": "이거",
+      "romanization": "i-geo",
+      "meaning": "this, this thing"
+    },
+    {
+      "korean": "쓰다",
+      "romanization": "sseu-da",
+      "meaning": "to use"
+    },
+    {
+      "korean": "써 보다",
+      "romanization": "sseo bo-da",
+      "meaning": "to try using"
+    },
+    {
+      "korean": "촉촉하다",
+      "romanization": "chok-cho-ka-da",
+      "meaning": "to be moist"
+    },
+    {
+      "korean": "고맙다",
+      "romanization": "go-map-tta",
+      "meaning": "to be thankful"
+    },
+    {
+      "korean": "세 개",
+      "romanization": "se gae",
+      "meaning": "three things"
+    },
+    {
+      "korean": "주다",
+      "romanization": "ju-da",
+      "meaning": "to give"
+    },
+    {
+      "korean": "다",
+      "romanization": "da",
+      "meaning": "all"
+    },
+    {
+      "korean": "떨어지다",
+      "romanization": "tteo-reo-ji-da",
+      "meaning": "to run out of something"
+    },
+    {
+      "korean": "삼만",
+      "romanization": "sam-man",
+      "meaning": "30 thousand"
+    },
+    {
+      "korean": "여기",
+      "romanization": "yeo-gi",
+      "meaning": "here"
+    },
+    {
+      "korean": "받다",
+      "romanization": "bat-tta",
+      "meaning": "to receive"
+    },
+    {
+      "korean": "포인트",
+      "romanization": "po-in-teu",
+      "meaning": "mileage, point"
+    },
+    {
+      "korean": "적립하다",
+      "romanization": "jeong-ni-pa-da",
+      "meaning": "to accumulate"
+    },
+    {
+      "korean": "괜찮다",
+      "romanization": "gwaen-chan-ta",
+      "meaning": "to be ok, to be alright"
+    },
+    {
+      "korean": "영수증",
+      "romanization": "yeong-su-jeung",
+      "meaning": "receipt"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "To Experiment / Try With an Action",
+      "pattern": "VERB + -아/어/여 보세요. = Try VERB-ing.",
+      "meaning": "Try VERB-ing.",
+      "explanation": "Add -아/어/여 보세요 to a verb stem to suggest someone try doing the action.",
+      "examples": [
+        {
+          "korean": "쓰다 + -아/어/여 보세요 → 써 보세요.",
+          "romanization": "",
+          "english": "Try using (it)."
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "추천하다 + -아/어/여 보세요",
+          "answer": "추천해 보세요.",
+          "english": "Try recommending (it)."
+        },
+        {
+          "prompt": "받다 + -아/어/여 보세요",
+          "answer": "받아 보세요.",
+          "english": "Try receiving (it)."
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Suggestion",
+      "pattern": "VERB + -아/어/여 드릴까요? = Shall I VERB (for you)?",
+      "meaning": "Shall I VERB (for you)?",
+      "explanation": "Add -아/어/여 드릴까요 to a verb stem to politely offer to do something for someone.",
+      "examples": [
+        {
+          "korean": "적립하다 + -아/어/여 드릴까요? → 적립해 드릴까요?",
+          "romanization": "",
+          "english": "Shall I add (points for you)?"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "추천하다 + -아/어/여 드릴까요?",
+          "answer": "추천해 드릴까요?",
+          "english": "Shall I recommend you (it)?"
+        },
+        {
+          "prompt": "사다 + -아/어/여 드릴까요?",
+          "answer": "사 드릴까요?",
+          "english": "Shall I buy you (it)?"
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "When a syllable ends with ㄱ and is followed by a syllable that begins with ㄹ, the ㄹ is pronounced as ㄴ.",
+      "examples": [
+        {
+          "korean": "적립",
+          "pronounced": "적닙",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "독립",
+          "answer": "동닙",
+          "gloss": "(independence)"
+        },
+        {
+          "prompt": "복리",
+          "answer": "봉니",
+          "gloss": "(welfare, well-being)"
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "When a syllable ends with ㄱ and is followed by a syllable that begins with ㄴ, the ㄱ is pronounced as ㅇ.",
+      "examples": [
+        {
+          "korean": "적닙",
+          "pronounced": "정닙",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "독립",
+          "answer": "동닙",
+          "gloss": "(independence)"
+        },
+        {
+          "prompt": "복리",
+          "answer": "봉니",
+          "gloss": "(welfare, well-being)"
+        }
+      ]
+    }
+  ]
+}

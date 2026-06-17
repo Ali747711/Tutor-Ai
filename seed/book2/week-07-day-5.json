@@ -1,0 +1,110 @@
+{
+  "week": 7,
+  "day": 5,
+  "order": 47,
+  "keyword": "좋아하다",
+  "meaning": "to like",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "좋아하는 색",
+      "english": "a color which one likes",
+      "notes": "색 = color"
+    },
+    {
+      "korean": "좋아하는 사람",
+      "english": "a person who one likes",
+      "notes": ""
+    },
+    {
+      "korean": "좋아하는 드라마",
+      "english": "a drama which one likes",
+      "notes": "드라마 = TV drama, soap opera"
+    },
+    {
+      "korean": "제일 좋아하다",
+      "english": "to like the most",
+      "notes": "제일 = the best; the most"
+    },
+    {
+      "korean": "커피 좋아하세요?",
+      "english": "Do you like coffee?",
+      "notes": "커피 = coffee"
+    },
+    {
+      "korean": "아이들이 좋아할까요?",
+      "english": "Will the children like it?",
+      "notes": "아이 = child; kid; baby\n-(으)를까요? = Shall we + S + V?; Do you want me to + V?; Should we + V?; Let's + V."
+    },
+    {
+      "korean": "좋아하는 사람 있어요?",
+      "english": "Is there anyone who you like?",
+      "notes": ""
+    },
+    {
+      "korean": "어떤 영화 좋아하세요?",
+      "english": "Which/What kind of movies do you like?",
+      "notes": "어떤 = what kind of; which\n영화 = movie"
+    },
+    {
+      "korean": "자는 혼자 있는 것을 좋아해요.",
+      "english": "I like to be alone.",
+      "notes": "혼자 = alone, by oneself"
+    },
+    {
+      "korean": "자는 등산을 별로 안 좋아해요.",
+      "english": "I don't really like hiking.",
+      "notes": "등산 = mountain climbing, hiking"
+    },
+    {
+      "korean": "이게 제가 제일 좋아하는 책이에요.",
+      "english": "This is the book I like most.\nThis is my favorite book.",
+      "notes": "이게 = this (subject)\n이게 is the contracted form of 이것이.\n제 = (polite) my; I\n제일 좋아하는 = one's favorite\n책 = book"
+    },
+    {
+      "korean": "이 옷은 제가 제일 좋아하는 옷이에요.",
+      "english": "This is the clothing I like the most.",
+      "notes": ""
+    },
+    {
+      "korean": "이렇게 하면 손님들이 좋아할 것 같아요.",
+      "english": "If we do it like this, I think the customers will like it.",
+      "notes": "하다 = to do\n손님 = guest; visitor"
+    },
+    {
+      "korean": "아이스크림 드실래요? 무슨 맛 좋아하세요?",
+      "english": "Do you want to eat some ice cream? Which flavor do you like?",
+      "notes": "아이스크림 = ice cream\n드시다 = (honorific) to eat; to drink\n-(으)래요? = Do you want to + V?; Shall we + V?\n무슨 = what; what kind of\n맛 = taste"
+    },
+    {
+      "korean": "외국어를 배우는 걸 좋아하는데 잘하지는 못 해요.",
+      "english": "I like learning foreign languages, but I am not good at it.",
+      "notes": "외국어 = foreign language\n배우다 = to learn; to study\n잘하다 = to be good at something"
+    },
+    {
+      "korean": "제가 좋아하는 가수들이 다음 달에 콘서트를 할 거예요.",
+      "english": "The singers that I like are going to have a concert next month.",
+      "notes": "가수 = singer\n다음 = next\n콘서트 = concert"
+    },
+    {
+      "korean": "스포츠를 하는 건 안 좋아하는데 보는 건 정말 좋아해요.",
+      "english": "I don't like playing sports, but I really like watching them.",
+      "notes": "스포츠 = sport(s)\n스포츠를 하다 = to play sports\n보다 = to see; to look; to watch; to meet up"
+    },
+    {
+      "korean": "효진 씨가 좋아할 줄 알았는데 별로 안 좋아하는 것 같아요.",
+      "english": "I thought Hyojin would like it, but I don't think she likes it very much.",
+      "notes": "-(으)은 줄 알다 = to know how to + V"
+    },
+    {
+      "korean": "제 친구들은 술 마시는 걸 좋아하는데 자는 별로 안 좋아해요.",
+      "english": "My friends like to drink, but I don't really like it.",
+      "notes": "술 = alcohol\n마시다 = to drink"
+    },
+    {
+      "korean": "저는 보통 학생들과 다르게 학창 시절 과목 중에 수학을 가장 좋아했었어요.",
+      "english": "Unlike normal students, I liked math the most out of all the subjects when I was in school.",
+      "notes": "보통 = usually; nor-mally; usual; normal; regular\n학생 = student\n다르다 = to be dif-ferent\n다르게 is an adverb form of 다르다.\n학창 시절 = one's school days\n과목 = subject (of study)\n수학 = math\n가장 = the most"
+    }
+  ]
+}

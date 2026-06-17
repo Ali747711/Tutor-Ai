@@ -1,0 +1,370 @@
+{
+  "chapter": 30,
+  "title": "Friend's House",
+  "category": "Food",
+  "shortDialogue": [
+    {
+      "speaker": "혜진",
+      "korean": "이거 뭐야? 네가 다 만들었어?",
+      "romanization": "",
+      "english": "What is this? Did you make all of this?"
+    },
+    {
+      "speaker": "원수",
+      "korean": "응. 나 요리 잘해.",
+      "romanization": "",
+      "english": "Yeah. I'm good at cooking."
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "원수",
+      "korean": "들어와.",
+      "romanization": "",
+      "english": "Come on in."
+    },
+    {
+      "speaker": "혜진",
+      "korean": "우와! 집 예뻐다!",
+      "romanization": "",
+      "english": "Wow. Your house is pretty!"
+    },
+    {
+      "speaker": "원수",
+      "korean": "그래? 고마워. 다른 애들은?",
+      "romanization": "",
+      "english": "Is it? Thank you. What about the others?"
+    },
+    {
+      "speaker": "혜진",
+      "korean": "금방 올 거야. 슈퍼 갔어.",
+      "romanization": "",
+      "english": "They will come here soon. They went to the store."
+    },
+    {
+      "speaker": "원수",
+      "korean": "여기 앉아.",
+      "romanization": "",
+      "english": "Sit here."
+    },
+    {
+      "speaker": "혜진",
+      "korean": "이거 뭐야? 네가 다 만들었어?",
+      "romanization": "",
+      "english": "What is this? Did you make all of this?"
+    },
+    {
+      "speaker": "원수",
+      "korean": "응. 나 요리 잘해.",
+      "romanization": "",
+      "english": "Yeah. I'm good at cooking."
+    },
+    {
+      "speaker": "혜진",
+      "korean": "멋지다. 인테리어도 멋져. 그리고 음식도 맛있겠다.",
+      "romanization": "",
+      "english": "Cool. The interior design is cool, too. And the food seems delicious as well."
+    },
+    {
+      "speaker": "원수",
+      "korean": "집들이 오늘이 처음이야.",
+      "romanization": "",
+      "english": "Today is my first time doing a housewarming party."
+    },
+    {
+      "speaker": "혜진",
+      "korean": "진짜? 우리가 처음이야? 집 진짜 좋다.",
+      "romanization": "",
+      "english": "Really? Are we the first? Your house is really nice."
+    },
+    {
+      "speaker": "원수",
+      "korean": "다행이다. 배고프지? 먼저 먹을래?",
+      "romanization": "",
+      "english": "Glad to hear that. You must be hungry. Do you want to eat first?"
+    },
+    {
+      "speaker": "혜진",
+      "korean": "아니. 기다릴게. 애들 왜 안 오지?",
+      "romanization": "",
+      "english": "No. I'll wait. Why aren't they coming?"
+    }
+  ],
+  "culturalTip": "Toilet paper and laundry detergent are traditional Korean housewarming gifts. Some say that toilet paper represents a wish for the host family's problems to become untangled, similar to unrolling the tissue, while laundry detergent represents a wish for a prosperous life, as detergent makes more and more bubbles when used. Others say that toilet paper and laundry detergent wipe away bad luck because you clean with those items. On the other hand, toilet paper and laundry detergent are daily necessities, so the household will need them anyway. These days, since toilet paper and laundry detergent are cheap items, and most families have enough, people will give different items based on the host's tastes.",
+  "koreanReview": "- Short Dialogue\n혜진: 이거 뭐야? 네가 다 만들었어?\n원수: 응. 나 요리 잘해.\n\n- Long Dialogue\n원수: 들어와.\n혜진: 우와! 집 예뻐다!\n원수: 그래? 고마워. 다른 애들은?\n혜진: 금방 올 거야. 슈퍼 갔어.\n원수: 여기 앉아.\n혜진: 이거 뭐야? 네가 다 만들었어?\n원수: 응. 나 요리 잘해.\n혜진: 멋지다. 인테리어도 멋져. 그리고 음식도 맛있겠다.\n원수: 집들이 오늘이 처음이야.\n혜진: 진짜? 우리가 처음이야? 집 진짜 좋다.\n원수: 다행이다. 배고프지? 먼저 먹을래?\n혜진: 아니. 기다릴게. 애들 왜 안 오지?",
+  "coreVocab": [
+    {
+      "korean": "이거",
+      "romanization": "i-geo",
+      "meaning": "this, this thing"
+    },
+    {
+      "korean": "NOUN + 뭐야?",
+      "romanization": "mwo-ya?",
+      "meaning": "What is NOUN? (casual)"
+    },
+    {
+      "korean": "다",
+      "romanization": "da",
+      "meaning": "all"
+    },
+    {
+      "korean": "만들다",
+      "romanization": "man-deul-da",
+      "meaning": "to make"
+    },
+    {
+      "korean": "네",
+      "romanization": "ne",
+      "meaning": "you (written)"
+    },
+    {
+      "korean": "응",
+      "romanization": "eung",
+      "meaning": "yes, yeah, ok (casual)"
+    },
+    {
+      "korean": "나",
+      "romanization": "na",
+      "meaning": "I (casual)"
+    },
+    {
+      "korean": "요리",
+      "romanization": "yo-ri",
+      "meaning": "cooking"
+    },
+    {
+      "korean": "잘하다",
+      "romanization": "jal-ra-da",
+      "meaning": "to be good at, to do well"
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "들어오다",
+      "romanization": "deu-reo-o-da",
+      "meaning": "to come in"
+    },
+    {
+      "korean": "집",
+      "romanization": "jip",
+      "meaning": "house, home"
+    },
+    {
+      "korean": "예쁘다",
+      "romanization": "ye-ppeu-da",
+      "meaning": "to be pretty"
+    },
+    {
+      "korean": "고맙다",
+      "romanization": "go-map-ta",
+      "meaning": "to be thankful"
+    },
+    {
+      "korean": "다른",
+      "romanization": "da-reun",
+      "meaning": "different"
+    },
+    {
+      "korean": "애들",
+      "romanization": "ae-deul",
+      "meaning": "other (friends)"
+    },
+    {
+      "korean": "금방",
+      "romanization": "geum-bang",
+      "meaning": "soon"
+    },
+    {
+      "korean": "오다",
+      "romanization": "o-da",
+      "meaning": "to come"
+    },
+    {
+      "korean": "슈퍼",
+      "romanization": "syu-peo",
+      "meaning": "grocery store, supermarket"
+    },
+    {
+      "korean": "가다",
+      "romanization": "ga-da",
+      "meaning": "to go"
+    },
+    {
+      "korean": "여기",
+      "romanization": "yeo-gi",
+      "meaning": "here"
+    },
+    {
+      "korean": "앉다",
+      "romanization": "an-tta",
+      "meaning": "to sit"
+    },
+    {
+      "korean": "뭐",
+      "romanization": "mwo",
+      "meaning": "what"
+    },
+    {
+      "korean": "다",
+      "romanization": "da",
+      "meaning": "all"
+    },
+    {
+      "korean": "요리",
+      "romanization": "yo-ri",
+      "meaning": "cooking"
+    },
+    {
+      "korean": "잘하다",
+      "romanization": "jia-ra-da",
+      "meaning": "to be good at, to do well"
+    },
+    {
+      "korean": "멋지다",
+      "romanization": "meot-ji-da",
+      "meaning": "to be cool"
+    },
+    {
+      "korean": "인테리어",
+      "romanization": "in-te-ri-eo",
+      "meaning": "interior design"
+    },
+    {
+      "korean": "음식",
+      "romanization": "eum-sik",
+      "meaning": "food"
+    },
+    {
+      "korean": "맛있다",
+      "romanization": "ma-sit-ta",
+      "meaning": "to be tasty"
+    },
+    {
+      "korean": "집들이",
+      "romanization": "jip-tteu-ri",
+      "meaning": "housewarming party"
+    },
+    {
+      "korean": "오늘",
+      "romanization": "o-neul",
+      "meaning": "today"
+    },
+    {
+      "korean": "처음",
+      "romanization": "cheo-eum",
+      "meaning": "first"
+    },
+    {
+      "korean": "다행",
+      "romanization": "da-haeng",
+      "meaning": "relief"
+    },
+    {
+      "korean": "배고프다",
+      "romanization": "bae-go-peu-da",
+      "meaning": "to be hungry"
+    },
+    {
+      "korean": "먼저",
+      "romanization": "meon-jeo",
+      "meaning": "first, early"
+    },
+    {
+      "korean": "기다리다",
+      "romanization": "gi-da-ri-da",
+      "meaning": "to wait"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "Capable at Something",
+      "pattern": "NOUN + 잘해(요) = (SUBJECT) am/is/are good at NOUN",
+      "meaning": "(SUBJECT) am/is/are good at NOUN",
+      "explanation": "",
+      "examples": [
+        {
+          "korean": "요리 + 잘해(요) → 요리 잘해(요).",
+          "romanization": "",
+          "english": "(They) are good at cooking."
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "수영 + 잘해(요)",
+          "answer": "수영 잘해(요).",
+          "english": "(They) are good at swimming."
+        },
+        {
+          "prompt": "축구 + 잘해(요)",
+          "answer": "축구 잘해(요).",
+          "english": "(They) are good at soccer."
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Exclamation - Seeking Agreement",
+      "pattern": "-지(요)? = (SUBJECT) (VERB/ADJECTIVE), right?",
+      "meaning": "(SUBJECT) (VERB/ADJECTIVE), right?",
+      "explanation": "",
+      "examples": [
+        {
+          "korean": "배고프다 + -지(요)? → 배고프지(요)? = You are hungry, right?",
+          "romanization": "",
+          "english": "You are hungry, right?"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "잘하다 + -지(요)?",
+          "answer": "잘하지(요)?",
+          "english": "(They) are good at it, right?"
+        },
+        {
+          "prompt": "예쁘다 + -지(요)?",
+          "answer": "예쁘지(요)?",
+          "english": "(It) is pretty, right?"
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "When a word or syllable ends with ㄹ and is not followed by anything or is followed by a consonant, ㄹ is pronounced as ∟.",
+      "examples": [
+        {
+          "korean": "앉",
+          "pronounced": "[안]",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "앞았어요",
+          "answer": "[안자써요]",
+          "gloss": ""
+        },
+        {
+          "prompt": "앞아서",
+          "answer": "[안자서]",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "When ㄹ is followed by a syllable that begins with a vowel, the ㄹ becomes part of the following syllable.",
+      "examples": [
+        {
+          "korean": "앉아 → [안자]",
+          "pronounced": "",
+          "romanization": ""
+        }
+      ],
+      "exercises": []
+    }
+  ]
+}

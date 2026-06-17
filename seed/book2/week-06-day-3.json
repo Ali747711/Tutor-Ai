@@ -1,0 +1,110 @@
+{
+  "week": 6,
+  "day": 3,
+  "order": 38,
+  "keyword": "웃다",
+  "meaning": "to laugh, smile",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "웃는 얼굴",
+      "english": "smiling face",
+      "notes": "얼굴 = face"
+    },
+    {
+      "korean": "웃지 마세요.",
+      "english": "Don't laugh.",
+      "notes": ""
+    },
+    {
+      "korean": "웃어서 미안해요.",
+      "english": "I'm sorry for laughing.",
+      "notes": "미안하다 = to be sorry; to feel bad"
+    },
+    {
+      "korean": "웃으면 복이 와요.",
+      "english": "A smile will bring luck.",
+      "notes": "복 = luck\n오다 = to come"
+    },
+    {
+      "korean": "환하게 웃어 주세요.",
+      "english": "Show me a big smile.",
+      "notes": "환하다 = to be bright\n환하게 is an adverb form of 환하다.\n-이/어/아 주세요 = (polite) Please do + something + for me"
+    },
+    {
+      "korean": "웃을 일이 아니에요.",
+      "english": "It's not something you can laugh about. It's no laughing matter.",
+      "notes": "웃을 일 = something to laugh about, laughable matter"
+    },
+    {
+      "korean": "웃게 해 줘서 고마워요.",
+      "english": "Thanks for making me smile.",
+      "notes": "-이/어/아 주다 = to do something for someone\n고마다 = to be grateful"
+    },
+    {
+      "korean": "웃으면 건강에 좋아요.",
+      "english": "Smiling is good for your health.",
+      "notes": "건강 = one's health\n-에 좋다 = to be good for + N"
+    },
+    {
+      "korean": "요즘 웃을 일이 없어요.",
+      "english": "Lately, there's nothing to laugh about.",
+      "notes": "요즘 = these days, lately\n없다 = to not have; to not be there; to not exist"
+    },
+    {
+      "korean": "안 웃겠다고 약속하세요.",
+      "english": "Promise me you won't laugh.",
+      "notes": "약속하다 = to promise, make a promise"
+    },
+    {
+      "korean": "웃는 얼굴이 보기 좋아요.",
+      "english": "You look good with a smile on your face.",
+      "notes": "-기 좋다 = to be good for + V-ing\n보기 좋다 = to look good to see"
+    },
+    {
+      "korean": "웃지마 말고 말을 하세요.",
+      "english": "Stop laughing and start talking.",
+      "notes": ""
+    },
+    {
+      "korean": "사람들이 저를 보고 웃었어요.",
+      "english": "People laughed at me.",
+      "notes": "-들 is a suffix used to indicate plural."
+    },
+    {
+      "korean": "너무 많이 웃어서 배가 아파요.",
+      "english": "I laughed so hard that my stomach hurts.",
+      "notes": "배 = stomach, belly\n아프다 = to be sick, hurt"
+    },
+    {
+      "korean": "제 이야기를 듣고 웃으면 안 돼요.",
+      "english": "You shouldn't laugh at my story.",
+      "notes": "이야기 = story; what one says\n듣다 = to hear; to listen\n-(으)면 안 되다 = shouldn't; must not"
+    },
+    {
+      "korean": "저도 모르게 큰 소리로 웃었어요.",
+      "english": "Without even meaning to, I laughed out loud.",
+      "notes": "모르게 = without knowing; without meaning to + V\n뛰다 = to chat; to make noise\n사이 = while + S +V; between; among\n되다 = to become"
+    },
+    {
+      "korean": "웃고 떠드는 사이에 밤이 되었어요.",
+      "english": "While we were laughing and talking, it had already become nighttime.",
+      "notes": "-(으)면 (으)ㄹ수록 = the more ..., the more ...\n-이/어/아지다 = to become + adjective"
+    },
+    {
+      "korean": "웃으면 웃을수록 기분이 좋아져요.",
+      "english": "The more you laugh, the better you will feel.",
+      "notes": "스트레스 = stress\n스트레스가 풀리다 = stress is relieved"
+    },
+    {
+      "korean": "많이 웃었더니 스트레스가 풀렸어요.",
+      "english": "I laughed a lot, and it helped me to relieve some stress.",
+      "notes": "한번 = once, one time\n-기 시작하다 = to start + V-ing\n멈추다 = to stop\n-(으)ㄹ 수 없다 = to be not able to + V, can't"
+    },
+    {
+      "korean": "한번 웃기 시작하니까 멈출 수가 없었어요.",
+      "english": "Once I started laughing, I couldn't stop it.",
+      "notes": "한번 = once, one time\n-기 시작하다 = to start + V-ing\n멈추다 = to stop\n-(으)ㄹ 수 없다 = to be not able to + V, can't"
+    }
+  ]
+}

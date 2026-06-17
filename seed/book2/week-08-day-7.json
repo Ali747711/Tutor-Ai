@@ -1,0 +1,95 @@
+{
+  "week": 8,
+  "day": 7,
+  "order": 56,
+  "keyword": "헤어지다",
+  "meaning": "to part; to break up",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "헤어지기 아쉽다",
+      "english": "to feel sorry about parting ways",
+      "notes": ""
+    },
+    {
+      "korean": "친구들과 헤어지다",
+      "english": "to say goodbye to friends\nto part ways with friends",
+      "notes": ""
+    },
+    {
+      "korean": "여자친구와 헤어지다",
+      "english": "to break up with one's girlfriend",
+      "notes": "여자친구 = girlfriend"
+    },
+    {
+      "korean": "왜 헤어졌어요?",
+      "english": "Why did you break up?",
+      "notes": ""
+    },
+    {
+      "korean": "우리 헤어졌어요.",
+      "english": "We broke up.",
+      "notes": ""
+    },
+    {
+      "korean": "어쩔게 헤어졌어요?",
+      "english": "How did you break up?\nHow did you say goodbye?",
+      "notes": ""
+    },
+    {
+      "korean": "두 사람이 헤어졌는지 몰랐어요.",
+      "english": "I did not know those two broke up.",
+      "notes": ""
+    },
+    {
+      "korean": "헤어진 여자친구가 자꾸 연락을 해요.",
+      "english": "The girlfriend I broke up with keeps contacting me.",
+      "notes": "자꾸 = repeatedly, again and again\n연락 = contact\n연락을 하다 = to contact; to call, text"
+    },
+    {
+      "korean": "생각보다 일찍 헤어져서 집에 일찍 왔어요.",
+      "english": "We parted earlier than I thought, so I came home early.",
+      "notes": "생각보다 = > than one thought"
+    },
+    {
+      "korean": "제가 알기로는 그 사람 남편하고 헤어져 있대요.",
+      "english": "As far as I know, that person parted ways with her husband.",
+      "notes": "제가 알기로는 = as far as I know\n남편 = husband\n-대요 = I heard that + S + V; They say + S + V"
+    },
+    {
+      "korean": "어제 친구들과 놀다가 헤어진 뒤에 서점에 갔어요.",
+      "english": "After saying goodbye to my friends while hanging out, I went to the bookstore.",
+      "notes": "-(으)ㄴ 뒤에 = after + V-ing\n서점 = bookstore"
+    },
+    {
+      "korean": "오랜만에 만났는데 이렇게 헤어지기 아쉽지 않아요?",
+      "english": "This is the first time we've met in a long time, don't you feel sad to part like this?",
+      "notes": "오랜만에 = first time in a long period of time\n만나다 = to meet (up)"
+    },
+    {
+      "korean": "어제 친구랑 싸우고 헤어져서 너무 기분이 안 좋아요.",
+      "english": "Yesterday, I parted ways with a friend after we fought, so I really don't feel good.",
+      "notes": "기분 = feelings; mood"
+    },
+    {
+      "korean": "어제 강남에서 헤어진 뒤로 석진 씨하고 연락이 안 돼요.",
+      "english": "After I parted with Seokjin yesterday in Gangnam, I haven't been able to reach him.",
+      "notes": "-(으)ㄴ 뒤로 = after + V-ing, ever since + S + V-ed\n연락이 안 되다 = can't reach + person, can't contact"
+    },
+    {
+      "korean": "오랜만에 친구들을 만났는데 다들 바빠서 금방 헤어졌어요.",
+      "english": "I met my friends for the first time in a long time, but we parted ways soon after since everyone was busy.",
+      "notes": "바쁘다 = to be busy\n금방 = soon, shortly; quickly"
+    },
+    {
+      "korean": "어제 김을 가다가 우연히 5년 전에 헤어진 남자친구를 만났어요.",
+      "english": "I ran into my ex-boyfriend, who I broke up with 5 years ago, while walking on the streets.",
+      "notes": "5년 = 5 years\n전 = before, ago\n남자친구 = boyfriend"
+    },
+    {
+      "korean": "영수 씨는 대학교 때 4년간 사귀던 여자 친구하고 졸업하자마자 헤어졌대요.",
+      "english": "I heard Young Soo broke up with the girlfriend that he dated for four years as soon as he graduated.",
+      "notes": "대학교 = university\n때 = time\n4년 = four years\n(amount of time) + -간 = for, during\n졸업하다 = to graduate"
+    }
+  ]
+}

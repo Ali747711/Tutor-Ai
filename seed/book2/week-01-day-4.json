@@ -1,0 +1,110 @@
+{
+  "week": 1,
+  "day": 4,
+  "order": 4,
+  "keyword": "친구",
+  "meaning": "friend",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "좋은 친구",
+      "english": "good friend",
+      "notes": "좋다 = to be good, likable; to be desirable; to be nice; to like\n좋은 is the adjective form of 좋다."
+    },
+    {
+      "korean": "나쁜 친구",
+      "english": "bad friend",
+      "notes": "나쁘다 = to be bad\n나쁜 is the adjective form of 나쁘다."
+    },
+    {
+      "korean": "친한 친구",
+      "english": "close friend",
+      "notes": "친하다 = to be close (with other people)\n친한 is the adjective form of 친하다."
+    },
+    {
+      "korean": "학교 친구",
+      "english": "friend from school",
+      "notes": "학교 = school"
+    },
+    {
+      "korean": "친구랑 놀다",
+      "english": "to play with a friend",
+      "notes": "놀다 = to play; to hang out"
+    },
+    {
+      "korean": "친구가 되다",
+      "english": "to become friends",
+      "notes": "되다 = to become"
+    },
+    {
+      "korean": "친구를 사귀다",
+      "english": "to make a friend",
+      "notes": "사귀다 = to make friends; to date someone"
+    },
+    {
+      "korean": "친구랑 싸우다",
+      "english": "to fight with a friend",
+      "notes": "싸우다 = to fight"
+    },
+    {
+      "korean": "제 친구예요.",
+      "english": "This is my friend.",
+      "notes": ""
+    },
+    {
+      "korean": "친구니까 괜찮아요.",
+      "english": "It's okay because we are friends.",
+      "notes": "괜찮다 = to be okay; to be alright; to be nice"
+    },
+    {
+      "korean": "친구를 만날 거예요.",
+      "english": "I am going to meet my friend.",
+      "notes": "만나다 = to meet (up)\n-(으)ㄹ 거야 = will; be going to + V"
+    },
+    {
+      "korean": "친구 추가 해 주세요.",
+      "english": "Please add me as a friend.",
+      "notes": "추가하다 = to add"
+    },
+    {
+      "korean": "친구가 선물로 줬어요.",
+      "english": "My friend gave it to me as a gift.",
+      "notes": "선물 = gift, present"
+    },
+    {
+      "korean": "친구랑 연락이 끊겠어요.",
+      "english": "My friend and I lost touch.",
+      "notes": "연락 = contact\n끊기다 = to be cut off; to be disconnected"
+    },
+    {
+      "korean": "친구들한테 물어볼게요.",
+      "english": "I'll ask my friend.",
+      "notes": "물어보다 = to ask\n-(으)ㄹ게요 = I promise I will + V; I will + V"
+    },
+    {
+      "korean": "어제 친구 집에서 잤어요.",
+      "english": "I slept over at my friend's house yesterday.",
+      "notes": ""
+    },
+    {
+      "korean": "유학 간 친구가 보고 싶어요.",
+      "english": "I miss my friend who has gone to study abroad.",
+      "notes": "유학 = studying abroad\n가다 = to go; to leave"
+    },
+    {
+      "korean": "어제 고향 친구들을 만났어요.",
+      "english": "Yesterday, I met my friends from my hometown.",
+      "notes": "고향 = hometown"
+    },
+    {
+      "korean": "친구들 중에서 제가 제일 키가 커요.",
+      "english": "I'm the tallest among my friends.",
+      "notes": "중(에서) = among; out of; between; in\n제일 = the most + adjective/adverb\n키 = height\n크다 = to be big; to be tall; to be loud"
+    },
+    {
+      "korean": "친구들을 만나면 항상 수다를 떨어요.",
+      "english": "Whenever I meet my friends, we always chatter.",
+      "notes": "수다 = chatter\n수다를 떨다 = to chatter"
+    }
+  ]
+}

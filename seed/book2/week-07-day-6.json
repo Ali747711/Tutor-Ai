@@ -1,0 +1,110 @@
+{
+  "week": 7,
+  "day": 6,
+  "order": 48,
+  "keyword": "머리",
+  "meaning": "head; hair",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "긴 머리",
+      "english": "long hair",
+      "notes": "긴다 = to be long\n긴 is the adjective form of 길다."
+    },
+    {
+      "korean": "짧은 머리",
+      "english": "short hair",
+      "notes": "짧다 = to be short\n짧은 is the adjective form of 짧다."
+    },
+    {
+      "korean": "머리를 감다",
+      "english": "to wash one's hair",
+      "notes": "감다 = to wash (hair)"
+    },
+    {
+      "korean": "머리가 좋다",
+      "english": "to be smart",
+      "notes": ""
+    },
+    {
+      "korean": "머리를 빗다",
+      "english": "to comb one's hair",
+      "notes": "빗다 = to comb"
+    },
+    {
+      "korean": "머리가 아프다",
+      "english": "to have a headache",
+      "notes": ""
+    },
+    {
+      "korean": "머리를 자르다",
+      "english": "to get a haircut",
+      "notes": "자르다 = to cut"
+    },
+    {
+      "korean": "머리를 식히다",
+      "english": "to clear one's head, rest one's mind",
+      "notes": "식히다 = to cool off"
+    },
+    {
+      "korean": "머리 조심하세요.",
+      "english": "Watch your head.",
+      "notes": "조심하다 = to be careful"
+    },
+    {
+      "korean": "머리 기르고 싶어요.",
+      "english": "I want to grow my hair long.",
+      "notes": "기르다 = to grow (one's hair/nails)"
+    },
+    {
+      "korean": "머리 염색하고 싶어요.",
+      "english": "I want to dye my hair.",
+      "notes": "염색하다 = to dye"
+    },
+    {
+      "korean": "자는 아침에 머리를 감아요.",
+      "english": "I wash my hair in the morning.",
+      "notes": "아침 = morning; breakfast"
+    },
+    {
+      "korean": "머리가 아파서 잠이 안 와요.",
+      "english": "I have a headache, so I can't sleep.",
+      "notes": "-이/어/여서 = because, since\n잠 = sleep\n오다 = to come\n잠이 오다 = to be sleepy; to feel drowsy\n잠이 안 오다 = to be unable to sleep"
+    },
+    {
+      "korean": "머리가 아파서 약을 먹었어요.",
+      "english": "I had a headache, so I took some pills.",
+      "notes": "약 = pill, medicine\n약을 먹다 = to take pills/medicine"
+    },
+    {
+      "korean": "오늘은 머리가 잘 안 돌아가요.",
+      "english": "My brain is slow today.",
+      "notes": "오늘 = today\n잘 = well; carefully\n머리가 안 돌아기다 = one's brain is slow, cannot think very quickly"
+    },
+    {
+      "korean": "머리를 자르게 생각 중이에요.",
+      "english": "I'm thinking of getting a haircut.",
+      "notes": "-(으)ㄴ 생각 중이다 = to be thinking of + V-ing"
+    },
+    {
+      "korean": "자는 머리가 긴 여자가 좋아요.",
+      "english": "I like girls with long hair.",
+      "notes": "여자 = girl, woman"
+    },
+    {
+      "korean": "머리가 나쁘면 손발이 고생이에요.",
+      "english": "If you are not smart, your body will pay for it.",
+      "notes": "나쁘다 = to be bad\n머리가 나쁘다 = to be not smart; to be slow in understanding\n손 = hand\n발 = foot\n고생 = hardship, trouble"
+    },
+    {
+      "korean": "그 사람은 정말 머리가 좋은 것 같아요.",
+      "english": "I think he's really smart.",
+      "notes": ""
+    },
+    {
+      "korean": "잠깐 밖에 나가서 머리 좀 식히고 올게요.",
+      "english": "I will go out for a bit and get some fresh air.",
+      "notes": "잠깐 = short time; for a moment\n밖 = outside\n나가다 = to go out\n식히다 = to cool off"
+    }
+  ]
+}

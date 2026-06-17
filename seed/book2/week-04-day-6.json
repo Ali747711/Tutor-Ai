@@ -1,0 +1,110 @@
+{
+  "week": 4,
+  "day": 6,
+  "order": 27,
+  "keyword": "요일",
+  "meaning": "day of the week",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "무슨 요일에 만날까요?",
+      "english": "Which day of the week shall we meet?",
+      "notes": "무슨 = what; what kind of"
+    },
+    {
+      "korean": "오늘이 무슨 요일이죠?",
+      "english": "Which day of the week is it today?\nWhat day is today?",
+      "notes": "오늘 = today"
+    },
+    {
+      "korean": "다음 주 토요일에 뭐 해요?",
+      "english": "What are you doing next Saturday?",
+      "notes": "다음 = next\n주 = week\n토요일 = Saturday\n*월요일 = Monday, 화요일 = Tuesday, 수요일 = Wednesday, 목요일 = Thursday, 금요일 = Friday, 일요일 = Sunday\n뭐 = what; something\n뭐 is the contracted form of 무엇."
+    },
+    {
+      "korean": "다른 요일날 가면 안 돼요?",
+      "english": "Can't we go some other day of the week?",
+      "notes": "다른 = other, another\n요일날 is the same as 요일 and is often used in spoken language.\n-(으)면 안 돼요? = Can't I...?"
+    },
+    {
+      "korean": "저는 월요일이 정말 싫어요.",
+      "english": "I really hate Mondays.",
+      "notes": "싫다 = to be not likable, to not like; to be unpleasant; to not enjoy, to hate"
+    },
+    {
+      "korean": "무슨 요일을 제일 좋아해요?",
+      "english": "Which day of the week do you like most?",
+      "notes": ""
+    },
+    {
+      "korean": "다음 주 화요일까지는 바빠요.",
+      "english": "I am busy until next Tuesday.",
+      "notes": "바쁘다 = to be busy"
+    },
+    {
+      "korean": "저는 주로 수요일에 한가해요.",
+      "english": "I am usually free on Wednesdays.",
+      "notes": "주로 = usually\n한가하다 = to be free (time-wise); to not have many things to do"
+    },
+    {
+      "korean": "무슨 요일에 만나는 게 좋아요?",
+      "english": "Which day of the week is good to meet?",
+      "notes": ""
+    },
+    {
+      "korean": "올해는 제 생일이 일요일이에요.",
+      "english": "This year, my birthday is on a Sunday.",
+      "notes": "올해 = this year\n생일 = birthday"
+    },
+    {
+      "korean": "올해 추석이 무슨 요일인지 알아요?",
+      "english": "Do you know which day of the week Chuseok is on this year?",
+      "notes": "추석 is one of two major holidays in Korea. It is similar to Thanksgiving in the United States as it celebrates the yearly harvest."
+    },
+    {
+      "korean": "저는 요일마다 출근하는 시간이 달라요.",
+      "english": "I go to work at a different time every day of the week.",
+      "notes": "다르다 = to be different"
+    },
+    {
+      "korean": "무슨 요일날 가서 무슨 요일날 돌아와 요?",
+      "english": "Which day of the week do you leave and which day do you come back?\nWhich day of the week are you going and which day are you coming back?",
+      "notes": "돌아오다 = to return, to come back"
+    },
+    {
+      "korean": "그 가게가 무슨 요일에 문 닫는지 알아 요?",
+      "english": "Do you know which day of the week that store closes?",
+      "notes": "그 = the; that\n가게 = store, shop\n문 = door\n닫다 = to close"
+    },
+    {
+      "korean": "혹시 지난 화요일에 대학로에 있지 않 았어요?",
+      "english": "Were you, by any chance, in Daehangno last Tuesday?",
+      "notes": "혹시 = by any chance\n지난 = last\n대학로 = Daehangno\n대학로 is an area in downtown Seoul that is famous for having many theaters.\n있다 = to be there; to exist; to have"
+    },
+    {
+      "korean": "저는 일요일에는 밖에 나가지 않고 잠 만 자요.",
+      "english": "I don't go out on Sundays and I only sleep.",
+      "notes": "잠을 자다 = to sleep"
+    },
+    {
+      "korean": "거기는 금요일 밤만 되면 사람이 너무 많아져요.",
+      "english": "That place gets too crowded on Friday nights.",
+      "notes": "밤 = night\n되다 = to become"
+    },
+    {
+      "korean": "저는 이번 주에는 어떤 요일에 만나도 상관 없어요.",
+      "english": "I don't mind what day of the week we meet this week.",
+      "notes": "이번 = this time\n상관 없다 = to not matter"
+    },
+    {
+      "korean": "그 사람은 저랑 같은 요일, 같은 시간에 수업을 들어요.",
+      "english": "He attends classes on the same day of the week at the same time that I do.",
+      "notes": "그 사람 = that person; he, she\n같다 = to be the same\n같은 is the adjective form of 같다.\n수업을 듣다 = to attend a class, take a class"
+    },
+    {
+      "korean": "그 날은 제가 시간이 안 될 것 같은데, 다른 요일에 시간 돼는 때 있어요?",
+      "english": "I don't think I will be able to make time that day, but is there any other day this week when you have time?",
+      "notes": "그 날 = that day, the day\n시간이 되다 = to be able to make it; to have time\n때 = time"
+    }
+  ]
+}

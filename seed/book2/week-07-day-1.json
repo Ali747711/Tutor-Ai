@@ -1,0 +1,110 @@
+{
+  "week": 7,
+  "day": 1,
+  "order": 43,
+  "keyword": "크다",
+  "meaning": "to be big; to be tall; to be loud",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "큰 돈",
+      "english": "big money; a large amount of money",
+      "notes": "돈 = money"
+    },
+    {
+      "korean": "큰 신발",
+      "english": "big shoes",
+      "notes": "신발 = shoes"
+    },
+    {
+      "korean": "키가 크다",
+      "english": "to be tall",
+      "notes": "키 = height"
+    },
+    {
+      "korean": "덩치가 크다",
+      "english": "(someone) is big",
+      "notes": "덩치 = one's body size"
+    },
+    {
+      "korean": "일교차가 크다",
+      "english": "big difference in daily temperature",
+      "notes": "일교차 = daily temperature difference"
+    },
+    {
+      "korean": "가능성이 크다",
+      "english": "there's a high possibility; there's a good chance",
+      "notes": "가능성 = possibility"
+    },
+    {
+      "korean": "크게 말하다",
+      "english": "to speak loudly; to speak up",
+      "notes": "말하다 = to talk; to say; to speak; to tell"
+    },
+    {
+      "korean": "많이 커요?",
+      "english": "Is it really big?",
+      "notes": "많이 = to be a lot\n많이 is an adverb form of 많다."
+    },
+    {
+      "korean": "얼마나 커요?",
+      "english": "How big is it?",
+      "notes": "얼마나 = how + adjective/adverb"
+    },
+    {
+      "korean": "별로 안 커요.",
+      "english": "It's not that big.",
+      "notes": "별로 = not particularly, not very, not so much, not really\n안 = not"
+    },
+    {
+      "korean": "이건 너무 커요.",
+      "english": "This is too big.",
+      "notes": "이거 = this thing; this\n이건 is the contracted form of 이거는.\n너무 = too much, excessively; very"
+    },
+    {
+      "korean": "크면 클수록 좋아요.",
+      "english": "The bigger, the better.",
+      "notes": "-(으)면 -(으)ㄹ수록 = the more..., the more...\n좋다 = to be good, likable; to be desirable; to be nice; to like"
+    },
+    {
+      "korean": "더 큰 가방이 필요할 것 같아요.",
+      "english": "I think I need a bigger bag.",
+      "notes": "더 = more\n가방 = bag\n필요하다 = to need; to be necessary\n-(으)ㄹ 것 같다 = I think + S + will/be going to; it seems like + S + will/be going to"
+    },
+    {
+      "korean": "저는 그렇게 큰 돈을 벌어 본 적이 없어요.",
+      "english": "I've never made so much money.",
+      "notes": "저 = (polite) I; me\n그렇게 = like that; such + adjective/adverb\n돈을 벌다 = to make/earn money\n-이/이/ 본 적이 있다 = to have not + p.p."
+    },
+    {
+      "korean": "인터넷으로 봤을 때는 이렇게 클지 몰랐어요.",
+      "english": "When I saw it on the Internet, I didn't know it was going to be this big.",
+      "notes": "인터넷 = the Internet\n보다 = to see; to look; to watch; to meet up\n-(으)ㄹ 때 = when/while + S + V\n이렇게 = like this, in this manner; so +adjective\n모르다 = to not know"
+    },
+    {
+      "korean": "요즘 일교차가 커서 감기에 걸리는 사람이 많아요.",
+      "english": "Since there's such a big difference in the daily temperature these days, many people are catching colds.",
+      "notes": "요즘 = these days, lately\n-이/이/어서 = because, since\n감기 = cold, flu\n감기에 걸리다 = to catch a cold\n사람 = person, people"
+    },
+    {
+      "korean": "저도 직접 본 적이 없어서 얼마나 큰지 모르겠어요.",
+      "english": "I didn't see it for myself, so I don't know how big it is.",
+      "notes": "-도 = too, also\n직접 = directly; by oneself; with one's own hands\n-(은)는 것이 있다 = to have never + p.p."
+    },
+    {
+      "korean": "예전 사무실보다 새 사무실이 훨씬 크다고 들었어요.",
+      "english": "I heard the new office is a lot bigger than the old one.",
+      "notes": "예전 = before; previous\n사무실 = office\n-보다 = than + N\n새 = new\n훨씬 = a lot/far/much (+ more + adjective/adverb)"
+    },
+    {
+      "korean": "이 파일은 용량이 커서 이메일로는 보 내기 힘들 것 같아요.",
+      "english": "This file is big in volume, so I think it's difficult to send via e-mail.\nThis file is huge, so I think it's difficult to send it via e-mail.",
+      "notes": "이 = this\n파일 = file; folder\n용량 = capacity; volume\n이메일 = e-mail\n-기 힘들다 = to be difficult/hard to + V"
+    },
+    {
+      "korean": "지금처럼 차가 계속 막히면 1시간내로 도착 못 할 가능성이 크죠.",
+      "english": "If the traffic continues to be so backed up, there's a good chance that we won't be able to arrive within an hour.",
+      "notes": "지금 = now\n-(으)ㄹ 것 = if + S + V; when/once + S + V\n-시간 = one hour\n-처럼 = like + N\n차 = car\n차가 막히다 = the traf-fic is bad; the road is jammed with traffic\n-내 = within (+ time)\n도착하다 = to arrive\n못 = can't"
+    }
+  ]
+}

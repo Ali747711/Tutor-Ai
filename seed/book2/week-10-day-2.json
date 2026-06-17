@@ -1,0 +1,110 @@
+{
+  "week": 10,
+  "day": 2,
+  "order": 65,
+  "keyword": "이유",
+  "meaning": "reason",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "개인적인 이유",
+      "english": "personal reason",
+      "notes": "개인적이다 = to be personal; to be private\n개인적인 is the adjective form of 개인적이다."
+    },
+    {
+      "korean": "이유를 묻다",
+      "english": "to ask the reason",
+      "notes": "묻다 = to ask"
+    },
+    {
+      "korean": "이유를 대다",
+      "english": "to give a reason",
+      "notes": ""
+    },
+    {
+      "korean": "이유가 뭔가요?",
+      "english": "What is the reason?",
+      "notes": "뭔 = what; something\n뭔 is the contracted form of 무엇."
+    },
+    {
+      "korean": "지각한 이유가 뭐예요?",
+      "english": "What is the reason you were late?\nWhy were you late?",
+      "notes": "지각하다 = to be late"
+    },
+    {
+      "korean": "아무 이유 없이 그냥 좋아요.",
+      "english": "I just like (something/someone) for no reason.",
+      "notes": "아무 = (not) any\n없이 = to not have, not exist; to be not there\n그냥 = just, only, simply\n좋아요 = to be good, likable; to be desirable; to be nice; to like"
+    },
+    {
+      "korean": "이유가 원지 절대 말은 안 해요.",
+      "english": "He won't say what the reason is at all.",
+      "notes": "절대 = never\n말 = language; what one says; expression; word; term\n안 = not\n말을 하다 = to speak; to talk; to tell; to say\n-나고 is used when quoting or delivering what someone has asked.\n-(으)면 = if + S + V; when/once + S + V\n하다 = to do"
+    },
+    {
+      "korean": "이유가 뭐나고 물으면 어떻게 하죠?",
+      "english": "What should I do if he asks what the reason is?",
+      "notes": ""
+    },
+    {
+      "korean": "정당한 이유도 없이 회사에서 잘렸어요.",
+      "english": "I was fired from the company without a justifiable reason.",
+      "notes": "정당하다 = to be reasonable, to be fair; to be justifiable\n정당한 is the adjective form of 정당하다.\n-도 = too, also\n회사 = company; office\n잘리다 = (informal) to get fired; to get cut"
+    },
+    {
+      "korean": "그렇게 그 사람을 미워하는 이유가 뭐예요?",
+      "english": "What is the reason you hate that person so much?",
+      "notes": "그렇게 = like that; such + adjective/adverb\n그 사람 = that person; he, she\n미워하다 = to hate, dislike"
+    },
+    {
+      "korean": "폭력은 어떤 이유로도 정당화 될 수 없어요.",
+      "english": "Violence cannot be justified by any reason.",
+      "notes": "폭력 = violence\n어떤 = what kind of; which\n정당화 되다 = to be justified\n-(으)로 수 없다 = to be unable to + V, can't"
+    },
+    {
+      "korean": "가장 어리다는 이유로 귀여움을 듬뿍 받았어요.",
+      "english": "I received a lot of attention because of the fact I was the youngest.\nPeople liked me a lot because I was the youngest.",
+      "notes": "가장 = the most\n어리다 = to be young\n귀여움(을) 받다 = to be favored or liked by someone"
+    },
+    {
+      "korean": "그 이유 때문인지 다른 이유 때문인지 모르겠어요.",
+      "english": "I don't know if it is because of that reason or another.",
+      "notes": "때문이다 = it is because (of) ...\n다른 = other; another\n-때문인지 -때문인지 모르다 = to not know if it's because of + N₁ or + N₂"
+    },
+    {
+      "korean": "그 사람이 그렇게 행동한 데에는 다 이유가 있어요.",
+      "english": "There is a reason as to why he acted that way.",
+      "notes": "행동하다 = to act, behave\n-(으)ㄴ/는 데(에) = in + V-ing, for + V-ing\n있다 = to be there; to exist; to have"
+    },
+    {
+      "korean": "전화 할 때마다 전화기가 꺼져 있는 이유가 뭐예요?",
+      "english": "What is the reason your phone is turned off every time I call?",
+      "notes": "전화(를) 하다 = to call, make a phone call\n-(으)ㄹ 때마다 = whenever + S + V\n전화기 = telephone\n꺼져 있다 = to be turned off"
+    },
+    {
+      "korean": "제가 오늘 늦은 데에는 어쩔 수 없는 이유가 있어요.",
+      "english": "I couldn't do anything about the reason I was late to work today.",
+      "notes": "늦다 = to be late\n어쩔 수 없다 = can't help, can't but; there is nothing + S + can do about"
+    },
+    {
+      "korean": "그 사람이 그렇게 인기가 있는 건 다 이유가 있어요.",
+      "english": "There is a reason why he is so popular.",
+      "notes": "인기가 있다 = to be popular"
+    },
+    {
+      "korean": "타당한 이유가 있으면 부모님이 허락해 주실 거예요.",
+      "english": "If there is an appropriate reason, your parents will give you permission.",
+      "notes": "타당하다 = to be appropriate; to be reasonable\n타당한 is the adjective form of 타당하다.\n부모님 = parents\n허락하다 = to allow, give permission\n-이/이/여 주시다 = (honorific) someone does something for me/us"
+    },
+    {
+      "korean": "그 사람이 여기에 오지 않은 이유를 저는 알고 있어요.",
+      "english": "I know the reason why he did not come here.",
+      "notes": "여기 = here, this place\n오다 = to come\n알다 = to know\n-고 있다 = to be + V-ing"
+    },
+    {
+      "korean": "죄송하지만 개인적인 이유라서 자세히 말씀드릴 수가 없어요.",
+      "english": "I'm sorry, but I cannot tell you specifically because it is a personal reason.",
+      "notes": "죄송하지만 = I'm sorry but ...\n-(이)라서 = because + S + be + N\n자세하다 = to be specific, detailed\n자세히 is an adverb form of 자세하다.\n말씀드리다 = (polite) to talk; to say; to speak; to tell\n-(으)ㄹ 수가 없다 = to be not able to + V, can't"
+    }
+  ]
+}

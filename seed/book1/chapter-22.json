@@ -1,0 +1,350 @@
+{
+  "chapter": 22,
+  "title": "Meeting",
+  "category": "At Work",
+  "shortDialogue": [
+    {
+      "speaker": "최 대리",
+      "korean": "오늘 회의 준비 다 했어?",
+      "romanization": "",
+      "english": "Have you finished preparing for the meeting today?"
+    },
+    {
+      "speaker": "선 대리",
+      "korean": "아니, 아직 못 했어.",
+      "romanization": "",
+      "english": "No, I haven't."
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "최 대리",
+      "korean": "오늘 회의 준비 다 했어?",
+      "romanization": "",
+      "english": "Have you finished preparing for the meeting today?"
+    },
+    {
+      "speaker": "선 대리",
+      "korean": "아니, 아직 못 했어.",
+      "romanization": "",
+      "english": "No, I haven't."
+    },
+    {
+      "speaker": "최 대리",
+      "korean": "진짜? 5분 후에 회의 시작해.",
+      "romanization": "",
+      "english": "Really?"
+    },
+    {
+      "speaker": "선 대리",
+      "korean": "금방 해.",
+      "romanization": "",
+      "english": "I will be done soon."
+    },
+    {
+      "speaker": "최 대리",
+      "korean": "과장님 지금 회의실 간다.",
+      "romanization": "",
+      "english": "The section chief is going to the meeting room now."
+    },
+    {
+      "speaker": "선 대리",
+      "korean": "너 먼저 가. 나 금방 갈게.",
+      "romanization": "",
+      "english": "You go first. I will be there soon."
+    },
+    {
+      "speaker": "최 대리",
+      "korean": "알았어.",
+      "romanization": "",
+      "english": "Ok."
+    },
+    {
+      "speaker": "최 대리",
+      "korean": "선 대리, 천천히 해.",
+      "romanization": "",
+      "english": "Take your time."
+    },
+    {
+      "speaker": "선 대리",
+      "korean": "왜? 과장님 화났어?",
+      "romanization": "",
+      "english": "Why? Is the section chief mad?"
+    },
+    {
+      "speaker": "최 대리",
+      "korean": "아니. 과장님 아파서 병원 가셨어.",
+      "romanization": "",
+      "english": "No. The section chief is sick, so he went to the hospital."
+    },
+    {
+      "speaker": "선 대리",
+      "korean": "진짜? 그럼 회의는?",
+      "romanization": "",
+      "english": "Really? Then what about the meeting?"
+    },
+    {
+      "speaker": "최 대리",
+      "korean": "회의는 내일 할 거야.",
+      "romanization": "",
+      "english": "We'll have the meeting tomorrow."
+    }
+  ],
+  "culturalTip": "In many Korean companies, your rank or position within the company determines how you address your colleagues. If you are in a lower position/rank than the person with whom you are speaking, you must attach the honorific suffix - 님 [-nim] to the person's title. Even if you are in a higher position than the person you are addressing, if you are younger than him/her, you may also need to use -님. For example, if you need to talk with someone who is a \"section chief\" (과장 [gwa-jang]) you should address that person as 과장님. If there are many people who have the title of 과장, you must use their family name + 과장 +님 to make it clear to whom you are speaking.",
+  "koreanReview": "- Short Dialogue\n최 대리: 오늘 회의 준비 다 했어?\n선 대리: 아니, 아직 못 했어.\n\n- Long Dialogue\n최 대리: 오늘 회의 준비 다 했어?\n선 대리: 아니, 아직 못 했어.\n최 대리: 진짜? 5분 후에 회의 시작해.\n선 대리: 금방 해.\n최 대리: 과장님 지금 회의실 간다.\n선 대리: 너 먼저 가. 나 금방 갈게.\n최 대리: 알았어.\n최 대리: 선 대리, 천천히 해.\n선 대리: 왜? 과장님 화났어?\n최 대리: 아니. 과장님 아파서 병원 가셨어.\n선 대리: 진짜? 그럼 회의는?\n최 대리: 회의는 내일 할 거야.",
+  "coreVocab": [
+    {
+      "korean": "오늘",
+      "romanization": "o-neul",
+      "meaning": "today"
+    },
+    {
+      "korean": "회의",
+      "romanization": "hoe-ui",
+      "meaning": "meeting"
+    },
+    {
+      "korean": "준비",
+      "romanization": "jun-bi",
+      "meaning": "preparation"
+    },
+    {
+      "korean": "못 VERB + -았/었/였어.",
+      "romanization": "mot -a/eo/yeo-sseo.",
+      "meaning": "I couldn't VERB. (casual)"
+    },
+    {
+      "korean": "아니",
+      "romanization": "a-ni",
+      "meaning": "no (casual)"
+    },
+    {
+      "korean": "아직",
+      "romanization": "a-jik",
+      "meaning": "yet"
+    },
+    {
+      "korean": "다 하다",
+      "romanization": "da ha-da",
+      "meaning": "to be finished, to be all done"
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "오늘",
+      "romanization": "o-neul",
+      "meaning": "today"
+    },
+    {
+      "korean": "회의",
+      "romanization": "hoe-ui",
+      "meaning": "meeting"
+    },
+    {
+      "korean": "준비",
+      "romanization": "jun-bi",
+      "meaning": "preparation"
+    },
+    {
+      "korean": "다 하다",
+      "romanization": "da ha-da",
+      "meaning": "to be finished, to be all done"
+    },
+    {
+      "korean": "아직",
+      "romanization": "a-jik",
+      "meaning": "yet"
+    },
+    {
+      "korean": "진짜",
+      "romanization": "jin-jja",
+      "meaning": "really"
+    },
+    {
+      "korean": "후",
+      "romanization": "hu",
+      "meaning": "after"
+    },
+    {
+      "korean": "시작하다",
+      "romanization": "si-ja-ka-da",
+      "meaning": "to start"
+    },
+    {
+      "korean": "금방",
+      "romanization": "geum-bang",
+      "meaning": "soon"
+    },
+    {
+      "korean": "과장님",
+      "romanization": "gwa-jang-nim",
+      "meaning": "section chief"
+    },
+    {
+      "korean": "회의실",
+      "romanization": "hoe-ui-sil",
+      "meaning": "meeting room"
+    },
+    {
+      "korean": "먼저",
+      "romanization": "meon-jeo",
+      "meaning": "first, earlier"
+    },
+    {
+      "korean": "가다",
+      "romanization": "ga-da",
+      "meaning": "to go"
+    },
+    {
+      "korean": "알다",
+      "romanization": "al-da",
+      "meaning": "to know"
+    },
+    {
+      "korean": "대리",
+      "romanization": "dae-ri",
+      "meaning": "assistant manager"
+    },
+    {
+      "korean": "천천히",
+      "romanization": "cheon-cheo-ni",
+      "meaning": "slowly"
+    },
+    {
+      "korean": "하다",
+      "romanization": "ha-da",
+      "meaning": "to do"
+    },
+    {
+      "korean": "화나다",
+      "romanization": "hwa-na-da",
+      "meaning": "to be angry"
+    },
+    {
+      "korean": "왜",
+      "romanization": "wae",
+      "meaning": "why"
+    },
+    {
+      "korean": "아프다",
+      "romanization": "a-peu-da",
+      "meaning": "to be sick"
+    },
+    {
+      "korean": "병원",
+      "romanization": "byeong-won",
+      "meaning": "hospital, doctor's office"
+    },
+    {
+      "korean": "내일",
+      "romanization": "nae-il",
+      "meaning": "tomorrow"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "Narrative Present Tense",
+      "pattern": "VERB + -ㄴ/는다!",
+      "meaning": "(SUBJECT) is VERB-ing! / (SUBJECT) is about to VERB!",
+      "explanation": "* If the verb stem ends with a vowel, it is followed by -ㄴ다. If the verb stem ends with a consonant, it is followed by -는다. If a verb stem ends with ㄹ, drop the ㄹ and add -ㄴ다.\n** This ending is used to show surprise or discovery of a certain fact.",
+      "examples": [
+        {
+          "korean": "과장님 회의실 + 가다 + -ㄴ/는다 → 과장님 회의실 간다.",
+          "romanization": "",
+          "english": "The section chief is going to the meeting room!"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "시작하다 + -ㄴ/는다!",
+          "answer": "시작한다!",
+          "english": "It is about to start!"
+        },
+        {
+          "prompt": "오다 + -ㄴ/는다!",
+          "answer": "온다!",
+          "english": "(They) are coming!"
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Casual Future Tense",
+      "pattern": "VERB + -(으)ㄹ 거야",
+      "meaning": "I am going to VERB.",
+      "explanation": "",
+      "examples": [
+        {
+          "korean": "하다 + -(으)ㄹ 거야 → 할 거야.",
+          "romanization": "",
+          "english": "I am going to do (it)."
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "가다 + -(으)ㄹ 거야",
+          "answer": "갈 거야.",
+          "english": "I am going to go."
+        },
+        {
+          "prompt": "보다 + -(으)ㄹ 거야",
+          "answer": "볼 거야.",
+          "english": "I am going to see."
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "의 can be pronounced as 이 EXCEPT when 의 is the first syllable of a word.",
+      "examples": [
+        {
+          "korean": "회의",
+          "pronounced": "[회의] or [회이]",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "논의",
+          "answer": "노늬, 노니",
+          "gloss": "(discussion, debate)"
+        },
+        {
+          "prompt": "주의",
+          "answer": "주의, 주이",
+          "gloss": "(attention, caution)"
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "Take a moment to review some pronunciation rules that were previously covered. Write the pronunciations for the following phrases from the dialogue.",
+      "examples": [],
+      "exercises": [
+        {
+          "prompt": "했어",
+          "answer": "해써",
+          "gloss": ""
+        },
+        {
+          "prompt": "시작해",
+          "answer": "시자캐",
+          "gloss": ""
+        },
+        {
+          "prompt": "갈게",
+          "answer": "갈께",
+          "gloss": ""
+        },
+        {
+          "prompt": "천천히",
+          "answer": "천처니",
+          "gloss": ""
+        }
+      ]
+    }
+  ]
+}

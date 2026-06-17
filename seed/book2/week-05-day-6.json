@@ -1,0 +1,110 @@
+{
+  "week": 5,
+  "day": 6,
+  "order": 34,
+  "keyword": "눈",
+  "meaning": "eye",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "눈병",
+      "english": "eye disease",
+      "notes": "병 = disease"
+    },
+    {
+      "korean": "큰 눈",
+      "english": "big eyes",
+      "notes": "크다 = to be big; to be tall; to be loud\n큰 is the adjective form of 크다."
+    },
+    {
+      "korean": "눈을 뜨다",
+      "english": "to open one's eyes",
+      "notes": "눈을 뜨다 = to open one's eyes; to wake up"
+    },
+    {
+      "korean": "눈을 감다",
+      "english": "to close one's eyes",
+      "notes": "눈을 감다 = to close one's eyes"
+    },
+    {
+      "korean": "눈이 부시다",
+      "english": "to be blinding, dazzling",
+      "notes": "눈이 부시다 = to be blinding, dazzling"
+    },
+    {
+      "korean": "눈병에 걸렸어요.",
+      "english": "I caught an eye disease.",
+      "notes": "걸리다 = to be caught; to catch (a disease)\n병에 걸리다 = to get sick"
+    },
+    {
+      "korean": "그 사람은 눈이 커요.",
+      "english": "That person has big eyes.",
+      "notes": ""
+    },
+    {
+      "korean": "눈에서 눈물이 났어요.",
+      "english": "Tears started welling up in my eyes.",
+      "notes": "눈물 = tears\n나다 = to come out\n눈물이 나다 = tears flow; tears well up"
+    },
+    {
+      "korean": "그 여자는 눈이 예뻐요.",
+      "english": "She has beautiful eyes.",
+      "notes": "여자 = girl, woman"
+    },
+    {
+      "korean": "눈을 크게 뜨고 보세요.",
+      "english": "Open your eyes wide and look (at it closely).",
+      "notes": "크게 is an adverb form of 크다."
+    },
+    {
+      "korean": "눈에 뭔가 들어간 것 같아요.",
+      "english": "I think something got in my eye.",
+      "notes": "들어가다 = to go/come in"
+    },
+    {
+      "korean": "밤새 울었더니 눈이 부었어요.",
+      "english": "I cried all night long, so my eyes are swollen.",
+      "notes": "밤새 = overnight; all night long\n울다 = to cry\n-더니 = S + V-ed and as a result\n붓다 = to swell"
+    },
+    {
+      "korean": "너무 졸려서 자꾸 눈이 감겨요.",
+      "english": "I am so sleepy that my eyes keep closing.",
+      "notes": "졸리다 = to be sleepy\n자꾸 = repeatedly, again and again\n눈이 감기다 = eyes close"
+    },
+    {
+      "korean": "눈 감아 보세요. 선물이 있어요.",
+      "english": "Close your eyes. I have a present for you.",
+      "notes": "선물 = gift, present"
+    },
+    {
+      "korean": "친구의 거짓말을 눈 감아 줬어요.",
+      "english": "I turned a blind eye to my friend's lie.",
+      "notes": "거짓말 = lie\n눈 감아 주다 = to turn a blind eye to something; to pretend not to have seen something happen"
+    },
+    {
+      "korean": "햇살이 너무 강해서 눈이 부셔요.",
+      "english": "The sun is so bright that it's blinding.",
+      "notes": "햇살 = sunshine\n강하다 = to be strong"
+    },
+    {
+      "korean": "오늘 아침에는 눈이 일찍 떴어요.",
+      "english": "I woke up early this morning.",
+      "notes": "오찍 = early; soon\n눈이 떨어지다 = to wake up (without trying to)"
+    },
+    {
+      "korean": "눈이 따가울 때는 어떻게 해야 돼요?",
+      "english": "When my eyes sting, what should I do?",
+      "notes": "따갑다 = to sting"
+    },
+    {
+      "korean": "아침에 눈을 뜨자마자 커피를 마셨어요.",
+      "english": "As soon as I woke up this morning, I drank coffee.",
+      "notes": "-자마자 = as soon as + S + V\n커피 = coffee\n마시다 = to drink"
+    },
+    {
+      "korean": "눈이 잘 안 보여서 안경을 쓰기 시작했어요.",
+      "english": "I couldn't see things clearly, so I started wearing glasses.",
+      "notes": "보이다 = to be seen; to be able to see\n눈이 잘 안 보이다 = to be unable to see things well\n안경 = glasses\n쓰다 = to wear (eyewear, hat)\n-기 시작하다 = to start + V-ing"
+    }
+  ]
+}

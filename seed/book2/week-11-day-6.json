@@ -1,0 +1,110 @@
+{
+  "week": 11,
+  "day": 6,
+  "order": 76,
+  "keyword": "밥",
+  "meaning": "food; meal; cooked rice",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "아침 밥",
+      "english": "breakfast",
+      "notes": "아침 = morning; breakfast"
+    },
+    {
+      "korean": "저녁 밥",
+      "english": "supper",
+      "notes": ""
+    },
+    {
+      "korean": "볶음밥",
+      "english": "fried rice",
+      "notes": "볶다 = to stir-fry"
+    },
+    {
+      "korean": "비빔밥",
+      "english": "bibimbap; mixed rice",
+      "notes": "비비다 = to mix; to rub"
+    },
+    {
+      "korean": "밥을 먹다",
+      "english": "to eat; to have a meal",
+      "notes": "먹다 = to eat; to drink"
+    },
+    {
+      "korean": "밥을 굶다",
+      "english": "to skip a meal",
+      "notes": "굶다 = to skip a meal; to starve"
+    },
+    {
+      "korean": "밥을 하다",
+      "english": "to cook; to make steamed rice",
+      "notes": "밥을 하다 = to cook a meal; to make food; to cook steamed rice"
+    },
+    {
+      "korean": "아침 밥 먹었어요?",
+      "english": "Did you have breakfast?",
+      "notes": ""
+    },
+    {
+      "korean": "밥 먹으러 갈래요?",
+      "english": "Do you want to go eat?",
+      "notes": "-(으)러 가다 = to go to + V"
+    },
+    {
+      "korean": "밥 먹고 산책 가요.",
+      "english": "Let's go for a walk after eating.",
+      "notes": "산책 = walk\n산책 가다 = to go for a walk"
+    },
+    {
+      "korean": "밥 한 그릇 더 주세요.",
+      "english": "Give me one more bowl of rice, please.",
+      "notes": "한 is the adjective form of 하나.\n그릇 = dish, bowl"
+    },
+    {
+      "korean": "밥 먹다가 말고 어디 가요?",
+      "english": "Where are you going in the middle of a meal?",
+      "notes": "-다 말고 = while + S + is in the middle of + V-ing"
+    },
+    {
+      "korean": "저녁에 비빔밥을 먹었어요.",
+      "english": "I had some bibimbap for dinner.",
+      "notes": "비빔밥 = steamed rice mixed with vegetables (and sometimes meat, depending on the type) with red pepper paste"
+    },
+    {
+      "korean": "밥을 못 먹어서 배가 고파요.",
+      "english": "I haven't eaten, so I am hungry.",
+      "notes": "배 = stomach, belly\n배가 고프다 = to be hungry"
+    },
+    {
+      "korean": "다음 주에 같이 밥 먹을까요?",
+      "english": "Shall we meet up and eat together next week?",
+      "notes": "다음 = next\n주 = week\n같이 = together; with + N\n-(으)ㄹ까요? = Shall we + S + V?; Do you want me to + V?; Should we + V?; Let's + V."
+    },
+    {
+      "korean": "밥 너무 많이 먹는 거 아니에요?",
+      "english": "Aren't you eating too much?",
+      "notes": ""
+    },
+    {
+      "korean": "배 고프죠? 제가 지금 밥 할게요.",
+      "english": "You must be hungry! I will make some food for you now.",
+      "notes": ""
+    },
+    {
+      "korean": "너무 바빠서 밥 먹는 것도 잊어버렸어요.",
+      "english": "I was very busy, so I even forgot to eat.",
+      "notes": "바빠다 = to be busy\n잊어버리다 = to forget"
+    },
+    {
+      "korean": "다이어트 하느라 하루 종일 밥을 굶었어요.",
+      "english": "I am on a diet, so I skipped meals all day long.",
+      "notes": "다이어트 하다 = to be on a diet\n-느라 = for + V-ing, while + V-ing\n하루 = one day\n하루 종일 = all day long"
+    },
+    {
+      "korean": "밥 먹을 때에는 텔레비전을 꺼면 안 될까요?",
+      "english": "Can we turn off the television while we are eating?",
+      "notes": "텔레비전 = television\n꺼다 = to turn off\n-(으)면 안 될까? = Can/Can't we ...?"
+    }
+  ]
+}

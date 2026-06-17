@@ -1,0 +1,337 @@
+{
+  "chapter": 40,
+  "title": "Bicycle",
+  "category": "Transportation",
+  "shortDialogue": [
+    {
+      "speaker": "준태",
+      "korean": "너 자전거 탈 수 있어?",
+      "romanization": "",
+      "english": "Can you ride a bicycle?"
+    },
+    {
+      "speaker": "소영",
+      "korean": "응. 나 자전거 잘 타.",
+      "romanization": "",
+      "english": "Yeah. I ride bikes well."
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "소영",
+      "korean": "우와! 너 자전거 샀어?",
+      "romanization": "",
+      "english": "Wow! You bought a bicycle?"
+    },
+    {
+      "speaker": "준태",
+      "korean": "응. 어제 샀어. 진짜 좋아.",
+      "romanization": "",
+      "english": "Yeah. I bought it yesterday. It's really good."
+    },
+    {
+      "speaker": "소영",
+      "korean": "얼마아? 요즘 자전거 비싸지?",
+      "romanization": "",
+      "english": "How much was it? Bikes are expensive these days, right?"
+    },
+    {
+      "speaker": "준태",
+      "korean": "이거는 조금 비싸. 너 자전거 탈 수 있어?",
+      "romanization": "",
+      "english": "This one was a bit expensive. Can you ride a bike?"
+    },
+    {
+      "speaker": "소영",
+      "korean": "응. 나 자전거 잘 타.",
+      "romanization": "",
+      "english": "Yeah. I ride bikes well."
+    },
+    {
+      "speaker": "준태",
+      "korean": "그래? 이거 타 볼래?",
+      "romanization": "",
+      "english": "Really? Do you want to try riding this?"
+    },
+    {
+      "speaker": "소영",
+      "korean": "괜찮아. 너 타.",
+      "romanization": "",
+      "english": "No, thanks. You ride it."
+    },
+    {
+      "speaker": "준태",
+      "korean": "왜? 타 봐.",
+      "romanization": "",
+      "english": "Why not? Try riding it."
+    },
+    {
+      "speaker": "소영",
+      "korean": "나 자전거 오랫동안 안 탔어. 그래서 넘어질 수도 있어. 근데 이거 얼마아?",
+      "romanization": "",
+      "english": "I haven't ridden a bike in a long time. So I might fall. By the way, how much was this?"
+    },
+    {
+      "speaker": "준태",
+      "korean": "이거? 천만 원. 진짜 좋은 거야. 타 봐.",
+      "romanization": "",
+      "english": "This? It was 10 million won. It's really good. Try riding it."
+    },
+    {
+      "speaker": "소영",
+      "korean": "뭐? 천만 원? 안 타, 안 타. 부담스러워.",
+      "romanization": "",
+      "english": "What? 10 million won? I am not going to ride that. I feel uncomfortable (with that)."
+    }
+  ],
+  "culturalTip": "In Korea, spring and fall are much shorter than the other two seasons, summer and winter. Additionally, because the road infrastructure in Korea is not conducive for bicycle riding, you rarely see people commute by bike. At a park however, you can see many people riding a bike for exercise or riding a tandem bike while on a date.",
+  "koreanReview": "- Short Dialogue\n준태: 너 자전거 탈 수 있어?\n소영: 응. 나 자전거 잘 타.\n\n- Long Dialogue\n소영: 우와! 너 자전거 샀어?\n준태: 응. 어제 샀어. 진짜 좋아.\n소영: 얼마아? 요즘 자전거 비싸지?\n준태: 이거는 조금 비싸. 너 자전거 탈 수 있어?\n소영: 응. 나 자전거 잘 타.\n준태: 그래? 이거 타 볼래?\n소영: 괜찮아. 너 타.\n준태: 왜? 타 봐.\n소영: 나 자전거 오랫동안 안 탔어. 그래서 넘어질 수도 있어. 근데 이거 얼마아?\n준태: 이거? 천만 원. 진짜 좋은 거야. 타 봐.\n소영: 뭐? 천만 원? 안 타, 안 타. 부담스러워.",
+  "coreVocab": [
+    {
+      "korean": "너",
+      "romanization": "neo",
+      "meaning": "you (casual)"
+    },
+    {
+      "korean": "자전거",
+      "romanization": "ja-jeon-geo",
+      "meaning": "bicycle"
+    },
+    {
+      "korean": "타다",
+      "romanization": "ta-da",
+      "meaning": "to ride, to take"
+    },
+    {
+      "korean": "-(으)ㄹ 수 있다",
+      "romanization": "-(eu)l ssu it-ta",
+      "meaning": "can, be able to"
+    },
+    {
+      "korean": "응",
+      "romanization": "eung",
+      "meaning": "yes, yeah, ok (casual)"
+    },
+    {
+      "korean": "나",
+      "romanization": "na",
+      "meaning": "I (casual)"
+    },
+    {
+      "korean": "잘",
+      "romanization": "jal",
+      "meaning": "well"
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "자전거",
+      "romanization": "ja-jeon-geo",
+      "meaning": "bicycle"
+    },
+    {
+      "korean": "사다",
+      "romanization": "sa-da",
+      "meaning": "to buy"
+    },
+    {
+      "korean": "어제",
+      "romanization": "eo-je",
+      "meaning": "yesterday"
+    },
+    {
+      "korean": "진짜",
+      "romanization": "jin-jja",
+      "meaning": "really"
+    },
+    {
+      "korean": "좋다",
+      "romanization": "jo-ta",
+      "meaning": "to be good, to like"
+    },
+    {
+      "korean": "얼마",
+      "romanization": "eol-ma",
+      "meaning": "how much"
+    },
+    {
+      "korean": "요즘",
+      "romanization": "yo-jeum",
+      "meaning": "these days"
+    },
+    {
+      "korean": "비싸다",
+      "romanization": "bi-ssa-da",
+      "meaning": "to be expensive"
+    },
+    {
+      "korean": "이거",
+      "romanization": "i-geo",
+      "meaning": "this, this thing"
+    },
+    {
+      "korean": "조금",
+      "romanization": "jo-geum",
+      "meaning": "a little bit"
+    },
+    {
+      "korean": "타다",
+      "romanization": "ta-da",
+      "meaning": "to ride, to take"
+    },
+    {
+      "korean": "잘",
+      "romanization": "jal",
+      "meaning": "well"
+    },
+    {
+      "korean": "타 보다",
+      "romanization": "ta bo-da",
+      "meaning": "to try riding"
+    },
+    {
+      "korean": "괜찮다",
+      "romanization": "gwaen-chan-ta",
+      "meaning": "to be ok, to be alright"
+    },
+    {
+      "korean": "오랫동안",
+      "romanization": "o-raet-tong-an",
+      "meaning": "for a long time"
+    },
+    {
+      "korean": "그래서",
+      "romanization": "geu-rae-seo",
+      "meaning": "so"
+    },
+    {
+      "korean": "넘어지다",
+      "romanization": "neo-meo-ji-da",
+      "meaning": "to fall"
+    },
+    {
+      "korean": "근데",
+      "romanization": "geun-de",
+      "meaning": "by the way, but"
+    },
+    {
+      "korean": "얼마",
+      "romanization": "eol-ma",
+      "meaning": "how much"
+    },
+    {
+      "korean": "천만 원",
+      "romanization": "cheon-man won",
+      "meaning": "10 million won"
+    },
+    {
+      "korean": "부담스럽다",
+      "romanization": "bu-dam-seu-reop-tta",
+      "meaning": "to feel uncomfortable (doing/with something)"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "Possibility",
+      "pattern": "VERB/ADJECTIVE + -(으)ㄹ 수도 있다",
+      "meaning": "(SUBJECT) might VERB. / (SUBJECT) might be ADJECTIVE.",
+      "explanation": "",
+      "examples": [
+        {
+          "korean": "넘어지다 + -(으)ㄹ 수도 있다 → 넘어질 수도 있다",
+          "romanization": "",
+          "english": "(They) might fall over."
+        },
+        {
+          "korean": "좋다 + -(으)ㄹ 것 → 좋은 것",
+          "romanization": "",
+          "english": "something good"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "비싸다 + -(으)ㄹ 수도 있다",
+          "answer": "비쌀 수도 있다",
+          "english": "(They) might be expensive."
+        },
+        {
+          "prompt": "가다 + -(으)ㄹ 수도 있다",
+          "answer": "갈 수도 있다",
+          "english": "(They) might go."
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Pronoun: \"something\"",
+      "pattern": "ADJECTIVE + -(으)ㄴ 것* = something ADJECTIVE",
+      "meaning": "",
+      "explanation": "* 것 is often spoken as 거 because it's easier to pronounce.",
+      "examples": [
+        {
+          "korean": "좋다 + -(으)ㄴ 것 → 좋은 것",
+          "romanization": "",
+          "english": "something good"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "비싸다 + -(으)ㄴ 것",
+          "answer": "비싼 것",
+          "english": "something expensive"
+        },
+        {
+          "prompt": "괜찮다 + -(으)ㄴ 것",
+          "answer": "괜찮은 것",
+          "english": "something fine/ok"
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "Take a moment to review some pronunciation rules that were previously covered.",
+      "examples": [],
+      "exercises": [
+        {
+          "prompt": "탈 수 있어",
+          "answer": "탈 수 이써",
+          "gloss": ""
+        },
+        {
+          "prompt": "괜찮아",
+          "answer": "궤앤차나",
+          "gloss": ""
+        },
+        {
+          "prompt": "오랫동안",
+          "answer": "오랜똥안",
+          "gloss": ""
+        },
+        {
+          "prompt": "넘어질 수도 있어",
+          "answer": "너머질 쓰도 이써",
+          "gloss": ""
+        },
+        {
+          "prompt": "천만 원",
+          "answer": "천만 원",
+          "gloss": ""
+        },
+        {
+          "prompt": "좋은 거야",
+          "answer": "조은 거야",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "",
+      "examples": [],
+      "exercises": []
+    }
+  ]
+}

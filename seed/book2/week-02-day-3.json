@@ -1,0 +1,110 @@
+{
+  "week": 2,
+  "day": 3,
+  "order": 10,
+  "keyword": "마시다",
+  "meaning": "to drink",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "마실 것",
+      "english": "something to drink; beverage",
+      "notes": "술 = alcohol"
+    },
+    {
+      "korean": "술을 마시다",
+      "english": "to drink alcohol",
+      "notes": "물 = water"
+    },
+    {
+      "korean": "물을 마시다",
+      "english": "to drink water",
+      "notes": ""
+    },
+    {
+      "korean": "뭐 마실래요?",
+      "english": "What do you want to drink?",
+      "notes": "녹차 = green tea"
+    },
+    {
+      "korean": "저는 녹차 마실래요.",
+      "english": "I want to drink green tea.",
+      "notes": ""
+    },
+    {
+      "korean": "저는 술을 못 마셔요.",
+      "english": "I can't drink alcohol.",
+      "notes": ""
+    },
+    {
+      "korean": "저는 커피 안 마셔요.",
+      "english": "I don't drink coffee.",
+      "notes": "커피 = coffee"
+    },
+    {
+      "korean": "마실 것 좀 드릴까요?",
+      "english": "Shall I give you something to drink?",
+      "notes": "드리다 = (honorific) to give"
+    },
+    {
+      "korean": "이거 한번 마셔 보세요.",
+      "english": "Try drinking this.",
+      "notes": "한번 -어/아/여 보다 = to try + V-ing"
+    },
+    {
+      "korean": "마실 것 좀 사다 주세요.",
+      "english": "Go and buy me something to drink.",
+      "notes": "사다 주다 = to buy something for someone and bring it to that person"
+    },
+    {
+      "korean": "목이 말라서 물을 마셨어요.",
+      "english": "I was thirsty, so I drank water.",
+      "notes": "목 = throat; neck\n마르다 = to dry; to be dried\n목이 마르다 = to be thirsty"
+    },
+    {
+      "korean": "와인 마시는 거 좋아하세요?",
+      "english": "Do you like drinking wine?",
+      "notes": "와인 = wine\n좋아하다 = to like"
+    },
+    {
+      "korean": "저는 아침마다 커피를 마셔요.",
+      "english": "I drink coffee every morning.",
+      "notes": "아침 = morning; breakfast\n-마다 = every + N"
+    },
+    {
+      "korean": "콜라를 마시면 기분이 좋아져요.",
+      "english": "Drinking cola makes me feel happy.",
+      "notes": "콜라 = cola\n기분 = feelings; mood\n좋다 = to be good, likable; to be desirable; to be nice; to like\n-어/아/여지다 = to become + adjective"
+    },
+    {
+      "korean": "오늘은 커피를 세 잔이나 마셨어요.",
+      "english": "Today, I drank as many as three cups of coffee.",
+      "notes": "오늘 = today\n잔 = counter for glasses, cups, or shots\n-이나 = as many as + number, as much as + amount"
+    },
+    {
+      "korean": "어젯밤에 술을 너무 많이 마셨어요.",
+      "english": "Last night, I drank too much alcohol.",
+      "notes": "어젯밤 = last night"
+    },
+    {
+      "korean": "삼겹살을 먹을 때는 소주가 마시고 싶어져요.",
+      "english": "When I eat samgyeopsal, I feel like drinking soju.",
+      "notes": "삼겹살 = pork belly meat\n소주 = soju"
+    },
+    {
+      "korean": "너무 추워서 따뜻한 음료수가 마시고 싶어요.",
+      "english": "It is really cold, so I want to drink a hot beverage.",
+      "notes": "춥다 = to be cold\n따뜻하다 = to be warm\n따뜻한 is the adjective form of 따뜻하다.\n음료수 = beverage"
+    },
+    {
+      "korean": "오늘 저녁에 친구하고 맥주 마시러 갈 거예요.",
+      "english": "This evening, I am going to go drink beer with my friend.",
+      "notes": "-하고 = with + N\n맥주 = beer"
+    },
+    {
+      "korean": "불이 났을 때는 연기를 마시지 않도록 주의해야 해요.",
+      "english": "When there's a fire, you have to be careful to not inhale the smoke.",
+      "notes": "불 = fire\n불이 나다 = to have a fire; a fire breaks out\n연기 = smoke\n-지 않도록 = not to + V\n주의하다 = to be careful (to/not to + V)\n-어/아/여야 하다 = should; have to; must"
+    }
+  ]
+}

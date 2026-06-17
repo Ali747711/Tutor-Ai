@@ -1,0 +1,110 @@
+{
+  "week": 8,
+  "day": 1,
+  "order": 50,
+  "keyword": "자다",
+  "meaning": "to sleep",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "늦게 자다",
+      "english": "to go to bed late",
+      "notes": "늦다 = to be late\n늦게 is the adverb form of 늦다."
+    },
+    {
+      "korean": "일찍 자다",
+      "english": "to go to bed early",
+      "notes": "일찍 = early; soon"
+    },
+    {
+      "korean": "낮잠을 자다",
+      "english": "to take a nap",
+      "notes": "낮잠 = nap"
+    },
+    {
+      "korean": "늦잠을 자다",
+      "english": "to wake up late",
+      "notes": "늦잠 = sleeping in, oversleeping"
+    },
+    {
+      "korean": "잘 잤어요?",
+      "english": "Did you sleep well?",
+      "notes": "잘 = well; carefully"
+    },
+    {
+      "korean": "잠 안 자고 뭐 해요?",
+      "english": "What are you still up doing?",
+      "notes": "잠 = sleep\n안 = not\n뭐 = what; something\n해요 = to do"
+    },
+    {
+      "korean": "졸려요, 자고 싶어요.",
+      "english": "I'm sleepy. I want to sleep.",
+      "notes": "졸리다 = to be sleepy\n-고 싶다 = to want to + V"
+    },
+    {
+      "korean": "어제 몇 시에 잤어요?",
+      "english": "What time did you go to bed yesterday?",
+      "notes": "어제 = yesterday\n몇 시 = what time"
+    },
+    {
+      "korean": "피곤할 테니 일찍 자요.",
+      "english": "You must be tired, so go to bed early.",
+      "notes": "피곤하다 = to be tired, exhausted; to be tiring\n-(으)ㄹ 테니 = (assuming that) something must + V"
+    },
+    {
+      "korean": "잘 자고 내일 연락해요.",
+      "english": "Good night and call me tomorrow.",
+      "notes": "내일 = tomorrow\n연락하다 = to contact; to call, text"
+    },
+    {
+      "korean": "어제 한숨도 못 잤어요.",
+      "english": "I couldn't sleep at all yesterday.",
+      "notes": ""
+    },
+    {
+      "korean": "제 동생은 아직 자고 있어요.",
+      "english": "My sister is still sleeping.",
+      "notes": "동생 = younger sister/brother\n아직 = (not) yet\n-고 있다 = to be + V-ing"
+    },
+    {
+      "korean": "내일은 친구 집에서 잘 거예요.",
+      "english": "I'm going to sleep over at my friend's house tomorrow.",
+      "notes": "친구 = friend\n집 = house, home"
+    },
+    {
+      "korean": "오늘 늦잠을 자서 학교에 지각했어요.",
+      "english": "I got up late today, so I was late for school.",
+      "notes": "오늘 = today\t\t학교 = school\n늦잠을 자다 = to get up late, oversleep, sleep in\n-에 지각하다 = to be late for + N"
+    },
+    {
+      "korean": "어젯밤에 자다가 이상한 꿈을 꿨어요.",
+      "english": "I had a strange dream while sleeping last night.",
+      "notes": "어젯밤 = last night\n이상하다 = to be weird, odd, strange\n꿈 = dream\n꿈을 꾸다 = to have a dream; to dream"
+    },
+    {
+      "korean": "일요일에는 하루 종일 잠만 자고 싶어요.",
+      "english": "On Sundays, I just want to sleep all day long.",
+      "notes": "일요일 = Sunday\n하루 = one day\n하루 종일 = all day long\n-만 = only; just"
+    },
+    {
+      "korean": "너무 졸러서 점심 먹고 잠깐 낮잠을 잤어요.",
+      "english": "I was so sleepy, so I took a short nap after having lunch.",
+      "notes": "너무 = too much, excessively; very\n점심 = lunch\n먹다 = to eat; to drink\n잠깐 = short time; for a moment"
+    },
+    {
+      "korean": "어제 잠을 많이 못 자서 오늘 너무 피곤해요.",
+      "english": "I couldn't sleep much yesterday, so I am very tired.",
+      "notes": "많다 = to be a lot\n많이 is an adverb form of 많다.\n못 = can't"
+    },
+    {
+      "korean": "요즘에 일이 많아서 잠을 많이 못 자고 있어요.",
+      "english": "I have a lot of work to do these days, so I am not getting a lot of sleep.",
+      "notes": "요즘 = these days, lately\n일 = work; task; thing; stuff; occasion"
+    },
+    {
+      "korean": "어젯밤에 자고 있는데 친구에게서 전화가 왔어요.",
+      "english": "Last night when I was sleeping, I got a phone call from a friend.",
+      "notes": "전화가 오다 = to get a phone call"
+    }
+  ]
+}

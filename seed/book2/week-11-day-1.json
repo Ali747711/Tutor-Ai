@@ -1,0 +1,110 @@
+{
+  "week": 11,
+  "day": 1,
+  "order": 71,
+  "keyword": "사다",
+  "meaning": "to buy",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "옷을 사다",
+      "english": "to buy clothes",
+      "notes": "옷 = clothes, outfit"
+    },
+    {
+      "korean": "밥을 사다",
+      "english": "to treat someone to a meal",
+      "notes": "밥 = food; meal; cooked rice"
+    },
+    {
+      "korean": "사다 주다",
+      "english": "to buy something for someone and bring it to that person",
+      "notes": "주다 = to give"
+    },
+    {
+      "korean": "사다 놓다",
+      "english": "to buy something and keep it for later use",
+      "notes": "놓다 = to place, put; to let go"
+    },
+    {
+      "korean": "싸게 샀어요.",
+      "english": "I bought it for a low price.",
+      "notes": "싸다 = to be cheap\n싸게 is the adverb form of 싸다.\n싸게 사다 = to buy something for a low price"
+    },
+    {
+      "korean": "뭐 살 거예요?",
+      "english": "What are you going to buy?",
+      "notes": "뭐 = what; something\n뭐 is the contracted form of 무엇.\n-(으)ㄹ 것이다 = will; to be going to + V"
+    },
+    {
+      "korean": "얼마에 샀어요?",
+      "english": "How much did you pay for it?",
+      "notes": "얼마 = how much\n(price)에 사다 = to buy at + (price)"
+    },
+    {
+      "korean": "어디에서 샀어요?",
+      "english": "Where did you buy it?",
+      "notes": "어디 = where; somewhere"
+    },
+    {
+      "korean": "이거 사고 싶어요.",
+      "english": "I want to buy this.",
+      "notes": "이거 = this thing; this\n-고 싶다 = to want to + V"
+    },
+    {
+      "korean": "약 좀 사다 주세요.",
+      "english": "Could you buy me some medicine and bring it to me?",
+      "notes": "약 = pill; medicine\n좀 = a little; please\n-(으)세요 = (polite) imperative"
+    },
+    {
+      "korean": "언제 밥 살 거예요?",
+      "english": "When are you going to treat me to a meal?",
+      "notes": "언제 = when\n밥을 사다 = to treat someone to a meal"
+    },
+    {
+      "korean": "여기서는 사지 마세요.",
+      "english": "Don't buy it here.",
+      "notes": "여기서 = here, from here\n-지 마세요. = (polite) Don't + V."
+    },
+    {
+      "korean": "이거 사면 하나 더 드려요.",
+      "english": "If you buy this, I'll give you another one for free.",
+      "notes": "-(으)면 = if + S + V; when/once + S + V\n하나 = one (native Korean number)\n더 = more\n드리다 = (honorific) to give"
+    },
+    {
+      "korean": "이거 사고 나면 돈이 없어요.",
+      "english": "If I buy this, I won't have any money left.",
+      "notes": "-고 나면 = once + S + finish + V-ing\n돈 = money\n없다 = to not have, not exist; to be not there"
+    },
+    {
+      "korean": "마음에 안 들어서 안 샀어요.",
+      "english": "I didn't like it, so I didn't buy it.",
+      "notes": "마음 = heart; mind\n마음에 들다 = to like\n안 = not\n-이/이/어서 = because, since"
+    },
+    {
+      "korean": "그 옷을 사고 나서 후회했어요.",
+      "english": "I regretted buying those clothes.",
+      "notes": "그 = the; that\n-고 나서 = after + S + V\n후회하다 = to regret"
+    },
+    {
+      "korean": "인터넷으로 옷을 처음 사 봤어요.",
+      "english": "This was my first time buying clothes on the Internet.",
+      "notes": "인터넷 = the Internet\n처음 = first; for the first time\n-이/이/어 보다 = to try V-ing"
+    },
+    {
+      "korean": "살까 말까 고민하다가 안 샀어요.",
+      "english": "I was debating whether to buy it or not, and I ended up not buying it.",
+      "notes": "-(으)ㄹ까 말까 = whether to + V\n고민하다 = to debate; to try to decide; to worry\n-다가 = as a result of V-ing"
+    },
+    {
+      "korean": "할인 기간일 때 많이 사 놔야 해요.",
+      "english": "You should buy a lot of things during the discount period. While the sale is going on, you should buy a lot of stuff (so you can use it later.)",
+      "notes": "할인 = sale, discount\n기간 = period (of time), term\n-(으)ㄹ 때 = while/when + S + V\n많다 = to be a lot\n많이 is an adverb form of 많다.\n사 놓다 = to buy something (and keep it for later use)\n-이/이/어야 하다 = should; have to; must"
+    },
+    {
+      "korean": "친구 선물로 뭐 살지 고민 중이에요.",
+      "english": "I'm thinking about what to buy as a present for my friend.",
+      "notes": "친구 = friend\n선물 = gift, present\n뭐-(으)로지 고민하다 = to try to decide what to + V\n중이다 = to be V-ing; to be between/middle/in the middle of V-ing"
+    }
+  ]
+}

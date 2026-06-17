@@ -1,0 +1,110 @@
+{
+  "week": 4,
+  "day": 3,
+  "order": 24,
+  "keyword": "뛰다",
+  "meaning": "to run; to jump",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "뛰어가다",
+      "english": "to run somewhere\nto run to a destination",
+      "notes": "빠르다 = to be fast\n빨리 is an adverb form of 빠르다."
+    },
+    {
+      "korean": "빨리 뛰다",
+      "english": "to run fast",
+      "notes": "높다 = to be high, tall\n높이 is an adverb form of 높다."
+    },
+    {
+      "korean": "높이 뛰다",
+      "english": "to jump high",
+      "notes": "펄쩍 is an adverb that describes how someone jumps vigorously or outrageously denies something."
+    },
+    {
+      "korean": "펄쩍 뛰다",
+      "english": "to jump (in a vigorous way)",
+      "notes": "천천히 = slowly"
+    },
+    {
+      "korean": "천천히 뛰다",
+      "english": "to run slowly",
+      "notes": "-(으)ㄹ까요? = Shall we + S + V?; Do you want me to + V?; Should we + V?; Let's + V."
+    },
+    {
+      "korean": "늦었는데 뜰까요?",
+      "english": "We are late, shall we run?",
+      "notes": "-(으)ㄹ 것 같다 = I think + S + will/be going to; it seems like + S + will/be going to"
+    },
+    {
+      "korean": "뛰어도 늦을 것 같아요.",
+      "english": "I think I will be late even if I run.",
+      "notes": "복도 = hallway, corridor\n-(으)면 안 되다 = shouldn't; must not"
+    },
+    {
+      "korean": "복도에서 뛰면 안 돼요.",
+      "english": "You must not run in the hallway.",
+      "notes": "좀 = a little; please\n더 = more\n-(으)ㄹ 수 있다 = can, to be able to; there is a chance that + S + V"
+    },
+    {
+      "korean": "좀 더 빨리 뤼 수 있어요?",
+      "english": "Can you run a little faster?",
+      "notes": "숨이 차다 = to be out of breath"
+    },
+    {
+      "korean": "뛰어왔더니 숨이 너무 차요.",
+      "english": "I'm out of breath because I ran here.",
+      "notes": "금방 = soon, shortly; quickly"
+    },
+    {
+      "korean": "제가 금방 뛰어갔다 올게요.",
+      "english": "I will quickly run over there and come back.",
+      "notes": "정말 = really; very\n싫어하다 = to dislike, hate"
+    },
+    {
+      "korean": "자는 뛰는 거 정말 싫어해요.",
+      "english": "I really don't like to run.",
+      "notes": "-마다 = every + N\n-씩 is a particle used for the amount that is divided or repeated."
+    },
+    {
+      "korean": "자는 아침마다 10km씩 뛰어요.",
+      "english": "I run 10km every morning.",
+      "notes": "우리 = we; us\n이제 = now"
+    },
+    {
+      "korean": "우리 이제 뛰어야 될 것 같아요.",
+      "english": "I think we should run now.",
+      "notes": "급하다 = to be urgent, pressing; to be hasty\n급하게 is an adverb form of 급하다.\n-다가 = as a result of + V-ing\n넘어지다 = to fall (down); to trip"
+    },
+    {
+      "korean": "급하게 뛰어 오다가 넘어졌어요.",
+      "english": "I fell down because I was running in such a hurry to get here.",
+      "notes": "어디 = where; somewhere\n그렇게 = like that; such + adjective/adverb"
+    },
+    {
+      "korean": "어디를 그렇게 급하게 뛰어가요?",
+      "english": "Where are you running off to in such a hurry?",
+      "notes": "힘들다 = to be difficult, hard, tough; to have a hard time; to be tiring; to be tired\n그냥 = just, only, simply\n걷다 = to go on foot; to walk to + place\n-아/어/해요 = imperative ending; Let's + V"
+    },
+    {
+      "korean": "뛰어가면 힘드니까 그냥 걷아요.",
+      "english": "It's exhausting to run, so let's just walk.",
+      "notes": "-(으)ㄹ 필요 없다 = to not need to + V\n-아/어/해도 되다 = to be okay to + V"
+    },
+    {
+      "korean": "뤼 필요 없어요, 그냥 걷어가도 돼요.",
+      "english": "There is no need to run. We can just walk.",
+      "notes": "여기 = here, this place\n거기 = there, that place\n얼마나 = how + adjective/adverb\n(시간이) 걸리다 = to take (a certain amount of time)"
+    },
+    {
+      "korean": "여기에서 거기까지 뛰어가면 얼마나 걸려요?",
+      "english": "How long does it take to run from here to there?",
+      "notes": "약속 = plans; promise\n시간 = time; hour\n버스 = bus\n내리다 = to get off (from a vehicle)\n-자마자 = as soon as + S + V"
+    },
+    {
+      "korean": "약속 시간에 늦어서 버스에서 내리자마자 자 뛰어갔아요.",
+      "english": "I had to run as soon as I got off the bus because I was late for my meeting.",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "chapter": 6,
+  "title": "Wedding",
+  "category": "Invitations",
+  "shortDialogue": [
+    {
+      "speaker": "수정",
+      "korean": "진영아, 결혼 정말 축하해!",
+      "romanization": "",
+      "english": "Jin-yeong, congratulations on your wedding!"
+    },
+    {
+      "speaker": "진영",
+      "korean": "고마워!",
+      "romanization": "",
+      "english": "Thank you!"
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "수정",
+      "korean": "진영아!",
+      "romanization": "",
+      "english": "Jin-yeong!"
+    },
+    {
+      "speaker": "진영",
+      "korean": "어! 수정아, 왔어?",
+      "romanization": "",
+      "english": "Oh, Su-jeong, you came?"
+    },
+    {
+      "speaker": "수정",
+      "korean": "응. 오늘 너무 예쁘다. 천사 같아. 결혼 정말 축하해!",
+      "romanization": "",
+      "english": "Yeah. You are so pretty today. You look like an angel. Congratulations on your wedding!"
+    },
+    {
+      "speaker": "진영",
+      "korean": "고마워. 그런데 나 지금 너무 긴장돼.",
+      "romanization": "",
+      "english": "Thank you. But I'm really nervous right now."
+    },
+    {
+      "speaker": "수정",
+      "korean": "정말? 긴장하지 마.",
+      "romanization": "",
+      "english": "Really? Don't be nervous."
+    },
+    {
+      "speaker": "진영",
+      "korean": "응. 알겠어. 근데 혼자 왔어?",
+      "romanization": "",
+      "english": "Ok. I got it. But, did you come by yourself?"
+    },
+    {
+      "speaker": "수정",
+      "korean": "은진이는 오고 있어. 곧 도착할 거야.",
+      "romanization": "",
+      "english": "Eun-jin is on her way. She will arrive soon."
+    },
+    {
+      "speaker": "진영",
+      "korean": "그렇구나.",
+      "romanization": "",
+      "english": "I see."
+    },
+    {
+      "speaker": "수정",
+      "korean": "자, 결혼 선물이야.",
+      "romanization": "",
+      "english": "Here, it's a wedding present for you."
+    },
+    {
+      "speaker": "진영",
+      "korean": "정말? 고마워. 이게 뭐야?",
+      "romanization": "",
+      "english": "Really? Thank you. What is it?"
+    },
+    {
+      "speaker": "수정",
+      "korean": "커플 티야. 신혼여행 가서 신랑하고 같이 입어.",
+      "romanization": "",
+      "english": "They are matching t-shirts. Wear them with your husband on your honeymoon."
+    }
+  ],
+  "culturalTip": "In Korea, guests at a wedding usually give money as a gift to the couple. Guests can hand in their envelopes filled with cash at the reception desk of the wedding venue. If a guest would like to give a physical item, then they give it privately before or after the ceremony. However, most Korean couples leave for their honeymoon directly after the ceremony, so if you have a gift that is to be used while on honeymoon, you may give it to the couple at the wedding.",
+  "koreanReview": "- Short Dialogue\n수정: 진영아, 결혼 정말 축하해!\n진영: 고마워!\n\n- Long Dialogue\n수정: 진영아!\n진영: 어! 수정아, 왔어?\n수정: 응. 오늘 너무 예쁘다. 천사 같아. 결혼 정말 축하해!\n진영: 고마워. 그런데 나 지금 너무 긴장돼.\n수정: 정말? 긴장하지 마.\n진영: 응. 알겠어. 근데 혼자 왔어?\n수정: 은진이는 오고 있어. 곧 도착할 거야.\n진영: 그렇구나.\n수정: 자, 결혼 선물이야.\n진영: 정말? 고마워. 이게 뭐야?\n수정: 커플 티야. 신혼여행 가서 신랑하고 같이 입어.",
+  "coreVocab": [
+    {
+      "korean": "결혼",
+      "romanization": "gyeo-ron",
+      "meaning": "marriage, wedding"
+    },
+    {
+      "korean": "정말",
+      "romanization": "jeong-mal",
+      "meaning": "really, very"
+    },
+    {
+      "korean": "축하하다",
+      "romanization": "chu-ka-ha-da",
+      "meaning": "to congratulate, to celebrate"
+    },
+    {
+      "korean": "고마워",
+      "romanization": "go-ma-wo",
+      "meaning": "Thank you (casual)"
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "오다",
+      "romanization": "o-da",
+      "meaning": "to come"
+    },
+    {
+      "korean": "오늘",
+      "romanization": "o-neul",
+      "meaning": "today"
+    },
+    {
+      "korean": "너무",
+      "romanization": "neo-mu",
+      "meaning": "really, so, too much"
+    },
+    {
+      "korean": "예쁘다",
+      "romanization": "ye-ppeu-da",
+      "meaning": "to be pretty"
+    },
+    {
+      "korean": "천사",
+      "romanization": "cheon-sa",
+      "meaning": "angel"
+    },
+    {
+      "korean": "결혼",
+      "romanization": "gyeo-ron",
+      "meaning": "marriage, wedding"
+    },
+    {
+      "korean": "정말",
+      "romanization": "jeong-mal",
+      "meaning": "really, very"
+    },
+    {
+      "korean": "축하하다",
+      "romanization": "chu-ka-ha-da",
+      "meaning": "to congratulate, to celebrate"
+    },
+    {
+      "korean": "고맙다",
+      "romanization": "go-map-tta",
+      "meaning": "to be thankful"
+    },
+    {
+      "korean": "그런데",
+      "romanization": "geu-reon-de",
+      "meaning": "but, however"
+    },
+    {
+      "korean": "지금",
+      "romanization": "ji-geum",
+      "meaning": "now"
+    },
+    {
+      "korean": "긴장되다",
+      "romanization": "gin-jang-doe-da",
+      "meaning": "to be nervous"
+    },
+    {
+      "korean": "근데",
+      "romanization": "geun-de",
+      "meaning": "but, however, by the way (short for 그런데)"
+    },
+    {
+      "korean": "곧",
+      "romanization": "got",
+      "meaning": "soon"
+    },
+    {
+      "korean": "도착하다",
+      "romanization": "do-cha-ka-da",
+      "meaning": "to arrive"
+    },
+    {
+      "korean": "선물",
+      "romanization": "seon-mul",
+      "meaning": "gift"
+    },
+    {
+      "korean": "이것",
+      "romanization": "i-geot",
+      "meaning": "this, this thing"
+    },
+    {
+      "korean": "뭐",
+      "romanization": "mwo",
+      "meaning": "what"
+    },
+    {
+      "korean": "커플 티",
+      "romanization": "keo-peul ti",
+      "meaning": "matching couple t-shirts"
+    },
+    {
+      "korean": "신혼여행",
+      "romanization": "si-non-nyeo-haeng",
+      "meaning": "honeymoon"
+    },
+    {
+      "korean": "가다",
+      "romanization": "ga-da",
+      "meaning": "to go"
+    },
+    {
+      "korean": "신랑",
+      "romanization": "sil-lang",
+      "meaning": "husband"
+    },
+    {
+      "korean": "같이",
+      "romanization": "ga-chi",
+      "meaning": "together"
+    },
+    {
+      "korean": "입다",
+      "romanization": "ip-tta",
+      "meaning": "to wear, to put on"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "Negative Present Tense",
+      "pattern": "VERB + -지 마(요) = Don't VERB.",
+      "meaning": "Don't VERB.",
+      "explanation": "* If you want to be more polite, use VERB + -지 마세요.",
+      "examples": [
+        {
+          "korean": "긴장하다 + -지 마(요). → 긴장하지 마(요). = Don't be nervous.",
+          "romanization": "",
+          "english": "Don't be nervous. * 긴장하다 is a verb in Korean."
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "오다 + -지 마(요).",
+          "answer": "오지 마(요).",
+          "english": "Don't come."
+        },
+        {
+          "prompt": "입다 + -지 마(요).",
+          "answer": "입지 마(요).",
+          "english": "Don't wear (it)."
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Imperative Ending",
+      "pattern": "VERB + -아/어/여(요). = (Do) VERB.",
+      "meaning": "(Do) VERB.",
+      "explanation": "* This is the same form as plain present tense ending.",
+      "examples": [
+        {
+          "korean": "입다 + -아/어/여(요). → 입어(요). = Wear (it).",
+          "romanization": "",
+          "english": "Wear (it)."
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "오다 + -아/어/여(요).",
+          "answer": "와(요).",
+          "english": "Come."
+        },
+        {
+          "prompt": "만나다 + -아/어/여(요).",
+          "answer": "만나(요).",
+          "english": "Meet (me)."
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "When a syllable ends with ㅎ and is followed by a syllable that begins with ㄱ, the ㅎ changes the pronunciation of ㄱ to ㅋ. ㅎ is not pronounced because it is used to create the ㅋ sound.",
+      "examples": [
+        {
+          "korean": "그렇구나",
+          "pronounced": "그러쿠나",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "그렇게",
+          "answer": "그러케",
+          "gloss": "(like that, as such)"
+        },
+        {
+          "prompt": "파랗고",
+          "answer": "파라코",
+          "gloss": "(blue and...)"
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "When it comes to compound words or derivatives, if the first word ends with a consonant and is followed by a word that begins with 여, ㄴ is added and pronounced as 녀.",
+      "examples": [
+        {
+          "korean": "신혼여행",
+          "pronounced": "신혼녀행",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "한여름",
+          "answer": "한녀름",
+          "gloss": "(midsummer)"
+        },
+        {
+          "prompt": "맹장염",
+          "answer": "맹장념",
+          "gloss": "(appendicitis)"
+        }
+      ]
+    }
+  ]
+}

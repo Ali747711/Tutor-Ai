@@ -1,0 +1,110 @@
+{
+  "week": 6,
+  "day": 7,
+  "order": 42,
+  "keyword": "지루하다",
+  "meaning": "to be boring; to be bored",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "지루한 책",
+      "english": "boring book",
+      "notes": ""
+    },
+    {
+      "korean": "지루한 영화",
+      "english": "boring movie",
+      "notes": ""
+    },
+    {
+      "korean": "지루한 수업",
+      "english": "boring class",
+      "notes": ""
+    },
+    {
+      "korean": "지루한 사람",
+      "english": "boring person",
+      "notes": ""
+    },
+    {
+      "korean": "지루해 보여요.",
+      "english": "You look bored.",
+      "notes": "-어/아/여 보이다 = to look + adjective"
+    },
+    {
+      "korean": "지루하지 않았어요?",
+      "english": "Were you not bored?\nWas it okay (and not boring)?",
+      "notes": ""
+    },
+    {
+      "korean": "제 이야기가 지루하세요?",
+      "english": "Is my story boring you?",
+      "notes": ""
+    },
+    {
+      "korean": "그 수업은 너무 지루해요.",
+      "english": "That class is too boring.",
+      "notes": ""
+    },
+    {
+      "korean": "오늘 하루는 정말 지루했어요.",
+      "english": "Today has been very boring.",
+      "notes": "하루 = one day"
+    },
+    {
+      "korean": "오늘은 할 일이 없어서 지루해요.",
+      "english": "I have nothing to do today, so I'm bored.",
+      "notes": "할 일 = (some)thing to do"
+    },
+    {
+      "korean": "지루한 회의를 세 시간이나 했어요.",
+      "english": "We had a boring meeting for three long hours.",
+      "notes": "회의 = meeting\n셋 = three (native Korean number)\n-이나 = as many as + number; as much as + amount\n세 is the adjective form of 셋."
+    },
+    {
+      "korean": "이렇게 지루한 드라마는 처음 봐요.",
+      "english": "I have never watched a drama that's THIS boring.",
+      "notes": "이렇게 = like this, in this manner; so + adjective\n드라마 = TV drama, soap opera\n처음 = first; for the first time"
+    },
+    {
+      "korean": "요즘은 너무 바빠서 지루할 틈이 없어요.",
+      "english": "I've been so busy recently that there is no time to be bored.",
+      "notes": "-(으)은 틈이 없다 = there is no time to + V"
+    },
+    {
+      "korean": "처음에는 지루한데 나중에 재미있어져요.",
+      "english": "It's boring in the beginning, but it gets more interesting later.",
+      "notes": "나중 = later\n재미있다 = to be fun; to be funny; to be interesting"
+    },
+    {
+      "korean": "영화가 너무 지루해서 보다가 잠들었어요.",
+      "english": "The movie was so boring that I fell asleep while I was watching it.",
+      "notes": "잠들다 = to fall asleep"
+    },
+    {
+      "korean": "지루하면 잠깐 밖에 나가서 바람 좀 쐬고 와요.",
+      "english": "If you are bored, go out and get some fresh air.",
+      "notes": "잠깐 = short time; for a moment\n밖 = outside\n나가다 = to go out\n바람 = wind\n바람을 쐬다 = to get some fresh air"
+    },
+    {
+      "korean": "그 일은 돈 많이 주는데 지루하고 재미가 없어요.",
+      "english": "That job pays you well, but it's boring and not fun.",
+      "notes": "돈 = money\n주다 = to give\n재미가 없다 = to be not fun; to be not funny; to be not interesting; to be boring"
+    },
+    {
+      "korean": "아무리 지루해도 수업 시간에는 잠을 자면 안 돼요.",
+      "english": "No matter how boring it is, you shouldn't sleep during class.",
+      "notes": "아무리 -어/아/여도 = no matter how + adjective + S + V\n자다 = to sleep\n잠을 자다 = to sleep"
+    },
+    {
+      "korean": "이 영화 지루할 것 같았는데 생각보다 재미있어요.",
+      "english": "I thought this movie would be boring, but it was more interesting than I thought.",
+      "notes": "생각보다 = ~ than one thought"
+    },
+    {
+      "korean": "이 책, 재미있을 것 같아서 샀는데 읽어보니까 지루해요.",
+      "english": "I bought this book because it looked interesting, but I've read some of it, and I find it boring.",
+      "notes": "읽다 = to read\n-어/아/여 보니까 = once + S + V-ed; it turns out that ..."
+    }
+  ]
+}

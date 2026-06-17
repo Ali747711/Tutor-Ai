@@ -1,0 +1,110 @@
+{
+  "week": 3,
+  "day": 5,
+  "order": 19,
+  "keyword": "깨끗하다",
+  "meaning": "to be clean",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "깨끗한 물",
+      "english": "clean water",
+      "notes": "물 = water"
+    },
+    {
+      "korean": "깨끗한 바다",
+      "english": "clean sea",
+      "notes": "바다 = sea, ocean"
+    },
+    {
+      "korean": "깨끗한 환경",
+      "english": "clean environment",
+      "notes": "환경 = environment"
+    },
+    {
+      "korean": "깨끗한 창문",
+      "english": "clean window",
+      "notes": "창문 = window"
+    },
+    {
+      "korean": "깨끗한 나라",
+      "english": "clean country",
+      "notes": "나라 = country"
+    },
+    {
+      "korean": "깨끗한 공기",
+      "english": "clean air",
+      "notes": "공기 = air"
+    },
+    {
+      "korean": "깨끗한 피부",
+      "english": "clean skin; clear skin",
+      "notes": "피부 = skin"
+    },
+    {
+      "korean": "깨끗한 화장실",
+      "english": "clean bathroom; clean toilet",
+      "notes": "화장실 = toilet; bathroom"
+    },
+    {
+      "korean": "집이 아주 깨끗해졌어요.",
+      "english": "The house has become really clean.",
+      "notes": "아주 = very, really"
+    },
+    {
+      "korean": "피부가 참 깨끗하신 것 같아요.",
+      "english": "Your skin seems very clear.",
+      "notes": "- 것 같다 = It seems/looks like + S + V"
+    },
+    {
+      "korean": "여기는 길거리가 참 깨끗하네요.",
+      "english": "The street here is very clean.",
+      "notes": "길거리 = street"
+    },
+    {
+      "korean": "제가 컵을 깨끗하게 씻어 올게요.",
+      "english": "I'll go wash the cup clean.",
+      "notes": "컵 = cup\n씻다 = to wash\n-이/어 올다 = to go + V + and come back"
+    },
+    {
+      "korean": "정리정돈만 잘해도 깨끗해 보여요.",
+      "english": "Just by tidying things up well, it (the place) looks clean.",
+      "notes": "정리정돈하다 = to tidy things up\n-이/어 보이다 = to look + adjective"
+    },
+    {
+      "korean": "깨끗한 사무실에서 일하니까 좋아요.",
+      "english": "It's good to work in a clean office.",
+      "notes": "사무실 = office\n일하다 = to work"
+    },
+    {
+      "korean": "제가 유리창을 깨끗하게 닦아 놨어요.",
+      "english": "I have wiped the windows clean.",
+      "notes": "유리창 = (glass) window\n닦다 = to wipe"
+    },
+    {
+      "korean": "손을 깨끗하게 씻어야 감기에 안 걸려요.",
+      "english": "You should wash your hands so that you won't catch a cold.",
+      "notes": "손 = hand\n-이/어야 해야 = should + V1 + in order to + V2\n감기 = cold, flu\n감기에 걸리다 = to catch a cold"
+    },
+    {
+      "korean": "유리창이 너무 깨끗해서 없는 줄 알았어요.",
+      "english": "The window was really clean, so I thought it wasn't there.",
+      "notes": "-(으)ㄴ/는 줄 알다 = to mistakenly think + S + V"
+    },
+    {
+      "korean": "책상이 깨끗해야 일도 더 잘 되는 것 같아요.",
+      "english": "I feel like I can work better when my desk is clean.",
+      "notes": "책상 = desk\n더 = more\n잘 되다 = to become successful; to become fine"
+    },
+    {
+      "korean": "깨끗한 공기를 마시니까 기분이 정말 좋아요.",
+      "english": "Getting some fresh air makes me feel really good.",
+      "notes": "마시다 = to drink\n기분 = feelings; mood\n정말 = really; very"
+    },
+    {
+      "korean": "오늘 손님이 오니까 사무실을 깨끗하게 청소해요.",
+      "english": "A guest is coming today, so let's clean up the office.",
+      "notes": "손님 = guest, visitor\n오다 = to come\n청소하다 = to clean up"
+    }
+  ]
+}

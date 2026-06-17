@@ -1,0 +1,110 @@
+{
+  "week": 4,
+  "day": 1,
+  "order": 22,
+  "keyword": "기다리다",
+  "meaning": "to wait",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "오래 기다리다",
+      "english": "to wait for a long time",
+      "notes": "오래 = for a long time, a long time"
+    },
+    {
+      "korean": "안에서 기다리다",
+      "english": "to wait inside",
+      "notes": "안 = in; inside"
+    },
+    {
+      "korean": "손꼽아 기다리다",
+      "english": "to eagerly look forward to something; to count the days waiting for something",
+      "notes": "손꼽다 = to count something on one's fingers"
+    },
+    {
+      "korean": "한참을 기다리다",
+      "english": "to wait for a long while",
+      "notes": "한참 = for a long while"
+    },
+    {
+      "korean": "차례를 기다리다",
+      "english": "to wait for one's turn",
+      "notes": "차례 = one's turn"
+    },
+    {
+      "korean": "친구를 기다리다",
+      "english": "to wait for one's friend",
+      "notes": "친구 = friend"
+    },
+    {
+      "korean": "끝까지 기다리다",
+      "english": "to wait it out; to wait until the end",
+      "notes": "끝 = end, finish\n-까지 = until; to"
+    },
+    {
+      "korean": "오래 기다렸어요?",
+      "english": "Have you been waiting for long?",
+      "notes": ""
+    },
+    {
+      "korean": "잠깐만 기다려 주세요.",
+      "english": "Wait for a moment, please.",
+      "notes": "잠깐 = short time; for a moment\n-만 = only; just\n-이/어/여 주세요 = (polite) Please do + something + for me"
+    },
+    {
+      "korean": "친구를 기다리고 있어요.",
+      "english": "I am waiting for my friend.",
+      "notes": "-고 있다 = to be + V-ing"
+    },
+    {
+      "korean": "더 이상 못 기다리겠어요.",
+      "english": "I can't wait any longer.",
+      "notes": "더 이상 = (not) any longer\n못 = can't"
+    },
+    {
+      "korean": "아무리 기다려도 답장이 없어요.",
+      "english": "No matter how long I wait, there's no reply.",
+      "notes": "아무리 -이/어/여도- = no matter how + adjective + S + V\n답장 = reply"
+    },
+    {
+      "korean": "기다리고 기다리던 날이 왔어요.",
+      "english": "The day I've been waiting for has come. The day has arrived.",
+      "notes": "기다리고 기다리던 = N + that + S + was eagerly looking forward to"
+    },
+    {
+      "korean": "친구들을 기다리면서 책을 읽었어요.",
+      "english": "I read a book while I was waiting for my friends.",
+      "notes": "-을 is a suffix used to indicate plural.\n-(으)면서 = while + S + V-ing\n책 = book\n읽다 = to read"
+    },
+    {
+      "korean": "내일은 손꼽아 기다리던 소풍날이에요.",
+      "english": "Tomorrow is the picnic day that I have been eagerly awaiting.",
+      "notes": "내일 = tomorrow\n소풍 = picnic\n날 = day"
+    },
+    {
+      "korean": "한참을 기다려도 안 와서, 전화를 해 봤어요.",
+      "english": "I'm calling you because I've waited for a long time and you are still not here.",
+      "notes": "-이/어/여도 = even though; no matter how much + S + V\n안 = not\n오다 = to come\n-이/어/여서 = because, since\n전화 = phone call; telephone\n전화를 하다 = to make a phone call\n-이/어/여 보다 = to try + V-ing"
+    },
+    {
+      "korean": "끝까지 기다려 보세요. 좋은 일이 있을 거예요.",
+      "english": "Wait it out. Good things will happen.",
+      "notes": "-(으)세요 = (polite) imperative\n좋다 = to be good, likable; to be desirable; to be nice; to like\n좋은 = the adjective form of 좋다.\n일 = work; task; thing; stuff; occasion\n-ㄹ(으)ㄹ 것이다 = will; be going to + V"
+    },
+    {
+      "korean": "기다리지 말고 주무세요. 저 늦게 들어올 거예요.",
+      "english": "Don't wait for me and please go to bed. I will come home late.",
+      "notes": "주무시다 = (honorific) to sleep\n저 = (polite) I; me\n늦다 = to be late\n늦게 = is the adverb form of 늦다.\n들어오다 = to come in"
+    },
+    {
+      "korean": "추우니까 밖에서 기다리지 말고 안에서 기다려요.",
+      "english": "Since it's cold outside, don't wait outside, wait inside instead.",
+      "notes": "춥다 = to be cold\n-(으)니까 = since, because\n밖 = outside"
+    },
+    {
+      "korean": "줄을 서서 제 차례를 기다리고 있었는데 누가 새치기를 했어요.",
+      "english": "I was waiting in line for my turn, and someone cut in line.",
+      "notes": "줄 = line\n서다 = to stand; to stop\n줄을 서다 = to wait in line\n제 = (polite) my; I\n누가 = who; someone (subject)\n새치기를 하다 = to cut in line"
+    }
+  ]
+}

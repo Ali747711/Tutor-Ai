@@ -1,0 +1,110 @@
+{
+  "week": 1,
+  "day": 1,
+  "order": 1,
+  "keyword": "보다",
+  "meaning": "to see; to look; to watch; to meet up; to read",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "볼 것",
+      "english": "something to see/look/watch",
+      "notes": ""
+    },
+    {
+      "korean": "책을 보다",
+      "english": "to read a book",
+      "notes": "책 = book"
+    },
+    {
+      "korean": "영화를 보다",
+      "english": "to watch a movie",
+      "notes": "영화 = movie"
+    },
+    {
+      "korean": "애를 보다",
+      "english": "to babysit",
+      "notes": "애 = kid, child; baby\n애 is the contracted form of 아이."
+    },
+    {
+      "korean": "간을 보다",
+      "english": "to taste (to see if the food is too salty or too bland)",
+      "notes": "간 = saltiness (of food)"
+    },
+    {
+      "korean": "자, 여기를 보세요.",
+      "english": "Well, look here.",
+      "notes": "자 = Well (interjection to start a sentence)\n여기 = here, this place"
+    },
+    {
+      "korean": "이것 좀 보세요.",
+      "english": "Look at this.",
+      "notes": "이것 = this; this thing\n좀 = a little; please\n-(으)세요 = (polite) imperative"
+    },
+    {
+      "korean": "이런 거 처음 봐요.",
+      "english": "I have never seen anything like this before.",
+      "notes": "이런 = N + like this\n이런 is the adjective form of 이렇다.\n이런 거 = something like this\n거 = thing, stuff; object\n처음 = first; for the first time"
+    },
+    {
+      "korean": "내일 시험 봐야 돼요.",
+      "english": "I have to take a test tomorrow.",
+      "notes": "내일 = tomorrow\n시험 = test, examination\n-어/여/아야 돼다 = to have to + V"
+    },
+    {
+      "korean": "왜 시계를 자구 봐요?",
+      "english": "Why do you keep looking at your watch?",
+      "notes": "왜 = why; for what reason; how come\n시계 = clock, watch\n자구 = repeatedly, again and again"
+    },
+    {
+      "korean": "이 책 나중에 꼭 볼 거예요.",
+      "english": "I will read this book later, definitely.",
+      "notes": "이 = this\n책 = for sure; at any cost; certainly; definitely; make sure to (do something); tight\n나중에 = later"
+    },
+    {
+      "korean": "맛을 보다가 혀를 데었어요.",
+      "english": "I burned my tongue while I was tasting the food.",
+      "notes": "맛 = taste\n맛을 보다 = to taste\n혀 = tongue\n데다 = to burn oneself"
+    },
+    {
+      "korean": "어제 친구랑 영화를 봤어요.",
+      "english": "Yesterday, I watched a movie with my friend.",
+      "notes": "어제 = yesterday\n친구 = friend"
+    },
+    {
+      "korean": "보면 볼수록 마음에 들어요.",
+      "english": "The more I see it, the more I like it.",
+      "notes": "-(으)면 -(으)ㄹ수록 = the more..., the more...\n마음 = heart; mind\n들다 = to enter; to be categorized as; to be in\n마음에 들다 = to like"
+    },
+    {
+      "korean": "우리 다음 주에 꼭 한번 봐요.",
+      "english": "Let's make sure to meet up next week.",
+      "notes": "우리 = we; us\n주 = week\n한번 = one time, once\n한번 -어/여/아요 = Let's + V + sometime in the future"
+    },
+    {
+      "korean": "어제 우연히 그 사람을 봤어요.",
+      "english": "I saw him by chance yesterday.",
+      "notes": "우연히 = by chance\n그 = the; that\n사람 = person, people"
+    },
+    {
+      "korean": "너무 어두워서 볼 수가 없었어요.",
+      "english": "I couldn't see it because it was too dark.",
+      "notes": "너무 = too much, excessively; very\n어둡다 = to be dark\n-어/여/아서 = because, since\n-(으)ㄹ 수 없다 = to be unable to + V, can't"
+    },
+    {
+      "korean": "보자마자 너무 마음에 들어서 샀어요.",
+      "english": "As soon as I saw it, I liked it so much that I bought it.",
+      "notes": "자마자 = as soon as + S + V\n사다 = to buy"
+    },
+    {
+      "korean": "시간이 없어서 아직 그 영화 못 봤어요.",
+      "english": "I haven't had time, so I haven't been able to watch that movie yet.",
+      "notes": "시간 = time; hour\n아직 = (not) yet\n못 = can't\n없다 = to not have; to not be there; to not exist"
+    },
+    {
+      "korean": "친구가 그 드라마 재미없다고 해서 안 봤어요.",
+      "english": "A friend of mine told me that the drama was not interesting, so I didn't watch it.",
+      "notes": "드라마 = TV drama, soap opera\n-다고 해서 = since someone says/said ...\n인 = not\n재미없다 = to be not funny; to be not interesting; to be boring"
+    }
+  ]
+}

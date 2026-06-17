@@ -1,0 +1,332 @@
+{
+  "chapter": 21,
+  "title": "Overtime Work",
+  "category": "At Work",
+  "shortDialogue": [
+    {
+      "speaker": "미화",
+      "korean": "또 야근해요?",
+      "romanization": "",
+      "english": "Are you working overtime again?"
+    },
+    {
+      "speaker": "성일",
+      "korean": "네. 오늘 야근해야 돼요.",
+      "romanization": "",
+      "english": "Yes. I have to work overtime today."
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "",
+      "korean": "(On the phone)",
+      "romanization": "",
+      "english": "(On the phone)"
+    },
+    {
+      "speaker": "미화",
+      "korean": "여보, 오늘 언제 와요?",
+      "romanization": "",
+      "english": "Honey, what time are you coming home today?"
+    },
+    {
+      "speaker": "성일",
+      "korean": "오늘 늦을 거예요.",
+      "romanization": "",
+      "english": "I will come late today."
+    },
+    {
+      "speaker": "미화",
+      "korean": "또 야근해요?",
+      "romanization": "",
+      "english": "Are you working overtime again?"
+    },
+    {
+      "speaker": "성일",
+      "korean": "네.",
+      "romanization": "",
+      "english": "Yeah."
+    },
+    {
+      "speaker": "미화",
+      "korean": "아휴.",
+      "romanization": "",
+      "english": "Phew."
+    },
+    {
+      "speaker": "성일",
+      "korean": "왜요?",
+      "romanization": "",
+      "english": "Why?"
+    },
+    {
+      "speaker": "미화",
+      "korean": "오늘은 일찍 와요. 네?",
+      "romanization": "",
+      "english": "Come early today, will you?"
+    },
+    {
+      "speaker": "성일",
+      "korean": "왜요?",
+      "romanization": "",
+      "english": "Why?"
+    },
+    {
+      "speaker": "미화",
+      "korean": "진짜 몰라요?",
+      "romanization": "",
+      "english": "You really don't know?"
+    },
+    {
+      "speaker": "성일",
+      "korean": "네. 몰라요.",
+      "romanization": "",
+      "english": "Yeah. I don't know."
+    },
+    {
+      "speaker": "미화",
+      "korean": "오늘 우리 결혼기념일이에요.",
+      "romanization": "",
+      "english": "Today is our wedding anniversary."
+    },
+    {
+      "speaker": "성일",
+      "korean": "네? 오늘이 며칠이에요?",
+      "romanization": "",
+      "english": "What? What's today's date?"
+    },
+    {
+      "speaker": "미화",
+      "korean": "2월 23일이요.",
+      "romanization": "",
+      "english": "It's February 23."
+    },
+    {
+      "speaker": "성일",
+      "korean": "우리 결혼기념일은 2월 25일이에요.",
+      "romanization": "",
+      "english": "Our wedding anniversary is February 25."
+    },
+    {
+      "speaker": "미화",
+      "korean": "네? 아… 미안해요.",
+      "romanization": "",
+      "english": "Huh? Oh... I'm sorry."
+    },
+    {
+      "speaker": "성일",
+      "korean": "오늘 야근해야 돼요. 25일에는 일찍 갈게요.",
+      "romanization": "",
+      "english": "I have to work overtime today. I will go home early on the 25th."
+    },
+    {
+      "speaker": "미화",
+      "korean": "네.",
+      "romanization": "",
+      "english": "Ok."
+    }
+  ],
+  "culturalTip": "With the exception of civil servants and those who work for foreign-based companies, workers in Korea often must work overtime. In addition to overtime, the office culture in some companies can even affect your personal schedule; you are not allowed to leave before your boss leaves, and it is proper etiquette to show up before your boss arrives.",
+  "koreanReview": "- Short Dialogue\n미화: 또 야근해요?\n성일: 네. 오늘 야근해야 돼요.\n\n- Long Dialogue\n미화: 여보, 오늘 언제 와요?\n성일: 오늘 늦을 거예요.\n미화: 또 야근해요?\n성일: 네.\n미화: 아휴.\n성일: 왜요?\n미화: 오늘은 일찍 와요. 네?\n성일: 왜요?\n미화: 진짜 몰라요?\n성일: 네. 몰라요.\n미화: 오늘 우리 결혼기념일이에요.\n성일: 네? 오늘이 며칠이에요?\n미화: 2월 23일이요.\n성일: 우리 결혼기념일은 2월 25일이에요.\n미화: 네? 아… 미안해요.\n성일: 오늘 야근해야 돼요. 25일에는 일찍 갈게요.\n미화: 네.",
+  "coreVocab": [
+    {
+      "korean": "또",
+      "romanization": "tto",
+      "meaning": "again"
+    },
+    {
+      "korean": "야근하다",
+      "romanization": "ya-geu-na-da",
+      "meaning": "to work overtime"
+    },
+    {
+      "korean": "네.",
+      "romanization": "ne.",
+      "meaning": "Yes. / Ok."
+    },
+    {
+      "korean": "오늘",
+      "romanization": "o-neul",
+      "meaning": "today"
+    },
+    {
+      "korean": "VERB + -아/어/여야 돼요.",
+      "romanization": "-a/eo/yeo-ya dwae-yo.",
+      "meaning": "I have to VERB."
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "여보",
+      "romanization": "yeo-bo",
+      "meaning": "honey (between a married couple)"
+    },
+    {
+      "korean": "오늘",
+      "romanization": "o-neul",
+      "meaning": "today"
+    },
+    {
+      "korean": "늦다",
+      "romanization": "neut-tta",
+      "meaning": "to be late"
+    },
+    {
+      "korean": "또",
+      "romanization": "tto",
+      "meaning": "again"
+    },
+    {
+      "korean": "야근하다",
+      "romanization": "ya-geu-na-da",
+      "meaning": "to work overtime"
+    },
+    {
+      "korean": "왜",
+      "romanization": "wae",
+      "meaning": "why"
+    },
+    {
+      "korean": "일찍",
+      "romanization": "il-jjik",
+      "meaning": "early"
+    },
+    {
+      "korean": "오다",
+      "romanization": "o-da",
+      "meaning": "to come"
+    },
+    {
+      "korean": "진짜",
+      "romanization": "jin-jja",
+      "meaning": "really"
+    },
+    {
+      "korean": "모르다",
+      "romanization": "mo-reu-da",
+      "meaning": "to not know"
+    },
+    {
+      "korean": "우리",
+      "romanization": "u-ri",
+      "meaning": "we, us"
+    },
+    {
+      "korean": "결혼기념일",
+      "romanization": "gyeo-ron-gi-nyeo-mil",
+      "meaning": "wedding anniversary"
+    },
+    {
+      "korean": "며칠",
+      "romanization": "myeo-chil",
+      "meaning": "what date"
+    },
+    {
+      "korean": "미안하다",
+      "romanization": "mi-a-na-da",
+      "meaning": "to be sorry"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "Future Tense",
+      "pattern": "VERB + -(으)ㄹ 거예요. = I am going to VERB.",
+      "meaning": "I am going to VERB.",
+      "explanation": "",
+      "examples": [
+        {
+          "korean": "늦다 + -(으)ㄹ 거예요 → 늦을 거예요.",
+          "romanization": "",
+          "english": "I am going to be late."
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "야근하다 + -(으)ㄹ 거예요",
+          "answer": "야근할 거예요.",
+          "english": "I am going to work overtime."
+        },
+        {
+          "prompt": "오다 + -(으)ㄹ 거예요",
+          "answer": "올 거예요.",
+          "english": "I am going to come."
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Obligation",
+      "pattern": "VERB + -아/어/여야 돼요. = I have to VERB.",
+      "meaning": "I have to VERB.",
+      "explanation": "",
+      "examples": [
+        {
+          "korean": "야근하다 + -아/어/여야 돼요 → 야근해야 돼요.",
+          "romanization": "",
+          "english": "I have to work overtime."
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "오다 + -아/어/여야 돼요",
+          "answer": "와야 돼요.",
+          "english": "I have to come."
+        },
+        {
+          "prompt": "웃다 + -아/어/여야 돼요",
+          "answer": "웃어야 돼요.",
+          "english": "I have to smile."
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "When a syllable ends with ㅈ and is followed by a syllable that begins with a vowel, ㅈ becomes part of the following syllable rather than being pronounced distinctly as two different syllables.",
+      "examples": [
+        {
+          "korean": "늦을",
+          "pronounced": "느즐",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "늦어",
+          "answer": "느저",
+          "gloss": ""
+        },
+        {
+          "prompt": "짖으면",
+          "answer": "지즈면",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "When a syllable ends with ㄴ and is followed by a syllable that begins with ㅎ, ㄴ becomes part of the following syllable and ㅎ is not pronounced. * Not an official pronunciation rule, but it is done for easier pronunciation.",
+      "examples": [
+        {
+          "korean": "번호",
+          "pronounced": "버노",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "전화",
+          "answer": "저놔",
+          "gloss": "(phone call)"
+        },
+        {
+          "prompt": "분홍색",
+          "answer": "부농색",
+          "gloss": "(pink color)"
+        }
+      ]
+    }
+  ]
+}

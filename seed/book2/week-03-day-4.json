@@ -1,0 +1,110 @@
+{
+  "week": 3,
+  "day": 4,
+  "order": 18,
+  "keyword": "요리",
+  "meaning": "cooking, cookery",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "요리사",
+      "english": "cook, chef",
+      "notes": ""
+    },
+    {
+      "korean": "요리 책",
+      "english": "recipe book, cookbook",
+      "notes": "재료 = ingredient"
+    },
+    {
+      "korean": "요리 재료",
+      "english": "ingredients of the dish",
+      "notes": ""
+    },
+    {
+      "korean": "요리 학원",
+      "english": "cooking school",
+      "notes": "학원 = private educational institute"
+    },
+    {
+      "korean": "요리 솜씨",
+      "english": "cooking skill",
+      "notes": "솜씨 = skill; ability"
+    },
+    {
+      "korean": "요리 기구",
+      "english": "cooking utensil",
+      "notes": "기구 = tool"
+    },
+    {
+      "korean": "요리 잘하세요?",
+      "english": "Are you good at cooking?",
+      "notes": "잘하다 = to be good at something"
+    },
+    {
+      "korean": "저는 요리를 잘 못해요.",
+      "english": "I'm not very good at cooking.",
+      "notes": "잘 = well; carefully\n요리를 하다 = to cook\n못하다 = to be bad at something; to be poor at something"
+    },
+    {
+      "korean": "할 줄 아는 요리 있어요?",
+      "english": "Are there any dishes you can cook?",
+      "notes": "-(으)로 줄 알다 = to know how to + V"
+    },
+    {
+      "korean": "저는 요리에 관심이 많아요.",
+      "english": "I'm really interested in cooking.",
+      "notes": "관심 = interest\n관심이 많다 = to be interested in + N + very much"
+    },
+    {
+      "korean": "요리 책 보고 따라해 봤어요.",
+      "english": "I've tried following the cookbook.",
+      "notes": "요리 책 = recipe book, cookbook\n따라하다 = to copy (someone); to imitate; to mimic\n-아/어/여 보다 = to try + V-ing"
+    },
+    {
+      "korean": "저는 유명한 요리사가 되고 싶어요.",
+      "english": "I want to be a famous chef.",
+      "notes": "유명하다 = to be famous\n유명한 is the adjective form of 유명하다.\n요리사 = chef, cook\n되다 = to become\n-고 싶다 = to want to + V"
+    },
+    {
+      "korean": "요즘 요리에 부쩍 재미를 붙였어요.",
+      "english": "These days, I've suddenly taken an interest in cooking.",
+      "notes": "요즘 = these days, lately\n부쩍 = (something changed) markedly; suddenly\n재미 = fun\n재미를 붙이다 = to become interested in, take an interest in"
+    },
+    {
+      "korean": "저희 어머니는 요리를 참 잘하세요.",
+      "english": "My mother is very good at cooking.",
+      "notes": "저희 = (polite) we; us; our\n어머니 = mother\n참 = very, quite"
+    },
+    {
+      "korean": "드디어 한식 요리사 자격증을 땄어요.",
+      "english": "I finally got a certificate for Korean cuisine.",
+      "notes": "드디어 = finally\n한식 = Korean food, Korean cuisine\n자격증 = certificate\n자격증을 따다 = to get a certificate"
+    },
+    {
+      "korean": "요리를 할 때는 항상 불을 조심해야 돼요.",
+      "english": "When you cook, you always have to be careful with fire.",
+      "notes": "항상 = always, all the time\n불 = fire\n조심하다 = to be careful\n조심하다 = to be careful"
+    },
+    {
+      "korean": "오랜만에 제 요리 실력을 발휘해 봤어요.",
+      "english": "It's been a while since I've showed off my cooking skills.",
+      "notes": "오랜만에 = first time in a long period of time\n발휘하다 = to demonstrate/show one's skills"
+    },
+    {
+      "korean": "요즘 같자기 요리 프로그램이 많아졌어요.",
+      "english": "There are more cooking shows now than before.",
+      "notes": "같자기 = all of a sudden, suddenly\n프로그램 = program, TV show\n-아이/어이/아이지다 = to become + adjective"
+    },
+    {
+      "korean": "유명한 요리사가 새 레스토랑을 오픈했어요.",
+      "english": "A famous chef has opened a new restaurant.",
+      "notes": "새 = new\n레스토랑 = restaurant\nA Korean word for a \"restaurant\" is \"식당,\" but when you use \"레스토랑\" instead of \"식당,\" it usually refers to a fancy or upscale restaurant that sells western-style cuisine, including Italian or French. Even if a restaurant is very fancy and expensive, if it's a Korean, Japanese, or Chinese restaurant, normally the word \"레스토랑\" is not used.\n오픈하다 = to open a shop; there's a new shop opened."
+    },
+    {
+      "korean": "해물 요리는 집에서 만들기가 조금 번거로워요.",
+      "english": "It's really a hassle to make seafood dishes at home.",
+      "notes": "해물 = seafood\n요리를 만들다 = to cook\n조금 = a little\n번거롭다 = to be hassling; to be inconvenient"
+    }
+  ]
+}

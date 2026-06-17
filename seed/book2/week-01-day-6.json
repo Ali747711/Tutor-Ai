@@ -1,0 +1,110 @@
+{
+  "week": 1,
+  "day": 6,
+  "order": 6,
+  "keyword": "노래",
+  "meaning": "song",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "노래방",
+      "english": "karaoke, singing room",
+      "notes": "노래방 = karaoke, singing room"
+    },
+    {
+      "korean": "사랑 노래",
+      "english": "love song",
+      "notes": "사랑 = love"
+    },
+    {
+      "korean": "노래 소리",
+      "english": "singing; song; sound of music",
+      "notes": "소리 = sound"
+    },
+    {
+      "korean": "신나는 노래",
+      "english": "exciting song; cheerful song",
+      "notes": "신나는 is the adjective form of 신나다."
+    },
+    {
+      "korean": "노래를 듣다",
+      "english": "to listen to a song",
+      "notes": ""
+    },
+    {
+      "korean": "노래를 부르다",
+      "english": "to sing a song",
+      "notes": "부르다 = to call (one's name); to sing"
+    },
+    {
+      "korean": "노래를 못하다",
+      "english": "to be not good at singing",
+      "notes": "노래를 하다 = to sing"
+    },
+    {
+      "korean": "노래를 흥얼거리다",
+      "english": "to hum",
+      "notes": "흥얼거리다 = to hum"
+    },
+    {
+      "korean": "노래방 갈래요?",
+      "english": "Do you want to go to karaoke?",
+      "notes": "-(으)ㄹ 래요? = Do you want to + V?"
+    },
+    {
+      "korean": "이 노래 제목 알아요?",
+      "english": "Do you know the title of this song?",
+      "notes": "제목 = title\n알다 = to know"
+    },
+    {
+      "korean": "이 노래 좋은 것 같아요.",
+      "english": "I think this song is good.",
+      "notes": "- 것 같다 = It seems/looks like + S + V"
+    },
+    {
+      "korean": "노래 소리 좀 키워 주세요.",
+      "english": "Please turn the music volume up.",
+      "notes": "키우다 = to raise\n소리를 키우다 = to turn up the volume"
+    },
+    {
+      "korean": "노래 부르는 거 좋아하세요?",
+      "english": "Do you like singing?",
+      "notes": ""
+    },
+    {
+      "korean": "신나는 노래 좀 추천해 주세요.",
+      "english": "Please recommend some cheerful songs.",
+      "notes": "추천하다 = to recommend"
+    },
+    {
+      "korean": "그 사람은 노래를 정말 잘해요.",
+      "english": "He sings very well.",
+      "notes": "정말 = really; very\n잘하다 = to be good at something"
+    },
+    {
+      "korean": "그 가수는 춤은 잘 추지만 노래는 잘 못해요.",
+      "english": "He dances really well, but can't sing well.",
+      "notes": "가수 = singer\n춤 = dance\n추다 = to dance"
+    },
+    {
+      "korean": "학교 가는 길에 버스에서 항상 노래를 들어요.",
+      "english": "I always listen to songs on the bus on my way to school.",
+      "notes": "길 = road, street; way\n-가는 길 = on one's way to + place\n버스 = bus"
+    },
+    {
+      "korean": "저는 노래를 정말 못하니까 노래 시키지 마세요.",
+      "english": "I really can't sing, so don't make me sing.",
+      "notes": "시키다 = to make someone + V"
+    },
+    {
+      "korean": "기분이 좋아서 저도 모르게 노래를 흥얼거렸어요.",
+      "english": "I felt so happy that I was humming without even noticing it.",
+      "notes": "기분 = feelings; mood\n모르게 = without knowing; without meaning to + V"
+    },
+    {
+      "korean": "저는 노래는 잘 못 부르지만 노래방에서 노래를 부르는 거는 좋아해요.",
+      "english": "I can't sing very well, but I do like singing at karaoke.",
+      "notes": ""
+    }
+  ]
+}

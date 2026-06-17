@@ -1,0 +1,110 @@
+{
+  "week": 8,
+  "day": 3,
+  "order": 52,
+  "keyword": "일어나다",
+  "meaning": "to wake up; to get up",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "벌떡 일어나다",
+      "english": "to stand up suddenly; to get up suddenly; to spring up (out of one's seat)",
+      "notes": "벌떡 is an adverb that describes how someone gets up or stands up suddenly and abruptly."
+    },
+    {
+      "korean": "일찍 일어나다",
+      "english": "to wake up early",
+      "notes": ""
+    },
+    {
+      "korean": "먼저 일어나다",
+      "english": "to leave early (before everyone else leaves)",
+      "notes": "먼저 = first; before + N"
+    },
+    {
+      "korean": "아침에 일어나다",
+      "english": "to wake up in the morning",
+      "notes": ""
+    },
+    {
+      "korean": "자리에서 일어나다",
+      "english": "to get up from one's seat",
+      "notes": "자리 = space, spot, seat, position; occasion"
+    },
+    {
+      "korean": "일어나세요.",
+      "english": "Please wake up.; Please get up.; Please stand up.",
+      "notes": "-(으)세요 = (polite) imperative"
+    },
+    {
+      "korean": "아직 안 일어났어요?",
+      "english": "Are you awake yet?",
+      "notes": ""
+    },
+    {
+      "korean": "자는 먼저 일어날게요.",
+      "english": "I'm leaving now (earlier than others).",
+      "notes": "-(으)ㄹ 것이다 = will; to be going to + V"
+    },
+    {
+      "korean": "왜 이렇게 일찍 일어났어요?",
+      "english": "Why did you wake up so early?",
+      "notes": "왜 = why; for what reason; how come"
+    },
+    {
+      "korean": "방금 일어나서 아직도 졸려요.",
+      "english": "I just woke up, so I am still sleepy.",
+      "notes": "방금 = just (now); a moment ago\n아직도 = still, (not) yet"
+    },
+    {
+      "korean": "오늘 아침에 몇 시에 일어났어요?",
+      "english": "What time did you wake up this morning?",
+      "notes": ""
+    },
+    {
+      "korean": "오늘은 평소보다 일찍 일어났어요.",
+      "english": "I woke up a bit earlier than usual today.",
+      "notes": ""
+    },
+    {
+      "korean": "내일 일찍 일어나야 하니까 일찍 자요.",
+      "english": "You have to wake up early tomorrow, so you should go to sleep early.",
+      "notes": "-이/이/어야 하다 = should; have to; must\n-(으)니까 = since, because"
+    },
+    {
+      "korean": "자는 아침에 일어나는 게 정말 힘들어요.",
+      "english": "It is really hard for me to wake up in the morning.",
+      "notes": "정말 = really; very\n힘들다 = to be difficult, hard, tough; to have a hard time; to be tiring; to be tired"
+    },
+    {
+      "korean": "자는 아침에 일어나자마자 운동을 하러 가요.",
+      "english": "I go exercise as soon as I wake up in the morning.",
+      "notes": "-자마자 = as soon as + S + V\n운동 = exercise; sports\n-(으)러 가다 = to go to + V"
+    },
+    {
+      "korean": "오늘 아침에는 일찍 일어나서 운동을 했어요.",
+      "english": "This morning, I woke up early and exercised.",
+      "notes": "-이/이/어서 = by + V-ing; to + V-ing"
+    },
+    {
+      "korean": "공연이 끝나고 관객들이 모두 일어나서 박수를 쳤어요.",
+      "english": "After the performance, the whole audience stood up and applauded.",
+      "notes": "공연 = performance, concert\n끝나다 = to end; to be over\n관객 = audience\n-들 is a suffix used to indicate plural.\n모두 = all; every; everyone\n박수를 치다 = to applaud, clap"
+    },
+    {
+      "korean": "바닥 청소를 해야 하니까 모두 의자에서 일어나 주세요.",
+      "english": "We have to clean the floor, so all (of you) please get up from your chairs.",
+      "notes": "바닥 = floor\n청소 = cleaning\n청소를 하다 = to clean\n의자 = chair\n-이/이/여 주세요 = (polite) Please do + something + for me"
+    },
+    {
+      "korean": "제가 지금 이름을 부르는 사람은 자리에서 일어나 주세요.",
+      "english": "The people whose names I call now, please get up from your seats.",
+      "notes": "제 = (polite) my; I\n지금 = now\n이름 = name\n이름을 부르다 = to call one's name"
+    },
+    {
+      "korean": "어제 술을 많이 마셨더니 아침에 일어나기가 정말 힘들었어요.",
+      "english": "It was really hard to get up in the morning because I drank a lot yesterday.",
+      "notes": "술 = alcohol\n마시다 = to drink\n-았/았더니 = since/because + I/we + V-ed"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "week": 12,
+  "day": 3,
+  "order": 80,
+  "keyword": "받다",
+  "meaning": "to receive",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "상을 받다",
+      "english": "to win an award; to receive a prize",
+      "notes": "주다 = to give"
+    },
+    {
+      "korean": "벌을 받다",
+      "english": "to be punished; to receive punishment",
+      "notes": "전화 = phone call; telephone"
+    },
+    {
+      "korean": "주고 받다",
+      "english": "to exchange; to give and take",
+      "notes": ""
+    },
+    {
+      "korean": "전화를 받다",
+      "english": "to answer the phone",
+      "notes": ""
+    },
+    {
+      "korean": "선물을 받다",
+      "english": "to receive a gift",
+      "notes": "월금 = salary, monthly paycheck"
+    },
+    {
+      "korean": "월금을 받다",
+      "english": "to get a salary",
+      "notes": ""
+    },
+    {
+      "korean": "이메일을 받다",
+      "english": "to receive an e-mail",
+      "notes": "이메일 = e-mail"
+    },
+    {
+      "korean": "제 문자 받았어요?",
+      "english": "Did you get my text message?",
+      "notes": "문지 = text message; letter, character"
+    },
+    {
+      "korean": "나쁜 일을 하면 벌 받아요.",
+      "english": "If you do bad things, you get punished.",
+      "notes": "나쁘다 = to be bad\n나쁜 is the adjective form of 나쁘다.\n일 = work; task; thing; stuff; occasion\n나쁜 일을 하다 = to do something bad\n벌 받다 = to be punished"
+    },
+    {
+      "korean": "제가 보낸 이메일 받았어요?",
+      "english": "Did you receive the e-mail I sent you?",
+      "notes": "보내다 = to send; to spend (time)"
+    },
+    {
+      "korean": "오늘 학교에서 상 받았어요.",
+      "english": "I got a prize at school today.",
+      "notes": "오늘 = today\n학교 = school"
+    },
+    {
+      "korean": "졸업 선물로 노트북을 받았어요.",
+      "english": "I got a laptop computer for my graduation present.",
+      "notes": "졸업 = graduation\n노트북 = laptop computer"
+    },
+    {
+      "korean": "항상 받기만 해서 너무 미안해요.",
+      "english": "I feel bad that I always just receive (things/help) from you.",
+      "notes": "항상 = always, all the time\n-기만 하다 = just + V; to only + V"
+    },
+    {
+      "korean": "아까 전화 했는데 왜 안 받았어요?",
+      "english": "Why didn't you answer the phone when I called you earlier?",
+      "notes": "아까 = before, earlier\n전화하다 = to call, make a phone call\n왜 = why; for what reason; how come"
+    },
+    {
+      "korean": "이번 생일에 선물을 많이 받았어요.",
+      "english": "I got a lot of presents for my birthday.",
+      "notes": "생일 = birthday"
+    },
+    {
+      "korean": "이번 생일에 무슨 선물 받고 싶어요?",
+      "english": "What gift do you want for your birthday this year?",
+      "notes": "-고 싶다 = to want to + V"
+    },
+    {
+      "korean": "저는 하루에 수십 통의 이메일을 받아요.",
+      "english": "I get dozens of e-mails a day.",
+      "notes": "하루 = one day\n수십 = dozens of\n통 is a counter for phone calls/letters/e-mails/bottles."
+    },
+    {
+      "korean": "오늘 월금 받았어요, 제가 맛있는 거 사줄게요.",
+      "english": "I got paid today. I'll treat you to something delicious.",
+      "notes": "맛있다 = to be delicious\n맛있는 is the adjective form of 맛있다.\n맛있는 것 = something delicious, delicious food\n사 주다 = to buy something for someone"
+    },
+    {
+      "korean": "수업 시간에 친구와 문자를 주고받다가 선생님께 혼났어요.",
+      "english": "I was scolded by my teacher for texting my friend during class.",
+      "notes": "수업 = class\n주고받다 = to give and receive\n-다가 = as a result of + V-ing\n선생님 = teacher\n혼나다 = to get scolded"
+    },
+    {
+      "korean": "외국에 있는 친구에게 1주일 전에 편지를 보냈는데 오늘 받았대요.",
+      "english": "A week ago I sent a letter to my friend who is staying overseas, and she said she got it today.",
+      "notes": "외국 = foreign country\n1주일 = one week\n전 = (polite) I (subject)\n편지 = letter"
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "chapter": 38,
+  "title": "Subway",
+  "category": "Transportation",
+  "shortDialogue": [
+    {
+      "speaker": "혁",
+      "korean": "지하철 노선도 있어?",
+      "romanization": "",
+      "english": "Do you have a subway map?"
+    },
+    {
+      "speaker": "이영",
+      "korean": "없어. 나는 거의 버스 타.",
+      "romanization": "",
+      "english": "No. I almost always take the bus."
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "이영",
+      "korean": "집으로 가?",
+      "romanization": "",
+      "english": "Are you heading home?"
+    },
+    {
+      "speaker": "혁",
+      "korean": "응. 집으로 가. 너는?",
+      "romanization": "",
+      "english": "Yeah, I'm going home. You?"
+    },
+    {
+      "speaker": "이영",
+      "korean": "나도. 너네 집 어디지?",
+      "romanization": "",
+      "english": "Me, too. Where do you live?"
+    },
+    {
+      "speaker": "혁",
+      "korean": "신촌 역. 너는 강남 역이지?",
+      "romanization": "",
+      "english": "Shinchon Station. You live near Gangnam Station, right?"
+    },
+    {
+      "speaker": "이영",
+      "korean": "응. 우리 완전히 반대편이야.",
+      "romanization": "",
+      "english": "Yeah. We live on opposite sides of the city."
+    },
+    {
+      "speaker": "혁",
+      "korean": "그래도 같은 2호선이야.",
+      "romanization": "",
+      "english": "But we're still on the same subway line, number 2."
+    },
+    {
+      "speaker": "이영",
+      "korean": "나 그럼 갈아타야 돼?",
+      "romanization": "",
+      "english": "Then, do I have to transfer?"
+    },
+    {
+      "speaker": "혁",
+      "korean": "시청 역까지 같이 가. 그리고 2호선으로 갈아타.",
+      "romanization": "",
+      "english": "Let's go to City Hall Station together. And [we'll] transfer to Line 2."
+    },
+    {
+      "speaker": "이영",
+      "korean": "그룽구나. 나는 아직도 헷갈려.",
+      "romanization": "",
+      "english": "Oh, I see. I'm still confused."
+    },
+    {
+      "speaker": "혁",
+      "korean": "진짜? 지하철 노선도 있어?",
+      "romanization": "",
+      "english": "Really? Do you have a subway map?"
+    },
+    {
+      "speaker": "이영",
+      "korean": "없어. 나는 거의 버스 타.",
+      "romanization": "",
+      "english": "No. I almost always take the bus."
+    },
+    {
+      "speaker": "혁",
+      "korean": "그래? 지하철 노선도 앱이 있어. 그거 깔아.",
+      "romanization": "",
+      "english": "Really? There is an app for the subway map. You can install that."
+    },
+    {
+      "speaker": "이영",
+      "korean": "그래? 알았어. 고마워.",
+      "romanization": "",
+      "english": "Really? Ok. Thanks."
+    }
+  ],
+  "culturalTip": "It is quite convenient to get around Seoul by subway. There are 21 different subway lines within and around Seoul, so more people living in satellite cities can commute to Seoul very easily. About 2 million people take Line 2, one of the busiest lines, per day.",
+  "koreanReview": "- Short Dialogue\n혁: 지하철 노선도 있어?\n이영: 없어. 나는 거의 버스 타.\n\n- Long Dialogue\n이영: 집으로 가?\n혁: 응. 집으로 가. 너는?\n이영: 나도. 너네 집 어디지?\n혁: 신촌 역. 너는 강남 역이지?\n이영: 응. 우리 완전히 반대편이야.\n혁: 그래도 같은 2호선이야.\n이영: 나 그럼 갈아타야 돼?\n혁: 시청 역까지 같이 가. 그리고 2호선으로 갈아타.\n이영: 그룽구나. 나는 아직도 헷갈려.\n혁: 진짜? 지하철 노선도 있어?\n이영: 없어. 나는 거의 버스 타.\n혁: 그래? 지하철 노선도 앱이 있어. 그거 깔아.\n이영: 그래? 알았어. 고마워.",
+  "coreVocab": [
+    {
+      "korean": "지하철",
+      "romanization": "ji-ha-cheol",
+      "meaning": "subway"
+    },
+    {
+      "korean": "노선도",
+      "romanization": "no-seon-do",
+      "meaning": "map"
+    },
+    {
+      "korean": "있다",
+      "romanization": "it-tta",
+      "meaning": "to exist, to have"
+    },
+    {
+      "korean": "없다",
+      "romanization": "eop-tta",
+      "meaning": "to not exist, to not have, to not be there"
+    },
+    {
+      "korean": "나",
+      "romanization": "na",
+      "meaning": "I (casual)"
+    },
+    {
+      "korean": "거의",
+      "romanization": "geo-ui",
+      "meaning": "almost"
+    },
+    {
+      "korean": "버스",
+      "romanization": "beo-sseu",
+      "meaning": "bus"
+    },
+    {
+      "korean": "타다",
+      "romanization": "ta-da",
+      "meaning": "to ride, to take"
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "집",
+      "romanization": "jip",
+      "meaning": "house, home"
+    },
+    {
+      "korean": "가다",
+      "romanization": "ga-da",
+      "meaning": "to go"
+    },
+    {
+      "korean": "어디",
+      "romanization": "leo-di",
+      "meaning": "where"
+    },
+    {
+      "korean": "완전히",
+      "romanization": "wan-jeon-hi",
+      "meaning": "completely"
+    },
+    {
+      "korean": "반대편",
+      "romanization": "ban-dae-pyeon",
+      "meaning": "opposite side"
+    },
+    {
+      "korean": "그래도",
+      "romanization": "geu-rae-do",
+      "meaning": "but, even so"
+    },
+    {
+      "korean": "같다",
+      "romanization": "gat-tta",
+      "meaning": "to be the same"
+    },
+    {
+      "korean": "2호선",
+      "romanization": "i-ho-seon",
+      "meaning": "Subway Line Number 2"
+    },
+    {
+      "korean": "갈아타다",
+      "romanization": "ga-ra-ta-da",
+      "meaning": "to transfer"
+    },
+    {
+      "korean": "같이",
+      "romanization": "ga-chi",
+      "meaning": "together"
+    },
+    {
+      "korean": "그리고",
+      "romanization": "geu-ri-go",
+      "meaning": "and"
+    },
+    {
+      "korean": "헷갈리다",
+      "romanization": "het-kkal-li-da",
+      "meaning": "to be confused"
+    },
+    {
+      "korean": "아직도",
+      "romanization": "a-jik-tto",
+      "meaning": "still"
+    },
+    {
+      "korean": "있다",
+      "romanization": "it-tta",
+      "meaning": "to exist, to have"
+    },
+    {
+      "korean": "없다",
+      "romanization": "eop-tta",
+      "meaning": "to not exist, to not have, to not be there"
+    },
+    {
+      "korean": "거의",
+      "romanization": "geo-ui",
+      "meaning": "almost"
+    },
+    {
+      "korean": "버스",
+      "romanization": "beo-sseu",
+      "meaning": "bus"
+    },
+    {
+      "korean": "앱",
+      "romanization": "aep",
+      "meaning": "smartphone application, app"
+    },
+    {
+      "korean": "깔다",
+      "romanization": "kkal-da",
+      "meaning": "to install"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "Preposition: \"Toward\"",
+      "pattern": "NOUN + -(으)로 = toward NOUN",
+      "meaning": "toward NOUN",
+      "explanation": "The particle -(으)로 indicates direction, meaning \"toward\" or \"to.\"",
+      "examples": [
+        {
+          "korean": "집 + (으)로 → 집으로",
+          "romanization": "jip + (eu)ro → jib-eu-ro",
+          "english": "toward home"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "반대편 + -(으)로 ······>",
+          "answer": "반대편으로",
+          "english": "toward the opposite side"
+        },
+        {
+          "prompt": "버스 정류장 + -(으)로 ······>",
+          "answer": "버스 정류장으로",
+          "english": "toward the bus stop"
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Questioning an Obligation",
+      "pattern": "VERB + -아/어/여야 돼(요)? = Do/Does (SUBJECT) have to VERB?",
+      "meaning": "Do/Does (SUBJECT) have to VERB?",
+      "explanation": "This pattern questions whether someone has an obligation to perform an action.",
+      "examples": [
+        {
+          "korean": "갈아타다 + -아/어/여야 돼(요)? → 갈아타야 돼(요)?",
+          "romanization": "ga-ra-ta-da + -a/eo/yeo-ya dwae(yo)? → ga-ra-ta-ya dwae(yo)?",
+          "english": "Do/Does (they) have to transfer?"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "타다 + -아/어/여야 돼(요)?",
+          "answer": "타야 돼(요)?",
+          "english": "Do/Does (they) have to take/ride (it)?"
+        },
+        {
+          "prompt": "깔다 + -아/어/여야 돼(요)?",
+          "answer": "깔아야 돼(요)?",
+          "english": "Do/Does (they) have to install (it)?"
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "When a syllable ends with ㅡ and is followed by a syllable that begins with a vowel, ㅡ becomes part of the following syllable rather than being pronounced distinctly as two different syllables.",
+      "examples": [
+        {
+          "korean": "같은",
+          "pronounced": "[가는]",
+          "romanization": "ga-neun"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "붙은",
+          "answer": "부는",
+          "gloss": ""
+        },
+        {
+          "prompt": "밝을",
+          "answer": "바를",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "When a syllable ends with ㄱ and is followed by a syllable which begins with ㄷ, the ㄷ is pronounced as ㄸ.",
+      "examples": [
+        {
+          "korean": "아직도",
+          "pronounced": "[아직또]",
+          "romanization": "a-jik-tto"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "국도 (national highway)",
+          "answer": "국또",
+          "gloss": "(national highway)"
+        },
+        {
+          "prompt": "각도 (angle)",
+          "answer": "각또",
+          "gloss": "(angle)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,362 @@
+{
+  "chapter": 37,
+  "title": "Bus",
+  "category": "Transportation",
+  "shortDialogue": [
+    {
+      "speaker": "지용",
+      "korean": "잘 지냈어? 요즘 뭐 하고 지내?",
+      "romanization": "",
+      "english": "How are you doing? What are you up to these days?"
+    },
+    {
+      "speaker": "수현",
+      "korean": "나 아직 졸업 못 했어.",
+      "romanization": "",
+      "english": "I still can't graduate."
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "지용",
+      "korean": "어, 수현아! 오랜만이다!",
+      "romanization": "",
+      "english": "Oh, Su-hyeon. It's been a while."
+    },
+    {
+      "speaker": "수현",
+      "korean": "어? 지용아. 진짜 오랜만이다!",
+      "romanization": "",
+      "english": "Oh? Ji-yong. It's been a really long time!"
+    },
+    {
+      "speaker": "지용",
+      "korean": "잘 지냈어? 요즘 뭐 하고 지내?",
+      "romanization": "",
+      "english": "How are you doing? What are you up to these days?"
+    },
+    {
+      "speaker": "수현",
+      "korean": "나 아직 졸업 못 했어. 지용아, 미안한데 나 버스 왔어.",
+      "romanization": "",
+      "english": "I still can't graduate. Ji-yong, I'm sorry, but my bus is coming now."
+    },
+    {
+      "speaker": "지용",
+      "korean": "너 몇 번 타?",
+      "romanization": "",
+      "english": "What number bus do you take?"
+    },
+    {
+      "speaker": "수현",
+      "korean": "6716번.",
+      "romanization": "",
+      "english": "Number 6716."
+    },
+    {
+      "speaker": "지용",
+      "korean": "나도 그거 타. 잘했다. 같이 타자.",
+      "romanization": "",
+      "english": "I'm taking that, too. That's great. Let's take it together."
+    },
+    {
+      "speaker": "수현",
+      "korean": "그래. 저기 앉자.",
+      "romanization": "",
+      "english": "Ok. Let's sit there."
+    },
+    {
+      "speaker": "지용",
+      "korean": "너 이 버스 타고 다녀?",
+      "romanization": "",
+      "english": "Do you usually take this bus?"
+    },
+    {
+      "speaker": "수현",
+      "korean": "응. 너는 어디 가?",
+      "romanization": "",
+      "english": "Yeah. Where are you going?"
+    },
+    {
+      "speaker": "지용",
+      "korean": "나는 홍대에서 친구 만나.",
+      "romanization": "",
+      "english": "I am meeting a friend in Hongdae."
+    },
+    {
+      "speaker": "수현",
+      "korean": "아, 이 버스 홍대 가지.",
+      "romanization": "",
+      "english": "Oh, that's right. This bus goes to Hongdae."
+    },
+    {
+      "speaker": "지용",
+      "korean": "응. 나이 버스 자주 타. 자주 봐자.",
+      "romanization": "",
+      "english": "Yeah. I take this bus often. I'll see you often, then."
+    }
+  ],
+  "culturalTip": "When you take public transportation in Korea and use a transportation card, you can get a discount if you transfer between buses or between a bus and the subway within 30 minutes after you disembark. At night, you can get a discount if you transfer within one hour. Even if you have to transfer many times during your journey, it is not expensive to do so.",
+  "koreanReview": "- Short Dialogue\n지용: 잘 지냈어? 요즘 뭐 하고 지내?\n수현: 나 아직 졸업 못 했어.\n\n- Long Dialogue\n지용: 어, 수현아! 오랜만이다!\n수현: 어? 지용아. 진짜 오랜만이다!\n지용: 잘 지냈어? 요즘 뭐 하고 지내?\n수현: 나 아직 졸업 못 했어. 지용아, 미안한데 나 버스 왔어.\n지용: 너 몇 번 타?\n수현: 6716번.\n지용: 나도 그거 타. 잘했다. 같이 타자.\n수현: 그래. 저기 앉자.\n지용: 너 이 버스 타고 다녀?\n수현: 응. 너는 어디 가?\n지용: 나는 홍대에서 친구 만나.\n수현: 아, 이 버스 홍대 가지.\n지용: 응. 나이 버스 자주 타. 자주 봐자.",
+  "coreVocab": [
+    {
+      "korean": "잘",
+      "romanization": "jal",
+      "meaning": "well"
+    },
+    {
+      "korean": "지내다",
+      "romanization": "ji-nae-da",
+      "meaning": "to live, to stay, to spend (time)"
+    },
+    {
+      "korean": "요즘",
+      "romanization": "yo-jeum",
+      "meaning": "these days"
+    },
+    {
+      "korean": "뭐",
+      "romanization": "mwo",
+      "meaning": "what"
+    },
+    {
+      "korean": "하다",
+      "romanization": "ha-da",
+      "meaning": "to do"
+    },
+    {
+      "korean": "나",
+      "romanization": "na",
+      "meaning": "I (casual)"
+    },
+    {
+      "korean": "아직",
+      "romanization": "a-jik",
+      "meaning": "yet"
+    },
+    {
+      "korean": "졸업",
+      "romanization": "jjo-reop",
+      "meaning": "graduation"
+    },
+    {
+      "korean": "못 VERB + -았/었/였어.",
+      "romanization": "",
+      "meaning": "I couldn't VERB."
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "오랜만이다",
+      "romanization": "o-raen-ma-ni-da",
+      "meaning": "to have been a while"
+    },
+    {
+      "korean": "진짜",
+      "romanization": "jin-jja",
+      "meaning": "really"
+    },
+    {
+      "korean": "잘 지내다",
+      "romanization": "jal ji-nae-da",
+      "meaning": "to be well"
+    },
+    {
+      "korean": "요즘",
+      "romanization": "yo-jeum",
+      "meaning": "these days"
+    },
+    {
+      "korean": "뭐",
+      "romanization": "mwo",
+      "meaning": "what"
+    },
+    {
+      "korean": "하다",
+      "romanization": "ha-da",
+      "meaning": "to do"
+    },
+    {
+      "korean": "아직",
+      "romanization": "a-jik",
+      "meaning": "yet"
+    },
+    {
+      "korean": "졸업",
+      "romanization": "jjo-reop",
+      "meaning": "graduation"
+    },
+    {
+      "korean": "미안하다",
+      "romanization": "mi-a-na-da",
+      "meaning": "to be sorry"
+    },
+    {
+      "korean": "버스",
+      "romanization": "beo-sseu",
+      "meaning": "bus"
+    },
+    {
+      "korean": "오다",
+      "romanization": "o-da",
+      "meaning": "to come"
+    },
+    {
+      "korean": "몇 번",
+      "romanization": "myeot beon",
+      "meaning": "what number"
+    },
+    {
+      "korean": "타다",
+      "romanization": "ta-da",
+      "meaning": "to ride, to take"
+    },
+    {
+      "korean": "같이",
+      "romanization": "ga-chi",
+      "meaning": "together"
+    },
+    {
+      "korean": "저기",
+      "romanization": "jeo-gi",
+      "meaning": "there"
+    },
+    {
+      "korean": "앉다",
+      "romanization": "an-tta",
+      "meaning": "to sit"
+    },
+    {
+      "korean": "어디",
+      "romanization": "eo-di",
+      "meaning": "where"
+    },
+    {
+      "korean": "가다",
+      "romanization": "ga-da",
+      "meaning": "to go"
+    },
+    {
+      "korean": "친구",
+      "romanization": "chin-gu",
+      "meaning": "friend"
+    },
+    {
+      "korean": "만나다",
+      "romanization": "man-na-da",
+      "meaning": "to meet"
+    },
+    {
+      "korean": "자주",
+      "romanization": "ja-ju",
+      "meaning": "often"
+    },
+    {
+      "korean": "보다",
+      "romanization": "bo-da",
+      "meaning": "to see, to watch"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "Still + Present Perfect Continuous in the Negative",
+      "pattern": "아직 + NOUN + 못 했어(요)",
+      "meaning": "I still have not been able to / cannot do NOUN.",
+      "explanation": "Ex) 아직 + 졸업 + 못 했어(요) → 아직 졸업 못 했어(요). = I still have not been able to graduate.",
+      "examples": [
+        {
+          "korean": "아직 졸업 못 했어(요)",
+          "romanization": "",
+          "english": "I still have not been able to graduate."
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "아직 + 결혼 + 못 했어(요)",
+          "answer": "아직 결혼 못 했어(요)",
+          "english": "I still can't get married."
+        },
+        {
+          "prompt": "아직 + 숙제 + 못 했어(요)",
+          "answer": "아직 숙제 못 했어(요)",
+          "english": "I still have not been able to do homework."
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Location/Place",
+      "pattern": "NOUN + -에서 = at/in NOUN",
+      "meaning": "at/in NOUN",
+      "explanation": "Ex) 홍대 + -에서 → 홍대에서 = in Hongdae",
+      "examples": [
+        {
+          "korean": "홍대에서",
+          "romanization": "",
+          "english": "in Hongdae"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "학교 + -에서 ······>",
+          "answer": "학교에서",
+          "english": "at school"
+        },
+        {
+          "prompt": "지하철역 + -에서 ······>",
+          "answer": "지하철역에서",
+          "english": "at the subway station"
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "When a syllable ends with 찻 (which sounds the same as 닫 when in the 받침 position) and is followed by a syllable that begins with 브, the 브 is pronounced as 뻐.",
+      "examples": [
+        {
+          "korean": "못 번",
+          "pronounced": "[몬 뻔]",
+          "romanization": "[mon bbeon]"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "꽃병 (vase)",
+          "answer": "[꼳빵]",
+          "gloss": "(vase)"
+        },
+        {
+          "prompt": "빛바래다 (to be faded)",
+          "answer": "[빕바래다]",
+          "gloss": "(to be faded)"
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "When a syllable ends with 쌍 (which sounds the same as 닫 when in the 받침 position) and is followed by a syllable that begins with 드, the 드 is pronounced as 또.",
+      "examples": [
+        {
+          "korean": "잘했다",
+          "pronounced": "[잘웬다]",
+          "romanization": "[jal-wen-da]"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "앖다",
+          "answer": "[인따]",
+          "gloss": ""
+        },
+        {
+          "prompt": "갖다",
+          "answer": "[같따]",
+          "gloss": ""
+        }
+      ]
+    }
+  ]
+}

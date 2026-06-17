@@ -1,0 +1,110 @@
+{
+  "week": 1,
+  "day": 3,
+  "order": 3,
+  "keyword": "듣다",
+  "meaning": "to hear; to listen",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "음악을 듣다",
+      "english": "to listen to music",
+      "notes": "음악 = music"
+    },
+    {
+      "korean": "조언을 듣다",
+      "english": "to listen to advice",
+      "notes": "조언 = advice"
+    },
+    {
+      "korean": "이야기를 듣다",
+      "english": "to listen to a story",
+      "notes": "이야기 = story; what one says"
+    },
+    {
+      "korean": "지금 뭐 듣고 있어요?",
+      "english": "What are you listening to now?",
+      "notes": "뭐 = what; something\n뭐 is the contracted form of 무엇.\n-고 있다 = to be + V-ing"
+    },
+    {
+      "korean": "제 말 좀 들어 보세요.",
+      "english": "Listen to my story.\nListen to me.",
+      "notes": "제 = (polite) my; I\n-이/어/여 보다 = to try + V-ing"
+    },
+    {
+      "korean": "음악 듣는 거 좋아해요?",
+      "english": "Do you like listening to music?",
+      "notes": "좋아하다 = to like"
+    },
+    {
+      "korean": "오디오북을 듣고 있어요.",
+      "english": "I'm listening to an audiobook.",
+      "notes": "오디오북 = audiobook"
+    },
+    {
+      "korean": "부모님 말씀 잘 들을게요.",
+      "english": "I will listen to (and be obedient to) my parents.",
+      "notes": "부모님 = parents\n말씀 = (honorific) word; advice; what one says\n잘 = well; carefully\n말(씀) 듣다 = to obey, do what someone tells you to do"
+    },
+    {
+      "korean": "신나는 음악이 듣고 싶어요.",
+      "english": "I want to listen to some exciting music.",
+      "notes": "신나다 = to be exciting; to be excited\n-고 싶다 = to want to + V"
+    },
+    {
+      "korean": "이 사람 노래는 못 듣겠어요.",
+      "english": "I can't stand this person's songs.",
+      "notes": "노래 = song"
+    },
+    {
+      "korean": "제 이야기 좀 들어 주실래요?",
+      "english": "Can you listen to my story?",
+      "notes": "-이/어/여 주다 = to do something for someone"
+    },
+    {
+      "korean": "재미있는 이야기를 들었어요.",
+      "english": "I heard a funny story.",
+      "notes": "재미있다 = to be fun; to be funny; to be interesting"
+    },
+    {
+      "korean": "자기 전에는 조용한 음악을 들어요.",
+      "english": "I listen to quiet music before I go to sleep.",
+      "notes": "자다 = to sleep\n-기 전에 = before + V-ing\n조용하다 = to be quiet"
+    },
+    {
+      "korean": "그 사람 이름은 들어 본 적이 없어요.",
+      "english": "I have never heard of his name.",
+      "notes": "이름 = name\n-이/어/여 본 적이 없다 = to have not + p.p."
+    },
+    {
+      "korean": "친구의 조언을 듣고 마음을 바꿨어요.",
+      "english": "After I listened to my friend's advice, I've changed my mind.",
+      "notes": "바꾸다 = to change"
+    },
+    {
+      "korean": "그 사람 말을 듣고 있으니 화가 났어요.",
+      "english": "I got angry as I listened to his story.",
+      "notes": "-고 있다 = as + S + be + V-ing + as a result\n화 = anger\n화가 나다 = to get angry"
+    },
+    {
+      "korean": "이제 와서 그런 말은 듣고 싶지 않아요.",
+      "english": "I don't want to hear things like that right now.",
+      "notes": "이제 와서 = now; now that things have happened like this\n그런 = (something) like that; such + noun"
+    },
+    {
+      "korean": "그때 엄마 말을 듣지 않은 걸 후회해요.",
+      "english": "I regret that I didn't listen to my mom back then.",
+      "notes": "그때 = at that time; back then\n엄마 = mom\n후회하다 = to regret"
+    },
+    {
+      "korean": "다른 사람의 의견을 듣는 것도 중요해요.",
+      "english": "It is important to listen to other people's opinions.",
+      "notes": "다르다 = to be different\n다른 = other; another\n의견 = opinion\n중요하다 = to be important"
+    },
+    {
+      "korean": "저 사람은 항상 듣기 좋은 말만 해서 신뢰가 안 가요.",
+      "english": "He is always just saying flattering things, so I can't trust him.",
+      "notes": "저 = that\n항상 = always; all the time\n듣다 = to hear; to listen\n-기 좋다 = to be easy to + V; to be nice to + V\n듣기 좋은 말 = flattery\n-만 = only; just\n신뢰 = trust\n신뢰가 가다 = to be trustworthy"
+    }
+  ]
+}

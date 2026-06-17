@@ -1,0 +1,341 @@
+{
+  "chapter": 8,
+  "title": "Waking Up",
+  "category": "Family",
+  "shortDialogue": [
+    {
+      "speaker": "철수",
+      "korean": "엄마! 저 내일 여섯 시에 깨워 주세요.",
+      "romanization": "",
+      "english": "Mom! Please wake me up at 6 o'clock tomorrow."
+    },
+    {
+      "speaker": "엄마",
+      "korean": "아침 여섯 시?",
+      "romanization": "",
+      "english": "6 o'clock in the morning?"
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "철수",
+      "korean": "엄마! 저 내일 여섯 시에 깨워 주세요.",
+      "romanization": "",
+      "english": "Mom! Please wake me up at 6 o'clock tomorrow."
+    },
+    {
+      "speaker": "엄마",
+      "korean": "아침 여섯 시?",
+      "romanization": "",
+      "english": "6 o'clock in the morning?"
+    },
+    {
+      "speaker": "철수",
+      "korean": "네. 아침 여섯 시에 일어나야 돼요.",
+      "romanization": "",
+      "english": "Yes. I need to wake up at 6 o'clock in the morning."
+    },
+    {
+      "speaker": "엄마",
+      "korean": "왜 그렇게 일찍?",
+      "romanization": "",
+      "english": "Why so early?"
+    },
+    {
+      "speaker": "철수",
+      "korean": "내일 아침에 등산 갈 거예요.",
+      "romanization": "",
+      "english": "I will go hiking up the mountain tomorrow morning."
+    },
+    {
+      "speaker": "엄마",
+      "korean": "내일 너무 추워서 힘들 거야.",
+      "romanization": "",
+      "english": "It will be difficult because it will be very cold tomorrow."
+    },
+    {
+      "speaker": "철수",
+      "korean": "괜찮아요. 할 수 있어요.",
+      "romanization": "",
+      "english": "It's ok. I can do it."
+    },
+    {
+      "speaker": "엄마",
+      "korean": "누구하고 가?",
+      "romanization": "",
+      "english": "Who are you going with?"
+    },
+    {
+      "speaker": "철수",
+      "korean": "친구들 세 명이랑 같이 갈 거예요.",
+      "romanization": "",
+      "english": "I will go with three friends."
+    },
+    {
+      "speaker": "엄마",
+      "korean": "나도 같이 가자.",
+      "romanization": "",
+      "english": "Let me go with you."
+    },
+    {
+      "speaker": "철수",
+      "korean": "안 돼요. 엄마는 힘들 거예요.",
+      "romanization": "",
+      "english": "No. It will be difficult for you."
+    },
+    {
+      "speaker": "엄마",
+      "korean": "나도 할 수 있어.",
+      "romanization": "",
+      "english": "I can do it, too."
+    }
+  ],
+  "culturalTip": "Since mountains cover almost 70 percent of Korea, many people enjoy hiking as a hobby, especially healthy middle-aged people who have some spare time. Hiking is not as popular with people in their 20-30s, but some bosses like to take their employees on a hike. If you work in Korea and your boss tells you that you are going hiking, Korean work culture makes it difficult to say \"no\" to your boss, so you just have to join the outing.",
+  "koreanReview": "- Short Dialogue\n철수: 엄마! 저 내일 여섯 시에 깨워 주세요.\n엄마: 아침 여섯 시?\n\n- Long Dialogue\n철수: 엄마! 저 내일 여섯 시에 깨워 주세요.\n엄마: 아침 여섯 시?\n철수: 네. 아침 여섯 시에 일어나야 돼요.\n엄마: 왜 그렇게 일찍?\n철수: 내일 아침에 등산 갈 거예요.\n엄마: 내일 너무 추워서 힘들 거야.\n철수: 괜찮아요. 할 수 있어요.\n엄마: 누구하고 가?\n철수: 친구들 세 명이랑 같이 갈 거예요.\n엄마: 나도 같이 가자.\n철수: 안 돼요. 엄마는 힘들 거예요.\n엄마: 나도 할 수 있어.",
+  "coreVocab": [
+    {
+      "korean": "엄마",
+      "romanization": "eom-ma",
+      "meaning": "mom"
+    },
+    {
+      "korean": "저",
+      "romanization": "jeo",
+      "meaning": "I, me"
+    },
+    {
+      "korean": "내일",
+      "romanization": "nae-il",
+      "meaning": "tomorrow"
+    },
+    {
+      "korean": "여섯 시",
+      "romanization": "yeo-seot si",
+      "meaning": "6 o'clock"
+    },
+    {
+      "korean": "-에",
+      "romanization": "-e",
+      "meaning": "at"
+    },
+    {
+      "korean": "깨우다",
+      "romanization": "kkae-u-da",
+      "meaning": "to wake (someone) up"
+    },
+    {
+      "korean": "VERB + -아/어/여 주세요.",
+      "romanization": "-a/eo/yeo ju-se-yo.",
+      "meaning": "Please VERB (me)."
+    },
+    {
+      "korean": "아침",
+      "romanization": "a-chim",
+      "meaning": "morning"
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "엄마",
+      "romanization": "eom-ma",
+      "meaning": "mom"
+    },
+    {
+      "korean": "저",
+      "romanization": "jeo",
+      "meaning": "I, me"
+    },
+    {
+      "korean": "내일",
+      "romanization": "nae-il",
+      "meaning": "tomorrow"
+    },
+    {
+      "korean": "여섯 시",
+      "romanization": "yeo-seot si",
+      "meaning": "6 o'clock"
+    },
+    {
+      "korean": "깨워 주다",
+      "romanization": "kkae-wo ju-da",
+      "meaning": "to wake someone up"
+    },
+    {
+      "korean": "아침",
+      "romanization": "a-chim",
+      "meaning": "morning"
+    },
+    {
+      "korean": "일어나다",
+      "romanization": "i-reo-na-da",
+      "meaning": "to wake up"
+    },
+    {
+      "korean": "왜",
+      "romanization": "wae",
+      "meaning": "why"
+    },
+    {
+      "korean": "그렇게",
+      "romanization": "geu-reo-ke",
+      "meaning": "so, that"
+    },
+    {
+      "korean": "일찍",
+      "romanization": "il-jjik",
+      "meaning": "early"
+    },
+    {
+      "korean": "등산",
+      "romanization": "deung-san",
+      "meaning": "hiking, climbing"
+    },
+    {
+      "korean": "가다",
+      "romanization": "ga-da",
+      "meaning": "to go"
+    },
+    {
+      "korean": "너무",
+      "romanization": "neo-mu",
+      "meaning": "really, so, too much"
+    },
+    {
+      "korean": "춥다",
+      "romanization": "chup-tta",
+      "meaning": "to be cold"
+    },
+    {
+      "korean": "힘들다",
+      "romanization": "him-deul-da",
+      "meaning": "to be tough, to be difficult, to be hard"
+    },
+    {
+      "korean": "괜찮다",
+      "romanization": "gwaen-chan-ta",
+      "meaning": "to be ok, to be alright"
+    },
+    {
+      "korean": "누구",
+      "romanization": "nu-gu",
+      "meaning": "who"
+    },
+    {
+      "korean": "친구들",
+      "romanization": "chin-gu-deul",
+      "meaning": "friends"
+    },
+    {
+      "korean": "세 명",
+      "romanization": "se myeong",
+      "meaning": "three people"
+    },
+    {
+      "korean": "같이",
+      "romanization": "ga-chi",
+      "meaning": "together"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "Ability",
+      "pattern": "VERB + -(으)ㄹ 수 있어요. = I can VERB.",
+      "meaning": "I can VERB.",
+      "explanation": "",
+      "examples": [
+        {
+          "korean": "하다 + -(으)ㄹ 수 있어요. → 할 수 있어요. = I can do (it).",
+          "romanization": "",
+          "english": "I can do (it)."
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "깨워 주다 + -(으)ㄹ 수 있어요",
+          "answer": "깨워 줄 수 있어요.",
+          "english": "I can wake (someone) up."
+        },
+        {
+          "prompt": "가다 + -(으)ㄹ 수 있어요",
+          "answer": "갈 수 있어요.",
+          "english": "I can go."
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Prepositions: \"with\"",
+      "pattern": "NOUN + -하고 = with NOUN",
+      "meaning": "with NOUN",
+      "explanation": "",
+      "examples": [
+        {
+          "korean": "누구 + -하고 → 누구하고 = with whom",
+          "romanization": "",
+          "english": "with whom"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "친구 + -하고",
+          "answer": "친구하고",
+          "english": "with my friend"
+        },
+        {
+          "prompt": "아빠 + -하고",
+          "answer": "아빠하고",
+          "english": "with my dad"
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "When ㅅ is used as 받침, or a final consonant, it is pronounced like ㄷ.",
+      "examples": [
+        {
+          "korean": "여섯",
+          "pronounced": "여섣",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "버섯",
+          "answer": "버섣",
+          "gloss": "(mushroom)"
+        },
+        {
+          "prompt": "맛",
+          "answer": "맏",
+          "gloss": "(taste)"
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "When a syllable ends with -(으)ㄹ and is followed by a syllable that begins with ㅅ, ㅅ is pronounced like ㅆ.",
+      "examples": [
+        {
+          "korean": "할 수",
+          "pronounced": "할 쑤",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "만날 수",
+          "answer": "만날 쑤",
+          "gloss": ""
+        },
+        {
+          "prompt": "볼 수",
+          "answer": "볼 쑤",
+          "gloss": ""
+        }
+      ]
+    }
+  ]
+}

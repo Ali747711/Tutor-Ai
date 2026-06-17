@@ -1,0 +1,110 @@
+{
+  "week": 12,
+  "day": 5,
+  "order": 82,
+  "keyword": "원하다",
+  "meaning": "to want",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "원하는 물건",
+      "english": "something you want to have; a desired item",
+      "notes": "물건 = thing, stuff; item; belonging"
+    },
+    {
+      "korean": "원하는 대로",
+      "english": "as one wants; as one wishes",
+      "notes": ""
+    },
+    {
+      "korean": "간절히 원하다",
+      "english": "to desire eagerly; to long for; to yearn for",
+      "notes": "간절하다 = to be eager; to be desperate\n간절히 is the adverb form of 간절하다."
+    },
+    {
+      "korean": "원하는 게 뭐예요?",
+      "english": "What is it that you want?",
+      "notes": ""
+    },
+    {
+      "korean": "원하는 만큼 가져가세요.",
+      "english": "Take as much as you want.",
+      "notes": "-(느)는 만큼 = as much as one + V\n가져가다 = to take"
+    },
+    {
+      "korean": "원하지 않으면 저 주세요.",
+      "english": "If you don't want it, give it to me.",
+      "notes": ""
+    },
+    {
+      "korean": "원하시면 이것도 가져가세요.",
+      "english": "If you want, take this as well.",
+      "notes": "이것 = this; this thing"
+    },
+    {
+      "korean": "원하는 게 있으면 빨리 말해요.",
+      "english": "If you have something you want, hurry up and tell me.",
+      "notes": "빨르다 = to be fast\n빨리 is an adverb form of 빨르다.\n말하다 = to talk; to say; to speak; to tell\n-어/아/여요 = imperative; Let's + V"
+    },
+    {
+      "korean": "제가 원하는 건 이런 게 아니에요.",
+      "english": "This is not the kind of thing I want.\nThis is not what I want.",
+      "notes": "이런 = N + like this"
+    },
+    {
+      "korean": "저도 제가 뭘 원하는지 모르겠어요.",
+      "english": "I also don't know what I want.",
+      "notes": "뭘 = what (object)\n뭘 is the contracted form of 무엇을.\n모르다 = to not know"
+    },
+    {
+      "korean": "아이가 원하는 대로 하게 놔 두세요.",
+      "english": "Let the kid do what he/she wants.",
+      "notes": "아이 = child; kid; baby\n-게 놔 두다 = to let + person + V"
+    },
+    {
+      "korean": "원하시면 제가 차로 데려다 드릴게요.",
+      "english": "If you want, I can take you there by car.\nIf you want, I can drive you there.",
+      "notes": "차 = car\n데려다 드리다 = (honorific) to take someone to + place"
+    },
+    {
+      "korean": "원하는 대로 안 된다고 화내지 마세요.",
+      "english": "Don't get angry just because things don't go as you want.",
+      "notes": "화내다 = to be angry at someone; to yell at someone out of anger\n-지 마세요 = (polite) Don't + V"
+    },
+    {
+      "korean": "그 사람은 항상 원하는 게 너무 많아요.",
+      "english": "He always desires too much.",
+      "notes": ""
+    },
+    {
+      "korean": "사람들은 누구나 행복해지길 원해요.",
+      "english": "Everyone wants to be happy.",
+      "notes": "-들 is a suffix used to indicate plural.\n누구나 = anyone, anybody\n행복하다 = to be happy\n-어/아/여지다 = to become + adjective"
+    },
+    {
+      "korean": "돈이 많으면 원하는 것을 다 할 수 있나요?",
+      "english": "Can you do anything you want if you have a lot of money?",
+      "notes": "다 = all; every (thing)\n(으)ㄹ 수 있다 = can, to be able to; there is a good chance that + S + V"
+    },
+    {
+      "korean": "아이들이 어떤 선물을 원하는지 물어봤어요?",
+      "english": "Did you ask what kind of presents the children want?",
+      "notes": "어떤 = what kind of; which"
+    },
+    {
+      "korean": "원하는 종류의 기사만 모아서 보여주는 앱이 있대요.",
+      "english": "There is a (mobile) app for gathering and displaying only the types of articles you want.",
+      "notes": "종류 = kind, sort, type (of)\n기사 = (news) article\n-만 = only; just\n모아다 = to gather; to save up\n-어/아/여서 = by + V-ing; to + V + and (then)\n보여주다 = to show, display\n앱 = app, application"
+    },
+    {
+      "korean": "여기는 제가 원하는 책을 싼 값에 살 수 있어서 좋아요.",
+      "english": "This place is good because I can buy the books I want at a cheap price.",
+      "notes": "여기 = here; this place\n싸다 = to be cheap\n싼 is the adjective form of 싸다.\n값 = price\n좋다 = to be good, likable; to be desirable; to be nice; to like"
+    },
+    {
+      "korean": "이 레스토랑에서는 원하는 만큼 음식을 먹을 수 있어요.",
+      "english": "In this restaurant, you can eat as much food as you want.",
+      "notes": "레스토랑 = restaurant\nA Korean word for a \"restaurant\" is \"식당,\" but when you use \"레스토랑\" instead of \"식당,\" it usually refers to a fancy or upscale restaurant that sells western-style cuisine, including Italian or French. Even if a restaurant is very fancy and expensive, if it's a Korean, Japanese, or Chinese restaurant, normally the word \"레스토랑\" is not used.\n먹다 = to eat; to drink"
+    }
+  ]
+}

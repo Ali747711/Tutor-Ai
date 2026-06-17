@@ -1,0 +1,361 @@
+{
+  "chapter": 33,
+  "title": "Pharmacy",
+  "category": "Health",
+  "shortDialogue": [
+    {
+      "speaker": "약사",
+      "korean": "어디가 아프세요?",
+      "romanization": "",
+      "english": "What's bothering you?"
+    },
+    {
+      "speaker": "수정",
+      "korean": "목이 아파요.",
+      "romanization": "",
+      "english": "My throat hurts."
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "수정",
+      "korean": "감기약 주세요.",
+      "romanization": "",
+      "english": "Please give me some cold medicine."
+    },
+    {
+      "speaker": "약사",
+      "korean": "어디가 아프세요?",
+      "romanization": "",
+      "english": "What's bothering you?"
+    },
+    {
+      "speaker": "수정",
+      "korean": "목이 아파요.",
+      "romanization": "",
+      "english": "My throat hurts."
+    },
+    {
+      "speaker": "약사",
+      "korean": "기침도 하세요?",
+      "romanization": "",
+      "english": "Do you have a cough, too?"
+    },
+    {
+      "speaker": "수정",
+      "korean": "가침은 안 해요.",
+      "romanization": "",
+      "english": "I don't have a cough."
+    },
+    {
+      "speaker": "약사",
+      "korean": "콧물은요?",
+      "romanization": "",
+      "english": "Do you have a runny nose?"
+    },
+    {
+      "speaker": "수정",
+      "korean": "콧물 안 나요.",
+      "romanization": "",
+      "english": "I don't have a runny nose."
+    },
+    {
+      "speaker": "약사",
+      "korean": "두통은 있어요?",
+      "romanization": "",
+      "english": "Do you have a headache?"
+    },
+    {
+      "speaker": "수정",
+      "korean": "아니요. 그런데 열이 있어요.",
+      "romanization": "",
+      "english": "No. But I have a fever."
+    },
+    {
+      "speaker": "약사",
+      "korean": "지금 열나세요?",
+      "romanization": "",
+      "english": "Do you have a fever now?"
+    },
+    {
+      "speaker": "수정",
+      "korean": "네.",
+      "romanization": "",
+      "english": "Yes."
+    },
+    {
+      "speaker": "약사",
+      "korean": "이거랑 이거 하루에 세 번 드세요.",
+      "romanization": "",
+      "english": "Take this and this three times a day."
+    },
+    {
+      "speaker": "수정",
+      "korean": "한 알씩이요?",
+      "romanization": "",
+      "english": "One pill each?"
+    },
+    {
+      "speaker": "약사",
+      "korean": "이거는 두 알씩 드세요.",
+      "romanization": "",
+      "english": "This one, two pills each time."
+    },
+    {
+      "speaker": "약사",
+      "korean": "얼마예요?",
+      "romanization": "",
+      "english": "How much is it?"
+    },
+    {
+      "speaker": "약사",
+      "korean": "5,000원이에요.",
+      "romanization": "",
+      "english": "5,000 won."
+    },
+    {
+      "speaker": "수정",
+      "korean": "여기요. 감사합니다.",
+      "romanization": "",
+      "english": "Here. Thank you."
+    }
+  ],
+  "culturalTip": "When you visit a pharmacy in Korea to have a prescription filled, you may receive small packets of medicine that are already separated into individual doses. However, there are usually no instructions on the packets, so you will have to speak with the pharmacist who will be more familiar with the doctor's prescription. People in Korea tend to visit the pharmacy closest to the doctor's office or hospital to fill their prescription. If you need an English-speaking pharmacist, then you can go to that pharmacy to have it filled.",
+  "koreanReview": "- Short Dialogue\n약사: 어디가 아프세요?\n수정: 목이 아파요.\n\n- Long Dialogue\n수정: 감기약 주세요.\n약사: 어디가 아프세요?\n수정: 목이 아파요.\n약사: 기침도 하세요?\n수정: 기침은 안 해요.\n약사: 콧물은요?\n수정: 콧물 안 나요.\n약사: 두통은 있어요?\n수정: 아니요. 그런데 열이 있어요.\n약사: 지금 열나세요?\n수정: 네.\n약사: 이거랑 이거 하루에 세 번 드세요.\n수정: 한 알씩이요?\n약사: 이거는 두 알씩 드세요.\n약사: 얼마예요?\n약사: 5,000원이에요.\n수정: 여기요. 감사합니다.",
+  "coreVocab": [
+    {
+      "korean": "어디",
+      "romanization": "eo-di",
+      "meaning": "where"
+    },
+    {
+      "korean": "아프다",
+      "romanization": "a-peu-da",
+      "meaning": "to be sick, to hurt"
+    },
+    {
+      "korean": "VERB/ADJECTIVE + -세요?",
+      "romanization": "-se-yo?",
+      "meaning": "Do you VERB?/ Are you ADJECTIVE? (honorific)"
+    },
+    {
+      "korean": "목",
+      "romanization": "mok",
+      "meaning": "throat"
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "감기약",
+      "romanization": "gam-gi-yak",
+      "meaning": "cold medicine"
+    },
+    {
+      "korean": "주다",
+      "romanization": "ju-da",
+      "meaning": "to give"
+    },
+    {
+      "korean": "어디",
+      "romanization": "eo-di",
+      "meaning": "where"
+    },
+    {
+      "korean": "아프다",
+      "romanization": "a-peu-da",
+      "meaning": "to be sick, to hurt"
+    },
+    {
+      "korean": "목",
+      "romanization": "mok",
+      "meaning": "throat"
+    },
+    {
+      "korean": "기침",
+      "romanization": "gi-chim",
+      "meaning": "cough"
+    },
+    {
+      "korean": "하다",
+      "romanization": "ha-da",
+      "meaning": "to do"
+    },
+    {
+      "korean": "콧물",
+      "romanization": "kon-mul",
+      "meaning": "snot"
+    },
+    {
+      "korean": "콧물 나다",
+      "romanization": "kon-mul na-da",
+      "meaning": "to have a runny nose"
+    },
+    {
+      "korean": "두통",
+      "romanization": "du-tong",
+      "meaning": "headache"
+    },
+    {
+      "korean": "있다",
+      "romanization": "it-ta",
+      "meaning": "to exist, to have"
+    },
+    {
+      "korean": "그런데",
+      "romanization": "geu-reon-de",
+      "meaning": "but, however"
+    },
+    {
+      "korean": "열",
+      "romanization": "lyeol",
+      "meaning": "fever"
+    },
+    {
+      "korean": "열나다",
+      "romanization": "lyeol-la-da",
+      "meaning": "to have a fever"
+    },
+    {
+      "korean": "이거",
+      "romanization": "i-geo",
+      "meaning": "this, this thing"
+    },
+    {
+      "korean": "하루",
+      "romanization": "ha-ru",
+      "meaning": "one day"
+    },
+    {
+      "korean": "세 번",
+      "romanization": "se been",
+      "meaning": "three times"
+    },
+    {
+      "korean": "드시다",
+      "romanization": "deu-si-da",
+      "meaning": "to eat (honorific)"
+    },
+    {
+      "korean": "한 알",
+      "romanization": "han al",
+      "meaning": "one pill"
+    },
+    {
+      "korean": "씩",
+      "romanization": "ssik",
+      "meaning": "each"
+    },
+    {
+      "korean": "얼마",
+      "romanization": "eol-ma",
+      "meaning": "how much"
+    },
+    {
+      "korean": "여기",
+      "romanization": "yeo-gi",
+      "meaning": "here"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "Negative Statement",
+      "pattern": "안 + VERB/ADJECTIVE + -아/어/여요",
+      "meaning": "I do not VERB. / I am not ADJECTIVE.",
+      "explanation": "Ex) 안 + 하다 + -아/어/여요 → 안 해요. = I don't do (it).",
+      "examples": [
+        {
+          "korean": "안 하다 + -아/어/여요 → 안 해요.",
+          "romanization": "",
+          "english": "I don't do (it)."
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "안 + 아프다 + -아/어/여요",
+          "answer": "안 아파요.",
+          "english": "I am not sick."
+        },
+        {
+          "prompt": "안 + 주다 + -아/어/여요",
+          "answer": "안 줘요.",
+          "english": "I do not give (it)."
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Definitive Frequency",
+      "pattern": "PERIOD OF TIME + -에 + NUMERAL DETERMINER + 번",
+      "meaning": "NUMBER time(s) a PERIOD OF TIME",
+      "explanation": "Ex) 일 년 + -에 + 한 + 번 → 일 년에 한 번 = once a year",
+      "examples": [
+        {
+          "korean": "일 년 + -에 + 한 + 번 → 일 년에 한 번",
+          "romanization": "",
+          "english": "once a year"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "하루 + -에 + 한 + 번",
+          "answer": "하루에 한 번",
+          "english": "once a day"
+        },
+        {
+          "prompt": "한 달 + -에 + 두 + 번",
+          "answer": "한 달에 두 번",
+          "english": "twice a month"
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "When a syllable ends with ㄱ (which sounds the same as ㄷ when in the 받침 position) and is followed by a syllable that begins with ㅁ, the ㄱ is pronounced as ㄴ.",
+      "examples": [
+        {
+          "korean": "콧물",
+          "pronounced": "콘물",
+          "romanization": "kon-mul"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "닷마를",
+          "answer": "딘마름",
+          "gloss": ""
+        },
+        {
+          "prompt": "벗머리",
+          "answer": "번머리",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "When a syllable ends with ㄹ and is followed by a syllable that begins with ㄴ, the ㄴ is pronounced as ㄹ.",
+      "examples": [
+        {
+          "korean": "열나세요",
+          "pronounced": "열라세요",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "불나요",
+          "answer": "불라요",
+          "gloss": ""
+        },
+        {
+          "prompt": "찰나",
+          "answer": "찰라",
+          "gloss": ""
+        }
+      ]
+    }
+  ]
+}

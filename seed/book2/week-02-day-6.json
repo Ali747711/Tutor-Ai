@@ -1,0 +1,110 @@
+{
+  "week": 2,
+  "day": 6,
+  "order": 13,
+  "keyword": "질문",
+  "meaning": "question",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "이상한 질문",
+      "english": "weird question",
+      "notes": "이상하다 = to be weird, odd, strange\n이상한 is the adjective form of 이상하다."
+    },
+    {
+      "korean": "어려운 질문",
+      "english": "difficult question",
+      "notes": ""
+    },
+    {
+      "korean": "난처한 질문",
+      "english": "awkward question",
+      "notes": "난처하다 = to be in an awkward situation\n난처한 is the adjective form of 난처하다."
+    },
+    {
+      "korean": "날카로운 질문",
+      "english": "sharp question; penetrating question",
+      "notes": "날카롭다 = to be sharp; to be penetrating\n날카로운 is the adjective form of 날카롭다."
+    },
+    {
+      "korean": "바보같은 질문",
+      "english": "stupid question",
+      "notes": "바보같다 = to be stupid, foolish\n바보같은 is the adjective form of 바보같다."
+    },
+    {
+      "korean": "개인적인 질문",
+      "english": "personal question",
+      "notes": "개인적이다 = to be personal, private\n개인적인 is the adjective form of 개인적이다."
+    },
+    {
+      "korean": "질문하다",
+      "english": "to ask a question",
+      "notes": ""
+    },
+    {
+      "korean": "질문에 대답하다",
+      "english": "to answer a question",
+      "notes": "대답하다 = to answer"
+    },
+    {
+      "korean": "질문 있어요.",
+      "english": "I have a question.",
+      "notes": "있다 = to be there; to exist; to have"
+    },
+    {
+      "korean": "질문 있나요?",
+      "english": "Do you have any questions?",
+      "notes": ""
+    },
+    {
+      "korean": "질문 하나 해도 될까요?",
+      "english": "May I ask a question?",
+      "notes": "하나 = one (native Korean number)\n-이/이/예도 됼까요? = (polite) Can + S + V?"
+    },
+    {
+      "korean": "질문이 좀 이상한 것 같아요.",
+      "english": "I think the question is a little bit strange.",
+      "notes": ""
+    },
+    {
+      "korean": "먼저 제 질문에 답해 주세요.",
+      "english": "Please answer my question first.",
+      "notes": "먼저 = first; before + N\n-이/이/여 주세요 = (polite) Please do + something + for me"
+    },
+    {
+      "korean": "대답하기 참 어려운 질문이네요.",
+      "english": "It's such a difficult question to answer.",
+      "notes": "참 = very, quite\n-(은)네요 is a sentence ending that expresses realization of a fact or agreement to a statement."
+    },
+    {
+      "korean": "그 질문에는 대답하고 싶지 않네요.",
+      "english": "I don't want to answer that question.",
+      "notes": ""
+    },
+    {
+      "korean": "개인적인 질문은 하지 말아 주세요.",
+      "english": "Please don't ask any personal questions.",
+      "notes": "질문을 하다 = to ask a question\n-지 말아 주세요 = Please don't + V."
+    },
+    {
+      "korean": "질문이 있으면 손을 들어 주세요.",
+      "english": "If you have any questions, please raise your hand.",
+      "notes": "손 = hand\n들다 = to raise; to pick (something) up"
+    },
+    {
+      "korean": "질문은 발표가 끝난 다음에 받겠습니다.",
+      "english": "We will take questions after the presentation is finished.",
+      "notes": "발표 = presentation\n끝나다 = to end; to be over\n다음에 = next time; later\n받다 = to receive"
+    },
+    {
+      "korean": "그 질문은 나중에 개인적으로 대답할게요.",
+      "english": "I will answer that question later in private.",
+      "notes": "나중에 = next time; later\n-(으)ㄹ게요 = I promise I will + V; I will + V"
+    },
+    {
+      "korean": "모르는 게 있으면 바로바로 질문해 주세요.",
+      "english": "If you have something that you don't know, please ask me immediately.",
+      "notes": "모르다 = to not know\n바로바로 = immediately"
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "chapter": 18,
+  "title": "Park",
+  "category": "On a Date",
+  "shortDialogue": [
+    {
+      "speaker": "민수",
+      "korean": "우리 공원에서 자전거 탈까요?",
+      "romanization": "",
+      "english": "Shall we ride bicycles in the park?"
+    },
+    {
+      "speaker": "지연",
+      "korean": "저 자전거 없어요.",
+      "romanization": "",
+      "english": "I don't have a bike."
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "민수",
+      "korean": "오늘 날씨 정말 좋네요.",
+      "romanization": "",
+      "english": "Today's weather is so nice."
+    },
+    {
+      "speaker": "지연",
+      "korean": "네. 그러네요.",
+      "romanization": "",
+      "english": "Yes, it is."
+    },
+    {
+      "speaker": "민수",
+      "korean": "날씨도 좋은데, 우리 공원에서 자전거 탈까요?",
+      "romanization": "",
+      "english": "Since the weather is nice, shall we ride bicycles in the park?"
+    },
+    {
+      "speaker": "지연",
+      "korean": "저 자전거 없어요.",
+      "romanization": "",
+      "english": "I don't have a bike."
+    },
+    {
+      "speaker": "민수",
+      "korean": "한강에서 자전거 빌릴 수 있어요.",
+      "romanization": "",
+      "english": "You can rent a bike at the Han River."
+    },
+    {
+      "speaker": "지연",
+      "korean": "아, 그래요? 그런데 저 자전거 못 타요.",
+      "romanization": "",
+      "english": "Oh, really? But, I can't ride a bike."
+    },
+    {
+      "speaker": "민수",
+      "korean": "괜찮아요. 제 뒤에 타세요.",
+      "romanization": "",
+      "english": "It's ok. Ride behind me."
+    },
+    {
+      "speaker": "지연",
+      "korean": "정말요? 좋아요. 그럼 한강에 가요.",
+      "romanization": "",
+      "english": "Really? Sounds good. Then, let's go to the Han River."
+    },
+    {
+      "speaker": "민수",
+      "korean": "자전거 빌리려면, 한 시간쯤 기다려야 돼요.",
+      "romanization": "",
+      "english": "To rent a bike, we have to wait about an hour."
+    },
+    {
+      "speaker": "지연",
+      "korean": "그럼 우리 자전거 타기 전에 점심 먹어요.",
+      "romanization": "",
+      "english": "Then let's eat lunch before we ride bicycles."
+    },
+    {
+      "speaker": "민수",
+      "korean": "네. 라면 먹을까요?",
+      "romanization": "",
+      "english": "Ok. Shall we eat ramen?"
+    },
+    {
+      "speaker": "지연",
+      "korean": "좋아요.",
+      "romanization": "",
+      "english": "Sounds good."
+    }
+  ],
+  "culturalTip": "The Han River runs through the middle of Seoul and has twelve riverside parks along its banks. There are bicycle lanes, pedestrian walkways, and a few restaurants in the parks. Many people gather by the Han River when the weather is nice and have a picnic or ride a bike. Bike rentals are plentiful along the Han River, so don't worry if you don't own one!",
+  "koreanReview": "- Short Dialogue\n민수: 우리 공원에서 자전거 탈까요?\n지연: 저 자전거 없어요.\n\n- Long Dialogue\n민수: 오늘 날씨 정말 좋네요.\n지연: 네. 그러네요.\n민수: 날씨도 좋은데, 우리 공원에서 자전거 탈까요?\n지연: 저 자전거 없어요.\n민수: 한강에서 자전거 빌릴 수 있어요.\n지연: 아, 그래요? 그런데 저 자전거 못 타요.\n민수: 괜찮아요. 제 뒤에 타세요.\n지연: 정말요? 좋아요. 그럼 한강에 가요.\n민수: 자전거 빌리려면, 한 시간쯤 기다려야 돼요.\n지연: 그럼 우리 자전거 타기 전에 점심 먹어요.\n민수: 네. 라면 먹을까요?\n지연: 좋아요.",
+  "coreVocab": [
+    {
+      "korean": "우리",
+      "romanization": "u-ri",
+      "meaning": "we, us"
+    },
+    {
+      "korean": "공원",
+      "romanization": "gong-won",
+      "meaning": "park"
+    },
+    {
+      "korean": "-에서",
+      "romanization": "-e-seo",
+      "meaning": "at, in, from"
+    },
+    {
+      "korean": "자전거",
+      "romanization": "ja-jeon-geo",
+      "meaning": "bicycle"
+    },
+    {
+      "korean": "타다",
+      "romanization": "ta-da",
+      "meaning": "to ride"
+    },
+    {
+      "korean": "VERB + -(으)ㄹ까요?",
+      "romanization": "-(eu)l-kka-yo?",
+      "meaning": "Shall we VERB?"
+    },
+    {
+      "korean": "저",
+      "romanization": "jeo",
+      "meaning": "I, me"
+    },
+    {
+      "korean": "없다",
+      "romanization": "eop-tta",
+      "meaning": "to not exist, to not have, to not be there"
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "오늘",
+      "romanization": "o-neul",
+      "meaning": "today"
+    },
+    {
+      "korean": "날씨",
+      "romanization": "nal-ssi",
+      "meaning": "weather"
+    },
+    {
+      "korean": "정말",
+      "romanization": "jeong-mal",
+      "meaning": "really, very"
+    },
+    {
+      "korean": "좋다",
+      "romanization": "jo-ta",
+      "meaning": "to be good, to like"
+    },
+    {
+      "korean": "우리",
+      "romanization": "u-ri",
+      "meaning": "we, us"
+    },
+    {
+      "korean": "공원",
+      "romanization": "gong-won",
+      "meaning": "park"
+    },
+    {
+      "korean": "자전거",
+      "romanization": "ja-jeon-geo",
+      "meaning": "bicycle"
+    },
+    {
+      "korean": "타다",
+      "romanization": "ta-da",
+      "meaning": "to ride, to take"
+    },
+    {
+      "korean": "없다",
+      "romanization": "eop-tta",
+      "meaning": "to not exist, to not have, to not be there"
+    },
+    {
+      "korean": "한강",
+      "romanization": "han-gang",
+      "meaning": "Han River"
+    },
+    {
+      "korean": "빌리다",
+      "romanization": "bil-li-da",
+      "meaning": "to borrow, to rent"
+    },
+    {
+      "korean": "그런데",
+      "romanization": "geu-reon-de",
+      "meaning": "but, however"
+    },
+    {
+      "korean": "괜찮다",
+      "romanization": "gwaen-chan-ta",
+      "meaning": "to be ok, to be alright"
+    },
+    {
+      "korean": "뒤",
+      "romanization": "dwi",
+      "meaning": "behind"
+    },
+    {
+      "korean": "그럼",
+      "romanization": "geu-reom",
+      "meaning": "then"
+    },
+    {
+      "korean": "가다",
+      "romanization": "ga-da",
+      "meaning": "to go"
+    },
+    {
+      "korean": "한 시간",
+      "romanization": "han si-gan",
+      "meaning": "one hour"
+    },
+    {
+      "korean": "쯤",
+      "romanization": "jjeum",
+      "meaning": "about, around"
+    },
+    {
+      "korean": "기다리다",
+      "romanization": "gi-da-ri-da",
+      "meaning": "to wait"
+    },
+    {
+      "korean": "점심",
+      "romanization": "jeom-sim",
+      "meaning": "lunch"
+    },
+    {
+      "korean": "먹다",
+      "romanization": "meok-tta",
+      "meaning": "to eat"
+    },
+    {
+      "korean": "라면",
+      "romanization": "la-myeon",
+      "meaning": "instant noodles, ramen"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "Subordinating Conjunction",
+      "pattern": "VERB + -(으)려면 = in order to VERB",
+      "meaning": "in order to VERB",
+      "explanation": "",
+      "examples": [
+        {
+          "korean": "빌리다 + -(으)려면 → 빌리려면 = in order to rent",
+          "romanization": "",
+          "english": "in order to rent"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "타다 + -(으)려면",
+          "answer": "타려면",
+          "english": "in order to ride"
+        },
+        {
+          "prompt": "기다리다 + -(으)려면",
+          "answer": "기다리려면",
+          "english": "in order to wait"
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Before + Gerund",
+      "pattern": "VERB + -기 전에 = before VERB-ing",
+      "meaning": "before VERB-ing",
+      "explanation": "",
+      "examples": [
+        {
+          "korean": "타다 + -기 전에 → 타기 전에 = before riding",
+          "romanization": "",
+          "english": "before riding"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "빌리다 + -기 전에",
+          "answer": "빌리기 전에",
+          "english": "before renting"
+        },
+        {
+          "prompt": "먹다 + -기 전에",
+          "answer": "먹기 전에",
+          "english": "before eating"
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "When a syllable ends with ㅎ and is followed by a syllable that begins with ㄴ, the ㅎ is pronounced as ㄴ.",
+      "examples": [
+        {
+          "korean": "좋네요",
+          "pronounced": "존네요",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "놓는",
+          "answer": "논는",
+          "gloss": ""
+        },
+        {
+          "prompt": "쌓네",
+          "answer": "싼네",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "When a syllable ends with ㅎ and is followed by a syllable that begins with a vowel, ㅎ is not pronounced.",
+      "examples": [
+        {
+          "korean": "좋아요",
+          "pronounced": "조아요",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "놓아요",
+          "answer": "노아요",
+          "gloss": ""
+        },
+        {
+          "prompt": "낳아요",
+          "answer": "나아요",
+          "gloss": ""
+        }
+      ]
+    }
+  ]
+}

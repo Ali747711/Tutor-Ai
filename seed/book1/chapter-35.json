@@ -1,0 +1,355 @@
+{
+  "chapter": 35,
+  "title": "Not Feeling Well",
+  "category": "Health",
+  "shortDialogue": [
+    {
+      "speaker": "형식",
+      "korean": "무슨 일 있어?",
+      "romanization": "",
+      "english": "What's wrong?"
+    },
+    {
+      "speaker": "수희",
+      "korean": "아니. 요즘 매일 피곤해.",
+      "romanization": "",
+      "english": "Nothing. These days, I feel tired every day."
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "수희",
+      "korean": "아, 피곤해.",
+      "romanization": "",
+      "english": "Ah, I'm tired."
+    },
+    {
+      "speaker": "형식",
+      "korean": "무슨 일 있어?",
+      "romanization": "",
+      "english": "What's wrong?"
+    },
+    {
+      "speaker": "수희",
+      "korean": "아니. 요즘 매일 피곤해.",
+      "romanization": "",
+      "english": "Nothing. These days, I feel tired every day."
+    },
+    {
+      "speaker": "형식",
+      "korean": "그래? 어디 아파? 감기?",
+      "romanization": "",
+      "english": "Really? Are you sick? A cold?"
+    },
+    {
+      "speaker": "수희",
+      "korean": "감기 아니야. 그냥 졸려. 그리고 소화가 안 돼.",
+      "romanization": "",
+      "english": "It's not a cold. I'm just sleepy. And I have indigestion."
+    },
+    {
+      "speaker": "형식",
+      "korean": "진짜? 왜 소화가 안 돼?",
+      "romanization": "",
+      "english": "Really? Why do you have indigestion?"
+    },
+    {
+      "speaker": "수희",
+      "korean": "몰라. 이상해.",
+      "romanization": "",
+      "english": "I don't know. It's strange."
+    },
+    {
+      "speaker": "형식",
+      "korean": "병원에 가 봐.",
+      "romanization": "",
+      "english": "Go to the hospital."
+    },
+    {
+      "speaker": "수희",
+      "korean": "병원?",
+      "romanization": "",
+      "english": "The hospital?"
+    },
+    {
+      "speaker": "형식",
+      "korean": "응. 언제부터 그랬어?",
+      "romanization": "",
+      "english": "Yeah. Since when did you feel like this?"
+    },
+    {
+      "speaker": "수희",
+      "korean": "한 달 정도 됐어.",
+      "romanization": "",
+      "english": "It's been about a month."
+    },
+    {
+      "speaker": "형식",
+      "korean": "한 달? 아, 빨리 병원 가.",
+      "romanization": "",
+      "english": "A month? Hurry up and go to the hospital."
+    }
+  ],
+  "culturalTip": "You may be surprised at how often people in Korea visit the doctor's office. Since many people see the doctor even if they have a minor cold, you may be told that you should go to the doctor's office when you look pale or sick, even if just a little. The doctor's office and the hospital are both called 병원 [byeong-won] in Korean; therefore, if someone tells you that you should go to the 병원, be sure to find out if that person meant the hospital or the doctor's office.",
+  "koreanReview": "- Short Dialogue\n형식: 무슨 일 있어?\n수희: 아니. 요즘 매일 피곤해.\n\n- Long Dialogue\n수희: 아, 피곤해.\n형식: 무슨 일 있어?\n수희: 아니. 요즘 매일 피곤해.\n형식: 그래? 어디 아파? 감기?\n수희: 감기 아니야. 그냥 졸려. 그리고 소화가 안 돼.\n형식: 진짜? 왜 소화가 안 돼?\n수희: 몰라. 이상해.\n형식: 병원에 가 봐.\n수희: 병원?\n형식: 응. 언제부터 그랬어?\n수희: 한 달 정도 됐어.\n형식: 한 달? 아, 빨리 병원 가.",
+  "coreVocab": [
+    {
+      "korean": "무슨",
+      "romanization": "mu-seun",
+      "meaning": "what"
+    },
+    {
+      "korean": "일",
+      "romanization": "il",
+      "meaning": "work, happening"
+    },
+    {
+      "korean": "있다",
+      "romanization": "it-tta",
+      "meaning": "to exist, to have"
+    },
+    {
+      "korean": "아니.",
+      "romanization": "a-ni",
+      "meaning": "No. (casual)"
+    },
+    {
+      "korean": "요즘",
+      "romanization": "yo-jeum",
+      "meaning": "these days"
+    },
+    {
+      "korean": "매일",
+      "romanization": "mae-il",
+      "meaning": "everyday"
+    },
+    {
+      "korean": "피곤하다",
+      "romanization": "pi-go-na-da",
+      "meaning": "to be tired"
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "피곤하다",
+      "romanization": "pi-go-na-da",
+      "meaning": "to be tired"
+    },
+    {
+      "korean": "도다",
+      "romanization": "doe-da",
+      "meaning": "to work, to be done"
+    },
+    {
+      "korean": "무슨",
+      "romanization": "mu-seun",
+      "meaning": "what"
+    },
+    {
+      "korean": "진짜",
+      "romanization": "jin-jja",
+      "meaning": "really"
+    },
+    {
+      "korean": "일",
+      "romanization": "il",
+      "meaning": "work, happening"
+    },
+    {
+      "korean": "왜",
+      "romanization": "wae",
+      "meaning": "why"
+    },
+    {
+      "korean": "요즘",
+      "romanization": "yo-jeum",
+      "meaning": "these days"
+    },
+    {
+      "korean": "모르다",
+      "romanization": "mo-reu-da",
+      "meaning": "to now know"
+    },
+    {
+      "korean": "매일",
+      "romanization": "mae-il",
+      "meaning": "everyday"
+    },
+    {
+      "korean": "이상하다",
+      "romanization": "i-sang-ha-da",
+      "meaning": "to be strange"
+    },
+    {
+      "korean": "어디",
+      "romanization": "eo-di",
+      "meaning": "where"
+    },
+    {
+      "korean": "병원",
+      "romanization": "byeong-won",
+      "meaning": "hospital, doctor's office"
+    },
+    {
+      "korean": "아프다",
+      "romanization": "a-peu-da",
+      "meaning": "to be sick, to hurt"
+    },
+    {
+      "korean": "가다",
+      "romanization": "ga-da",
+      "meaning": "to go"
+    },
+    {
+      "korean": "감기",
+      "romanization": "gam-gi",
+      "meaning": "cold"
+    },
+    {
+      "korean": "언제",
+      "romanization": "eon-je",
+      "meaning": "when"
+    },
+    {
+      "korean": "그냥",
+      "romanization": "geu-nyang",
+      "meaning": "just"
+    },
+    {
+      "korean": "한 달",
+      "romanization": "han dal",
+      "meaning": "one month"
+    },
+    {
+      "korean": "졸리다",
+      "romanization": "jol-li-da",
+      "meaning": "to be sleepy"
+    },
+    {
+      "korean": "정도",
+      "romanization": "jeong-do",
+      "meaning": "about, around"
+    },
+    {
+      "korean": "소화",
+      "romanization": "so-hwa",
+      "meaning": "digestion"
+    },
+    {
+      "korean": "빨리",
+      "romanization": "ppal-li",
+      "meaning": "quickly"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "Negative",
+      "pattern": "NOUN + -아니야 = It's not NOUN. (casual)",
+      "meaning": "It's not NOUN. (casual)",
+      "explanation": "",
+      "examples": [
+        {
+          "korean": "감기 + 아니야 → 감기 아니야.",
+          "romanization": "",
+          "english": "It's not a cold."
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "책 + 아니야",
+          "answer": "책 아니야.",
+          "english": "It's not a book."
+        },
+        {
+          "prompt": "병원 + 아니야",
+          "answer": "병원 아니야.",
+          "english": "It's not a hospital."
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Approximate Frequency",
+      "pattern": "PERIOD OF TIME + 정도 됐어(요) = It has been about PERIOD OF TIME.",
+      "meaning": "It has been about PERIOD OF TIME.",
+      "explanation": "",
+      "examples": [
+        {
+          "korean": "한 달 + 정도 됐어(요) → 한 달 정도 됐어(요).",
+          "romanization": "",
+          "english": "= It has been about a month."
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "일주일 + 정도 됐어(요)",
+          "answer": "일주일 정도 됐어(요).",
+          "english": "It has been about a week."
+        },
+        {
+          "prompt": "일 년 + 정도 됐어(요)",
+          "answer": "일 년 정도 됐어(요).",
+          "english": "It has been about a year."
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "When there are two separate words, if the first word ends with ㄹ and the second word begins with 0|, a ㄹ is added so 0| is pronounced as ㄴ|.",
+      "examples": [
+        {
+          "korean": "무슨 일",
+          "pronounced": "[무순 닐]",
+          "romanization": "(O)"
+        },
+        {
+          "korean": "무슨 일",
+          "pronounced": "[무스 닐]",
+          "romanization": "(X)"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "바쁜 일",
+          "answer": "바쁜 닐",
+          "gloss": ""
+        },
+        {
+          "prompt": "좋은 일",
+          "answer": "좋은 닐",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "How well do you remember what's been covered already?",
+      "examples": [],
+      "exercises": [
+        {
+          "prompt": "피곤해",
+          "answer": "피곤네",
+          "gloss": ""
+        },
+        {
+          "prompt": "병원에",
+          "answer": "병원네",
+          "gloss": ""
+        },
+        {
+          "prompt": "그랬어",
+          "answer": "그래써",
+          "gloss": ""
+        },
+        {
+          "prompt": "됐어",
+          "answer": "되써",
+          "gloss": ""
+        }
+      ]
+    }
+  ]
+}

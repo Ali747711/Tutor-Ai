@@ -1,0 +1,110 @@
+{
+  "week": 1,
+  "day": 7,
+  "order": 7,
+  "keyword": "가르치다",
+  "meaning": "to teach",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "가르쳐 주다",
+      "english": "to teach; to tell",
+      "notes": ""
+    },
+    {
+      "korean": "영어를 가르치다",
+      "english": "to teach English",
+      "notes": "영어 = the English language"
+    },
+    {
+      "korean": "길을 가르쳐 주다",
+      "english": "to show the way",
+      "notes": ""
+    },
+    {
+      "korean": "테니스를 가르치다",
+      "english": "to teach tennis",
+      "notes": "테니스 = tennis"
+    },
+    {
+      "korean": "연락처를 가르쳐 주다",
+      "english": "to tell (someone) the contact number",
+      "notes": "연락처 = contact; phone number"
+    },
+    {
+      "korean": "저 중국어 좀 가르쳐 주세요.",
+      "english": "Please teach me Chinese.",
+      "notes": "중국어 = the Chinese language"
+    },
+    {
+      "korean": "저는 중학교에서 영어를 가르쳐요.",
+      "english": "I teach English in a middle school.",
+      "notes": "중학교 = middle school"
+    },
+    {
+      "korean": "제가 아까 가르쳐 준 거 벌써 잊었어요?",
+      "english": "I taught it to you earlier, (and) you've already forgotten?",
+      "notes": "아까 = before, earlier\n벌써 = already\n잊다 = to forget"
+    },
+    {
+      "korean": "엄마가 요리하는 법을 가르쳐 주셨어요.",
+      "english": "My mom taught me how to cook.",
+      "notes": "요리하다 = to cook\n-는 법 = how to + V"
+    },
+    {
+      "korean": "저는 한번도 남을 가르쳐 본 적이 없어요.",
+      "english": "I have not taught anyone, not even once.",
+      "notes": "한번도 = (not even) once\n남 = other people, others"
+    },
+    {
+      "korean": "이거 이해가 잘 안 되는데, 좀 가르쳐 주세요.",
+      "english": "I don't understand this well, (so) please teach me.",
+      "notes": "이거 = this thing; this\n이해가 되다 = to be able to understand"
+    },
+    {
+      "korean": "친구가 길을 잘못 가르쳐 줘서 길을 잃었어요.",
+      "english": "My friend told me the wrong way, so I got lost.",
+      "notes": "잘못 = in the wrong way\n길을 잃다 = to lose one's way; to get lost"
+    },
+    {
+      "korean": "남을 가르치는 일이 쉬운 일은 아닌 것 같아요.",
+      "english": "I think teaching other people is not easy.",
+      "notes": "쉽다 = to be easy\n쉬운 = is the adjective form of 쉽다.\n아니다 = to be not"
+    },
+    {
+      "korean": "그 사람 핸드폰 번호 알면 저 좀 가르쳐 주세요.",
+      "english": "If you know the person's number, please tell me.",
+      "notes": "그 사람 = that person; he, she\n핸드폰 = mobile phone\n번호 = number"
+    },
+    {
+      "korean": "이 서점에 가고 싶은데 어떻게 가는지 가르쳐 주세요.",
+      "english": "I want to go to this bookstore, (so) please tell me how to go there.",
+      "notes": "서점 = bookstore"
+    },
+    {
+      "korean": "어제는 엄마에게 스마트 폰 사용법을 가르쳐 드렸어요.",
+      "english": "I taught my mom how to use a smartphone yesterday.",
+      "notes": "스마트 폰 = smartphone\n사용법 = how to use + N\n-이/에/어 드리다 = (honorific) to do something for someone"
+    },
+    {
+      "korean": "주말에는 아빠가 운전을 가르쳐 주시기로 약속했어요.",
+      "english": "My dad promised to teach me to drive during the weekend.",
+      "notes": "주말 = weekend\n아빠 = dad\n운전 = driving\n-기로 약속하다 = to promise to + V\n-이/에/어 주시다 = (honorific) someone does something for me/us (usually a positive thing)"
+    },
+    {
+      "korean": "저는 저희 아이들에게 거짓말을 하면 안 된다고 가르쳤어요.",
+      "english": "I taught my children that they must not tell lies.",
+      "notes": "저희 = (polite) we, us; our\n아이 = child; kid; baby\n거짓말을 하다 = to lie"
+    },
+    {
+      "korean": "어제 친구가 어떻게 하는지 가르쳐 줬는데 벌써 잊어버렸어요.",
+      "english": "My friend showed me how to do it yesterday, but I already forgot.",
+      "notes": "잊어버리다 = to forget"
+    },
+    {
+      "korean": "제 꿈은 학교 선생님이 되어서 학생들에게 음악을 가르치는 거예요.",
+      "english": "My dream is to become a school teacher and teach music to students.",
+      "notes": "꿈 = dream\n선생님 = teacher\n학생 = student"
+    }
+  ]
+}

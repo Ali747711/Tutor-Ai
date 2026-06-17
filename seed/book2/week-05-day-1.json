@@ -1,0 +1,110 @@
+{
+  "week": 5,
+  "day": 1,
+  "order": 29,
+  "keyword": "배우다",
+  "meaning": "to learn; to study",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "보고 배우다",
+      "english": "to watch and learn; to learn by seeing others do something",
+      "notes": "보다 = to see; to look; to watch; to meet up; to read"
+    },
+    {
+      "korean": "술을 배우다",
+      "english": "to learn to drink; to learn drinking manners",
+      "notes": "술 = alcohol"
+    },
+    {
+      "korean": "운전을 배우다",
+      "english": "to learn to drive",
+      "notes": "운전 = driving"
+    },
+    {
+      "korean": "혼자서 배우다",
+      "english": "to learn by oneself",
+      "notes": "혼자서 = alone, by oneself"
+    },
+    {
+      "korean": "한국어를 배우다",
+      "english": "to learn Korean",
+      "notes": "한국어 = the Korean language"
+    },
+    {
+      "korean": "학교에서 배우다",
+      "english": "to learn in school",
+      "notes": "학교 = school"
+    },
+    {
+      "korean": "한국어 어디에서 배웠어요?",
+      "english": "Where did you learn Korean?",
+      "notes": "어디 = where; somewhere"
+    },
+    {
+      "korean": "아버지한테서 술을 배웠어요.",
+      "english": "I learned my drinking manners from my father.",
+      "notes": "아버지 = father"
+    },
+    {
+      "korean": "그런 말은 어디에서 배웠어요?",
+      "english": "Where did you learn such an expression?",
+      "notes": "그런 = (something) like that; such + noun\n말 = language; what one says; expression; word; term"
+    },
+    {
+      "korean": "그 사람은 뭐든지 빨리 배워요.",
+      "english": "He learns everything fast.",
+      "notes": "그 = the; that\n사람 = person, people\n뭐든지 = whatever it is, anything\n빨리 = the adverb form of 빠르다.\n-살 = age, years old\n때 = time\n처음 = first; for the first time"
+    },
+    {
+      "korean": "20살 때 처음 운전을 배웠어요.",
+      "english": "I learned how to drive for the first time when I was 20 years old.",
+      "notes": ""
+    },
+    {
+      "korean": "분명히 배웠는데 기억이 안 나요.",
+      "english": "I'm sure I learned about it (before), but I can't remember.",
+      "notes": "분명히 = for sure, certainly, without doubt\n기억 = memory\n안 = not\n기억이 나다 = to remember"
+    },
+    {
+      "korean": "기타를 배워 보려고 생각 중이에요.",
+      "english": "I am thinking of learning to play the guitar.",
+      "notes": "기타 = guitar\n-어/여 보다 = to try + V-ing\n생각 = thought; opinion; idea\n-(으)ㄹ고 생각 중이다 = to be thinking of + V-ing"
+    },
+    {
+      "korean": "어릴 때 피아노하고 발레를 배웠어요.",
+      "english": "When I was young, I learned piano and ballet.",
+      "notes": "어릴다 = to be young\n-(으)ㄹ 때 = when/while + S + V\n피아노 = piano\n발레 = ballet"
+    },
+    {
+      "korean": "어제 배운 것을 벌써 다 잊어 버렸어요.",
+      "english": "I've already forgotten what I learned yesterday.",
+      "notes": "어제 = yesterday\n벌써 = already\n다 = all; every (thing)\n잊어버리다 = to forget"
+    },
+    {
+      "korean": "배우고 싶은 것은 많은데 시간이 없어 요.",
+      "english": "There are a lot of things I want to learn, but I have no time.",
+      "notes": "-고 싶다 = to want to + V\n많다 = to be a lot\n시간 = time; hour\n없다 = to not have; to be not there; to not exist"
+    },
+    {
+      "korean": "영어는 배우면 배울수록 더 어려워지는 것 같아요.",
+      "english": "The more English I learn, the more difficult it seems to become.",
+      "notes": "영어 = the English language\n-(으)면 -(으)ㄴ수록 = the more..., the more...\n더 = more\n어렵다 = to be difficult\n-어/여지다 = to become + adjective\n-것 같다 = It seems/looks like + S + V"
+    },
+    {
+      "korean": "아이들은 어른들이 하는 행동을 금방 보고 배워요.",
+      "english": "Kids watch what grown-ups do and learn really quickly.",
+      "notes": "아이 = child, kid; baby\n-들 = is a suffix used to indicate plural.\n어른 = adult, grown-up\n하다 = to do\n행동 = behavior\n금방 = soon, shortly; quickly"
+    },
+    {
+      "korean": "영어를 배우고 싶어하는 사람들이 많아 지고 있어요.",
+      "english": "There is an increasing number of people who want to learn English.",
+      "notes": "-고 싶어하다 = someone wants to + V"
+    },
+    {
+      "korean": "고등학교 때 스페인어를 배웠는데, 지금 은 하나도 기억이 안 나요.",
+      "english": "I learned Spanish back in high school, but I don't remember anything now.",
+      "notes": "고등학교 = high school\n스페인어 = the Spanish language\n지금 = now\n하나도 = not even one; not at all"
+    }
+  ]
+}

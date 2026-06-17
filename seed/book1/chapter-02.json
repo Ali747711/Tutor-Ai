@@ -1,0 +1,341 @@
+{
+  "chapter": 2,
+  "title": "Exchanging Numbers",
+  "category": "Introductions",
+  "shortDialogue": [
+    {
+      "speaker": "수철",
+      "korean": "연락처 좀 알려 주세요.",
+      "romanization": "",
+      "english": "Please let me know your contact information."
+    },
+    {
+      "speaker": "미영",
+      "korean": "여기요. 제 명함이에요.",
+      "romanization": "",
+      "english": "Here. This is my business card."
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "수철",
+      "korean": "오늘 반가웠습니다.",
+      "romanization": "",
+      "english": "It was nice to meet you today."
+    },
+    {
+      "speaker": "미영",
+      "korean": "네, 저도 만나서 반가웠어요.",
+      "romanization": "",
+      "english": "Yes, I was glad to meet you as well."
+    },
+    {
+      "speaker": "수철",
+      "korean": "다시 만나고 싶어요.",
+      "romanization": "",
+      "english": "I want to meet you again."
+    },
+    {
+      "speaker": "미영",
+      "korean": "네, 저도요.",
+      "romanization": "",
+      "english": "Yes, me too."
+    },
+    {
+      "speaker": "수철",
+      "korean": "연락처 좀 알려 주세요.",
+      "romanization": "",
+      "english": "Please let me know your contact information."
+    },
+    {
+      "speaker": "미영",
+      "korean": "여기요. 제 명함이에요.",
+      "romanization": "",
+      "english": "Here. This is my business card."
+    },
+    {
+      "speaker": "수철",
+      "korean": "감사합니다. 저는 아직 명함이 없어요. 제 핸드폰 번호 알려 드릴게요.",
+      "romanization": "",
+      "english": "Thank you. I don't have a business card yet. I will give you my phone number."
+    },
+    {
+      "speaker": "미영",
+      "korean": "그럼 제 번호로 전화해 주세요.",
+      "romanization": "",
+      "english": "Then, call me at my number."
+    },
+    {
+      "speaker": "수철",
+      "korean": "네. 지금 전화하고 있어요.",
+      "romanization": "",
+      "english": "Yes, I'm calling you now."
+    },
+    {
+      "speaker": "미영",
+      "korean": "전화 왔어요.",
+      "romanization": "",
+      "english": "I got the call."
+    },
+    {
+      "speaker": "수철",
+      "korean": "그게 제 번호예요. 저장해 주세요.",
+      "romanization": "",
+      "english": "That's my number. Please save it."
+    },
+    {
+      "speaker": "미영",
+      "korean": "네. 그럼 다음에 또 봐요.",
+      "romanization": "",
+      "english": "Yes. Well, I will see you next time."
+    }
+  ],
+  "culturalTip": "The standard Korean word for \"mobile phone\" was 휴대폰 [hyu-dae-pon] until the term 핸드폰 [haen-deu-pon] (lit. hand phone) became more popular. It is now used on a daily basis. Both terms are recognized as standard Korean words, so therefore can be found in the dictionary. Young Korean speakers generally refer to mobile phones as 폰 [pon] (lit. phone). 스마트폰 [seu-ma-teu-pon] (lit. smartphone) is rarely used unless to differentiate between a regular non-smartphone mobile device and a smartphone.",
+  "koreanReview": "- Short Dialogue\n수철: 연락처 좀 알려 주세요.\n미영: 여기요. 제 명함이에요.\n\n- Long Dialogue\n수철: 오늘 반가웠습니다.\n미영: 네, 저도 만나서 반가웠어요.\n수철: 다시 만나고 싶어요.\n미영: 네, 저도요.\n수철: 연락처 좀 알려 주세요.\n미영: 여기요. 제 명함이에요.\n수철: 감사합니다. 저는 아직 명함이 없어요. 제 핸드폰 번호 알려 드릴게요.\n미영: 그럼 제 번호로 전화해 주세요.\n수철: 네. 지금 전화하고 있어요.\n미영: 전화 왔어요.\n수철: 그게 제 번호예요. 저장해 주세요.\n미영: 네. 그럼 다음에 또 봐요.",
+  "coreVocab": [
+    {
+      "korean": "연락처",
+      "romanization": "yeol-lak-cheo",
+      "meaning": "contact information"
+    },
+    {
+      "korean": "좀",
+      "romanization": "jom",
+      "meaning": "a little (often used as a filler without any meaning, such as the English \"well\", \"um\", or \"hm\")"
+    },
+    {
+      "korean": "알리다",
+      "romanization": "al-li-da",
+      "meaning": "to let (someone) know, to inform"
+    },
+    {
+      "korean": "VERB + -아/어/여 주다",
+      "romanization": "-a/eo/yeo ju-da",
+      "meaning": "to VERB (for someone)"
+    },
+    {
+      "korean": "여기",
+      "romanization": "yeo-gi",
+      "meaning": "here"
+    },
+    {
+      "korean": "제",
+      "romanization": "je",
+      "meaning": "my (short for 저의)"
+    },
+    {
+      "korean": "명함",
+      "romanization": "myeong-ham",
+      "meaning": "business card"
+    },
+    {
+      "korean": "NOUN + -이에요/예요",
+      "romanization": "-i-e-yo/ye-yo",
+      "meaning": "to be + NOUN"
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "오늘",
+      "romanization": "o-neul",
+      "meaning": "today"
+    },
+    {
+      "korean": "반갑다",
+      "romanization": "ban-gap-tta",
+      "meaning": "to be glad (to meet)"
+    },
+    {
+      "korean": "만나다",
+      "romanization": "man-na-da",
+      "meaning": "to meet"
+    },
+    {
+      "korean": "연락처",
+      "romanization": "yeol-lak-cheo",
+      "meaning": "contact information"
+    },
+    {
+      "korean": "알려 주다",
+      "romanization": "al-lyeo ju-da",
+      "meaning": "to let (someone) know"
+    },
+    {
+      "korean": "여기",
+      "romanization": "yeo-gi",
+      "meaning": "here"
+    },
+    {
+      "korean": "명함",
+      "romanization": "myeong-ham",
+      "meaning": "business card"
+    },
+    {
+      "korean": "감사하다",
+      "romanization": "gam-sa-ha-da",
+      "meaning": "to be thankful"
+    },
+    {
+      "korean": "아직",
+      "romanization": "a-jik",
+      "meaning": "yet"
+    },
+    {
+      "korean": "없다",
+      "romanization": "eop-tta",
+      "meaning": "to not exist, to not have, to not be there"
+    },
+    {
+      "korean": "핸드폰",
+      "romanization": "haen-deu-pon",
+      "meaning": "cell phone"
+    },
+    {
+      "korean": "번호",
+      "romanization": "beo-no",
+      "meaning": "number"
+    },
+    {
+      "korean": "알려 드리다",
+      "romanization": "al-lyeo deu-ri-da",
+      "meaning": "to let (someone) know (honorific)"
+    },
+    {
+      "korean": "전화하다",
+      "romanization": "jeo-nwa-ha-da",
+      "meaning": "to call"
+    },
+    {
+      "korean": "오다",
+      "romanization": "o-da",
+      "meaning": "to come"
+    },
+    {
+      "korean": "저장하다",
+      "romanization": "jeo-jang-ha-da",
+      "meaning": "to save"
+    },
+    {
+      "korean": "다음",
+      "romanization": "da-eum",
+      "meaning": "next"
+    },
+    {
+      "korean": "뵙다",
+      "romanization": "boep-tta",
+      "meaning": "to see, to meet (honorific)"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "Polite Request",
+      "pattern": "VERB + -아/어/여 주세요. = Please VERB (me).",
+      "meaning": "Please VERB (me).",
+      "explanation": "* If the verb stem ends with ㅏ or ㅗ, it is followed by -아 주세요. If the verb stem ends with 하, it is followed by -여 주세요. For all other verb stem endings, use -어 주세요.",
+      "examples": [
+        {
+          "korean": "전화하다 + -아/어/여 주세요 → 전화하여 주세요. → 전화해 주세요.",
+          "romanization": "",
+          "english": "Please call (me)."
+        },
+        {
+          "korean": "만나다 + -아/어/여 주세요 → 만나아 주세요. → 만나 주세요.",
+          "romanization": "",
+          "english": "Please meet (me)."
+        },
+        {
+          "korean": "가르치다 + -아/어/여 주세요 → 가르치어 주세요. → 가르쳐 주세요.",
+          "romanization": "",
+          "english": "Please teach (me)."
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "저장하다 + -아/어/여 주세요",
+          "answer": "저장해 주세요.",
+          "english": "Please save (it)."
+        },
+        {
+          "prompt": "알리다 + -아/어/여 주세요",
+          "answer": "알려 주세요.",
+          "english": "Please let (me) know."
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Present Progressive",
+      "pattern": "VERB +-고 있어요. = I am VERB-ing.",
+      "meaning": "I am VERB-ing.",
+      "explanation": "",
+      "examples": [
+        {
+          "korean": "전화하다 + -고 있어요 → 전화하고 있어요.",
+          "romanization": "",
+          "english": "I'm calling now."
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "만나다 + -고 있어요",
+          "answer": "만나고 있어요.",
+          "english": "I'm meeting now."
+        },
+        {
+          "prompt": "저장하다 + -고 있어요",
+          "answer": "저장하고 있어요.",
+          "english": "I'm saving (it) now."
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "When a syllable ends with ㄴ and is followed by a syllable that begins with ㄹ, the ㄴ is pronounced as ㄹ.",
+      "examples": [
+        {
+          "korean": "연락처",
+          "pronounced": "열락처",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "난로",
+          "answer": "날로",
+          "gloss": "(heater, stove)"
+        },
+        {
+          "prompt": "분리하다",
+          "answer": "불리하다",
+          "gloss": "(to separate)"
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "When a syllable ends with ㅂ and is followed by a syllable that begins with ㄴ, the ㅂ is pronounced as ㅁ.",
+      "examples": [
+        {
+          "korean": "감사합니다",
+          "pronounced": "감사함니다",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "잡는",
+          "answer": "잠는",
+          "gloss": ""
+        },
+        {
+          "prompt": "갑니다",
+          "answer": "감니다",
+          "gloss": ""
+        }
+      ]
+    }
+  ]
+}

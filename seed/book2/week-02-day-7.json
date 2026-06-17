@@ -1,0 +1,110 @@
+{
+  "week": 2,
+  "day": 7,
+  "order": 14,
+  "keyword": "쓰다",
+  "meaning": "to write",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "글을 쓰다",
+      "english": "to write",
+      "notes": "글 = writing"
+    },
+    {
+      "korean": "편지를 쓰다",
+      "english": "to write a letter",
+      "notes": "편지 = letter"
+    },
+    {
+      "korean": "소설을 쓰다",
+      "english": "to write a novel",
+      "notes": "소설 = novel, fiction"
+    },
+    {
+      "korean": "이메일을 쓰다",
+      "english": "to write an e-mail",
+      "notes": "이메일 = e-mail"
+    },
+    {
+      "korean": "뭐라고 썼어요?",
+      "english": "What did you write?",
+      "notes": "-라고 is a verb ending used for citing or quoting a noun."
+    },
+    {
+      "korean": "쓸 말이 없어요.",
+      "english": "I have nothing to write.",
+      "notes": "말 = language; what one says; expression; word; term"
+    },
+    {
+      "korean": "언제 쓸 거예요?",
+      "english": "When are you going to write it?",
+      "notes": "언제 = when"
+    },
+    {
+      "korean": "이름 좋 써 주세요.",
+      "english": "Please write your name.",
+      "notes": "이름 = name"
+    },
+    {
+      "korean": "이름 어떻게 써요?",
+      "english": "How do you write your name?",
+      "notes": "어떻게 = how"
+    },
+    {
+      "korean": "이거 누가 썼어요?",
+      "english": "Who wrote this?",
+      "notes": ""
+    },
+    {
+      "korean": "다 쓰면 보여주세요.",
+      "english": "When you finish writing, show it to me.",
+      "notes": "보여주다 = to show, display"
+    },
+    {
+      "korean": "여기에 써면 돼나요?",
+      "english": "Do you want me to write it here?",
+      "notes": "여기 = here, this place\n-(으)면 되다 = to be just supposed to + V; to just have to + V; can just + V"
+    },
+    {
+      "korean": "제가 쓴 거 봐 주세요.",
+      "english": "Please take a look at what I have written.",
+      "notes": ""
+    },
+    {
+      "korean": "처음부터 다시 써세요.",
+      "english": "Write it all over again from the beginning.",
+      "notes": "처음 = first; for the first time\n다시 = again"
+    },
+    {
+      "korean": "이거 영어로 써 주세요.",
+      "english": "Write this in English.",
+      "notes": "영어로 = in English"
+    },
+    {
+      "korean": "보고서를 쓰는 중이에요.",
+      "english": "I am in the middle of writing a report.",
+      "notes": "보고서 = report\n중이다 = to be V-ing; to be between/middle/in the middle of + V-ing"
+    },
+    {
+      "korean": "편지 누구한테 써야 돼요?",
+      "english": "To whom should I write this letter?",
+      "notes": "누구 = who\n-이/이/여야 되다 = to have to + V"
+    },
+    {
+      "korean": "제가 쓴 이메일 봤어요?",
+      "english": "Did you read the e-mail I wrote to you?",
+      "notes": "봐다 = to see; to look; to watch; to meet up; to read"
+    },
+    {
+      "korean": "최근에 편지 쓴 적 있어요?",
+      "english": "Have you written a letter recently?",
+      "notes": "최근에 = recently, lately\n-(으)ㄴ 적이 있다 = to have done something"
+    },
+    {
+      "korean": "그 사람이 쓴 책은 재미있어요.",
+      "english": "The book he wrote is interesting.",
+      "notes": "그 = that, the\n사람 = person\n책 = book\n재미있다 = to be interesting"
+    }
+  ]
+}

@@ -1,0 +1,362 @@
+{
+  "chapter": 31,
+  "title": "Cooking",
+  "category": "Food",
+  "shortDialogue": [
+    {
+      "speaker": "상미",
+      "korean": "참치 캔 따 줘.",
+      "romanization": "",
+      "english": "Open the tuna can for me."
+    },
+    {
+      "speaker": "승우",
+      "korean": "응. 여기.",
+      "romanization": "",
+      "english": "Ok. Here."
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "상미",
+      "korean": "오늘 저녁은 참치 김치찌개야.",
+      "romanization": "",
+      "english": "Today we are having tuna kimchi stew for dinner."
+    },
+    {
+      "speaker": "승우",
+      "korean": "우와! 맛있겠다!",
+      "romanization": "",
+      "english": "Wow. It sounds delicious!"
+    },
+    {
+      "speaker": "상미",
+      "korean": "오늘은 네가 도와줘.",
+      "romanization": "",
+      "english": "You need to help me today."
+    },
+    {
+      "speaker": "승우",
+      "korean": "내가? 나 요리 못해.",
+      "romanization": "",
+      "english": "Me? I can't cook."
+    },
+    {
+      "speaker": "상미",
+      "korean": "참치 김치찌개는 진짜 쉬워. 네가 할래?",
+      "romanization": "",
+      "english": "Tuna kimchi stew is really easy. Do you want to make it?"
+    },
+    {
+      "speaker": "승우",
+      "korean": "내가 해도 맛있을까? 그래. 도와줄게.",
+      "romanization": "",
+      "english": "I wonder if it will be tasty if I make it. Okay. I'll help you."
+    },
+    {
+      "speaker": "상미",
+      "korean": "먼저 참치 캔 따 줘.",
+      "romanization": "",
+      "english": "First, open the tuna can."
+    },
+    {
+      "speaker": "승우",
+      "korean": "응. 여기.",
+      "romanization": "",
+      "english": "Ok. Here."
+    },
+    {
+      "speaker": "상미",
+      "korean": "참치 기름에 김치를 볶아.",
+      "romanization": "",
+      "english": "Stir-fry the kimchi in the tuna oil."
+    },
+    {
+      "speaker": "승우",
+      "korean": "나 김치 볶음도 좋아해. 그냥 이거 먹자.",
+      "romanization": "",
+      "english": "I like fried kimchi, too. Let's just eat this."
+    },
+    {
+      "speaker": "상미",
+      "korean": "기다려. 금방 해. 이제 물 부어.",
+      "romanization": "",
+      "english": "Wait. We can do it soon. Now, pour in some water."
+    },
+    {
+      "speaker": "승우",
+      "korean": "응. 그리고 뭐 해?",
+      "romanization": "",
+      "english": "Ok. And now what?"
+    },
+    {
+      "speaker": "상미",
+      "korean": "참치 넣어. 끝.",
+      "romanization": "",
+      "english": "Add tuna. The end."
+    }
+  ],
+  "culturalTip": "Cooking-related TV shows have recently become very popular in Korea. There are also many chefs who have become famous, too. In addition to chefs, some restaurant owners who happen to cook well are also popular on TV, since they usually introduce simple, yet delicious recipes of their own that are easy to cook at home. The rise in popularity of cooking shows has led many young people to dream of becoming a chef.",
+  "koreanReview": "- Short Dialogue\n상미: 참치 캔 따 줘.\n승우: 응. 여기.\n\n- Long Dialogue\n상미: 오늘 저녁은 참치 김치찌개야.\n승우: 우와! 맛있겠다!\n상미: 오늘은 네가 도와줘.\n승우: 내가? 나 요리 못해.\n상미: 참치 김치찌개는 진짜 쉬워. 네가 할래?\n승우: 내가 해도 맛있을까? 그래. 도와줄게.\n상미: 먼저 참치 캔 따 줘.\n승우: 응. 여기.\n상미: 참치 기름에 김치를 볶아.\n승우: 나 김치 볶음도 좋아해. 그냥 이거 먹자.\n상미: 기다려. 금방 해. 이제 물 부어.\n승우: 응. 그리고 뭐 해?\n상미: 참치 넣어. 끝.",
+  "coreVocab": [
+    {
+      "korean": "참치",
+      "romanization": "cham-chi",
+      "meaning": "tuna"
+    },
+    {
+      "korean": "캔",
+      "romanization": "kaen",
+      "meaning": "can"
+    },
+    {
+      "korean": "따다",
+      "romanization": "tta-da",
+      "meaning": "to open"
+    },
+    {
+      "korean": "VERB + -아/어/여 줘",
+      "romanization": "-ae-yo/yeo jwo",
+      "meaning": "Please VERB (me). (casual)"
+    },
+    {
+      "korean": "응",
+      "romanization": "eung",
+      "meaning": "yes, yeah, ok (casual)"
+    },
+    {
+      "korean": "여기",
+      "romanization": "yeo-gi",
+      "meaning": "here"
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "오늘",
+      "romanization": "o-neul",
+      "meaning": "today"
+    },
+    {
+      "korean": "저녁",
+      "romanization": "jeo-nyeok",
+      "meaning": "dinner, evening"
+    },
+    {
+      "korean": "김치찌개",
+      "romanization": "gim-chi-jji-gae",
+      "meaning": "kimchi stew"
+    },
+    {
+      "korean": "맛있다",
+      "romanization": "ma-sit-ta",
+      "meaning": "to be tasty"
+    },
+    {
+      "korean": "도와주다",
+      "romanization": "do-wa-ju-da",
+      "meaning": "to help"
+    },
+    {
+      "korean": "요리",
+      "romanization": "yo-ri",
+      "meaning": "cooking"
+    },
+    {
+      "korean": "못하다",
+      "romanization": "mo-ta-da",
+      "meaning": "to be bad at"
+    },
+    {
+      "korean": "진짜",
+      "romanization": "jin-jja",
+      "meaning": "really"
+    },
+    {
+      "korean": "쉽다",
+      "romanization": "swip-tta",
+      "meaning": "to be easy"
+    },
+    {
+      "korean": "먼저",
+      "romanization": "meon-jeo",
+      "meaning": "first, early"
+    },
+    {
+      "korean": "기름",
+      "romanization": "gi-reum",
+      "meaning": "oil"
+    },
+    {
+      "korean": "볶다",
+      "romanization": "bok-tta",
+      "meaning": "to fry"
+    },
+    {
+      "korean": "네",
+      "romanization": "ne",
+      "meaning": "you (written) * In colloquial Korean, it is often pronounced as ㄴ [ni] in order to avoid confusion with 내 [nae] meaning \"I\"."
+    },
+    {
+      "korean": "김치 볶음",
+      "romanization": "gim-chi bo-kkeum",
+      "meaning": "fried kimchi"
+    },
+    {
+      "korean": "좋아하다",
+      "romanization": "jo-a-ha-da",
+      "meaning": "to like"
+    },
+    {
+      "korean": "그냥",
+      "romanization": "geu-nyang",
+      "meaning": "just"
+    },
+    {
+      "korean": "이거",
+      "romanization": "i-geo",
+      "meaning": "this, this thing"
+    },
+    {
+      "korean": "먹다",
+      "romanization": "meok-tta",
+      "meaning": "to eat"
+    },
+    {
+      "korean": "기다리다",
+      "romanization": "gi-da-ri-da",
+      "meaning": "to wait"
+    },
+    {
+      "korean": "금방",
+      "romanization": "geum-bang",
+      "meaning": "soon"
+    },
+    {
+      "korean": "물",
+      "romanization": "mul",
+      "meaning": "water"
+    },
+    {
+      "korean": "붓다",
+      "romanization": "but-tta",
+      "meaning": "to pour"
+    },
+    {
+      "korean": "그리고",
+      "romanization": "geu-ri-go",
+      "meaning": "and"
+    },
+    {
+      "korean": "넣다",
+      "romanization": "neo-ta",
+      "meaning": "to put, to add"
+    },
+    {
+      "korean": "끝",
+      "romanization": "kkeut",
+      "meaning": "end"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "Asking Politely",
+      "pattern": "VERB + -아/어/여 줘",
+      "meaning": "Please VERB (for me). (casual)",
+      "explanation": "Ex) 따다 + -아/어/여 줘 → 따아 줘 → 따 줘. = Please open it (for me).",
+      "examples": [
+        {
+          "korean": "따다 + -아/어/여 줘 → 따아 줘 → 따 줘.",
+          "romanization": "",
+          "english": "Please open it (for me)."
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "붓다 + -아/어/여 줘 ······>",
+          "answer": "부어 줘",
+          "english": "Please fry it (for me)."
+        },
+        {
+          "prompt": "기다리다 + -아/어/여 줘 ······>",
+          "answer": "기다려 줘",
+          "english": "Please wait (for me)."
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Asking for an Opinion/Seeking a Response",
+      "pattern": "ADJECTIVE + -(으)르까(요)?",
+      "meaning": "Do you think (SUBJECT) will be ADJECTIVE? / I wonder if (SUBJECT) will be ADJECTIVE.",
+      "explanation": "Ex) 맛있다 + -(으)르까(요)? → 맛있을까(요)?\n= Do you think it will be tasty? / I wonder if it will be tasty.",
+      "examples": [
+        {
+          "korean": "맛있다 + -(으)르까(요)? → 맛있을까(요)?",
+          "romanization": "",
+          "english": "Do you think it will be tasty? / I wonder if it will be tasty."
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "예쁘다 + -(으)르까(요)? ······>",
+          "answer": "예쁠까(요)?",
+          "english": "Do you think it will be pretty? / I wonder if it will be pretty."
+        },
+        {
+          "prompt": "바쁘다 + -(으)르까(요)? ······>",
+          "answer": "바쁠까(요)?",
+          "english": "Do you think (they) will be busy? / I wonder if (they) will be busy."
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "When ㄹ is used as 받침, or a final consonant, it is pronounced like ㄷ.",
+      "examples": [
+        {
+          "korean": "끝",
+          "pronounced": "끝",
+          "romanization": "kkeut"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "밭 (dry field, farm) ······>",
+          "answer": "밭",
+          "gloss": "(dry field, farm)"
+        },
+        {
+          "prompt": "물 (land, shore) ······>",
+          "answer": "물",
+          "gloss": "(land, shore)"
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "When a syllable ends with ㄹ (which sounds the same as ㄹ when in the 받침 position) and is followed by a syllable that begins with ㄱ, the ㄱ is pronounced as ㄲ.",
+      "examples": [
+        {
+          "korean": "맛있겠 → [마싱깬]",
+          "pronounced": "[마싱깬]",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "있고 ······>",
+          "answer": "[있꼬]",
+          "gloss": ""
+        },
+        {
+          "prompt": "빗고 ······>",
+          "answer": "[빗꼬]",
+          "gloss": ""
+        }
+      ]
+    }
+  ]
+}

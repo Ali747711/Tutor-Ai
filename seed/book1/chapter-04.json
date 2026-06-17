@@ -1,0 +1,406 @@
+{
+  "chapter": 4,
+  "title": "Plans",
+  "category": "Friends",
+  "shortDialogue": [
+    {
+      "speaker": "소영",
+      "korean": "민우야, 우리 영화 보러 가자.",
+      "romanization": "",
+      "english": "Min-woo, let's go see a movie."
+    },
+    {
+      "speaker": "민우",
+      "korean": "그래. 좋아.",
+      "romanization": "",
+      "english": "Ok. Good."
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "소영",
+      "korean": "민우야, 이번 주 토요일에 뭐 해?",
+      "romanization": "",
+      "english": "Min-woo, what are you doing this Saturday?"
+    },
+    {
+      "speaker": "민우",
+      "korean": "토요일? 토요일에 친구 생일이라서 친구 만날 거야.",
+      "romanization": "",
+      "english": "Saturday? It's my friend's birthday on Saturday, so I'm meeting my friend."
+    },
+    {
+      "speaker": "소영",
+      "korean": "그럼 일요일은?",
+      "romanization": "",
+      "english": "How about Sunday?"
+    },
+    {
+      "speaker": "민우",
+      "korean": "일요일은 아직 아무 계획 없어. 왜?",
+      "romanization": "",
+      "english": "I don't have any plans for Sunday. Why?"
+    },
+    {
+      "speaker": "소영",
+      "korean": "그럼 일요일에 우리 만나자.",
+      "romanization": "",
+      "english": "Then let's meet on Sunday."
+    },
+    {
+      "speaker": "민우",
+      "korean": "왜? 무슨 일 있어?",
+      "romanization": "",
+      "english": "Why? Anything happening?"
+    },
+    {
+      "speaker": "소영",
+      "korean": "아니. 아무 일도 없어. 그냥 보고 싶어서.",
+      "romanization": "",
+      "english": "No. Nothing happening. I just wanted to see you."
+    },
+    {
+      "speaker": "민우",
+      "korean": "지금 데이트 신청하는 거야?",
+      "romanization": "",
+      "english": "Are you asking me out on a date now?"
+    },
+    {
+      "speaker": "소영",
+      "korean": "응. 맞아. 우리 영화 보러 가자.",
+      "romanization": "",
+      "english": "Yeah, that's right. Let's go see a movie."
+    },
+    {
+      "speaker": "민우",
+      "korean": "그래. 좋아. 몇 시에 볼까?",
+      "romanization": "",
+      "english": "Ok. Good. What time shall we meet?"
+    },
+    {
+      "speaker": "소영",
+      "korean": "세 시에 영화관 앞에서 보자.",
+      "romanization": "",
+      "english": "Let's meet in front of the movie theater at 3."
+    },
+    {
+      "speaker": "민우",
+      "korean": "알겠어.",
+      "romanization": "",
+      "english": "I got it."
+    }
+  ],
+  "culturalTip": "When addressing someone using 반말 (casual language), the speaker will typically add -아 or -야 to the end of the name. Names that end in a vowel are followed by -야, and names that end in a consonant are followed by -아.",
+  "koreanReview": "- Short Dialogue\n소영: 민우야, 우리 영화 보러 가자.\n민우: 그래. 좋아.\n\n- Long Dialogue\n소영: 민우야, 이번 주 토요일에 뭐 해?\n민우: 토요일? 토요일에 친구 생일이라서 친구 만날 거야.\n소영: 그럼 일요일은?\n민우: 일요일은 아직 아무 계획 없어. 왜?\n소영: 그럼 일요일에 우리 만나자.\n민우: 왜? 무슨 일 있어?\n소영: 아니. 아무 일도 없어. 그냥 보고 싶어서.\n민우: 지금 데이트 신청하는 거야?\n소영: 응. 맞아. 우리 영화 보러 가자.\n민우: 그래. 좋아. 몇 시에 볼까?\n소영: 세 시에 영화관 앞에서 보자.\n민우: 알겠어.",
+  "coreVocab": [
+    {
+      "korean": "우리",
+      "romanization": "u-ri",
+      "meaning": "we"
+    },
+    {
+      "korean": "영화",
+      "romanization": "yeong-hwa",
+      "meaning": "movie"
+    },
+    {
+      "korean": "보다",
+      "romanization": "bo-da",
+      "meaning": "to see, to watch"
+    },
+    {
+      "korean": "VERB + -(으)러 가다",
+      "romanization": "-(eu-)reo ga-da",
+      "meaning": "to go to VERB"
+    },
+    {
+      "korean": "VERB + -자",
+      "romanization": "-ja",
+      "meaning": "let's VERB (casual)"
+    },
+    {
+      "korean": "그래",
+      "romanization": "geu-rae",
+      "meaning": "ok (casual)"
+    },
+    {
+      "korean": "좋다",
+      "romanization": "jo-ta",
+      "meaning": "to be good, to like"
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "이번",
+      "romanization": "i-beon",
+      "meaning": "this, this time"
+    },
+    {
+      "korean": "주",
+      "romanization": "ju",
+      "meaning": "week"
+    },
+    {
+      "korean": "토요일",
+      "romanization": "to-yo-il",
+      "meaning": "Saturday"
+    },
+    {
+      "korean": "뭐",
+      "romanization": "mwo",
+      "meaning": "what, something"
+    },
+    {
+      "korean": "하다",
+      "romanization": "ha-da",
+      "meaning": "to do"
+    },
+    {
+      "korean": "친구",
+      "romanization": "chin-gu",
+      "meaning": "friend"
+    },
+    {
+      "korean": "생일",
+      "romanization": "saeng-il",
+      "meaning": "birthday"
+    },
+    {
+      "korean": "만나다",
+      "romanization": "man-na-da",
+      "meaning": "to meet, to see"
+    },
+    {
+      "korean": "일요일",
+      "romanization": "i-ryo-il",
+      "meaning": "Sunday"
+    },
+    {
+      "korean": "아직",
+      "romanization": "a-jik",
+      "meaning": "yet"
+    },
+    {
+      "korean": "아무",
+      "romanization": "a-mu",
+      "meaning": "any"
+    },
+    {
+      "korean": "계획",
+      "romanization": "gye-hoek",
+      "meaning": "plans"
+    },
+    {
+      "korean": "없다",
+      "romanization": "eop-tta",
+      "meaning": "to not exist, to not have, to not be there"
+    },
+    {
+      "korean": "왜",
+      "romanization": "wae",
+      "meaning": "why"
+    },
+    {
+      "korean": "우리",
+      "romanization": "u-ri",
+      "meaning": "we"
+    },
+    {
+      "korean": "무슨",
+      "romanization": "mu-seun",
+      "meaning": "what, something"
+    },
+    {
+      "korean": "일",
+      "romanization": "il",
+      "meaning": "work"
+    },
+    {
+      "korean": "있다",
+      "romanization": "it-tta",
+      "meaning": "to exist, to have"
+    },
+    {
+      "korean": "그냥",
+      "romanization": "geu-nyang",
+      "meaning": "just, just because"
+    },
+    {
+      "korean": "보고 싶다",
+      "romanization": "bo-go sip-tta",
+      "meaning": "to miss"
+    },
+    {
+      "korean": "데이트",
+      "romanization": "de-i-teu",
+      "meaning": "date"
+    },
+    {
+      "korean": "신청하다",
+      "romanization": "sin-cheong-ha-da",
+      "meaning": "to apply for"
+    },
+    {
+      "korean": "영화",
+      "romanization": "yeong-hwa",
+      "meaning": "movie"
+    },
+    {
+      "korean": "보다",
+      "romanization": "bo-da",
+      "meaning": "to see, to watch"
+    },
+    {
+      "korean": "가다",
+      "romanization": "ga-da",
+      "meaning": "to go"
+    },
+    {
+      "korean": "좋다",
+      "romanization": "jo-ta",
+      "meaning": "to be good, to like"
+    },
+    {
+      "korean": "몇 시",
+      "romanization": "myeot si",
+      "meaning": "what time"
+    },
+    {
+      "korean": "세 시",
+      "romanization": "se si",
+      "meaning": "three o'clock"
+    },
+    {
+      "korean": "영화관",
+      "romanization": "yeong-hwa-gwan",
+      "meaning": "movie theater"
+    },
+    {
+      "korean": "앞",
+      "romanization": "ap",
+      "meaning": "front"
+    },
+    {
+      "korean": "알다",
+      "romanization": "al-da",
+      "meaning": "to know"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "Subordinating Conjunction with a Noun",
+      "pattern": "NOUN + -(이)라서 = because it is NOUN",
+      "meaning": "because it is NOUN",
+      "explanation": "If a noun ends with a vowel, attach -라서 at the end, and if it ends with a consonant, use -이라서.",
+      "examples": [
+        {
+          "korean": "생일 + -(이)라서 → 생일이라서",
+          "romanization": "",
+          "english": "because it is one's birthday"
+        },
+        {
+          "korean": "숙제 + -(이)라서 → 숙제라서",
+          "romanization": "",
+          "english": "because it is homework"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "토요일 + -(이)라서",
+          "answer": "토요일이라서",
+          "english": "because it is Saturday"
+        },
+        {
+          "prompt": "세 시 + -(이)라서",
+          "answer": "세 시라서",
+          "english": "because it is 3 o'clock"
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Subordinating Conjunction with a Verb/Adjective",
+      "pattern": "VERB/ADJECTIVE + -아/어/여서 = because I VERB / because I am ADJECTIVE",
+      "meaning": "because I VERB / because I am ADJECTIVE",
+      "explanation": "If the verb stem ends with ㅏ or ㅗ, it is followed by -아서. If the verb stem ends with 하, it is followed by -여서. For all other verb stem endings, use -어서.",
+      "examples": [
+        {
+          "korean": "가다 + -아/어/여서 → 가아서 → 가서",
+          "romanization": "",
+          "english": "because I go"
+        },
+        {
+          "korean": "보고 싶다 + -아/어/여서 → 보고 싶어서",
+          "romanization": "",
+          "english": "because I want to see"
+        },
+        {
+          "korean": "신청하다 + -아/어/여서 → 신청하여서 → 신청해서",
+          "romanization": "",
+          "english": "because I apply"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "바쁘다 + -아/어/여서",
+          "answer": "바빠서",
+          "english": "because I am busy"
+        },
+        {
+          "prompt": "없다 + -아/어/여서",
+          "answer": "없어서",
+          "english": "because I don't have"
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "When a syllable ends with -(으)ㄹ and is followed by a syllable that begins with ㄱ, the ㄱ is pronounced as ㄲ.",
+      "examples": [
+        {
+          "korean": "만날 거야",
+          "pronounced": "만날 꺼야",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "갈 거야",
+          "answer": "갈 꺼야",
+          "gloss": "(I am going to go)"
+        },
+        {
+          "prompt": "볼 거야",
+          "answer": "볼 꺼야",
+          "gloss": "(I am going to see)"
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "When ㅊ is used as 받침, or a final consonant, it is pronounced like ㄷ.",
+      "examples": [
+        {
+          "korean": "몇",
+          "pronounced": "멷",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "꽃",
+          "answer": "꼳",
+          "gloss": "(flower)"
+        },
+        {
+          "prompt": "빛",
+          "answer": "빋",
+          "gloss": "(light)"
+        }
+      ]
+    }
+  ]
+}

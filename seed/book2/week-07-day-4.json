@@ -1,0 +1,110 @@
+{
+  "week": 7,
+  "day": 4,
+  "order": 46,
+  "keyword": "시간",
+  "meaning": "time; hour",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "점심 시간",
+      "english": "lunch time",
+      "notes": "점심 = lunch"
+    },
+    {
+      "korean": "시간 낭비",
+      "english": "waste of time",
+      "notes": "낭비 = waste (of + N)"
+    },
+    {
+      "korean": "밥 먹는 시간",
+      "english": "time to eat, time for eating",
+      "notes": "밥 = food; meal; cooked rice\n먹다 = to eat; to drink"
+    },
+    {
+      "korean": "시간을 보내다",
+      "english": "to spend time",
+      "notes": ""
+    },
+    {
+      "korean": "시간을 아끼다",
+      "english": "to save time",
+      "notes": "아끼다 = to save"
+    },
+    {
+      "korean": "시간을 물어보다",
+      "english": "to ask the time",
+      "notes": "물어보다 = to ask"
+    },
+    {
+      "korean": "시간을 되돌리다",
+      "english": "to turn back the time",
+      "notes": "되돌리다 = to turn back"
+    },
+    {
+      "korean": "시간 있어요?",
+      "english": "Do you have time?",
+      "notes": ""
+    },
+    {
+      "korean": "시간 다 됐어요.",
+      "english": "Time's up.",
+      "notes": "시간이 다 됐어 = time is up"
+    },
+    {
+      "korean": "시간 좀 내 주세요.",
+      "english": "Please make some time for me.",
+      "notes": "시간을 내다 = to spare time; to make time\n-아/어/여 주세요 = (polite) Please do + something + for me"
+    },
+    {
+      "korean": "수업 시간에 졸았어요.",
+      "english": "I fell asleep in class.",
+      "notes": "수업 = class\n졸다 = to doze off"
+    },
+    {
+      "korean": "시간 없다고 했잖아요.",
+      "english": "I told you I don't have time.",
+      "notes": "-잖아(요) is a sentence ending used most commonly when correcting another person's remark or when refreshing someone's memory."
+    },
+    {
+      "korean": "언제 시간 낼 수 있어요?",
+      "english": "When can you make some time?",
+      "notes": "언제 = when"
+    },
+    {
+      "korean": "한 시간 정도 걸릴 것 같아요.",
+      "english": "I think it will take about an hour.",
+      "notes": "한 시간 = one hour\n정도 = about, around\n(시간이) 걸리다 = to take (a certain amount of time)"
+    },
+    {
+      "korean": "점심 시간에 은행에 다녀올게요.",
+      "english": "I will go to the bank during lunch time.",
+      "notes": "은행 = bank\n다녀오다 = to go (to a place and come back)\n-(으)ㄹ게 것이다 = will; be going to + V"
+    },
+    {
+      "korean": "서울에서 부산까지 몇 시간 걸려요?",
+      "english": "How much time does it take to go from Seoul to Busan?",
+      "notes": "-까지 = until; to\n몇 시간 = how many hours; a few hours"
+    },
+    {
+      "korean": "시간 가는 줄 모르고 수다를 떨었어요.",
+      "english": "We chatted on without noticing the passage of time.",
+      "notes": "시간이 가다 = time passes\n-는 줄 모르다 = to not know/notice + S + V\n수다 = chatter\n수다를 떨다 = to chatter"
+    },
+    {
+      "korean": "그 곳에 가는 건 시간 낭비라고 생각해요.",
+      "english": "I think going there is a waste of time.",
+      "notes": "그 = the; that\n곳 = place\n가다 = to go; to leave\n생각하다 = to think"
+    },
+    {
+      "korean": "지금 출발하면 거기까지 가는 데에 얼마나 걸릴까요?",
+      "english": "If we leave now, how long do you think it will take to get there?",
+      "notes": "출발하다 = to depart\n거기 = there, that place\n-는 데(에) = in + V-ing, for + V-ing"
+    },
+    {
+      "korean": "시간을 되돌릴 수 있다면 초등학교 때로 돌아가고 싶어요.",
+      "english": "If I could turn back time, I'd want to go back to elementary school.",
+      "notes": "-(으)ㄹ 수 있다면 = if one could + V\n초등학교 = elementary school\n돌아가다 = to go back; return"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "week": 1,
+  "day": 5,
+  "order": 5,
+  "keyword": "말하다",
+  "meaning": "to talk; to say; to speak; to tell",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "짧게 말하다",
+      "english": "to make a quick remark",
+      "notes": "짧다 = to be short\n짧게 is an adverb form of 짧다."
+    },
+    {
+      "korean": "생각을 말하다",
+      "english": "to voice one's opinion",
+      "notes": "생각 = thought; opinion; idea"
+    },
+    {
+      "korean": "솔직히 말하다",
+      "english": "to say honestly",
+      "notes": "솔직히 = honestly; to be honest"
+    },
+    {
+      "korean": "있는 그대로 말하다",
+      "english": "to say something as is",
+      "notes": "있는 그대로 = as is; without changing it"
+    },
+    {
+      "korean": "저한테만 말해 보세요.",
+      "english": "Just tell me (if you don't want to tell anyone else).",
+      "notes": "지 = (polite) I; me"
+    },
+    {
+      "korean": "아무한테도 말하면 안 돼요.",
+      "english": "You shouldn't tell anybody about this.",
+      "notes": "아무한테도 = to nobody, (not) to anybody\n-(으)면 안 되다 = shouldn't; must not"
+    },
+    {
+      "korean": "그 사람이 뭐라고 말했어요?",
+      "english": "What did he say?",
+      "notes": "-라고 is a verb ending used for citing or quoting a noun."
+    },
+    {
+      "korean": "지금 말하고 싶은 게 뭐예요?",
+      "english": "What is it that you want to say now?",
+      "notes": ""
+    },
+    {
+      "korean": "잠깐 기다리라고 말해 주세요.",
+      "english": "Please tell them to wait for a minute.",
+      "notes": "잠깐 = short time; for a moment\n기다리다 = to wait"
+    },
+    {
+      "korean": "어떻게 그렇게 말할 수 있어요?",
+      "english": "How could you say that?",
+      "notes": "어떻게 = how\n그렇게 = like that; such + adjective/adverb\n-(으)ㄹ 수 있다 = to be able to, can; there is a chance that + S + V"
+    },
+    {
+      "korean": "조금만 더 크게 말해 주실래요?",
+      "english": "Can you speak up a little?",
+      "notes": "조금 = a little\n더 = more\n-(으)래요? = Do you want to + V?; Shall we + V?"
+    },
+    {
+      "korean": "다른 사람이 말하는 걸 들었어요.",
+      "english": "I heard other people talking about it.\nI heard them talking about it.",
+      "notes": ""
+    },
+    {
+      "korean": "10시까지 여기로 오라고 말했어요.",
+      "english": "I told them to come here by 10 o'clock.",
+      "notes": "10시 = ten o'clock"
+    },
+    {
+      "korean": "그 사람이랑은 말하고 싶지 않아요.",
+      "english": "I don't want to talk with him.",
+      "notes": "-고 싶지 않다 = to not want to + V"
+    },
+    {
+      "korean": "시간이 없으니까 짧게 말해 주세요.",
+      "english": "I don't have much time, so please make it short.",
+      "notes": "-(으)니까 = since, because"
+    },
+    {
+      "korean": "제가 어제 뭐라고 말했는지 기억해요?",
+      "english": "Do you remember what I said yesterday?",
+      "notes": "기억하다 = to remember"
+    },
+    {
+      "korean": "필요한 게 있으면 뭐든지 말해 주세요.",
+      "english": "If you need anything, tell me whatever it may be.",
+      "notes": "필요하다 = to need; to be necessary\n있다 = to be there; to exist; to have\n뭐든지 = whatever it is, anything"
+    },
+    {
+      "korean": "그 문제에 대해서는 말하고 싶지 않아요.",
+      "english": "I don't want to talk about that problem.",
+      "notes": "문제 = problem; issue; thing; matter\n-에 대해서 = about; regarding + N; concerning + N"
+    },
+    {
+      "korean": "화내지 않을 테니까 솔직히 말해 주세요.",
+      "english": "I won't get angry, so just tell me honestly.",
+      "notes": "화내다 = to be angry at someone; to yell at someone out of anger"
+    },
+    {
+      "korean": "무슨 일이 있었는지 있는 그대로 말할게요.",
+      "english": "I will tell you exactly what happened.",
+      "notes": "무슨 = what; what kind of\n일 = work; task; thing; stuff; occasion"
+    }
+  ]
+}

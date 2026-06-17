@@ -1,0 +1,110 @@
+{
+  "week": 7,
+  "day": 3,
+  "order": 45,
+  "keyword": "작다",
+  "meaning": "to be small, little",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "작은 소리",
+      "english": "small sound",
+      "notes": "소리 = sound"
+    },
+    {
+      "korean": "작은 도시",
+      "english": "small city",
+      "notes": "도시 = city"
+    },
+    {
+      "korean": "작은 문제",
+      "english": "small problem",
+      "notes": "문제 = problem, issue; thing; matter"
+    },
+    {
+      "korean": "작은 실수",
+      "english": "small mistake",
+      "notes": "실수 = mistake"
+    },
+    {
+      "korean": "키가 작다",
+      "english": "to be short (in height)",
+      "notes": "키 = height"
+    },
+    {
+      "korean": "옷이 작다",
+      "english": "the clothes are small",
+      "notes": ""
+    },
+    {
+      "korean": "목소리가 작다",
+      "english": "the voice is small",
+      "notes": "목소리 = voice"
+    },
+    {
+      "korean": "이렇게 작은 옷이 맞아요?",
+      "english": "You can fit into an outfit this small?",
+      "notes": "맞다 = to fit"
+    },
+    {
+      "korean": "키가 작은 게 콤플렉스에요.",
+      "english": "My inferiority complex is that I am short.",
+      "notes": "콤플렉스 = is something one feels self-conscious about. It usually includes a body part and/or appearance."
+    },
+    {
+      "korean": "친구들이 저를 키 작다고 놀려요.",
+      "english": "My friends tease me for being short.",
+      "notes": "친구 = friend\n-들 = is a suffix used to indicate plural.\n놀리다 = to tease; to make fun of; to mock"
+    },
+    {
+      "korean": "저에게는 작은 소망이 하나 있어요.",
+      "english": "I have a small wish.",
+      "notes": "소망 = hope, wish\n하나 = one (native Korean number)\n있다 = to be there; to exist; to have"
+    },
+    {
+      "korean": "이 치마는 저한테 너무 작은 것 같아요.",
+      "english": "I think this skirt is too small for me.",
+      "notes": "치마 = skirt\n-것 같다 = it seems/looks like + S + V"
+    },
+    {
+      "korean": "저는 키가 작아서 항상 하이힐만 신어요.",
+      "english": "I am short, so I always wear high heels.",
+      "notes": "항상 = always, all the time\n하이힐 = high heels\n-만 = only; just\n신다 = to wear (footwear/socks)"
+    },
+    {
+      "korean": "그 사람은 키는 작은데 목소리는 정말 커요.",
+      "english": "He's short (in height), but has a really big voice.",
+      "notes": "그 사람 = that person; he, she\n정말 = really; very\n크다 = to be big; to be tall; to be loud"
+    },
+    {
+      "korean": "차가 너무 작아서 사람이 많이 못 탈 것 같아요.",
+      "english": "The car is too small, so I don't think many people can get in it.",
+      "notes": "타다 = to ride; to get on; to take (vehicle)"
+    },
+    {
+      "korean": "가방이 너무 작아서 물건을 많이 넣을 수가 없어요.",
+      "english": "The bag is too small, so I can't put many things in it.",
+      "notes": "물건 = thing, stuff; item; belonging\n넣다 = to put (something) in\n-(으)ㄹ 수 없다 = to be not able to + V, can't"
+    },
+    {
+      "korean": "그 사람은 목소리가 너무 작아서 말을 알아듣기 힘들어요.",
+      "english": "His voice is too small, so it's hard to understand his words.\nHe speaks too softly, so it's hard to understand what he's saying.",
+      "notes": "말 = language; what one says; expression; word, term\n알아듣다 = to understand what one says"
+    },
+    {
+      "korean": "이 컴퓨터는 화면이 너무 작아서 보고 있으면 눈이 아파요.",
+      "english": "This computer has such a small screen that my eyes hurt when I look at it.",
+      "notes": "컴퓨터 = computer\n화면 = screen\n-고 있다 = to be + V-ing\n눈 = eye\n아프다 = to be sick, hurt"
+    },
+    {
+      "korean": "그렇게 작은 체구에 어디서 그런 힘이 나오는지 모르겠어요.",
+      "english": "I don't know where such strength comes from within such a small body.",
+      "notes": "그렇게 = like that\n체구 = build, frame, the size of one's body\n어디서 = where\n어디서 = is originally 어디에서, but people often just use 어디서 for the ease of pronunciation.\n그런 = (something) like that; such + noun\n힘 = strength, power, energy\n나오다 = to come out"
+    },
+    {
+      "korean": "이 신발은 너무 작아서 저한테 안 맞아요. 조금 더 큰 걸 보여주세요.",
+      "english": "These shoes don't fit me because they are too small. Please show me something a bit bigger.",
+      "notes": "조금 = a little\n큰 = is the adjective form of 크다.\n보여주다 = to show, display"
+    }
+  ]
+}

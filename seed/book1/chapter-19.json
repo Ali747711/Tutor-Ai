@@ -1,0 +1,317 @@
+{
+  "chapter": 19,
+  "title": "Confessing",
+  "category": "On a Date",
+  "shortDialogue": [
+    {
+      "speaker": "준호",
+      "korean": "미선아, 나 할 말이 있어. 나 너 좋아해.",
+      "romanization": "",
+      "english": "Mi-seon, I have something to tell you. I like you."
+    },
+    {
+      "speaker": "미선",
+      "korean": "정말이야?",
+      "romanization": "",
+      "english": "Really?"
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "준호",
+      "korean": "미선아, 지금 시간 있어?",
+      "romanization": "",
+      "english": "Mi-seon, do you have some time right now (to talk)?"
+    },
+    {
+      "speaker": "미선",
+      "korean": "왜?",
+      "romanization": "",
+      "english": "Why?"
+    },
+    {
+      "speaker": "준호",
+      "korean": "나 할 말이 있어.",
+      "romanization": "",
+      "english": "I have something to tell you."
+    },
+    {
+      "speaker": "미선",
+      "korean": "뭔데?",
+      "romanization": "",
+      "english": "What is it?"
+    },
+    {
+      "speaker": "준호",
+      "korean": "나 너 좋아해.",
+      "romanization": "",
+      "english": "I like you."
+    },
+    {
+      "speaker": "미선",
+      "korean": "장난치지 마.",
+      "romanization": "",
+      "english": "Don't mess with me."
+    },
+    {
+      "speaker": "준호",
+      "korean": "장난 아니야. 진심이야. 친구 말고 남자 친구 하고 싶어.",
+      "romanization": "",
+      "english": "I'm not kidding. I mean it. I want to be your boyfriend instead of a friend."
+    },
+    {
+      "speaker": "미선",
+      "korean": "정말이야?",
+      "romanization": "",
+      "english": "Really?"
+    },
+    {
+      "speaker": "준호",
+      "korean": "응. 너 처음 봤을 때부터 좋아했어.",
+      "romanization": "",
+      "english": "Yes. I've liked you since the first time that I saw you."
+    },
+    {
+      "speaker": "미선",
+      "korean": "정말 몰랐어.",
+      "romanization": "",
+      "english": "I really didn't know."
+    },
+    {
+      "speaker": "준호",
+      "korean": "너는 나 어때?",
+      "romanization": "",
+      "english": "What do you think about me?"
+    },
+    {
+      "speaker": "미선",
+      "korean": "사실 나도 너 좋아하고 있었어.",
+      "romanization": "",
+      "english": "Actually, I've liked you too."
+    },
+    {
+      "speaker": "준호",
+      "korean": "정말? 고마워.",
+      "romanization": "",
+      "english": "Really? Thank you."
+    }
+  ],
+  "culturalTip": "In Korean, if a speaker does not end their sentence with -요, they are using 반말[ban-mal], or casual language. Children use 반말 when talking to each other, but adults rarely use 반말 unless they have a close and casual relationship with one another.",
+  "koreanReview": "- Short Dialogue\n준호: 미선아, 나 할 말이 있어. 나 너 좋아해.\n미선: 정말이야?\n\n- Long Dialogue\n준호: 미선아, 지금 시간 있어?\n미선: 왜?\n준호: 나 할 말이 있어.\n미선: 뭔데?\n준호: 나 너 좋아해.\n미선: 장난치지 마.\n준호: 장난 아니야. 진심이야. 친구 말고 남자 친구 하고 싶어.\n미선: 정말이야?\n준호: 응. 너 처음 봤을 때부터 좋아했어.\n미선: 정말 몰랐어.\n준호: 너는 나 어때?\n미선: 사실 나도 너 좋아하고 있었어.\n준호: 정말? 고마워.",
+  "coreVocab": [
+    {
+      "korean": "할 말",
+      "romanization": "hal mal",
+      "meaning": "something to say"
+    },
+    {
+      "korean": "있다",
+      "romanization": "it-tta",
+      "meaning": "to exist, to have"
+    },
+    {
+      "korean": "나",
+      "romanization": "na",
+      "meaning": "I"
+    },
+    {
+      "korean": "너",
+      "romanization": "neo",
+      "meaning": "you"
+    },
+    {
+      "korean": "좋아하다",
+      "romanization": "jo-a-ha-da",
+      "meaning": "to like"
+    },
+    {
+      "korean": "정말",
+      "romanization": "jeong-mal",
+      "meaning": "really, very"
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "지금",
+      "romanization": "ji-geum",
+      "meaning": "now"
+    },
+    {
+      "korean": "시간",
+      "romanization": "si-gan",
+      "meaning": "time"
+    },
+    {
+      "korean": "있다",
+      "romanization": "it-tta",
+      "meaning": "to exist, to have"
+    },
+    {
+      "korean": "왜",
+      "romanization": "wae",
+      "meaning": "why"
+    },
+    {
+      "korean": "할 말",
+      "romanization": "hal mal",
+      "meaning": "something to say"
+    },
+    {
+      "korean": "좋아하다",
+      "romanization": "jo-a-ha-da",
+      "meaning": "to like"
+    },
+    {
+      "korean": "장난치다",
+      "romanization": "jang-nan-chi-da",
+      "meaning": "to mess with someone"
+    },
+    {
+      "korean": "진심",
+      "romanization": "jin-sim",
+      "meaning": "sincerity, honest feeling"
+    },
+    {
+      "korean": "친구",
+      "romanization": "chin-gu",
+      "meaning": "friend"
+    },
+    {
+      "korean": "남자 친구",
+      "romanization": "nam-ja chin-gu",
+      "meaning": "boyfriend"
+    },
+    {
+      "korean": "정말",
+      "romanization": "jeong-mal",
+      "meaning": "really, very"
+    },
+    {
+      "korean": "처음",
+      "romanization": "cheo-eum",
+      "meaning": "first"
+    },
+    {
+      "korean": "보다",
+      "romanization": "bo-da",
+      "meaning": "to see, to watch"
+    },
+    {
+      "korean": "모르다",
+      "romanization": "mo-reu-da",
+      "meaning": "to not know"
+    },
+    {
+      "korean": "사실",
+      "romanization": "sa-sil",
+      "meaning": "actually"
+    },
+    {
+      "korean": "고맙다",
+      "romanization": "go-map-tta",
+      "meaning": "to be thankful"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "Pair: Not ____, but ____",
+      "pattern": "NOUN + 말고 + NOUN = not NOUN, but NOUN",
+      "meaning": "not NOUN, but NOUN",
+      "explanation": "",
+      "examples": [
+        {
+          "korean": "친구 + 말고 + 남자 친구 → 친구 말고 남자 친구",
+          "romanization": "",
+          "english": "not a friend, but a boyfriend"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "너 + 말고 + 네 친구",
+          "answer": "너 말고 네 친구",
+          "english": "not you, but your friend"
+        },
+        {
+          "prompt": "그것 + 말고 + 저것",
+          "answer": "그것 말고 저것",
+          "english": "not that one, but that one over there"
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Conjunction: \"Since\" In Past Tense",
+      "pattern": "VERB/ADJECTIVE + -았/었/였을 때부터 = since the time (SUBJECT) VERB/ADJECTIVE",
+      "meaning": "since the time (SUBJECT) VERB/ADJECTIVE",
+      "explanation": "",
+      "examples": [
+        {
+          "korean": "처음 보다 + -았/었/였을 때부터 → 처음 봤을 때부터",
+          "romanization": "",
+          "english": "since the first time I saw (them)"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "어리다 + -았/었/였을 때부터",
+          "answer": "어렸을 때부터",
+          "english": "since I was little/young"
+        },
+        {
+          "prompt": "만나다 + -았/었/였을 때부터",
+          "answer": "만났을 때부터",
+          "english": "since the time I met (them)"
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "When a syllable ends with ㅍ and is followed by a syllable that begins with a vowel, ㅍ becomes part of the following syllable rather than being pronounced distinctly as two different syllables.",
+      "examples": [
+        {
+          "korean": "싶어",
+          "pronounced": "시퍼",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "깊어",
+          "answer": "기퍼",
+          "gloss": ""
+        },
+        {
+          "prompt": "짚어",
+          "answer": "지퍼",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "When a syllable ends with ㅆ and is followed by a syllable that begins with a vowel, ㅆ becomes part of the following syllable rather than being pronounced distinctly as two different syllables.",
+      "examples": [
+        {
+          "korean": "있어",
+          "pronounced": "이써",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "갔어",
+          "answer": "가써",
+          "gloss": ""
+        },
+        {
+          "prompt": "봤어",
+          "answer": "봐써",
+          "gloss": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "chapter": 1,
+  "title": "Self-Introductions",
+  "category": "Introductions",
+  "shortDialogue": [
+    {
+      "speaker": "성찬",
+      "korean": "안녕하세요. 저는 김성찬이에요.",
+      "romanization": "",
+      "english": "Hello. I am Seong-chan Kim."
+    },
+    {
+      "speaker": "지연",
+      "korean": "반갑습니다. 저는 이지연이에요.",
+      "romanization": "",
+      "english": "Nice to meet you. I am Ji-yeon Lee."
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "성찬",
+      "korean": "안녕하세요.",
+      "romanization": "",
+      "english": "Hello."
+    },
+    {
+      "speaker": "지연",
+      "korean": "네, 안녕하세요. 처음 뵙겠습니다.",
+      "romanization": "",
+      "english": "Yes, hello. How do you do?"
+    },
+    {
+      "speaker": "성찬",
+      "korean": "반갑습니다. 제 이름은 김성찬이에요.",
+      "romanization": "",
+      "english": "Nice to meet you. My name is Seong-chan Kim."
+    },
+    {
+      "speaker": "지연",
+      "korean": "네, 반갑습니다. 제 이름은 이지연이에요.",
+      "romanization": "",
+      "english": "Yes, nice to meet you. My name is Ji-yeon Lee."
+    },
+    {
+      "speaker": "성찬",
+      "korean": "어디에 사세요?",
+      "romanization": "",
+      "english": "Where do you live?"
+    },
+    {
+      "speaker": "지연",
+      "korean": "저는 서울에 살아요. 성찬 씨는요?",
+      "romanization": "",
+      "english": "I live in Seoul. How about you, Seong-chan?"
+    },
+    {
+      "speaker": "성찬",
+      "korean": "저도 서울에 살아요. 그런데 고향은 부산이에요.",
+      "romanization": "",
+      "english": "I live in Seoul, too. But, my hometown is Busan."
+    },
+    {
+      "speaker": "지연",
+      "korean": "학생이세요?",
+      "romanization": "",
+      "english": "Are you a student?"
+    },
+    {
+      "speaker": "성찬",
+      "korean": "네. 저는 한국대학교에 다녀요. 지연 씨도 학생이세요?",
+      "romanization": "",
+      "english": "Yes, I go to Hanguk University. Ji-yeon, are you also a student?"
+    },
+    {
+      "speaker": "지연",
+      "korean": "아니요, 저는 회사원이에요.",
+      "romanization": "",
+      "english": "No, I am an office worker."
+    },
+    {
+      "speaker": "성찬",
+      "korean": "무슨 일을 하세요?",
+      "romanization": "",
+      "english": "What kind of work do you do?"
+    },
+    {
+      "speaker": "지연",
+      "korean": "저는 컴퓨터 엔지니어예요.",
+      "romanization": "",
+      "english": "I am a computer engineer."
+    }
+  ],
+  "culturalTip": "When Korean people introduce themselves, they say their given name and family name together, even in informal situations. The family name is said first, followed by their given name. When written, there is no space between the given and family names.",
+  "koreanReview": "Short Dialogue\n성찬: 안녕하세요. 저는 김성찬이에요.\n지연: 반갑습니다. 저는 이지연이에요.\n\nLong Dialogue\n성찬: 안녕하세요.\n지연: 네, 안녕하세요. 처음 뵙겠습니다.\n성찬: 반갑습니다. 제 이름은 김성찬이에요.\n지연: 네, 반갑습니다. 제 이름은 이지연이에요.\n성찬: 어디에 사세요?\n지연: 저는 서울에 살아요. 성찬 씨는요?\n성찬: 저도 서울에 살아요. 그런데 고향은 부산이에요.\n지연: 학생이세요?\n성찬: 네. 저는 한국대학교에 다녀요. 지연 씨도 학생이세요?\n지연: 아니요, 저는 회사원이에요.\n성찬: 무슨 일을 하세요?\n지연: 저는 컴퓨터 엔지니어예요.",
+  "coreVocab": [
+    {
+      "korean": "안녕하다",
+      "romanization": "an-nyeong-ha-da",
+      "meaning": "to be well, to be at ease"
+    },
+    {
+      "korean": "안녕하세요.",
+      "romanization": "an-nyeong-ha-se-yo.",
+      "meaning": "Hello."
+    },
+    {
+      "korean": "저",
+      "romanization": "jeo",
+      "meaning": "I (polite, formal)"
+    },
+    {
+      "korean": "A은/는 B이에요/예요.",
+      "romanization": "A-eun/neun B-i-e-yo/ye-yo.",
+      "meaning": "A am/is/are B."
+    },
+    {
+      "korean": "반갑다",
+      "romanization": "ban-gap-tta",
+      "meaning": "to be glad (to meet)"
+    },
+    {
+      "korean": "반갑습니다.",
+      "romanization": "ban-gap-sseum-ni-da.",
+      "meaning": "Nice to meet you. (polite, formal)"
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "안녕하세요",
+      "romanization": "an-nyeong-ha-se-yo",
+      "meaning": "hello"
+    },
+    {
+      "korean": "처음",
+      "romanization": "cheo-eum",
+      "meaning": "first"
+    },
+    {
+      "korean": "뵙다",
+      "romanization": "boep-tta",
+      "meaning": "to meet (honorific)"
+    },
+    {
+      "korean": "제",
+      "romanization": "je",
+      "meaning": "my (short for 저의)"
+    },
+    {
+      "korean": "이름",
+      "romanization": "i-reum",
+      "meaning": "name"
+    },
+    {
+      "korean": "반갑다",
+      "romanization": "ban-gap-tta",
+      "meaning": "to be glad (to meet)"
+    },
+    {
+      "korean": "어디",
+      "romanization": "eo-di",
+      "meaning": "where"
+    },
+    {
+      "korean": "살다",
+      "romanization": "sal-da",
+      "meaning": "to live"
+    },
+    {
+      "korean": "그런데",
+      "romanization": "geu-reon-de",
+      "meaning": "but, however"
+    },
+    {
+      "korean": "고향",
+      "romanization": "go-hyang",
+      "meaning": "hometown"
+    },
+    {
+      "korean": "학생",
+      "romanization": "hak-ssaeng",
+      "meaning": "student"
+    },
+    {
+      "korean": "대학교",
+      "romanization": "dae-hak-kkyo",
+      "meaning": "university, college"
+    },
+    {
+      "korean": "다니다",
+      "romanization": "da-ni-da",
+      "meaning": "to go (regularly)"
+    },
+    {
+      "korean": "회사원",
+      "romanization": "hoe-sa-won",
+      "meaning": "office worker"
+    },
+    {
+      "korean": "무슨",
+      "romanization": "mu-seun",
+      "meaning": "what"
+    },
+    {
+      "korean": "일",
+      "romanization": "il",
+      "meaning": "work"
+    },
+    {
+      "korean": "컴퓨터",
+      "romanization": "keom-pyu-teo",
+      "meaning": "computer"
+    },
+    {
+      "korean": "엔지니어",
+      "romanization": "en-ji-ni-eo",
+      "meaning": "engineer"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "Simple Statement",
+      "pattern": "저는 NOUN + -이에요/예요. = I am NOUN.",
+      "meaning": "I am NOUN.",
+      "explanation": "* If the last syllable of the noun ends with a consonant, add -이에요. If the last syllable of the noun ends with a vowel, add -예요.",
+      "examples": [
+        {
+          "korean": "저는 김성찬 + -이에요/예요 → 저는 김성찬이에요.",
+          "romanization": "",
+          "english": "I am Seong-chan Kim."
+        },
+        {
+          "korean": "저는 선경화 + -이에요/예요 → 저는 선경화예요.",
+          "romanization": "",
+          "english": "I am Kyung-hwa Sun."
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "저는 회사원 + -이에요/예요",
+          "answer": "저는 회사원이에요.",
+          "english": "I am an office worker."
+        },
+        {
+          "prompt": "저는 엔지니어 + -이에요/예요",
+          "answer": "저는 엔지니어예요.",
+          "english": "I am a computer engineer."
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Honorific Interrogative",
+      "pattern": "VERB + -시- + -아/어/여요? = Do you VERB? (honorific)",
+      "meaning": "Do you VERB? (honorific)",
+      "explanation": "* When -시- is combined with -아/어/여요, it becomes -셔요. Over time however, it changed to -세요 because it is easier to pronounce.",
+      "examples": [
+        {
+          "korean": "살다 + -시- + -아/어/여요? → 사세요? = Do you live? (honorific)",
+          "romanization": "",
+          "english": "Do you live? (honorific)"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "일하다 + -시- + -아/어/여요?",
+          "answer": "일하세요?",
+          "english": "Do you work? (honorific)"
+        },
+        {
+          "prompt": "가르치다 + -시- + -아/어/여요?",
+          "answer": "가르치세요?",
+          "english": "Do you teach? (honorific)"
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "When a syllable ends with ㄹ and is followed by a syllable that begins with a vowel, ㄹ becomes part of the following syllable rather than being pronounced distinctly as two different syllables.",
+      "examples": [
+        {
+          "korean": "서울에",
+          "pronounced": "서우레",
+          "romanization": "seo-u-re"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "일을",
+          "answer": "이를",
+          "gloss": ""
+        },
+        {
+          "prompt": "살아요",
+          "answer": "사라요",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "When a syllable ends with ㄱ and is followed by a syllable that begins with ㄱ, the second ㄱ is pronounced as ㄲ.",
+      "examples": [
+        {
+          "korean": "대학교",
+          "pronounced": "대학꾜",
+          "romanization": "dae-hak-kkyo"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "국가",
+          "answer": "국까",
+          "gloss": "(nation)"
+        },
+        {
+          "prompt": "악기",
+          "answer": "악끼",
+          "gloss": "(musical instrument)"
+        }
+      ]
+    }
+  ]
+}

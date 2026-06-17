@@ -1,0 +1,110 @@
+{
+  "week": 9,
+  "day": 2,
+  "order": 58,
+  "keyword": "돕다",
+  "meaning": "to help",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "일을 돕다",
+      "english": "to help someone in his/her work",
+      "notes": "일 = work; task; thing; stuff; occasion"
+    },
+    {
+      "korean": "서로 돕다",
+      "english": "to help each other",
+      "notes": "서로 = each other"
+    },
+    {
+      "korean": "도와주다",
+      "english": "to give someone a hand",
+      "notes": ""
+    },
+    {
+      "korean": "도와주세요.",
+      "english": "Please help me.",
+      "notes": ""
+    },
+    {
+      "korean": "서로 도와야죠.",
+      "english": "We need to help each other.",
+      "notes": "-아/어/여야죠 = You should + V; We need to + V"
+    },
+    {
+      "korean": "제가 도와 드릴까요?",
+      "english": "Can I give you a hand?",
+      "notes": "제 = (polite) my; I\n-아/어 드릴다 = (honorific) to do something for someone\n-(으)ㄹ까요? = Shall we + S + V?; Do you want me to + V?; Should we + V?; Let's + V."
+    },
+    {
+      "korean": "언제 도와줄 수 있어요?",
+      "english": "When can you help me?",
+      "notes": "언제 = when\n-(으)ㄹ 수 있다 = can, to be able to; there is a chance that + S + V"
+    },
+    {
+      "korean": "도와주셔서 감사합니다.",
+      "english": "Thank you for helping me.",
+      "notes": "-(으)셔서 = (honorific) because, since\n감사합니다 = Thank you"
+    },
+    {
+      "korean": "이것 좀 도와줄 수 있어요?",
+      "english": "Can you help me with this?",
+      "notes": "이것 = this; this thing\n좀 = a little; please\n-(으)ㄹ 수 있어요? = Can you + V?; Could you + V?"
+    },
+    {
+      "korean": "제가 어떻게 도와 드릴까요?",
+      "english": "How can I help you?",
+      "notes": "어떻게 = how"
+    },
+    {
+      "korean": "도을 수 있을 때 많이 도와 드릴게요.",
+      "english": "Let me help you out a lot while I can.",
+      "notes": "-(으)ㄹ 때 = when/while + S + V\n많다 = to be a lot\n많이 is an adverb form of 많다.\n-(으)ㄹ께 = will; be going to + V"
+    },
+    {
+      "korean": "제가 도울 일 있으면 이야기해 주세요.",
+      "english": "If there is something I can help you with, please let me know.",
+      "notes": ""
+    },
+    {
+      "korean": "제가 도울 수 있는 일이 아닌 것 같아요.",
+      "english": "I don't think that's something I can help you with. I don't think I can help with this.",
+      "notes": "아니다 = to be not\n-(으)ㄴ 것 같다 = It seems/looks like + S + V; I think + S + V"
+    },
+    {
+      "korean": "친구가 숙제를 도와주기로 약속했어요.",
+      "english": "My friend promised to help me with my homework.",
+      "notes": "친구 = friend\n숙제 = homework\n-기로 약속하다 = to promise to + V"
+    },
+    {
+      "korean": "친구가 이사하는 것 도와주러 갈 거에요.",
+      "english": "I'm going to go to help my friend move.",
+      "notes": "이사하다 = to move in/out\n-(으)러 가다 = to go to + V"
+    },
+    {
+      "korean": "제가 돕겠다고 했는데 그 사람이 거절 했어요.",
+      "english": "I offered to help, but he refused.",
+      "notes": "-다고 하다 = indirect ending - used to refer to what someone said\n그 사람 = that person; he, she\n거절하다 = to reject, refuse, turn down"
+    },
+    {
+      "korean": "친구가 도와줘서 일이 생각보다 빨리 끝났어요.",
+      "english": "Thanks to my friend's help, things have finished earlier than I expected.",
+      "notes": "생각보다 = \" than one thought\"\n끝나다 = to end; to be over"
+    },
+    {
+      "korean": "지금까지 도와준 사람들에게 선물을 주고 싶어요.",
+      "english": "I want to give presents to the people who have helped (me) so far.",
+      "notes": "지금 = now\n-까지 = until; to\n-들 = is a suffix used to indicate plural.\n사람 = person, people\n선물 = gift, present\n-고 싶다 = to want to + V"
+    },
+    {
+      "korean": "저도 돕고 싶은데 지금 시간이 없어서 가 봐야 할 것 같아요.",
+      "english": "I also want to help you, but I don't have time now, so I think I should get going.",
+      "notes": "시간 = time; hour\n없다 = to not have, not exist; to be not there\n가 봐야 하다 = have to leave\n-(으)ㄹ 것 같다 = I think + S + V; will/be going to; it seems like + S + V will/be going to"
+    },
+    {
+      "korean": "힘든 일이 있으면 언제든지 이야기하세요, 제가 도와 드릴게요.",
+      "english": "If you have a challenging task, tell me at any time. I'll help you.",
+      "notes": "힘들다 = to be difficult, hard, tough; to have a hard time; to be tired\n힘든 is the adjective form of 힘들다.\n언제든지 = whenever\n-(으)세요 = (polite) imperative"
+    }
+  ]
+}

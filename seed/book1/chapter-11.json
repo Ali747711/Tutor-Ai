@@ -1,0 +1,310 @@
+{
+  "chapter": 11,
+  "title": "Shoe Store",
+  "category": "Shopping",
+  "shortDialogue": [
+    {
+      "speaker": "미선",
+      "korean": "이 구두 다른 색깔은 없어요?",
+      "romanization": "",
+      "english": "Are there no other colors for these shoes?"
+    },
+    {
+      "speaker": "점원",
+      "korean": "네. 이 색깔밖에 없어요.",
+      "romanization": "",
+      "english": "Yes. Only this color."
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "미선",
+      "korean": "와! 이 구두 예쁘다. 그런데 이 구두 다른 색깔은 없어요?",
+      "romanization": "",
+      "english": "Wow! These shoes are pretty. But are there no other colors for these shoes?"
+    },
+    {
+      "speaker": "점원",
+      "korean": "네. 이 색깔밖에 없어요.",
+      "romanization": "",
+      "english": "Yes. Only this color."
+    },
+    {
+      "speaker": "미선",
+      "korean": "이거 신어 봐도 돼요?",
+      "romanization": "",
+      "english": "May I try them on?"
+    },
+    {
+      "speaker": "점원",
+      "korean": "네. 신어 보세요. 사이즈가 어떻게 되세요?",
+      "romanization": "",
+      "english": "Yes, please try them on. What is your size?"
+    },
+    {
+      "speaker": "미선",
+      "korean": "230mm요.",
+      "romanization": "",
+      "english": "230mm."
+    },
+    {
+      "speaker": "점원",
+      "korean": "아, 230mm는 없어요.",
+      "romanization": "",
+      "english": "Oh, we don't have 230mm."
+    },
+    {
+      "speaker": "미선",
+      "korean": "그럼 235mm는 있어요?",
+      "romanization": "",
+      "english": "Then do you have 235mm?"
+    },
+    {
+      "speaker": "점원",
+      "korean": "네. 있어요. 잠시만요.",
+      "romanization": "",
+      "english": "Yes, we do. Wait a moment."
+    },
+    {
+      "speaker": "점원",
+      "korean": "여기요. 신어 보세요.",
+      "romanization": "",
+      "english": "Here. Please try them on."
+    },
+    {
+      "speaker": "미선",
+      "korean": "조금 커요. 그래도 마음에 들어요.",
+      "romanization": "",
+      "english": "They are a bit big. But I still like them."
+    },
+    {
+      "speaker": "점원",
+      "korean": "정말 예뻐요.",
+      "romanization": "",
+      "english": "They are so pretty."
+    },
+    {
+      "speaker": "미선",
+      "korean": "이거 살게요. 얼마예요?",
+      "romanization": "",
+      "english": "I'll buy them. How much are they?"
+    }
+  ],
+  "culturalTip": "If you need speedy shoe repair in Korea, it is best to visit one of the tiny shoe repair shops on the street rather than leaving/sending your shoes off to the brand's repair service. Some brands offer free repair service for their shoes, but it typically takes 1-2 weeks to get them back.",
+  "koreanReview": "- Short Dialogue\n미선: 이 구두 다른 색깔은 없어요?\n점원: 네. 이 색깔밖에 없어요.\n\n- Long Dialogue\n미선: 와! 이 구두 예쁘다. 그런데 이 구두 다른 색깔은 없어요?\n점원: 네. 이 색깔밖에 없어요.\n미선: 이거 신어 봐도 돼요?\n정배: 네. 신어 보세요. 사이즈가 어떻게 되세요?\n미선: 230mm요.\n점원: 아, 230mm는 없어요.\n미선: 그럼 235mm는 있어요?\n점원: 네. 있어요. 잠시만요.\n점원: 여기요. 신어 보세요.\n미선: 조금 커요. 그래도 마음에 들어요.\n점원: 정말 예뻐요.\n미선: 이거 살게요. 얼마예요?",
+  "coreVocab": [
+    {
+      "korean": "이",
+      "romanization": "i",
+      "meaning": "this, these"
+    },
+    {
+      "korean": "구두",
+      "romanization": "gu-du",
+      "meaning": "dress shoes"
+    },
+    {
+      "korean": "다른",
+      "romanization": "da-reun",
+      "meaning": "different"
+    },
+    {
+      "korean": "색깔",
+      "romanization": "saek-kkal",
+      "meaning": "color"
+    },
+    {
+      "korean": "없다",
+      "romanization": "eop-tta",
+      "meaning": "to not exist, to not have, to not be there"
+    },
+    {
+      "korean": "네.",
+      "romanization": "ne",
+      "meaning": "Yes. / No. * \"네\" has the same meaning as \"no\" when confirming a negative question."
+    },
+    {
+      "korean": "-밖에",
+      "romanization": "-ba-kke",
+      "meaning": "nothing but, only"
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "이",
+      "romanization": "i",
+      "meaning": "this, these"
+    },
+    {
+      "korean": "구두",
+      "romanization": "gu-du",
+      "meaning": "dress shoes"
+    },
+    {
+      "korean": "예쁘다",
+      "romanization": "ye-ppeu-da",
+      "meaning": "to be pretty"
+    },
+    {
+      "korean": "그런데",
+      "romanization": "geu-reon-de",
+      "meaning": "but, however"
+    },
+    {
+      "korean": "다른",
+      "romanization": "da-reun",
+      "meaning": "different"
+    },
+    {
+      "korean": "색깔",
+      "romanization": "saek-kkal",
+      "meaning": "color"
+    },
+    {
+      "korean": "없다",
+      "romanization": "eop-tta",
+      "meaning": "to not exist, to not have, to not be there"
+    },
+    {
+      "korean": "신어 보다",
+      "romanization": "si-neo bo-da",
+      "meaning": "to try on shoes"
+    },
+    {
+      "korean": "잠시",
+      "romanization": "jam-si",
+      "meaning": "for a moment, briefly"
+    },
+    {
+      "korean": "조금",
+      "romanization": "jo-geum",
+      "meaning": "a little"
+    },
+    {
+      "korean": "크다",
+      "romanization": "keu-da",
+      "meaning": "to be big"
+    },
+    {
+      "korean": "그래도",
+      "romanization": "geu-rae-do",
+      "meaning": "even so, nevertheless"
+    },
+    {
+      "korean": "마음에 들다",
+      "romanization": "ma-eu-me deul-da",
+      "meaning": "to like"
+    },
+    {
+      "korean": "정말",
+      "romanization": "jeong-mal",
+      "meaning": "really, very"
+    },
+    {
+      "korean": "사다",
+      "romanization": "sa-da",
+      "meaning": "to buy"
+    },
+    {
+      "korean": "얼마",
+      "romanization": "eol-ma",
+      "meaning": "how much"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "Asking Permission",
+      "pattern": "VERB + -아/어/여도 돼요? = May I VERB?",
+      "meaning": "May I VERB?",
+      "explanation": "This pattern is used to ask for permission to do an action.",
+      "examples": [
+        {
+          "korean": "신어 보다 + -아/어/여도 돼요? → 신어 봐도 돼요?",
+          "romanization": "",
+          "english": "May I try the shoes on?"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "사다 + -아/어/여도 돼요?",
+          "answer": "사도 돼요?",
+          "english": "May I buy (it)?"
+        },
+        {
+          "prompt": "먹다 + -아/어/여도 돼요?",
+          "answer": "먹어도 돼요?",
+          "english": "May I eat (it)?"
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Imperative Sentence Ending - Honorific",
+      "pattern": "VERB + -(으)세요. = Please VERB. / VERB, please.",
+      "meaning": "Please VERB. / VERB, please.",
+      "explanation": "This pattern is used to make a polite request or command.",
+      "examples": [
+        {
+          "korean": "신어 보다 + -(으)세요 → 신어 보세요.",
+          "romanization": "",
+          "english": "Please try on the shoes."
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "공부하다 + -(으)세요",
+          "answer": "공부하세요.",
+          "english": "Study, please."
+        },
+        {
+          "prompt": "기다리다 + -(으)세요",
+          "answer": "기다리세요.",
+          "english": "Wait, please."
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "According to Korean loanword orthography, loanwords are written using the 24 basic letters, not the five tense consonants: ㄲ, ㄸ, ㅃ, ㅆ, and ㅉ. This leads to many loanwords being written differently than how they are pronounced.",
+      "examples": [
+        {
+          "korean": "사이즈 (size)",
+          "pronounced": "싸이즈",
+          "romanization": ""
+        },
+        {
+          "korean": "게임 (game)",
+          "pronounced": "께임",
+          "romanization": ""
+        }
+      ],
+      "exercises": []
+    },
+    {
+      "slot": "B",
+      "rule": "When a syllable ends with ㅁ and is followed by a syllable that begins with a vowel, the ㅁ becomes part of the following syllable rather than being pronounced distinctly as two different syllables.",
+      "examples": [
+        {
+          "korean": "마음에",
+          "pronounced": "마으메",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "조금은",
+          "answer": "조그믄",
+          "gloss": ""
+        },
+        {
+          "prompt": "검은색",
+          "answer": "거믄색",
+          "gloss": ""
+        }
+      ]
+    }
+  ]
+}

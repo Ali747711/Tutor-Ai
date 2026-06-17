@@ -1,0 +1,110 @@
+{
+  "week": 3,
+  "day": 1,
+  "order": 15,
+  "keyword": "빠르다",
+  "meaning": "to be fast",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "빨리 먹다",
+      "english": "to eat fast",
+      "notes": "먹다 = to eat; to drink"
+    },
+    {
+      "korean": "말이 빠르다",
+      "english": "to have a fast way of talking; to speak fast",
+      "notes": "말 = language; what one says; expression; word; term"
+    },
+    {
+      "korean": "눈치가 빠르다",
+      "english": "to have a quick sense of what is happening\nto have a fast intuition",
+      "notes": "눈치 = intuition; quick sense; perceptiveness"
+    },
+    {
+      "korean": "걸음이 빠르다",
+      "english": "to have a fast walking pace\nto walk fast",
+      "notes": "걸음 = step; (walking) pace"
+    },
+    {
+      "korean": "시간이 너무 빨라요.",
+      "english": "Time goes too fast.",
+      "notes": "시간 = time; hour\n너무 = too much, excessively; very"
+    },
+    {
+      "korean": "제 말이 너무 빠르나요?",
+      "english": "Are my words too fast?\nAm I speaking too fast?",
+      "notes": "제 = (polite) my; I"
+    },
+    {
+      "korean": "왜 그렇게 밥을 빨리 먹어요?",
+      "english": "Why are you eating your meal so quickly?",
+      "notes": "왜 = why; for what reason; how come\n그렇게 = like that; such + adjective/adverb\n밥 = food; meal; cooked rice"
+    },
+    {
+      "korean": "친구들이 제 걸음이 빠르대요.",
+      "english": "My friends tell me I have a fast (walking) pace.\nMy friends tell me I walk fast.",
+      "notes": "친구 = friend\n-들 = is a suffix used to indicate plural.\n-데요 = I heard that + S + V. They say + S + V"
+    },
+    {
+      "korean": "저 곧 가야 되니까 빨리 주세요.",
+      "english": "I have to go soon, so hurry and give it (to me).",
+      "notes": "저 = (polite) I; me\n곧 = soon\n가다 = to go; to leave\n-이/어/여 되다 = to have to + V\n-(으)니까 = since, because\n주다 = to give\n-(으)세요 = (polite) imperative"
+    },
+    {
+      "korean": "우리 이거 빨리 끝내고 놀러 가요.",
+      "english": "Let's finish this quickly and go hang out.",
+      "notes": "우리 = we; us\n이거 = this thing; this\n끝내다 = to finish; to get + N + done\n놀러 가다 = to go on a trip; to hang out; to visit\n-이/어/여요 = imperative; Let's + V"
+    },
+    {
+      "korean": "빠르다고 다 좋은 것은 아니에요.",
+      "english": "Just because it is fast doesn't mean it's good.",
+      "notes": "-다고 = just because; saying that S + V\n다 = all; every (thing)\n좋다 = to be good, likable; to be desirable; to be nice; to like\n아니다 = to be not"
+    },
+    {
+      "korean": "여기 인터넷 속도 진짜 빨르네요.",
+      "english": "The speed of the Internet here is really fast.",
+      "notes": "여기 = here, this place\n인터넷 = the Internet\n속도 = speed; pace\n-(으)네요 = is a sentence ending that expresses realization of a fact or agreement to a statement."
+    },
+    {
+      "korean": "빨리 끝내 주시면 좋을 것 같아요.",
+      "english": "It would be good if you get it done quickly.",
+      "notes": "-이/어/여 주다 = to do something for someone\n-(으)면 = if + S + V; when/once + S + V\n-(으) 것 같다 = I think + S + will/be going to; it seems like + S + will/be going to"
+    },
+    {
+      "korean": "어느 길로 가는 게 제일 빠를까요?",
+      "english": "Which way will be the fastest?",
+      "notes": "어느 = which; some\n길 = road, street; way\n제일 = the best; the most"
+    },
+    {
+      "korean": "저 지금 시간 없으니까 빨리 말해요.",
+      "english": "I don't have time right now, so talk fast.",
+      "notes": "지금 = now\n없다 = to not have; to not be there; to not exist\n말하다 = to talk; to say; to speak; to tell"
+    },
+    {
+      "korean": "이 책을 보면 이해가 빨리 될 거예요.",
+      "english": "If you read this book, you will quickly understand.",
+      "notes": "이 = this\n책 = book\n보다 = to see; to look; to watch; to meet up; to read\n책을 보다 = to look at a book; to read a book\n이해 = understanding\n이해가 되다 = can understand; something makes sense\n-(으)ㄹ 것이다 = will; to be going to + V"
+    },
+    {
+      "korean": "그 사람은 말이 빨라서 알아듣기 힘들 어요.",
+      "english": "That person speaks so fast that it's hard to understand.",
+      "notes": "그 사람 = that person; he, she\n알아듣다 = to understand what one says\n-기 힘들다 = to be difficult/hard to + V"
+    },
+    {
+      "korean": "제일 빨리 가려면 지하철을 타야 될 것 같아요.",
+      "english": "To get there quickly, I think we should take the subway.",
+      "notes": "-(으)려면 = in order to + V\n지하철 = subway\n타다 = to ride; to get on; to take (vehicle)"
+    },
+    {
+      "korean": "그런 일이 있었으면 빨리 자한테 이야 기를 했었어야죠.",
+      "english": "If there was an incident like that, you should have told me promptly.",
+      "notes": "그런 = (something) like that; such + noun\n일 = work; task; thing, stuff; occasion\n있다 = to be there; to exist; to have\n이야기 = story; what one says\n이야기를 하다 = to talk, speak, say, tell; to have a conversation; to tell a story\n-이/어/여/였어야 = you should have + p.p."
+    },
+    {
+      "korean": "버스가 너무 빨리 달려서 버스에 서 있다가 넘어질 뻔 했어요.",
+      "english": "Since the bus (I was riding) was going so fast, I nearly fell over while standing.",
+      "notes": "버스 = bus\n달리다 = to run\n-이/어/여서 = because, since\n서 있다 = to be standing\n-다가 = as a result of + V-ing\n넘어지다 = to fall (down); to trip\n-(으)ㄹ 뻔 하다 = to almost + V"
+    }
+  ]
+}

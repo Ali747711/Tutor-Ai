@@ -1,0 +1,326 @@
+{
+  "chapter": 32,
+  "title": "Ordering Delivery",
+  "category": "Food",
+  "shortDialogue": [
+    {
+      "speaker": "성찬",
+      "korean": "지금 배달 돼요?",
+      "romanization": "",
+      "english": "Can you deliver now?"
+    },
+    {
+      "speaker": "직원",
+      "korean": "네. 주소 말해 주세요.",
+      "romanization": "",
+      "english": "Yes. Please tell me your address."
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "직원",
+      "korean": "한국 치킨입니다.",
+      "romanization": "",
+      "english": "This is Hanguk Chicken."
+    },
+    {
+      "speaker": "성찬",
+      "korean": "지금 배달 돼요?",
+      "romanization": "",
+      "english": "Can you deliver now?"
+    },
+    {
+      "speaker": "직원",
+      "korean": "네. 주소 말해 주세요.",
+      "romanization": "",
+      "english": "Yes. Please tell me your address."
+    },
+    {
+      "speaker": "성찬",
+      "korean": "서울시 마포구 망원동이요.",
+      "romanization": "",
+      "english": "It's Mang-won dong, Mapo-Gu, Seoul."
+    },
+    {
+      "speaker": "직원",
+      "korean": "어떤 치킨 드릴까요?",
+      "romanization": "",
+      "english": "What kind of chicken would you like?"
+    },
+    {
+      "speaker": "성찬",
+      "korean": "후라이드 반, 양념 반이요. 얼마에요?",
+      "romanization": "",
+      "english": "Half fried, half marinated. How much is it?"
+    },
+    {
+      "speaker": "직원",
+      "korean": "15,000원이에요.",
+      "romanization": "",
+      "english": "It's 15,000 won."
+    },
+    {
+      "speaker": "성찬",
+      "korean": "맥주도 주세요.",
+      "romanization": "",
+      "english": "Beer, too."
+    },
+    {
+      "speaker": "직원",
+      "korean": "18,000원입니다.",
+      "romanization": "",
+      "english": "It's 18,000 won."
+    },
+    {
+      "speaker": "성찬",
+      "korean": "얼마나 걸려요?",
+      "romanization": "",
+      "english": "How long will it take?"
+    },
+    {
+      "speaker": "직원",
+      "korean": "30분이요.",
+      "romanization": "",
+      "english": "30 minutes."
+    },
+    {
+      "speaker": "성찬",
+      "korean": "네. 카드로 결제할게요.",
+      "romanization": "",
+      "english": "Yes. I will pay with a credit card."
+    },
+    {
+      "speaker": "직원",
+      "korean": "네. 알겠습니다.",
+      "romanization": "",
+      "english": "Ok. I got it."
+    }
+  ],
+  "culturalTip": "People in Korea order food for delivery over the phone quite frequently because it is incredibly convenient. Fried chicken is the most popular delivery food, but the word for \"fried chicken\" in Korean is just 치킨 [chi-kin], which is the English loanword \"chicken\" but written in Hangeul and pronounced with a Korean accent. The native Korean word 닭 [dak] is used to refer to chicken which is not fried.",
+  "koreanReview": "- Short Dialogue\n성찬: 지금 배달 돼요?\n직원: 네. 주소 말해 주세요.\n\n- Long Dialogue\n직원: 한국 치킨입니다.\n성찬: 지금 배달 돼요?\n직원: 네. 주소 말해 주세요.\n성찬: 서울시 마포구 망원동이요.\n직원: 어떤 치킨 드릴까요?\n성찬: 후라이드 반, 양념 반이요. 얼마에요?\n직원: 15,000원이에요.\n성찬: 맥주도 주세요.\n직원: 18,000원입니다.\n성찬: 얼마나 걸려요?\n직원: 30분이요.\n성찬: 네. 카드로 결제할게요.\n직원: 네. 알겠습니다.",
+  "coreVocab": [
+    {
+      "korean": "지금",
+      "romanization": "ji-geum",
+      "meaning": "now"
+    },
+    {
+      "korean": "배달",
+      "romanization": "bae-dal",
+      "meaning": "delivery"
+    },
+    {
+      "korean": "돼다",
+      "romanization": "doe-da",
+      "meaning": "to work, to be available"
+    },
+    {
+      "korean": "네.",
+      "romanization": "ne.",
+      "meaning": "Yes. / Ok."
+    },
+    {
+      "korean": "주소",
+      "romanization": "jiu-so",
+      "meaning": "address"
+    },
+    {
+      "korean": "말해 주다",
+      "romanization": "ma-rae ju-da",
+      "meaning": "to tell"
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "한국",
+      "romanization": "han-guk",
+      "meaning": "Korea"
+    },
+    {
+      "korean": "주다",
+      "romanization": "jiu-da",
+      "meaning": "to give"
+    },
+    {
+      "korean": "얼마나",
+      "romanization": "eol-ma-na",
+      "meaning": "how"
+    },
+    {
+      "korean": "걸리다",
+      "romanization": "geol-li-da",
+      "meaning": "to take (time)"
+    },
+    {
+      "korean": "카드",
+      "romanization": "ka-deu",
+      "meaning": "credit card"
+    },
+    {
+      "korean": "결제하다",
+      "romanization": "gyeol-je-ha-da",
+      "meaning": "to pay"
+    },
+    {
+      "korean": "어떤",
+      "romanization": "eo-tteon",
+      "meaning": "which, what kind of"
+    },
+    {
+      "korean": "드리다",
+      "romanization": "deu-ri-da",
+      "meaning": "to give (honorific)"
+    },
+    {
+      "korean": "반",
+      "romanization": "ban",
+      "meaning": "half"
+    },
+    {
+      "korean": "얼마",
+      "romanization": "eol-ma",
+      "meaning": "how much"
+    },
+    {
+      "korean": "맥주",
+      "romanization": "maek-jiul",
+      "meaning": "beer"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "Asking Politely for an Additional Item",
+      "pattern": "NOUN + -도 주세요 = Please give me NOUN, too.",
+      "meaning": "Please give me NOUN, too.",
+      "explanation": "The particle -도 means \"also\" or \"too,\" and is used to politely request additional items in a conversation. It is commonly attached to nouns to indicate that you want something in addition to what has already been ordered.",
+      "examples": [
+        {
+          "korean": "맥주 + -도 주세요 → 맥주도 주세요.",
+          "romanization": "",
+          "english": "Please give me beer, too."
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "카드 + -도 주세요",
+          "answer": "카드도 주세요.",
+          "english": "Please give me a card, too."
+        },
+        {
+          "prompt": "주소 + -도 주세요",
+          "answer": "주소도 주세요.",
+          "english": "Please give me your address, too."
+        },
+        {
+          "prompt": "치킨 + -도 주세요",
+          "answer": "치킨도 주세요.",
+          "english": "Please give me chicken, too."
+        },
+        {
+          "prompt": "카드 + -도 돼요?",
+          "answer": "카드도 돼요?",
+          "english": "Is (credit) card available? / Do you accept (credit) cards?"
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Asking Availability",
+      "pattern": "NOUN + 돼요? = Is NOUN available? / Do you VERB?",
+      "meaning": "Is NOUN available? / Do you VERB?",
+      "explanation": "The verb 돼다 when used with a noun and the question marker -요? is used to ask if something is available or if someone does something. It is a polite way to inquire about the availability of a service or item.",
+      "examples": [
+        {
+          "korean": "배달 + 돼요? → 배달 돼요? = Is delivery available? / Do you deliver?",
+          "romanization": "",
+          "english": "Is delivery available? / Do you deliver?"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "치킨 + 돼요?",
+          "answer": "치킨 돼요?",
+          "english": "Is fried chicken available? / Do you serve fried chicken?"
+        },
+        {
+          "prompt": "카드 + 돼요?",
+          "answer": "카드 돼요?",
+          "english": "Is (credit) card available? / Do you accept (credit) cards?"
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "When a syllable ends with ㄴ and is followed by a syllable that begins with ㄴ, the second ㄴ is pronounced as 쌍.",
+      "examples": [
+        {
+          "korean": "삼십 분 (30 minutes)",
+          "pronounced": "삼심 쌍",
+          "romanization": "[sam-sim sspan]"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "육십 분 (60 minutes)",
+          "answer": "육심 쌍",
+          "gloss": ""
+        },
+        {
+          "prompt": "담변 (answer, reply)",
+          "answer": "담뻔",
+          "gloss": ""
+        },
+        {
+          "prompt": "치킨입니다",
+          "answer": "치키닙니다",
+          "gloss": ""
+        },
+        {
+          "prompt": "말해",
+          "answer": "마래",
+          "gloss": ""
+        },
+        {
+          "prompt": "맥주도",
+          "answer": "맥쭈도",
+          "gloss": ""
+        },
+        {
+          "prompt": "걸제할게요",
+          "answer": "걸째할께요",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "Time for a review!",
+      "examples": [],
+      "exercises": [
+        {
+          "prompt": "치킨입니다",
+          "answer": "치키닙니다",
+          "gloss": ""
+        },
+        {
+          "prompt": "말해",
+          "answer": "마래",
+          "gloss": ""
+        },
+        {
+          "prompt": "맥주도",
+          "answer": "맥쭈도",
+          "gloss": ""
+        },
+        {
+          "prompt": "걸제할게요",
+          "answer": "걸째할께요",
+          "gloss": ""
+        }
+      ]
+    }
+  ]
+}

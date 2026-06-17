@@ -1,0 +1,331 @@
+{
+  "chapter": 28,
+  "title": "Restaurant",
+  "category": "Food",
+  "shortDialogue": [
+    {
+      "speaker": "하림",
+      "korean": "김치찌개 하나 주세요.",
+      "romanization": "",
+      "english": "Please give me one kimchi stew."
+    },
+    {
+      "speaker": "웨이터",
+      "korean": "네. 알겠습니다.",
+      "romanization": "",
+      "english": "Ok. I got it."
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "하림",
+      "korean": "저기요.",
+      "romanization": "",
+      "english": "Excuse me."
+    },
+    {
+      "speaker": "웨이터",
+      "korean": "네, 주문하세요.",
+      "romanization": "",
+      "english": "Yes, please tell me your order."
+    },
+    {
+      "speaker": "하림",
+      "korean": "김치찌개 하나 주세요.",
+      "romanization": "",
+      "english": "Please give me one kimchi stew."
+    },
+    {
+      "speaker": "웨이터",
+      "korean": "네. 알겠습니다.",
+      "romanization": "",
+      "english": "Ok. I got it."
+    },
+    {
+      "speaker": "하림",
+      "korean": "저기요. 김치찌개 매워요?",
+      "romanization": "",
+      "english": "Excuse me. Is the kimchi stew spicy?"
+    },
+    {
+      "speaker": "웨이터",
+      "korean": "네. 저희 김치찌개는 맛이 매워요.",
+      "romanization": "",
+      "english": "Yes. Our kimchi stew is very spicy."
+    },
+    {
+      "speaker": "하림",
+      "korean": "진짜요?",
+      "romanization": "",
+      "english": "Really?"
+    },
+    {
+      "speaker": "웨이터",
+      "korean": "네. 된장찌개는 어때요? 된장찌개도 맛있어요.",
+      "romanization": "",
+      "english": "Yes. How about soybean paste stew? Our soybean paste stew is good, too."
+    },
+    {
+      "speaker": "하림",
+      "korean": "또 뭐 있어요?",
+      "romanization": "",
+      "english": "What else do you have?"
+    },
+    {
+      "speaker": "웨이터",
+      "korean": "여기 메뉴판이요.",
+      "romanization": "",
+      "english": "Here's the menu."
+    },
+    {
+      "speaker": "하림",
+      "korean": "흠··· 김치찌개 조금 덜 매운 거 있어요?",
+      "romanization": "",
+      "english": "Hmm··· Don't you have kimchi stew that's a little less spicy?"
+    },
+    {
+      "speaker": "웨이터",
+      "korean": "주방에 물어볼게요.",
+      "romanization": "",
+      "english": "I'll ask the kitchen staff."
+    },
+    {
+      "speaker": "하림",
+      "korean": "네. 감사합니다.",
+      "romanization": "",
+      "english": "Ok. Thank you."
+    }
+  ],
+  "culturalTip": "In many Korean restaurants, there is a button on the table that you can push to ring a bell. This lets a server know that he/she is needed at your table. In loud or busy establishments, servers will often reply in unison with a simple word such as \"네!\" [nei] to acknowledge that they have heard the call. If there is no button, or if you press the button but no one replies or comes to your table, you can get the attention of any server by saying \"저기요!\" [jeo-gi-yo!]",
+  "koreanReview": "- Short Dialogue\n하림: 김치찌개 하나 주세요.\n웨이터: 네. 알겠습니다.\n\n- Long Dialogue\n하림: 저기요.\n웨이터: 네, 주문하세요.\n하림: 김치찌개 하나 주세요.\n웨이터: 네. 알겠습니다.\n하림: 저기요. 김치찌개 매워요?\n웨이터: 네. 저희 김치찌개는 맛이 매워요.\n하림: 진짜요?\n웨이터: 네. 된장찌개는 어때요? 된장찌개도 맛있어요.\n하림: 또 뭐 있어요?\n웨이터: 여기 메뉴판이요.\n하림: 흠··· 김치찌개 조금 덜 매운 거 있어요?\n웨이터: 주방에 물어볼게요.\n하림: 네. 감사합니다.",
+  "coreVocab": [
+    {
+      "korean": "김치찌개",
+      "romanization": "gim-chi-jji-gae",
+      "meaning": "kimchi stew"
+    },
+    {
+      "korean": "하나",
+      "romanization": "ha-na",
+      "meaning": "one"
+    },
+    {
+      "korean": "주다",
+      "romanization": "ju-da",
+      "meaning": "to give"
+    },
+    {
+      "korean": "-(으)세요",
+      "romanization": "-(eu)-se-yo",
+      "meaning": "imperative (polite)"
+    },
+    {
+      "korean": "네.",
+      "romanization": "ne.",
+      "meaning": "Yes. / Ok."
+    },
+    {
+      "korean": "알겠습니다.",
+      "romanization": "al-get-sseum-ni-da",
+      "meaning": "I got it. / Yes, sir/ma'am. / I understand."
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "주문하다",
+      "romanization": "ju-mun-ha-da",
+      "meaning": "to order"
+    },
+    {
+      "korean": "또",
+      "romanization": "tto",
+      "meaning": "again, else"
+    },
+    {
+      "korean": "김치찌개",
+      "romanization": "gim-chi-jji-gae",
+      "meaning": "kimchi stew"
+    },
+    {
+      "korean": "하나",
+      "romanization": "ha-na",
+      "meaning": "one"
+    },
+    {
+      "korean": "주다",
+      "romanization": "ju-da",
+      "meaning": "to give"
+    },
+    {
+      "korean": "알다",
+      "romanization": "al-da",
+      "meaning": "to know"
+    },
+    {
+      "korean": "저기요",
+      "romanization": "jeo-gi-yo",
+      "meaning": "Excuse me."
+    },
+    {
+      "korean": "맵다",
+      "romanization": "maep-tta",
+      "meaning": "to be spicy"
+    },
+    {
+      "korean": "맛이",
+      "romanization": "ma-si",
+      "meaning": "many, much, a lot"
+    },
+    {
+      "korean": "진짜",
+      "romanization": "jin-jja",
+      "meaning": "really"
+    },
+    {
+      "korean": "된장찌개",
+      "romanization": "doen-jang-jji-gae",
+      "meaning": "soybean paste stew"
+    },
+    {
+      "korean": "맛있다",
+      "romanization": "ma-sit-ta",
+      "meaning": "to be tasty"
+    },
+    {
+      "korean": "뭐",
+      "romanization": "mwo",
+      "meaning": "what"
+    },
+    {
+      "korean": "없다",
+      "romanization": "eop-tta",
+      "meaning": "to not exist, to not have, to not be there"
+    },
+    {
+      "korean": "주방",
+      "romanization": "ju-bang",
+      "meaning": "kitchen"
+    },
+    {
+      "korean": "물어보다",
+      "romanization": "mu-reo-bo-da",
+      "meaning": "to ask"
+    },
+    {
+      "korean": "감사하다",
+      "romanization": "gam-sa-ha-da",
+      "meaning": "to be thankful"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "Less",
+      "pattern": "덜 = less",
+      "meaning": "less",
+      "explanation": "",
+      "examples": [
+        {
+          "korean": "덜 + 맵다 → 덜 맵다",
+          "romanization": "",
+          "english": "to be less spicy"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "덜 + 맛있다",
+          "answer": "덜 맛있다",
+          "english": "to be less tasty"
+        },
+        {
+          "prompt": "덜 + 감사하다",
+          "answer": "덜 감사하다",
+          "english": "to be less thankful"
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Introducing a New Relevant Subject",
+      "pattern": "NOUN + -은/는 어때요? = How about NOUN?",
+      "meaning": "How about NOUN?",
+      "explanation": "* If the last syllable of the noun ends with a consonant, add -은 어때요. If the last syllable of the noun ends with a vowel, add -는 어때요.",
+      "examples": [
+        {
+          "korean": "일 + -은/는 어때요? → 일은 어때요?",
+          "romanization": "",
+          "english": "How about your work?"
+        },
+        {
+          "korean": "된장찌개 + -은/는 어때요? → 된장찌개는 어때요?",
+          "romanization": "",
+          "english": "How about soybean paste stew?"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "주방 + -은/는 어때요?",
+          "answer": "주방은 어때요?",
+          "english": "How about the kitchen?"
+        },
+        {
+          "prompt": "학교 + -은/는 어때요?",
+          "answer": "학교는 어때요?",
+          "english": "How about your school?"
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "When a syllable ends with ㄹ (which sounds the same as ㄷ when in the 받침 position) and is followed by a syllable that begins with ㅅ, the ㅅ is pronounced as ㄲ.",
+      "examples": [
+        {
+          "korean": "알겠습니다",
+          "pronounced": "[알깯습니다]",
+          "romanization": "al-kkat-sseum-ni-da"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "같습니다",
+          "answer": "깟습니다",
+          "gloss": ""
+        },
+        {
+          "prompt": "먹었습니다",
+          "answer": "머걷습니다",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "Let's review a few pronunciation rules that have been covered already.",
+      "examples": [],
+      "exercises": [
+        {
+          "prompt": "주문하세요",
+          "answer": "주문하세요",
+          "gloss": ""
+        },
+        {
+          "prompt": "저희",
+          "answer": "저희",
+          "gloss": ""
+        },
+        {
+          "prompt": "맛이",
+          "answer": "마시",
+          "gloss": ""
+        },
+        {
+          "prompt": "물어볼게요",
+          "answer": "무러볼게요",
+          "gloss": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "week": 7,
+  "day": 2,
+  "order": 44,
+  "keyword": "돈",
+  "meaning": "money",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "용돈",
+      "english": "pocket money; allowance",
+      "notes": "용돈 = pocket money; allowance"
+    },
+    {
+      "korean": "잔돈",
+      "english": "small change",
+      "notes": "잔돈 = (size) to be fine; to be little"
+    },
+    {
+      "korean": "돈을 벌다",
+      "english": "to earn money",
+      "notes": "벌다 = to earn"
+    },
+    {
+      "korean": "돈을 쓰다",
+      "english": "to spend money",
+      "notes": "쓰다 = to use; to spend (+ money)"
+    },
+    {
+      "korean": "돈을 갚다",
+      "english": "to pay back, return money",
+      "notes": "갚다 = to pay back"
+    },
+    {
+      "korean": "돈을 빌리다",
+      "english": "to borrow money",
+      "notes": "빌리다 = to borrow; to rent"
+    },
+    {
+      "korean": "돈이 모자라다",
+      "english": "to lack money; to be short on money",
+      "notes": "모자라다 = to lack; to be short of, insufficient"
+    },
+    {
+      "korean": "돈이 없어요.",
+      "english": "I don't have money.",
+      "notes": "없다 = to not have, not exist; to be not there"
+    },
+    {
+      "korean": "돈 좀 주세요.",
+      "english": "Give me some money.",
+      "notes": "좀 = a little; please\n주다 = to give\n-(으)세요 = (polite) imperative"
+    },
+    {
+      "korean": "돈을 많이 벌고 싶어요.",
+      "english": "I want to make a lot of money.",
+      "notes": "-고 싶다 = to want to + V"
+    },
+    {
+      "korean": "돈이 많았으면 좋겠어요.",
+      "english": "I wish I had a lot of money.",
+      "notes": "-았/었으면 좋겠다 = I wish + S + V-ed"
+    },
+    {
+      "korean": "돈 좀 빌려줄 수 있어요?",
+      "english": "Can you lend me some money?",
+      "notes": "빌려주다 = to lend\n-(으)ㄹ 수 있다 = can, to be able to; there is a chance that + S + V"
+    },
+    {
+      "korean": "지갑에 돈이 별로 없어요.",
+      "english": "I don't have much money in my wallet.",
+      "notes": "지갑 = wallet, purse"
+    },
+    {
+      "korean": "돈을 갚을 방법이 없어요.",
+      "english": "There is no way I can pay you back.",
+      "notes": "방법 = method, way"
+    },
+    {
+      "korean": "옷을 사느라 돈을 다 썼어요.",
+      "english": "I spent all my money buying clothes.",
+      "notes": "옷 = clothes, outfit\n사다 = to buy\n-느라 = for + V-ing, while + V-ing\n다 = all; every (thing)"
+    },
+    {
+      "korean": "돈이 많다고 행복한 건 아니에요.",
+      "english": "Just because you have a lot of money doesn't mean you are happy.",
+      "notes": "-다고 = just because; saying that + S + V\n행복하다 = to be happy"
+    },
+    {
+      "korean": "이번 달에는 돈을 너무 많이 썼어요.",
+      "english": "I've spent too much money this month.",
+      "notes": "이번 = this; this time\n달 = month"
+    },
+    {
+      "korean": "세상에는 돈으로 살 수 없는 것들이 더 많아요.",
+      "english": "There are many things in life that you can't buy with money.",
+      "notes": "세상 = world\n-(으)로 = by; with\n살 = to buy; to live\n수 없다 = to be unable to + V; can't"
+    },
+    {
+      "korean": "돈을 버는 것도 중요하지만 쓰는 것도 중요해요.",
+      "english": "Making money is important, but spending money is also important.",
+      "notes": "중요하다 = to be important"
+    },
+    {
+      "korean": "저 신발을 사고 싶은데 돈이 모자라서 못 샀어요.",
+      "english": "I want to buy shoes, but I can't because I don't have enough money.",
+      "notes": "못-것다 = I don't think + S + can + V"
+    }
+  ]
+}

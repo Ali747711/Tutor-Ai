@@ -1,0 +1,110 @@
+{
+  "week": 5,
+  "day": 2,
+  "order": 30,
+  "keyword": "손",
+  "meaning": "hand",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "왼손",
+      "english": "left hand",
+      "notes": "왼손 = left (side)\n왼 is the adjective form of 왼쪽."
+    },
+    {
+      "korean": "오른손",
+      "english": "right hand",
+      "notes": "오른쪽 = right (side)\n오른 is the adjective form of 오른쪽."
+    },
+    {
+      "korean": "손을 들다",
+      "english": "to raise one's hand",
+      "notes": "들다 = to raise; to pick (something) up"
+    },
+    {
+      "korean": "손을 대다",
+      "english": "to touch",
+      "notes": "대다 = to touch; to apply something to something"
+    },
+    {
+      "korean": "손을 잡다",
+      "english": "to hold one's hand",
+      "notes": "잡다 = to hold; to grab"
+    },
+    {
+      "korean": "손 들어!",
+      "english": "Raise your hands!",
+      "notes": ""
+    },
+    {
+      "korean": "손이 아파요.",
+      "english": "My hand hurts.",
+      "notes": "아프다 = to be sick, hurt"
+    },
+    {
+      "korean": "손 줘 보세요.",
+      "english": "Give me your hand.",
+      "notes": "주다 = to give\n-(으)세요 = (polite) imperative"
+    },
+    {
+      "korean": "손을 다쳤어요.",
+      "english": "My hand was injured.",
+      "notes": "다치다 = to get hurt, injured"
+    },
+    {
+      "korean": "손 씻고 올게요.",
+      "english": "I will go wash my hands.",
+      "notes": "씻다 = to wash\n오다 = to come"
+    },
+    {
+      "korean": "손이 참 예쁘시네요.",
+      "english": "You have very beautiful hands.",
+      "notes": "참 = very, quite\n예쁘다 = to be pretty"
+    },
+    {
+      "korean": "자는 왼손잡이예요.",
+      "english": "I am left-handed.",
+      "notes": "저 = (polite) I; me\n왼손잡이 = left-handed"
+    },
+    {
+      "korean": "너는 손이 없어? 니가 해.",
+      "english": "Don't you have hands? Do it yourself!",
+      "notes": "너 = (casual) you\n니 is originally 너, but people often just use 니 in casual conversations."
+    },
+    {
+      "korean": "손에 들고 있는 거 뭐예요?",
+      "english": "What is that thing that you have in your hand?",
+      "notes": "뭐 = what; something\n뭐 is the contracted form of 무엇."
+    },
+    {
+      "korean": "뜨거우니까 손 조심하세요.",
+      "english": "It's hot, so be careful.",
+      "notes": "뜨겁다 = to be hot\n조심하다 = to be careful"
+    },
+    {
+      "korean": "직접 제 손으로 만들었어요.",
+      "english": "I made it with my own hands.",
+      "notes": "직접 = directly; by oneself; with one's own hands\n만들다 = to make"
+    },
+    {
+      "korean": "손으로 눈을 비비지 마세요.",
+      "english": "Don't rub your eyes with your hands.",
+      "notes": "눈 = eye\n비비다 = to rub\n-지 마세요 = (polite) Don't + V"
+    },
+    {
+      "korean": "어제 처음으로 손을 잡았어요.",
+      "english": "Yesterday, we held hands for the first time.",
+      "notes": "어제 = yesterday"
+    },
+    {
+      "korean": "더러운 손으로 만지지 마세요.",
+      "english": "Don't touch it with dirty hands.\nDon't touch that with your dirty hands.",
+      "notes": "더럽다 = to be dirty\n더러운 is the adjective form of 더럽다.\n만지다 = to touch"
+    },
+    {
+      "korean": "정답을 아시는 분은 손 들어 주세요.",
+      "english": "If you know the correct answer, please raise your hand.",
+      "notes": "정답 = correct answer\n아시다 = (honorific) to know\n분 = (honorific) person"
+    }
+  ]
+}

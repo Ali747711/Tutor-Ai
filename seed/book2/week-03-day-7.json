@@ -1,0 +1,100 @@
+{
+  "week": 3,
+  "day": 7,
+  "order": 21,
+  "keyword": "지저분하다",
+  "meaning": "to be messy; to be dirty",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "지저분한 방",
+      "english": "messy room",
+      "notes": "방 = room"
+    },
+    {
+      "korean": "지저분한 거리",
+      "english": "dirty street",
+      "notes": "거리 = street"
+    },
+    {
+      "korean": "지저분하게 먹다",
+      "english": "to eat in a messy way",
+      "notes": ""
+    },
+    {
+      "korean": "책상이 지저분하다",
+      "english": "desk is messy",
+      "notes": ""
+    },
+    {
+      "korean": "별로 안 지저분해요?",
+      "english": "It is not that messy.",
+      "notes": "별로 = not particularly, not very, not so much, not really\n별로 안·(으)니·네요? = I don't think + S + be + that + adjective"
+    },
+    {
+      "korean": "바닥이 너무 지저분해요.",
+      "english": "The floors are too dirty.",
+      "notes": "바닥 = floor"
+    },
+    {
+      "korean": "윤아 씨 방은 너무 지저분해요.",
+      "english": "Yoona's room is too messy.",
+      "notes": ""
+    },
+    {
+      "korean": "여기 너무 지저분해서 있기 싫어요.",
+      "english": "This place is so dirty, I do not want to be here.",
+      "notes": "싫다 = to be not likable, to not like; to be unpleasant; to not enjoy, to hate"
+    },
+    {
+      "korean": "방이 정말 지저분하네요. 좀 치워세요.",
+      "english": "The room is really messy. Please tidy it up.",
+      "notes": "치우다 = to clean up, tidy up; to move"
+    },
+    {
+      "korean": "이렇게 지저분한 방에서 어떻게 살아요?",
+      "english": "How can you live in a room this messy?",
+      "notes": "이렇게 = like this, in this manner; so +adjective\n어떻게 = how\n살다 = to live"
+    },
+    {
+      "korean": "옷이 너무 지저분해서 옷 좀 갈아입고 갈게요.",
+      "english": "I will come after I change my clothes since my clothes are too dirty.",
+      "notes": "갈아입다 = to change (clothes)"
+    },
+    {
+      "korean": "눈 오는 날 신었더니 제 부츠가 지저분해졌어요.",
+      "english": "My boots became dirty because I wore them on a snowy day.",
+      "notes": "눈 = snow\n눈(이) 오다 = to snow\n날 = day\n신다 = to wear (footwear/socks)\n부츠 = boots"
+    },
+    {
+      "korean": "미용실에 오래 못 갔더니 머리가 너무 지저분해요.",
+      "english": "My hair is really messy because I was unable to go to the hair salon for a long time.",
+      "notes": "미용실 = hair salon\n오래 = for a long time, a long time\n못 = can't\n머리 = head; hair"
+    },
+    {
+      "korean": "다른 자리는 괜찮은데 왜 경은 씨 자리만 지저분해요?",
+      "english": "Why is it that Kyeong-eun's desk is messy while others' are clean?",
+      "notes": "다른 = other; another\n자리 = space, spot, seat, position; occasion\n괜찮다 = to be okay, to be alright; to be nice\n-만 = only; just"
+    },
+    {
+      "korean": "방이 이렇게 지저분한데 어떻게 공부를 한다는 거예요?",
+      "english": "How can you say that you can study when the room is this messy?",
+      "notes": "공부를 하다 = to study\n어떻게·(느)·니·다는 거예요? = How can you say that you can/are going to + V?"
+    },
+    {
+      "korean": "제 동생은 아직 어려서 밥을 먹을 때 지저분하게 먹어요.",
+      "english": "My brother is still young, so when he is eating his meals, he is messy.\nMy brother is still young, so he's a messy eater.",
+      "notes": "동생 = younger sister/brother\n어리다 = to be young"
+    },
+    {
+      "korean": "저기 선반 위가 너무 지저분한 것 같은데 같이 치울까요?",
+      "english": "I think the top of the shelf is too dirty. Shall we clean it together?",
+      "notes": "저기 = there\n선반 = shelf\n위 = above; on; up\n같이 = together; with + N\n-(으)ㄹ까요? = Shall we + S + V?; Do you want me to + V?; Should we + V?; Let's + V."
+    },
+    {
+      "korean": "서랍 속이 너무 지저분해서 안 쓰는 물 건은 모두 버렸어요.",
+      "english": "Since the inside of my drawer was so messy, I threw out all the things I don't use.",
+      "notes": "서랍 = drawer (of desk or dresser)\n속 = inside\n모두 = all; every; everyone\n버리다 = to throw away; to dump"
+    }
+  ]
+}

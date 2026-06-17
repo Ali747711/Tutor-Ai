@@ -1,0 +1,110 @@
+{
+  "week": 10,
+  "day": 1,
+  "order": 64,
+  "keyword": "만들다",
+  "meaning": "to make",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "손으로 만들다",
+      "english": "to hand-make something",
+      "notes": "손 = hand"
+    },
+    {
+      "korean": "책으로 만들다",
+      "english": "to make (a story) into a book",
+      "notes": "책 = book"
+    },
+    {
+      "korean": "음식을 만들다",
+      "english": "to make food",
+      "notes": "음식 = food"
+    },
+    {
+      "korean": "이거 만들 줄 알아요?",
+      "english": "Do you know how to make this?",
+      "notes": "이거 = this thing; this\n-(으)ㄹ 줄 알다 = to know how to + V"
+    },
+    {
+      "korean": "다 만들면 말해 주세요.",
+      "english": "Let me know once you are done making it.",
+      "notes": "다 = all; every (thing)\n다-(으)면 = once + S + finish/done + V-ing\n말하다 = to talk; to say; to speak; to tell\n-이/어/여 주세요 = (polite) Please do + something + for me."
+    },
+    {
+      "korean": "이거 누가 만들었어요?",
+      "english": "Who made this?",
+      "notes": "누가 = who; someone (subject)"
+    },
+    {
+      "korean": "그거 손으로 만든 거예요.",
+      "english": "It's handmade.\nI made it with my hands.",
+      "notes": "그거 = that"
+    },
+    {
+      "korean": "저는 그런 거 못 만들어요.",
+      "english": "I can't make such a thing.",
+      "notes": "저 = (polite) I; me\n그런 = (something) like that; such + noun\n못 = can't"
+    },
+    {
+      "korean": "이거 제가 직접 만든 거예요.",
+      "english": "I made this myself.",
+      "notes": "제 = (polite) my; I\n직접 = directly; by oneself; with one's own hands"
+    },
+    {
+      "korean": "이번에 새 명함을 만들었어요.",
+      "english": "I made a new business card recently.",
+      "notes": "이번에 = this time; recently\n새 = new\n명함 = business card"
+    },
+    {
+      "korean": "친구랑 떡볶이를 만들어 봤어요.",
+      "english": "I tried making some tteokbokki with my friend.",
+      "notes": "친구 = friend\n떡볶이 = tteokbokki; boiled rice cakes and fish cakes in a spicy sauce\n-어/어/여 보다 = to try + V-ing"
+    },
+    {
+      "korean": "어떻게 이렇게 빨리 만들었어요?",
+      "english": "How did you make it so quickly?",
+      "notes": "어떻게 = how\n이렇게 = like this, in this manner; so +adjective\n빠르다 = to be fast\n빨리 is an adverb form of 빠르다."
+    },
+    {
+      "korean": "이거 만드는 방법 좀 알려주세요.",
+      "english": "Tell me how to make this.",
+      "notes": "방법 = method, way\n좀 = a little; please\n알려주다 = to let someone know; to teach something to someone\n-(으)세요 = (polite) imperative"
+    },
+    {
+      "korean": "제가 만든 김치 볶음밥 맛이 어때요?",
+      "english": "How does the kimchi fried rice that I made taste?",
+      "notes": "김치 볶음밥 = kimchi fried rice\n맛 = taste\n어때요? = how is + N?; used to suggest, propose, or offer something"
+    },
+    {
+      "korean": "그 사람의 이야기를 책으로 만들었어요.",
+      "english": "They made his story into a book.",
+      "notes": "그 = the; that\n사람 = person, people\n이야기 = story; what one says"
+    },
+    {
+      "korean": "어제 찍은 사진으로 비디오를 만들었어 요.",
+      "english": "I made a video with the photos I took yesterday.",
+      "notes": "어제 = yesterday\n(사진을) 찍다 = to take (photos)\n사진 = photo\n비디오 = video"
+    },
+    {
+      "korean": "제가 실수를 해서 괜히 일을 더 만들었 어요.",
+      "english": "I made a mistake and created more work.\nI made a silly mistake and made the task more daunting.",
+      "notes": "실수 = mistake\n실수를 하다 = to make a mistake\n-어/어/여서 = because; since\n괜히 = needlessly; in vain; uselessly\n일 = work; task; thing; stuff; occasion\n더 = more\n일을 만들다 = to make trouble\n일을 더 만들다 = to make the work/trouble bigger"
+    },
+    {
+      "korean": "음식을 먹을 줄은 아는데 만들 줄은 몰 라요.",
+      "english": "I know how to eat food, but don't know how to make it.",
+      "notes": "-(으)ㄹ 줄 모르다 = to not know how to + V"
+    },
+    {
+      "korean": "오늘 저녁에 손님이 오셔서 음식을 많 이 만들어야 해요.",
+      "english": "There will be some guests coming this evening, so I have to make a lot of food.",
+      "notes": "오늘 = today\n저녁 = evening; dinner\n손님 = guest; visitor\n오시다 = (honorific) to come\n많다 = to be a lot\n많이 is an adverb form of 많다.\n-어/어/여야 하다 = should; have to; must"
+    },
+    {
+      "korean": "제가 제일 좋아하는 감독이 이번에 새 영화를 만들었어요.",
+      "english": "My favorite director recently made a new movie.",
+      "notes": "제일 = the best; the most\n좋아하다 = to like\n감독 = director\n영화 = movie"
+    }
+  ]
+}

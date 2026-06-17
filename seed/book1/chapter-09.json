@@ -1,0 +1,301 @@
+{
+  "chapter": 9,
+  "title": "Marketplace",
+  "category": "Shopping",
+  "shortDialogue": [
+    {
+      "speaker": "수지",
+      "korean": "아저씨, 양파 얼마예요?",
+      "romanization": "",
+      "english": "How much are the onions?"
+    },
+    {
+      "speaker": "상인",
+      "korean": "네 개에 삼천 원이에요.",
+      "romanization": "",
+      "english": "It's 3,000 won for four."
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "수지",
+      "korean": "안녕하세요.",
+      "romanization": "",
+      "english": "Hello."
+    },
+    {
+      "speaker": "상인",
+      "korean": "어서 오세요.",
+      "romanization": "",
+      "english": "Welcome."
+    },
+    {
+      "speaker": "수지",
+      "korean": "아저씨, 양파 어디 있어요?",
+      "romanization": "",
+      "english": "Sir, where are the onions?"
+    },
+    {
+      "speaker": "상인",
+      "korean": "양파 여기 있어요.",
+      "romanization": "",
+      "english": "The onions are here."
+    },
+    {
+      "speaker": "수지",
+      "korean": "얼마예요?",
+      "romanization": "",
+      "english": "How much are they?"
+    },
+    {
+      "speaker": "상인",
+      "korean": "네 개에 삼천 원이에요.",
+      "romanization": "",
+      "english": "It's 3,000 won for four."
+    },
+    {
+      "speaker": "수지",
+      "korean": "여덟 개 주세요.",
+      "romanization": "",
+      "english": "Give me eight, please."
+    },
+    {
+      "speaker": "상인",
+      "korean": "네. 더 필요한 건 없어요?",
+      "romanization": "",
+      "english": "Yes. Is there anything else you need?"
+    },
+    {
+      "speaker": "수지",
+      "korean": "당근은 어디 있어요?",
+      "romanization": "",
+      "english": "Where are the carrots?"
+    },
+    {
+      "speaker": "상인",
+      "korean": "당근은 없어요. 다 팔렸어요.",
+      "romanization": "",
+      "english": "We don't have carrots. They're sold out."
+    },
+    {
+      "speaker": "수지",
+      "korean": "아, 그럼 양파만 주세요.",
+      "romanization": "",
+      "english": "Oh, then just give me the onions."
+    },
+    {
+      "speaker": "상인",
+      "korean": "네. 육천 원이에요.",
+      "romanization": "",
+      "english": "Ok. It's 6,000 won."
+    }
+  ],
+  "culturalTip": "In Korea, fruits and vegetables are typically purchased at one of three places: a street market, small grocery shop, or big supermarket. Since street markets are slowly disappearing, people usually go to a small grocery store nearby or a big supermarket to do their grocery shopping. It is common to see people haggling for the price of produce at most places except big supermarkets.",
+  "koreanReview": "- Short Dialogue\n수지: 아저씨, 양파 얼마예요?\n아저씨: 네 개에 삼천 원이에요.\n\n- Long Dialogue\n수지: 안녕하세요.\n상인: 어서 오세요.\n수지: 아저씨, 양파 어디 있어요?\n상인: 양파 여기 있어요.\n수지: 얼마예요?\n상인: 네 개에 삼천 원이에요.\n수지: 여덟 개 주세요.\n상인: 네. 더 필요한 건 없어요?\n수지: 당근은 어디 있어요?\n상인: 당근은 없어요. 다 팔렸어요.\n수지: 아, 그럼 양파만 주세요.\n상인: 네. 육천 원이에요.",
+  "coreVocab": [
+    {
+      "korean": "아저씨",
+      "romanization": "a-jeo-ssi",
+      "meaning": "middle-aged man"
+    },
+    {
+      "korean": "양파",
+      "romanization": "yang-pa",
+      "meaning": "onion"
+    },
+    {
+      "korean": "얼마예요?",
+      "romanization": "eol-ma-ye-yo?",
+      "meaning": "How much is it?"
+    },
+    {
+      "korean": "네 개에",
+      "romanization": "ne gae-e",
+      "meaning": "for four"
+    },
+    {
+      "korean": "삼천",
+      "romanization": "sam-cheon",
+      "meaning": "three thousand"
+    },
+    {
+      "korean": "원",
+      "romanization": "won",
+      "meaning": "unit of Korean money, Korean won(₩)"
+    },
+    {
+      "korean": "NOUN + -이에요/예요",
+      "romanization": "-i-e-yo/ye-yo",
+      "meaning": "to be + NOUN"
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "아저씨",
+      "romanization": "a-jeo-ssi",
+      "meaning": "middle-aged man"
+    },
+    {
+      "korean": "양파",
+      "romanization": "yang-pa",
+      "meaning": "onion"
+    },
+    {
+      "korean": "어디",
+      "romanization": "eo-di",
+      "meaning": "where"
+    },
+    {
+      "korean": "있다",
+      "romanization": "it-tta",
+      "meaning": "to exist, to have"
+    },
+    {
+      "korean": "얼마",
+      "romanization": "eol-ma",
+      "meaning": "how much"
+    },
+    {
+      "korean": "넷",
+      "romanization": "net",
+      "meaning": "four"
+    },
+    {
+      "korean": "삼천 원",
+      "romanization": "sam-cheon won",
+      "meaning": "three thousand won"
+    },
+    {
+      "korean": "여덟",
+      "romanization": "yeo-deol",
+      "meaning": "eight"
+    },
+    {
+      "korean": "주다",
+      "romanization": "ju-da",
+      "meaning": "to give"
+    },
+    {
+      "korean": "더",
+      "romanization": "deo",
+      "meaning": "more"
+    },
+    {
+      "korean": "필요하다",
+      "romanization": "pi-ryo-ha-da",
+      "meaning": "to need"
+    },
+    {
+      "korean": "없다",
+      "romanization": "eop-tta",
+      "meaning": "to not exist, to not have, to not be there"
+    },
+    {
+      "korean": "당근",
+      "romanization": "dang-geun",
+      "meaning": "carrot"
+    },
+    {
+      "korean": "그럼",
+      "romanization": "geu-reom",
+      "meaning": "then"
+    },
+    {
+      "korean": "육천 원",
+      "romanization": "yuk-cheon won",
+      "meaning": "six thousand won"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "Present Tense Interrogative Sentence",
+      "pattern": "VERB/ADJECTIVE + -아/어/여요?",
+      "meaning": "= Do/does (SUBJECT) VERB? / Is/am/are (SUBJECT) ADJECTIVE?",
+      "explanation": "Ex) 있다 + -아/어/여요? → 있어요? = Do you have ...? / Are there ...?",
+      "examples": [
+        {
+          "korean": "있다 + -아/어/여요? → 있어요?",
+          "romanization": "",
+          "english": "Do you have ...? / Are there ...?"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "없다 + -아/어/여요?",
+          "answer": "없어요?",
+          "english": "Do you not have (it)?"
+        },
+        {
+          "prompt": "필요하다 + -아/어/여요?",
+          "answer": "필요해요?",
+          "english": "Do you need (it)?"
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Modifier: \"only\"",
+      "pattern": "NOUN + -만 = NOUN only",
+      "meaning": "NOUN only",
+      "explanation": "Ex) 양파 + -만 → 양파만 = onions only",
+      "examples": [
+        {
+          "korean": "양파 + -만 → 양파만",
+          "romanization": "",
+          "english": "onions only"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "당근 + -만",
+          "answer": "당근만",
+          "english": "carrots only"
+        },
+        {
+          "prompt": "아저씨 + -만",
+          "answer": "아저씨만",
+          "english": "middle-aged men only"
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "When a word or syllable ends with ㄼ and is followed by a consonant, only ㄹ is pronounced, not ㅂ.",
+      "examples": [
+        {
+          "korean": "여덟",
+          "pronounced": "여덜",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "넓게",
+          "answer": "널께",
+          "gloss": "(widely)"
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "When ㄼ is pronounced as ㄹ and is followed by a syllable that begins with ㄱ, the ㄱ is pronounced as ㄲ.",
+      "examples": [
+        {
+          "korean": "여덟 개",
+          "pronounced": "여덜 깨",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "넓고",
+          "answer": "널꼬",
+          "gloss": "(wide and...)"
+        }
+      ]
+    }
+  ]
+}

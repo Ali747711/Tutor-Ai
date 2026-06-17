@@ -1,0 +1,347 @@
+{
+  "chapter": 3,
+  "title": "How are you?",
+  "category": "Friends",
+  "shortDialogue": [
+    {
+      "speaker": "수경",
+      "korean": "지민아, 잘 지내고 있어?",
+      "romanization": "",
+      "english": "Jimin, how are you doing?"
+    },
+    {
+      "speaker": "지민",
+      "korean": "응. 잘 지내. 너는 어때?",
+      "romanization": "",
+      "english": "Yeah. I'm doing well. How about you?"
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "수경",
+      "korean": "여보세요?",
+      "romanization": "",
+      "english": "Hello?"
+    },
+    {
+      "speaker": "지민",
+      "korean": "여보세요? 수경아, 나야!",
+      "romanization": "",
+      "english": "Hello? Su-gyeong, it's me!"
+    },
+    {
+      "speaker": "수경",
+      "korean": "누구세요?",
+      "romanization": "",
+      "english": "Who is this?"
+    },
+    {
+      "speaker": "지민",
+      "korean": "나 지민이! 잘 지내고 있어?",
+      "romanization": "",
+      "english": "It's me, Ji-min. How are you doing?"
+    },
+    {
+      "speaker": "수경",
+      "korean": "응, 지민아. 나는 잘 지내. 너는 어때?",
+      "romanization": "",
+      "english": "Yeah, Ji-min. I am doing well. How about you?"
+    },
+    {
+      "speaker": "지민",
+      "korean": "나도 잘 지내. 나 곧 결혼해. 그래서 요즘 너무 바빠.",
+      "romanization": "",
+      "english": "I am doing well, too. I am getting married soon. So, I'm really busy these days."
+    },
+    {
+      "speaker": "수경",
+      "korean": "정말? 축하해.",
+      "romanization": "",
+      "english": "Really? Congratulations!"
+    },
+    {
+      "speaker": "지민",
+      "korean": "고마워.",
+      "romanization": "",
+      "english": "Thank you."
+    },
+    {
+      "speaker": "수경",
+      "korean": "언제 결혼해?",
+      "romanization": "",
+      "english": "When are you getting married?"
+    },
+    {
+      "speaker": "지민",
+      "korean": "다음 달에 해. 주연이하고 같이 와.",
+      "romanization": "",
+      "english": "I'm getting married next month. Please come with Joo-yeon."
+    },
+    {
+      "speaker": "수경",
+      "korean": "응. 알겠어.",
+      "romanization": "",
+      "english": "Ok. I got it."
+    },
+    {
+      "speaker": "지민",
+      "korean": "그럼 그때 보자. 끊을게.",
+      "romanization": "",
+      "english": "Well, I'll see you then. I gotta go."
+    },
+    {
+      "speaker": "수경",
+      "korean": "응. 그래. 그때 봐.",
+      "romanization": "",
+      "english": "Yeah, ok. See you then."
+    }
+  ],
+  "culturalTip": "In Korea, people will usually announce their wedding date about a month before the event. Around that time, they will mail out wedding invitations to relatives and friends who live far away, but will meet up with close friends to hand out the invitations in person.",
+  "koreanReview": "- Short Dialogue\n수경: 지민아, 잘 지내고 있어?\n지민: 응. 잘 지내. 너는 어때?\n\n- Long Dialogue\n수경: 여보세요?\n지민: 여보세요? 수경아, 나야!\n수경: 누구세요?\n지민: 나 지민이! 잘 지내고 있어?\n수경: 응, 지민아. 나는 잘 지내. 너는 어때?\n지민: 나도 잘 지내. 나 곧 결혼해. 그래서 요즘 너무 바빠.\n수경: 정말? 축하해.\n지민: 고마워.\n수경: 언제 결혼해?\n지민: 다음 달에 해. 주연이하고 같이 와.\n수경: 응. 알겠어.\n지민: 그럼 그때 보자. 끊을게.\n수경: 응. 그래. 그때 봐.",
+  "coreVocab": [
+    {
+      "korean": "잘",
+      "romanization": "jal",
+      "meaning": "well"
+    },
+    {
+      "korean": "지내다",
+      "romanization": "ji-nae-da",
+      "meaning": "to live, to stay, to spend (time)"
+    },
+    {
+      "korean": "VERB + -고 있다",
+      "romanization": "-go it-tta",
+      "meaning": "to be + VERB-ing"
+    },
+    {
+      "korean": "응",
+      "romanization": "eung",
+      "meaning": "yes, yeah, ok (casual)"
+    },
+    {
+      "korean": "너",
+      "romanization": "neo",
+      "meaning": "you"
+    },
+    {
+      "korean": "NOUN + 어때?",
+      "romanization": "eo-ttae",
+      "meaning": "How is/are + NOUN? (casual)"
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "여보세요?",
+      "romanization": "yeo-bo-se-yo?",
+      "meaning": "Hello? (on the phone)"
+    },
+    {
+      "korean": "누구",
+      "romanization": "nu-gu",
+      "meaning": "who"
+    },
+    {
+      "korean": "잘",
+      "romanization": "jal",
+      "meaning": "well"
+    },
+    {
+      "korean": "지내다",
+      "romanization": "ji-nae-da",
+      "meaning": "to live, to stay, to spend (time)"
+    },
+    {
+      "korean": "곧",
+      "romanization": "got",
+      "meaning": "soon"
+    },
+    {
+      "korean": "결혼하다",
+      "romanization": "gyeo-ro-na-da",
+      "meaning": "to get married"
+    },
+    {
+      "korean": "그래서",
+      "romanization": "geu-rae-seo",
+      "meaning": "so, therefore"
+    },
+    {
+      "korean": "요즘",
+      "romanization": "yo-jeum",
+      "meaning": "these days"
+    },
+    {
+      "korean": "너무",
+      "romanization": "neo-mu",
+      "meaning": "really, so, too much"
+    },
+    {
+      "korean": "바쁘다",
+      "romanization": "ba-ppeu-da",
+      "meaning": "to be busy"
+    },
+    {
+      "korean": "정말",
+      "romanization": "jeong-mal",
+      "meaning": "really, very"
+    },
+    {
+      "korean": "축하하다",
+      "romanization": "chu-ka-ha-da",
+      "meaning": "to congratulate, to celebrate"
+    },
+    {
+      "korean": "고맙다",
+      "romanization": "go-map-tta",
+      "meaning": "to be thankful"
+    },
+    {
+      "korean": "언제",
+      "romanization": "eon-je",
+      "meaning": "when"
+    },
+    {
+      "korean": "다음",
+      "romanization": "da-eum",
+      "meaning": "next"
+    },
+    {
+      "korean": "달",
+      "romanization": "dal",
+      "meaning": "month"
+    },
+    {
+      "korean": "같이",
+      "romanization": "ga-chi",
+      "meaning": "together"
+    },
+    {
+      "korean": "오다",
+      "romanization": "o-da",
+      "meaning": "to come"
+    },
+    {
+      "korean": "그럼",
+      "romanization": "geu-reom",
+      "meaning": "then"
+    },
+    {
+      "korean": "그때",
+      "romanization": "geu-ttae",
+      "meaning": "then, at that time"
+    },
+    {
+      "korean": "보다",
+      "romanization": "bo-da",
+      "meaning": "to see, to watch"
+    },
+    {
+      "korean": "끊다",
+      "romanization": "kkeun-ta",
+      "meaning": "to hang up"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "Imperative Form",
+      "pattern": "VERB + -자 = Let's VERB. (casual)",
+      "meaning": "Let's VERB. (casual)",
+      "explanation": "",
+      "examples": [
+        {
+          "korean": "보다 + -자 → 보자.",
+          "romanization": "",
+          "english": "Let's see."
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "결혼하다 + -자",
+          "answer": "결혼하자.",
+          "english": "Let's get married."
+        },
+        {
+          "prompt": "끊다 + -자",
+          "answer": "끊자.",
+          "english": "Let's hang up."
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Simple Future Tense",
+      "pattern": "VERB + -(으)ㄹ게(요) = I will VERB",
+      "meaning": "I will VERB",
+      "explanation": "* Unless you are speaking to someone very close to you, you should end the sentence with -요 to be polite.",
+      "examples": [
+        {
+          "korean": "끊다 + -(으)ㄹ게(요) → 끊을게(요).",
+          "romanization": "",
+          "english": "I will hang up."
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "오다 + -(으)ㄹ게(요)",
+          "answer": "올게(요).",
+          "english": "I will come."
+        },
+        {
+          "prompt": "보다 + -(으)ㄹ게(요)",
+          "answer": "볼게(요).",
+          "english": "I will see."
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "When a syllable ends with ㄹ and is followed by a syllable that begins with ㅎ, ㄹ becomes part of the following syllable and ㅎ is dropped. *Not an official pronunciation rule, but it is done for easier pronunciation.",
+      "examples": [
+        {
+          "korean": "결혼",
+          "pronounced": "겨론",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "잘하다",
+          "answer": "자라다",
+          "gloss": "(to be good at)"
+        },
+        {
+          "prompt": "일하다",
+          "answer": "이라다",
+          "gloss": "(to work)"
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "When a syllable ends with ㄱ and is followed by a syllable that begins with ㅎ, ㄱ becomes part of the following syllable and is pronounced as ㅋ.",
+      "examples": [
+        {
+          "korean": "축하하다",
+          "pronounced": "추카하다",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "독하다",
+          "answer": "도카다",
+          "gloss": "(to be potent, to be spiteful)"
+        },
+        {
+          "prompt": "시작하다",
+          "answer": "시자카다",
+          "gloss": "(to start)"
+        }
+      ]
+    }
+  ]
+}

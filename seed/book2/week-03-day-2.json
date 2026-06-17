@@ -1,0 +1,110 @@
+{
+  "week": 3,
+  "day": 2,
+  "order": 16,
+  "keyword": "지각",
+  "meaning": "being late (for school/work/appointment)",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "지각생",
+      "english": "tardy student",
+      "notes": ""
+    },
+    {
+      "korean": "지각하다",
+      "english": "to be late",
+      "notes": ""
+    },
+    {
+      "korean": "학교에 지각하다",
+      "english": "to be late for school",
+      "notes": "학교 = school\n지각하다 = to be late"
+    },
+    {
+      "korean": "회사에 지각하다",
+      "english": "to be late for work",
+      "notes": "회사 = company; office"
+    },
+    {
+      "korean": "또 지각이네요.",
+      "english": "You are late again.",
+      "notes": "또 = again"
+    },
+    {
+      "korean": "지각하지 마세요.",
+      "english": "Don't be late.",
+      "notes": "-지 마세요 = (polite) Don't + V"
+    },
+    {
+      "korean": "오늘 왜 지각했어요?",
+      "english": "Why were you late today?",
+      "notes": "오늘 = today"
+    },
+    {
+      "korean": "오늘 지각할 것 같아요.",
+      "english": "I think I will be late today.",
+      "notes": ""
+    },
+    {
+      "korean": "그 사람은 매날 지각해요.",
+      "english": "He is always late.",
+      "notes": "매날 = every day; all the time"
+    },
+    {
+      "korean": "면접에 절대 지각하면 안 돼요.",
+      "english": "You should never be late for your job interview.",
+      "notes": "면접 = (job) interview\n절대 = never\n-(으)면 안 되다 = shouldn't; must not"
+    },
+    {
+      "korean": "오늘은 절대 지각하면 안 돼요.",
+      "english": "You must not be late today.",
+      "notes": ""
+    },
+    {
+      "korean": "어쩔게 오늘 같은 날 지각할 수 있어요?",
+      "english": "How could you be late on a day like today?",
+      "notes": "어쩔게 + (으)는 수가 있어요? = How could you + V?; How dare you + V?\nN + 같은 날 = a day like + N\n-(으)는 수 있다 = can, to be able to; there is a chance that + S + V"
+    },
+    {
+      "korean": "오늘은 늦잠을 자서 학교에 지각했어요.",
+      "english": "I overslept today and was late for school.",
+      "notes": "늦잠을 자다 = to get up late, oversleep, sleep in"
+    },
+    {
+      "korean": "오늘 아침에는 차가 막혀서 지각을 했어요.",
+      "english": "I was late this morning because of traffic.",
+      "notes": "아침 = morning; breakfast\n차가 막혀다 = the traffic is bad; the road is jammed with traffic"
+    },
+    {
+      "korean": "저는 이번 달에 벌써 세 번이나 지각했어요.",
+      "english": "I have already been late (for work/school) three times this month.",
+      "notes": "이번 = this; this time\n달 = month\n벌써 = already\n세 번 = three times\n다섯 번 = five times\n한 번 = once, one time\n결석하다 = to be absent; to not go to a class/school\n똑같다 = to be the same; to be equal"
+    },
+    {
+      "korean": "다섯 번 지각하면 한 번 결석한 것과 똑같아요.",
+      "english": "Being late five times is counted as one absence.",
+      "notes": "친구 = friend\n만나다 = to meet (up)\n-기로 하다 = to plan to + V; to decide to + V; to make a promise to + V\n분 = minute"
+    },
+    {
+      "korean": "친구랑 만나기로 했는데 30분이나 지각했어요.",
+      "english": "I arranged to meet my friend, but I was 30 minutes late.",
+      "notes": "택시 = cab, taxi\n-데도 = even though, although"
+    },
+    {
+      "korean": "택시를 타고 회사에 갔는데도 10분 지각했어요.",
+      "english": "Even though I went to work by taxi, I was 10 minutes late.",
+      "notes": ""
+    },
+    {
+      "korean": "저는 학교 다닐 때 한 번도 지각을 한 적이 없어요.",
+      "english": "When I was in school, I was never late (for school).",
+      "notes": "다니다 = to go to (a place); to attend\n-(으)ㄹ 때 = when/while + S + V\n한 번도 + 없다 = haven't not + V + even once\n-(으)ㄴ 적이 없다 = to have never p.p."
+    },
+    {
+      "korean": "내일은 중요한 시험이 있으니까 지각하면 안 돼요.",
+      "english": "There is an important exam tomorrow, so you can't be late.",
+      "notes": "내일 = tomorrow\n중요하다 = to be important\n중요한 is the adjective form of 중요하다.\n시험 = test, exam"
+    }
+  ]
+}

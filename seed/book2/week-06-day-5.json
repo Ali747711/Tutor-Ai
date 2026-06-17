@@ -1,0 +1,110 @@
+{
+  "week": 6,
+  "day": 5,
+  "order": 40,
+  "keyword": "재미있다",
+  "meaning": "to be fun; to be funny; to be interesting",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "재미없다",
+      "english": "to be not funny; to be uninteresting; to be boring",
+      "notes": "재미없다 = to be not funny; to be not interesting; to be boring"
+    },
+    {
+      "korean": "재미있는 책",
+      "english": "interesting book",
+      "notes": "책 = book"
+    },
+    {
+      "korean": "재미있는 사람",
+      "english": "funny person; interesting person",
+      "notes": ""
+    },
+    {
+      "korean": "재미있었어요?",
+      "english": "Was it fun?",
+      "notes": ""
+    },
+    {
+      "korean": "그 책 재미있어요?",
+      "english": "Is that book interesting?",
+      "notes": ""
+    },
+    {
+      "korean": "어제 재미있었어요.",
+      "english": "Yesterday was fun.",
+      "notes": ""
+    },
+    {
+      "korean": "뭐가 그렇게 재미있어요?",
+      "english": "What is so funny?",
+      "notes": "뭐 = what; something\n뭐 is the contracted form of 무엇."
+    },
+    {
+      "korean": "제 이야기가 재미없어요?",
+      "english": "Is my story not interesting?",
+      "notes": ""
+    },
+    {
+      "korean": "재미없어요, 그만하세요.",
+      "english": "It's not funny. Stop it.",
+      "notes": "그만하다 = to stop"
+    },
+    {
+      "korean": "지금 하는 일 재미있어요?",
+      "english": "Do you enjoy what you do now?",
+      "notes": "지금 = now"
+    },
+    {
+      "korean": "재미있는 이야기를 들었어요.",
+      "english": "I heard a funny story.",
+      "notes": ""
+    },
+    {
+      "korean": "재미없는 농담 좀 그만하세요.",
+      "english": "Stop telling lame jokes.",
+      "notes": "농담 = prank, joke, trick"
+    },
+    {
+      "korean": "그 사람 진짜 재미있는 것 같아요.",
+      "english": "I think he is really funny.",
+      "notes": "진짜 = really; very"
+    },
+    {
+      "korean": "재미없으면 그냥 안 보면 돼잖아요.",
+      "english": "If it's not interesting, you can just not watch it.",
+      "notes": "그냥 = just, only, simply\n-(으)면 되다 = to be just supposed to + V; to just have to + V; can just + V"
+    },
+    {
+      "korean": "한국어 공부하는 거 정말 재미있어요.",
+      "english": "Studying Korean is really fun.",
+      "notes": "한국어 = the Korean language\n공부 = studies; one's learning\n정말 = really; very"
+    },
+    {
+      "korean": "지난 주에 진짜 재미있는 일이 있었어요.",
+      "english": "Last week, something really funny happened.",
+      "notes": "지난 = last\n주 = week"
+    },
+    {
+      "korean": "너무 재미있어서 집에 오고 싶지 않았어요.",
+      "english": "I was having so much fun that I didn't want to come home.",
+      "notes": ""
+    },
+    {
+      "korean": "그 영화 보고 나서 재미있는지 말해 주세요.",
+      "english": "After you see that movie, tell me if it is interesting.",
+      "notes": "-고 나서 = after + V-ing\n-는지 = whether or not\n말하다 = to talk; to say; to speak; to tell"
+    },
+    {
+      "korean": "영화가 너무 재미없어서 보다가 잠이 들어 버렸어요.",
+      "english": "The movie was so boring that I fell asleep while I was watching it.",
+      "notes": "-다가 = while + S + be + V-ing"
+    },
+    {
+      "korean": "그 수업은 별로 추천하고 싶지 않아요. 진짜 재미없거든요.",
+      "english": "I don't really want to recommend that class. It's really boring.",
+      "notes": "수업 = class\n별로 = not particularly, not very, not so much, not really\n추천하다 = to recommend"
+    }
+  ]
+}

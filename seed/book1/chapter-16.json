@@ -1,0 +1,344 @@
+{
+  "chapter": 16,
+  "title": "Blind Date",
+  "category": "On a Date",
+  "shortDialogue": [
+    {
+      "speaker": "인성",
+      "korean": "선주 씨는 취미가 뭐예요?",
+      "romanization": "",
+      "english": "Seonju, what is your hobby?"
+    },
+    {
+      "speaker": "선주",
+      "korean": "저는 책 읽는 거 좋아해요.",
+      "romanization": "",
+      "english": "I like reading books."
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "인성",
+      "korean": "선주 씨는 취미가 뭐예요?",
+      "romanization": "",
+      "english": "Seonju, what is your hobby?"
+    },
+    {
+      "speaker": "선주",
+      "korean": "저는 책 읽는 거 좋아해요. 인성 씨는 뭐 좋아하세요?",
+      "romanization": "",
+      "english": "I like reading books. In-seong, what do you like?"
+    },
+    {
+      "speaker": "인성",
+      "korean": "저는 운동 좋아해요.",
+      "romanization": "",
+      "english": "I like to work out."
+    },
+    {
+      "speaker": "선주",
+      "korean": "아, 어떤 운동을 잘하세요?",
+      "romanization": "",
+      "english": "Oh, what exercise do you do well?"
+    },
+    {
+      "speaker": "인성",
+      "korean": "저는 농구를 제일 잘해요. 선주 씨도 운동 좋아하세요?",
+      "romanization": "",
+      "english": "I play basketball well. Seonju, do you also like to work out?"
+    },
+    {
+      "speaker": "선주",
+      "korean": "네. 저도 운동을 정말 좋아해요. 그런데 잘 못 해요.",
+      "romanization": "",
+      "english": "Yes. I really like working out. But, I'm not so good."
+    },
+    {
+      "speaker": "인성",
+      "korean": "그렇군요. 그럼 우리 다음에 같이 농구 하러 가요. 제가 가르쳐 줄게요.",
+      "romanization": "",
+      "english": "I see. Then let's go play basketball together next time. I will teach you."
+    },
+    {
+      "speaker": "선주",
+      "korean": "정말요? 좋아요! 농구 가르쳐 주세요.",
+      "romanization": "",
+      "english": "Really? Sounds good! Teach me how to play basketball."
+    },
+    {
+      "speaker": "인성",
+      "korean": "네, 그럼 다음 주 토요일에 같이 농구 할까요?",
+      "romanization": "",
+      "english": "Ok. Then, shall we play basketball together next Saturday?"
+    },
+    {
+      "speaker": "선주",
+      "korean": "네, 좋아요. 점심 먹은 다음에 농구 해요.",
+      "romanization": "",
+      "english": "Yes. Sounds good. Let's play basketball after lunch."
+    }
+  ],
+  "culturalTip": "Blind dates are fairly common in Korea due to the societal norm to keep to oneself and not strike up a conversation with a stranger. People in their early 20s may go on a blind date to find a boy/girlfriend, but people who have already graduated from university tend to be a bit more serious about blind dates, so serious that they allow their close friends and relatives to set them up with someone as a marriage prospect.",
+  "koreanReview": "- Short Dialogue\n인성: 선주 씨는 취미가 뭐예요?\n선주: 저는 책 읽는 거 좋아해요.\n\n- Long Dialogue\n인성: 선주 씨는 취미가 뭐예요?\n선주: 저는 책 읽는 거 좋아해요. 인성 씨는 뭐 좋아하세요?\n인성: 저는 운동 좋아해요.\n선주: 아, 어떤 운동을 잘하세요?\n인성: 저는 농구를 제일 잘해요. 선주 씨도 운동 좋아하세요?\n선주: 네. 저도 운동을 정말 좋아해요. 그런데 잘 못 해요.\n인성: 그렇군요. 그럼 우리 다음에 같이 농구 하러 가요. 제가 가르쳐 줄게요.\n선주: 정말요? 좋아요! 농구 가르쳐 주세요.\n인성: 네, 그럼 다음 주 토요일에 같이 농구 할까요?\n선주: 네, 좋아요. 점심 먹은 다음에 농구 해요.",
+  "coreVocab": [
+    {
+      "korean": "씨",
+      "romanization": "ssi",
+      "meaning": "honorific suffix which implies respect toward the person whose name it is attached to"
+    },
+    {
+      "korean": "취미",
+      "romanization": "chwi-mi",
+      "meaning": "hobby"
+    },
+    {
+      "korean": "NOUN + -이/가 뭐예요?",
+      "romanization": "-i/ga mwo-ye-yo?",
+      "meaning": "What is NOUN?"
+    },
+    {
+      "korean": "저",
+      "romanization": "jeo",
+      "meaning": "I, me"
+    },
+    {
+      "korean": "책",
+      "romanization": "chaek",
+      "meaning": "book"
+    },
+    {
+      "korean": "읽다",
+      "romanization": "ik-tta",
+      "meaning": "to read"
+    },
+    {
+      "korean": "VERB + -는 거",
+      "romanization": "-neun geo",
+      "meaning": "VERB-ing, the act of VERB-ing"
+    },
+    {
+      "korean": "좋아하다",
+      "romanization": "jo-a-ha-da",
+      "meaning": "to like"
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "취미",
+      "romanization": "chwi-mi",
+      "meaning": "hobby"
+    },
+    {
+      "korean": "뭐",
+      "romanization": "mwo",
+      "meaning": "what"
+    },
+    {
+      "korean": "책",
+      "romanization": "chaek",
+      "meaning": "book"
+    },
+    {
+      "korean": "읽다",
+      "romanization": "ik-tta",
+      "meaning": "to read"
+    },
+    {
+      "korean": "좋아하다",
+      "romanization": "jo-a-ha-da",
+      "meaning": "to like"
+    },
+    {
+      "korean": "운동",
+      "romanization": "un-dong",
+      "meaning": "exercise, workout"
+    },
+    {
+      "korean": "어떤",
+      "romanization": "eo-tteon",
+      "meaning": "which, what kind of"
+    },
+    {
+      "korean": "잘하다",
+      "romanization": "ja-ra-da",
+      "meaning": "to be good at, to do well"
+    },
+    {
+      "korean": "농구",
+      "romanization": "nong-gu",
+      "meaning": "basketball"
+    },
+    {
+      "korean": "제일",
+      "romanization": "je-il",
+      "meaning": "the best, the most"
+    },
+    {
+      "korean": "정말",
+      "romanization": "jeong-mal",
+      "meaning": "really, very"
+    },
+    {
+      "korean": "잘 못 하다",
+      "romanization": "jal mot ha-da",
+      "meaning": "to not be good at, to not do well"
+    },
+    {
+      "korean": "우리",
+      "romanization": "u-ri",
+      "meaning": "we, us"
+    },
+    {
+      "korean": "다음에",
+      "romanization": "da-eu-me",
+      "meaning": "later, next time"
+    },
+    {
+      "korean": "같이",
+      "romanization": "ga-chi",
+      "meaning": "together"
+    },
+    {
+      "korean": "가다",
+      "romanization": "ga-da",
+      "meaning": "to go"
+    },
+    {
+      "korean": "가르쳐 주다",
+      "romanization": "ga-reu-cheo ju-da",
+      "meaning": "to teach something to someone"
+    },
+    {
+      "korean": "좋다",
+      "romanization": "jo-ta",
+      "meaning": "to be good, to like"
+    },
+    {
+      "korean": "다음 주",
+      "romanization": "da-eum ju",
+      "meaning": "next week"
+    },
+    {
+      "korean": "토요일",
+      "romanization": "to-yo-il",
+      "meaning": "Saturday"
+    },
+    {
+      "korean": "점심",
+      "romanization": "jeom-sim",
+      "meaning": "lunch"
+    },
+    {
+      "korean": "먹다",
+      "romanization": "meok-tta",
+      "meaning": "to eat"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "Suggestion",
+      "pattern": "VERB + -(으)ㄹ까요? = Shall we VERB?",
+      "meaning": "Shall we VERB?",
+      "explanation": "Ex) 하다 + -(으)ㄹ까요? → 할까요? = Shall we do (it)?",
+      "examples": [
+        {
+          "korean": "하다 + -(으)ㄹ까요? → 할까요?",
+          "romanization": "",
+          "english": "Shall we do (it)?"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "읽다 + -(으)ㄹ까요?",
+          "answer": "읽을까요?",
+          "english": "Shall we read?"
+        },
+        {
+          "prompt": "먹다 + -(으)ㄹ까요?",
+          "answer": "먹을까요?",
+          "english": "Shall we eat?"
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "After + Gerund",
+      "pattern": "VERB + -(으)ㄴ 다음에 = after VERB-ing",
+      "meaning": "after VERB-ing",
+      "explanation": "Ex) 먹다 + -(으)ㄴ 다음에 → 먹은 다음에 = after eating",
+      "examples": [
+        {
+          "korean": "먹다 + -(으)ㄴ 다음에 → 먹은 다음에",
+          "romanization": "",
+          "english": "after eating"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "가다 + -(으)ㄴ 다음에",
+          "answer": "간 다음에",
+          "english": "after going"
+        },
+        {
+          "prompt": "만나다 + -(으)ㄴ 다음에",
+          "answer": "만난 다음에",
+          "english": "after meeting"
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "When a word or syllable ends with ㄺ and is followed by a consonant, only ㄱ is pronounced, not ㄹ.",
+      "examples": [
+        {
+          "korean": "읽는",
+          "pronounced": "[익는] → [잉는]",
+          "romanization": ""
+        },
+        {
+          "korean": "흙",
+          "pronounced": "[흑]",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "닭",
+          "answer": "닥",
+          "gloss": "(chicken)"
+        },
+        {
+          "prompt": "닭과",
+          "answer": "닥꽈",
+          "gloss": "(chicken and)"
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "When a syllable ends with ㄷ and is followed by 이, the ㄷ is pronounced as ㅊ. The ㅇ is essentially dropped, and ㅊ joins forces with ㅣ to become \"치\".",
+      "examples": [
+        {
+          "korean": "같이",
+          "pronounced": "[가치]",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "밭이다",
+          "answer": "바치다",
+          "gloss": "(to be filtered/drained)"
+        },
+        {
+          "prompt": "붙이다",
+          "answer": "부치다",
+          "gloss": "(to stick, to attach)"
+        }
+      ]
+    }
+  ]
+}

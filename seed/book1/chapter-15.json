@@ -1,0 +1,361 @@
+{
+  "chapter": 15,
+  "title": "Bookstore",
+  "category": "Shopping",
+  "shortDialogue": [
+    {
+      "speaker": "손님",
+      "korean": "이 책 언제 살 수 있어요?",
+      "romanization": "",
+      "english": "When can I buy this book?"
+    },
+    {
+      "speaker": "점원",
+      "korean": "다음 주에 다시 오세요.",
+      "romanization": "",
+      "english": "Come again next week."
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "손님",
+      "korean": "저기요. 이 책을 찾고 있는데 못 찾겠어요.",
+      "romanization": "",
+      "english": "Excuse me. I'm looking for this book, but I can't find it."
+    },
+    {
+      "speaker": "점원",
+      "korean": "이 책은 지금 없어요. 이 책이 인기가 많아서 다 팔렸어요.",
+      "romanization": "",
+      "english": "We don't have this book now. This book is popular, so it's sold out."
+    },
+    {
+      "speaker": "손님",
+      "korean": "그럼 언제 살 수 있어요?",
+      "romanization": "",
+      "english": "Then, when can I buy it?"
+    },
+    {
+      "speaker": "점원",
+      "korean": "아직 모르겠어요. 다른 서점에 있을 수도 있어요.",
+      "romanization": "",
+      "english": "I don't know yet. Other bookstores might have it."
+    },
+    {
+      "speaker": "손님",
+      "korean": "다른 서점은 못 가요. 여기에서 사야 돼요.",
+      "romanization": "",
+      "english": "I can't go to other bookstores. I have to buy it here."
+    },
+    {
+      "speaker": "점원",
+      "korean": "그럼 기다려야 돼요.",
+      "romanization": "",
+      "english": "Then you need to wait."
+    },
+    {
+      "speaker": "손님",
+      "korean": "언제까지 기다려야 해요?",
+      "romanization": "",
+      "english": "Until when do I have to wait?"
+    },
+    {
+      "speaker": "점원",
+      "korean": "다음 주에 다시 오세요.",
+      "romanization": "",
+      "english": "Come again next week."
+    },
+    {
+      "speaker": "손님",
+      "korean": "다음 주에는 책을 살 수 있어요?",
+      "romanization": "",
+      "english": "Can I buy the book next week?"
+    },
+    {
+      "speaker": "점원",
+      "korean": "그럴 것 같아요.",
+      "romanization": "",
+      "english": "I think so."
+    },
+    {
+      "speaker": "손님",
+      "korean": "확실하지 않아요?",
+      "romanization": "",
+      "english": "You are not sure?"
+    },
+    {
+      "speaker": "점원",
+      "korean": "네. 확실하지 않아요.",
+      "romanization": "",
+      "english": "Right. I'm not sure."
+    }
+  ],
+  "culturalTip": "Online bookstores in Korea, which usually offered big discounts on new books, were growing in popularity until the government introduced a new \"book price control system\" in 2014. The new system restricts the discount rate of new books to a maximum of 10 percent of the cover price. As a result, more people started to buy secondhand books. To meet the increase in demand, online booksellers have begun opening up secondhand bookstores in busy areas in Korea.",
+  "koreanReview": "- Short Dialogue\n손님: 이 책 언제 살 수 있어요?\n점원: 다음 주에 다시 오세요.\n\n- Long Dialogue\n손님: 저기요. 이 책을 찾고 있는데 못 찾겠어요.\n점원: 이 책은 지금 없어요. 이 책이 인기가 많아서 다 팔렸어요.\n손님: 그럼 언제 살 수 있어요?\n점원: 아직 모르겠어요. 다른 서점에 있을 수도 있어요.\n손님: 다른 서점은 못 가요. 여기에서 사야 돼요.\n점원: 그럼 기다려야 돼요.\n손님: 언제까지 기다려야 해요?\n점원: 다음 주에 다시 오세요.\n손님: 다음 주에는 책을 살 수 있어요?\n점원: 그럴 것 같아요.\n손님: 확실하지 않아요?\n점원: 네. 확실하지 않아요.",
+  "coreVocab": [
+    {
+      "korean": "이",
+      "romanization": "i",
+      "meaning": "this, these"
+    },
+    {
+      "korean": "책",
+      "romanization": "chaek",
+      "meaning": "book"
+    },
+    {
+      "korean": "언제",
+      "romanization": "eon-je",
+      "meaning": "when"
+    },
+    {
+      "korean": "사다",
+      "romanization": "sa-da",
+      "meaning": "to buy"
+    },
+    {
+      "korean": "다음",
+      "romanization": "da-eum",
+      "meaning": "next"
+    },
+    {
+      "korean": "주",
+      "romanization": "ju",
+      "meaning": "week"
+    },
+    {
+      "korean": "-에",
+      "romanization": "-e",
+      "meaning": "at, in"
+    },
+    {
+      "korean": "다시",
+      "romanization": "da-si",
+      "meaning": "again"
+    },
+    {
+      "korean": "오다",
+      "romanization": "o-da",
+      "meaning": "to come"
+    },
+    {
+      "korean": "-(으)세요",
+      "romanization": "-(eu)-se-yo",
+      "meaning": "imperative ending (polite)"
+    },
+    {
+      "korean": "VERB + -(으)ㄹ 수 있어요?",
+      "romanization": "-(eu)l ssu i-sseo-yo?",
+      "meaning": "Can I/you VERB?"
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "저기요",
+      "romanization": "jeo-gi-yo",
+      "meaning": "Excuse me"
+    },
+    {
+      "korean": "책",
+      "romanization": "chaek",
+      "meaning": "book"
+    },
+    {
+      "korean": "찾다",
+      "romanization": "chat-tta",
+      "meaning": "to find, to look for"
+    },
+    {
+      "korean": "지금",
+      "romanization": "ji-geum",
+      "meaning": "now"
+    },
+    {
+      "korean": "없다",
+      "romanization": "eop-tta",
+      "meaning": "to not exist, to not have, to not be there"
+    },
+    {
+      "korean": "인기가 많다",
+      "romanization": "in-kki-ga man-ta",
+      "meaning": "to be popular"
+    },
+    {
+      "korean": "다 팔리다",
+      "romanization": "da pal-li-da",
+      "meaning": "to be sold out"
+    },
+    {
+      "korean": "그럼",
+      "romanization": "geu-reom",
+      "meaning": "then"
+    },
+    {
+      "korean": "언제",
+      "romanization": "eon-je",
+      "meaning": "when"
+    },
+    {
+      "korean": "사다",
+      "romanization": "sa-da",
+      "meaning": "to buy"
+    },
+    {
+      "korean": "아직",
+      "romanization": "a-jik",
+      "meaning": "yet"
+    },
+    {
+      "korean": "모르다",
+      "romanization": "mo-reu-da",
+      "meaning": "to not know"
+    },
+    {
+      "korean": "다른",
+      "romanization": "da-reun",
+      "meaning": "different"
+    },
+    {
+      "korean": "서점",
+      "romanization": "seo-jeom",
+      "meaning": "bookstore"
+    },
+    {
+      "korean": "있다",
+      "romanization": "it-tta",
+      "meaning": "to exist, to have"
+    },
+    {
+      "korean": "여기",
+      "romanization": "yeo-gi",
+      "meaning": "here"
+    },
+    {
+      "korean": "다음",
+      "romanization": "da-eum",
+      "meaning": "next"
+    },
+    {
+      "korean": "주",
+      "romanization": "ju",
+      "meaning": "week"
+    },
+    {
+      "korean": "다시",
+      "romanization": "da-si",
+      "meaning": "again"
+    },
+    {
+      "korean": "오다",
+      "romanization": "o-da",
+      "meaning": "to come"
+    },
+    {
+      "korean": "확실하다",
+      "romanization": "hwak-ssi-ra-da",
+      "meaning": "to be sure"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "Cannot Do Something",
+      "pattern": "못 + VERB + -아/어/여요. = I can't VERB.",
+      "meaning": "Expressing inability to do something",
+      "explanation": "Place 못 before the verb to express that one cannot do the action.",
+      "examples": [
+        {
+          "korean": "못 + 가다 + -아/어/여요 → 못 가요.",
+          "romanization": "",
+          "english": "I can't go."
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "못 + 사다 + -아/어/여요",
+          "answer": "못 사요.",
+          "english": "I can't buy (it)."
+        },
+        {
+          "prompt": "못 + 오다 + -아/어/여요",
+          "answer": "못 와요.",
+          "english": "I can't come."
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Conjunction: \"but\"",
+      "pattern": "VERB/ADJECTIVE + -(으)ㄴ/는데 … = … but …",
+      "meaning": "Connecting two clauses with contrast",
+      "explanation": "Attach -(으)ㄴ/는데 to a verb or adjective to connect clauses with the meaning of \"but\".",
+      "examples": [
+        {
+          "korean": "찾고 있다 + -(으)ㄴ/는데 + 못 찾겠어요 → 찾고 있는데 못 찾겠어요.",
+          "romanization": "",
+          "english": "I'm looking for (it), but I can't find it."
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "인기가 없다 + -(으)ㄴ/는데 + 다 팔렸어요",
+          "answer": "인기가 없는데 다 팔렸어요.",
+          "english": "It's not popular, but it's sold out."
+        },
+        {
+          "prompt": "배고프다 + -(으)ㄴ/는데 + 음식이 없어요",
+          "answer": "배고픈데 음식이 없어요.",
+          "english": "I'm hungry, but there's no food."
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "When a syllable ends with ㅆ (which sounds the same as ㄷ when in the 받침 position) and is followed by a syllable that begins with ㄴ, the ㅆ is pronounced as ㄴ.",
+      "examples": [
+        {
+          "korean": "있는데",
+          "pronounced": "[읻는데] → [인는데]",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "갔는데",
+          "answer": "간는데",
+          "gloss": ""
+        },
+        {
+          "prompt": "봤는데",
+          "answer": "반는데",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "When a syllable ends with ㅅ (which sounds the same as ㄷ when in the 받침 position) and is followed by a syllable that begins with ㄱ, the ㄱ is pronounced as ㄲ.",
+      "examples": [
+        {
+          "korean": "못 가요",
+          "pronounced": "[몯 까요]",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "웃고",
+          "answer": "욷꼬",
+          "gloss": ""
+        },
+        {
+          "prompt": "짓기",
+          "answer": "짇끼",
+          "gloss": ""
+        }
+      ]
+    }
+  ]
+}

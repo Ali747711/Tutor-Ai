@@ -1,0 +1,110 @@
+{
+  "week": 4,
+  "day": 5,
+  "order": 26,
+  "keyword": "걷다",
+  "meaning": "to walk",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "걸어가다",
+      "english": "to walk; to walk to a place; to walk away",
+      "notes": ""
+    },
+    {
+      "korean": "걸어오다",
+      "english": "to walk toward (a place); to come on foot",
+      "notes": ""
+    },
+    {
+      "korean": "빨리 걷다",
+      "english": "to walk fast",
+      "notes": ""
+    },
+    {
+      "korean": "길을 걷다",
+      "english": "to walk on the street",
+      "notes": "길 = road, street; way"
+    },
+    {
+      "korean": "천천히 걷다",
+      "english": "to walk slowly",
+      "notes": ""
+    },
+    {
+      "korean": "쉬지 않고 걷다",
+      "english": "to walk without taking a break",
+      "notes": "쉬다 = to take a break; to get some rest"
+    },
+    {
+      "korean": "세 시간 걸었어요.",
+      "english": "I walked for three hours.",
+      "notes": "셋 = three (native Korean number)\n제 is the adjective form of 셋."
+    },
+    {
+      "korean": "같이 조금 걸을까요?",
+      "english": "Shall we walk a little?",
+      "notes": "조금 = a little"
+    },
+    {
+      "korean": "그냥 좀 걷고 싶어요.",
+      "english": "I just want to walk a little.",
+      "notes": "-고 싶다 = to want to + V"
+    },
+    {
+      "korean": "많이 걸어서 피곤해요.",
+      "english": "I walked a lot, so I'm tired.",
+      "notes": ""
+    },
+    {
+      "korean": "걸어서 갈 수 있는 거리예요?",
+      "english": "Is it a walkable distance?",
+      "notes": "거리 = distance"
+    },
+    {
+      "korean": "어떻게 여기까지 걸어왔어요?",
+      "english": "How did you walk all the way here?",
+      "notes": "어떻게 = how"
+    },
+    {
+      "korean": "자는 여기서부터 걸어가면 돼요.",
+      "english": "I can walk from here.",
+      "notes": "-는(으)면 되다 = to be just supposed to + V; to just have to + V; can just + V"
+    },
+    {
+      "korean": "적당히 걷는 것은 건강에 좋대요.",
+      "english": "I heard that moderate walking is good for your health.",
+      "notes": "적당히 = to be moderate\n적당히 is an adverb form of 적당하다.\n건강 = one's health\n·대요 = I heard that + S + V; They say + S + V"
+    },
+    {
+      "korean": "택시를 못 잡아서 그냥 걸어왔어요.",
+      "english": "I couldn't get a cab, so I just walked here.",
+      "notes": "택시 = cab, taxi\n잡다 = to hold; to grab\n택시를 잡다 = to get a cab"
+    },
+    {
+      "korean": "정말로 거기까지 걸어서 갈 거예요?",
+      "english": "Are you really going to walk all the way there?",
+      "notes": "정말로 = really"
+    },
+    {
+      "korean": "어제 너무 많이 걸어서 다리가 아파요.",
+      "english": "I walked so much yesterday that my legs hurt.",
+      "notes": "다리 = leg\n아프다 = to be sick, hurt"
+    },
+    {
+      "korean": "계속 걸어가다 보면 왼쪽에 보일 거예요.",
+      "english": "If you keep walking, you will see it on your left.",
+      "notes": "계속 = repeatedly, again and again, continuously\n·다 보면 = if + S + keep + V·ing\n왼쪽 = left (side)\n보이다 = to be seen; to be able to see"
+    },
+    {
+      "korean": "너무 많이 걸으면 피곤하니까 조금만 걸으세요.",
+      "english": "Walking too much will tire you out, so walk just a little.",
+      "notes": ""
+    },
+    {
+      "korean": "저는 회사에서 가까운 곳에 살아서 걸어서 출근할 수 있어요.",
+      "english": "I live near my office, so I can walk to work.",
+      "notes": "회사 = company; office\n가깝다 = to be near, close\n가까운 is the adjective form of 가깝다.\n곳 = place\n살다 = to live\n출근하다 = to go to work"
+    }
+  ]
+}

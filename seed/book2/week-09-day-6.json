@@ -1,0 +1,110 @@
+{
+  "week": 9,
+  "day": 6,
+  "order": 62,
+  "keyword": "생각",
+  "meaning": "thought; opinion; idea",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "좋은 생각",
+      "english": "good idea",
+      "notes": "좋다 = to be good, likable; to be desirable; to be nice; to like\n좋은 is the adjective form of 좋다."
+    },
+    {
+      "korean": "생각나다",
+      "english": "to remember; to come to mind",
+      "notes": ""
+    },
+    {
+      "korean": "다시 생각하다",
+      "english": "to think again",
+      "notes": "다시 = again"
+    },
+    {
+      "korean": "신중히 생각하다",
+      "english": "to think cautiously",
+      "notes": "신중하다 = to be cautious\n신중히 is an adverb form of 신중하다."
+    },
+    {
+      "korean": "가볍게 생각하다",
+      "english": "to think lightly",
+      "notes": "가볍다 = to be light\n가볍게 is an adverb form of 가볍다."
+    },
+    {
+      "korean": "곰곰이 생각하다",
+      "english": "to think carefully",
+      "notes": "곰곰이 = (to think) carefully"
+    },
+    {
+      "korean": "생각을 정리하다",
+      "english": "organize one's thoughts",
+      "notes": "정리하다 = to organize; to tidy things up"
+    },
+    {
+      "korean": "잘 생각해 보세요.",
+      "english": "Think carefully.",
+      "notes": ""
+    },
+    {
+      "korean": "한번 생각해 볼게요.",
+      "english": "I will think about it.",
+      "notes": "한번 -아/어/여 보다 = to try + V-ing"
+    },
+    {
+      "korean": "생각하면 화가 나요.",
+      "english": "The more I think about it, the more upset I get.",
+      "notes": "-(으)면 -(으)ㄹ수록 = the more..., the more..."
+    },
+    {
+      "korean": "이렇게 생각해 본 적은 없어요.",
+      "english": "I have never thought like this before.",
+      "notes": "이렇게 = like this, in this manner; so +adjective"
+    },
+    {
+      "korean": "답이 생각나는 사람은 손 드세요.",
+      "english": "Anyone who remembers the correct answer, please raise your hand.",
+      "notes": "답 = answer; correct answer; reply\n손 = hand\n들다 = to raise; to pick (something) up"
+    },
+    {
+      "korean": "다시 생각해 봤는데, 저는 안 갈래요.",
+      "english": "On second thought, I'm not going to go.",
+      "notes": "-(으)래요 = I will~; I'm going to ~."
+    },
+    {
+      "korean": "중요한 일이니까 신중히 생각하세요.",
+      "english": "Since it's an important matter, you should think (about it) carefully.",
+      "notes": "중요하다 = to be important\n중요한 is the adjective form of 중요하다.\n-(이)니까 = since/because + S + be + N"
+    },
+    {
+      "korean": "그 이야기에 대해서 생각해 보셨어요?",
+      "english": "Have you given it some thought?",
+      "notes": "-에 대해서 = about; regarding + N; concerning + N"
+    },
+    {
+      "korean": "아무리 생각해도 그건 틀린 것 같아요.",
+      "english": "No matter how much I think about it, I still think it's wrong.",
+      "notes": "아무리 -아/어/이어도 = no matter how + adjective + S + V\n틀리다 = to be wrong"
+    },
+    {
+      "korean": "지금 드는 생각을 솔직하게 말해 보세요.",
+      "english": "Please tell me honestly what comes to your mind.",
+      "notes": "들다 = to enter; to be categorized as; to be in\n솔직하다 = to be honest\n솔직하게 is the adverb form of 솔직하다."
+    },
+    {
+      "korean": "열쇠를 어디에 두었는지 생각이 안 나요.",
+      "english": "I don't remember where I put my key.",
+      "notes": "열쇠 = key\n어디 = where; somewhere\n두다 = to leave (something) at a place"
+    },
+    {
+      "korean": "곰곰이 생각해 봤는데, 이게 좋을 것 같아요.",
+      "english": "I have given it a lot of thought and I think this will be good.",
+      "notes": "이게 = this (subject)\n이게 is the contracted form of 이것이."
+    },
+    {
+      "korean": "지금 다시 생각해 보면, 학교 다닐 때가 좋았던 것 같아요.",
+      "english": "Come to think of it, I think I was happy when I was going to school.",
+      "notes": "학교 = school\n다니다 = to go, attend"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "week": 9,
+  "day": 3,
+  "order": 59,
+  "keyword": "이상하다",
+  "meaning": "to be weird, odd, strange",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "이상한 사람",
+      "english": "strange person",
+      "notes": ""
+    },
+    {
+      "korean": "맛이 이상하다",
+      "english": "to taste weird",
+      "notes": "맛 = taste"
+    },
+    {
+      "korean": "날씨가 이상하다",
+      "english": "the weather is strange",
+      "notes": "날씨 = weather"
+    },
+    {
+      "korean": "분위기가 이상하다",
+      "english": "the atmosphere is strange",
+      "notes": "분위기 = atmosphere; ambience"
+    },
+    {
+      "korean": "얼굴색이 이상해요.",
+      "english": "You look pale.",
+      "notes": "얼굴색 = how healthy one looks\n얼굴색이 이상하다 = to look pale"
+    },
+    {
+      "korean": "이상하게 보지 마세요.",
+      "english": "Don't judge me.",
+      "notes": ""
+    },
+    {
+      "korean": "요즘 날씨가 이상해요.",
+      "english": "The weather has been strange lately.",
+      "notes": "요즘 = these days, lately"
+    },
+    {
+      "korean": "뭔가 이상하지 않아요?",
+      "english": "Don't you think something's strange?",
+      "notes": "뭔가 = something (subject)\n뭔가 is the contracted form of 무언가."
+    },
+    {
+      "korean": "진짜 이상한 성격이에요.",
+      "english": "He has a really weird personality.",
+      "notes": "진짜 = really; very\n성격 = personality, disposition"
+    },
+    {
+      "korean": "이상한 애기 그만하세요.",
+      "english": "Stop talking about such strange things.",
+      "notes": "애기 = story; what one says\n애기 is the contracted form of 이야기.\n그만하다 = to stop, to quit"
+    },
+    {
+      "korean": "오늘은 이상하게 피곤해요.",
+      "english": "I feel strangely tired today.",
+      "notes": "오늘 = today\n이상하게 is the adverb form of 이상하다.\n피곤하다 = to be tired, exhausted; to be tiring"
+    },
+    {
+      "korean": "이상한 사람이 절 따라와요.",
+      "english": "A weird person is following me.",
+      "notes": "절 = (polite) me\n절 is the contracted form of 자를.\n따라오다 = to follow (me)"
+    },
+    {
+      "korean": "몸이 이상해서 병원에 갔어요.",
+      "english": "I didn't feel good, so I went to see a doctor.",
+      "notes": "몸 = body\n병원 = hospital\n가다 = to go; to leave"
+    },
+    {
+      "korean": "이 드라마는 결말이 이상해요.",
+      "english": "This drama has a strange ending.",
+      "notes": "드라마 = TV drama, soap opera\n결말 = a story's ending"
+    },
+    {
+      "korean": "자꾸 이상한 농담하지 마세요.",
+      "english": "Stop pulling such weird pranks.",
+      "notes": "자꾸 = repeatedly, again and again\n농담 = prank, joke, trick"
+    },
+    {
+      "korean": "어제 정말 이상한 꿈을 꿨어요.",
+      "english": "I had a really weird dream last night.",
+      "notes": ""
+    },
+    {
+      "korean": "조리법대로 했는데 맛이 이상해요.",
+      "english": "I followed the recipe, but it tastes weird.",
+      "notes": "조리법 = recipe\n-대로 = according to; as suggested by\n하다 = to do"
+    },
+    {
+      "korean": "오늘따라 사무실 분위기가 이상해요.",
+      "english": "Today, in particular, the atmosphere in the office is weird.",
+      "notes": "오늘따라 = today especially, today in particular\n사무실 = office"
+    },
+    {
+      "korean": "이상해요. 여제 분명히 여기 났는데 없어요.",
+      "english": "It's strange. I put it here, for sure, but it's not here.",
+      "notes": "분명히 = for sure, certainly, without doubt\n여기 = here, this place\n놓다 = to place, put; to let go"
+    },
+    {
+      "korean": "커피 맛이 이상해서 뭔더니 설탕 대신 소금을 넣은 거에요.",
+      "english": "I wondered why the coffee tasted weird, and it turns out I had put in salt instead of sugar.",
+      "notes": "커피 = coffee\n-왜/왜/뭔더니 = since/because + I/we + V-ed\n설탕 = sugar\n- 대신 = instead of + N/V-ing\n소금 = salt\n넣다 = to put (something) in"
+    }
+  ]
+}

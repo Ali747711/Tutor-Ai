@@ -1,0 +1,110 @@
+{
+  "week": 7,
+  "day": 7,
+  "order": 49,
+  "keyword": "싫어하다",
+  "meaning": "to dislike, hate",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "싫어하는 일",
+      "english": "things (to do) which you hate; job you hate",
+      "notes": "일 = work; task; thing, stuff; occasion"
+    },
+    {
+      "korean": "싫어하는 과목",
+      "english": "a subject you hate",
+      "notes": ""
+    },
+    {
+      "korean": "싫어하는 사람",
+      "english": "a person you hate",
+      "notes": ""
+    },
+    {
+      "korean": "벌레를 싫어하다",
+      "english": "to hate bugs",
+      "notes": "벌레 = bug, insect"
+    },
+    {
+      "korean": "공부하기 싫어하다",
+      "english": "to hate studying",
+      "notes": "공부하다 = to study"
+    },
+    {
+      "korean": "전 쇼핑하는 걸 싫어해요.",
+      "english": "I hate shopping.",
+      "notes": "전 = (polite) I (subject)\n전 is the contracted form of 저는.\n쇼핑하다 = to do one's shopping, go shop"
+    },
+    {
+      "korean": "가끔은 싫어하는 일도 해야 돼요.",
+      "english": "Sometimes you also have to do things you hate.",
+      "notes": "가끔 = sometimes\n-이/어/아이어 되다 = to have to + V"
+    },
+    {
+      "korean": "싫어하는 일이지만 꼭 해야 해요.",
+      "english": "I hate (to do) this, but I have to do it.",
+      "notes": "-지만 = but, however; though\n꼭 = for sure; at any cost; certainly; definitely; make sure to (do something); tight\n-이/어/아이어 하다 = should; have to; must"
+    },
+    {
+      "korean": "그 사람이 저 싫어하는 거 같아요.",
+      "english": "I think he hates me.",
+      "notes": ""
+    },
+    {
+      "korean": "제 아들은 공부하기 너무 싫어해요.",
+      "english": "My son really hates studying.",
+      "notes": "아들 = son\n공부하다 = to study"
+    },
+    {
+      "korean": "그 시람은 자기 싫어하는 성격이에요.",
+      "english": "He's the type (of person) who hates to lose.",
+      "notes": "지다 = to lose\n성격 = personality, disposition"
+    },
+    {
+      "korean": "왜 자꾸 제가 싫어하는 행동을 하세요?",
+      "english": "Why do you keep doing things I hate?",
+      "notes": "왜 = why; for what reason; how come\n자꾸 = repeatedly, again and again\n행동 = behavior"
+    },
+    {
+      "korean": "싫어하는 건 아닌데 좋아하지도 않아요.",
+      "english": "I don't hate it, but I don't like it either.",
+      "notes": "아니다 = to be not\n좋아하다 = to like"
+    },
+    {
+      "korean": "저는 집안일 중에 설거지를 제일 싫어 해요.",
+      "english": "Among all the household chores, I hate washing dishes the most.",
+      "notes": "집안일 = housework\n설거지 = dish washing"
+    },
+    {
+      "korean": "이 세상에 휴기를 싫어하는 사람은 없 어요.",
+      "english": "There is no one in this world who hates vacation.",
+      "notes": "휴기 = vacation, holiday"
+    },
+    {
+      "korean": "저는 우리 반에 싫어하는 사람이 한 명 도 없어요.",
+      "english": "There isn't anyone in the class I hate.",
+      "notes": "우리 = we; us\n반 = class\n명 = counter for people"
+    },
+    {
+      "korean": "제가 싫어하는 거 알면서 왜 자꾸 담배 를 피워요?",
+      "english": "You know I hate it, so why do you still keep smoking?",
+      "notes": "(으)면서 = while + S + V-ing\n왜 = why; for what reason; how come\n자꾸 = repeatedly, again and again\n담배를 피우다 = to smoke"
+    },
+    {
+      "korean": "저희 부모님은 제가 거짓말하는 걸 정 말 싫어하세요.",
+      "english": "My parents really hate me lying to them.\nMy parents really hate it when I lie.",
+      "notes": "저희 = (polite) we; us; our\n부모님 = parents\n거짓말하다 = to lie"
+    },
+    {
+      "korean": "저는 좋아하는 과목은 잘하는데 싫어하 는 과목은 잘 못해요.",
+      "english": "I'm good at the subjects I like, but I'm bad at the subjects I hate.",
+      "notes": "못하다 = to be bad at something, poor at something"
+    },
+    {
+      "korean": "높은 곳에서 갑자기 떨어지는 느낌을 싫어해서 놀이기구를 안 타요.",
+      "english": "I really hate the feeling of suddenly dropping from a high place, so I don't go on amusement park rides.",
+      "notes": "높다 = to be high; tall\n높은 is the adjective form of 높다.\n떨어지다 = to fall, drop (down from somewhere), plummet\n느낌 = feeling, sense\n놀이기구 = amusement park rides\n타다 = to ride; to get on; to take (vehicle)"
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "chapter": 26,
+  "title": "Class",
+  "category": "School",
+  "shortDialogue": [
+    {
+      "speaker": "성일",
+      "korean": "선생님, 질문 있어요.",
+      "romanization": "",
+      "english": "Teacher, I have a question."
+    },
+    {
+      "speaker": "선생님",
+      "korean": "질문하세요.",
+      "romanization": "",
+      "english": "Ask away."
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "성일",
+      "korean": "선생님, 질문 있어요.",
+      "romanization": "",
+      "english": "Teacher, I have a question."
+    },
+    {
+      "speaker": "선생님",
+      "korean": "질문? 질문하세요.",
+      "romanization": "",
+      "english": "A question? Ask away."
+    },
+    {
+      "speaker": "성일",
+      "korean": "저희 방학 언제부터예요?",
+      "romanization": "",
+      "english": "When does our school vacation start?"
+    },
+    {
+      "speaker": "선생님",
+      "korean": "방학? 방학은 7월부터예요.",
+      "romanization": "",
+      "english": "Vacation? The vacation starts in July."
+    },
+    {
+      "speaker": "성일",
+      "korean": "그럼 언제까지예요?",
+      "romanization": "",
+      "english": "Then, until when?"
+    },
+    {
+      "speaker": "선생님",
+      "korean": "8월까지요.",
+      "romanization": "",
+      "english": "Until August."
+    },
+    {
+      "speaker": "성일",
+      "korean": "방학 때 저희 학교 나와요?",
+      "romanization": "",
+      "english": "Do we have to come to school during the vacation?"
+    },
+    {
+      "speaker": "선생님",
+      "korean": "네, 고3은 학교 나와요.",
+      "romanization": "",
+      "english": "Yes. Senior students in high school have to come to school."
+    },
+    {
+      "speaker": "성일",
+      "korean": "그럼 도시락 싸 와요?",
+      "romanization": "",
+      "english": "Then, do we have to bring our lunch?"
+    },
+    {
+      "speaker": "선생님",
+      "korean": "진석진! 다시 들어와요. 땡땡이는 안 돼요.",
+      "romanization": "",
+      "english": "Seokjin Jin, come back in. No cutting classes."
+    },
+    {
+      "speaker": "성일",
+      "korean": "선생님!",
+      "romanization": "",
+      "english": "Teacher!"
+    },
+    {
+      "speaker": "선생님",
+      "korean": "이제 그만, 수업 시작할게요.",
+      "romanization": "",
+      "english": "Stop it now. I am going to start the class."
+    }
+  ],
+  "culturalTip": "School calendars in Korea typically have summer vacation from mid-July until mid-August, and winter vacation from mid-December until the end of January. Students don't really have much of a break though, because they will continue to attend school during their vacation to prepare for the Korean college entrance exam, which is offered to third year high school students every November. Some students sign up for short courses or camps, while other students study by themselves at school in lieu of regular class. The entrance exam is so intense that even students in elementary school start studying during both summer and winter vacations to increase their chances of doing well!",
+  "koreanReview": "- Short Dialogue\n성일: 선생님, 질문 있어요.\n선생님: 질문하세요.\n\n- Long Dialogue\n성일: 선생님, 질문 있어요.\n선생님: 질문? 질문하세요.\n성일: 저희 방학 언제부터예요?\n선생님: 방학? 방학은 7월부터예요.\n성일: 그럼 언제까지예요?\n선생님: 8월까지요.\n성일: 방학 때 저희 학교 나와요?\n선생님: 네, 고3은 학교 나와요.\n성일: 그럼 도시락 싸 와요?\n선생님: 진석진! 다시 들어와요. 땡땡이는 안 돼요.\n성일: 선생님!\n선생님: 이제 그만, 수업 시작할게요.",
+  "coreVocab": [
+    {
+      "korean": "선생님",
+      "romanization": "seon-saeng-nim",
+      "meaning": "teacher"
+    },
+    {
+      "korean": "질문",
+      "romanization": "jil-mun",
+      "meaning": "question"
+    },
+    {
+      "korean": "있다",
+      "romanization": "it-tta",
+      "meaning": "to exist, to have"
+    },
+    {
+      "korean": "질문하다",
+      "romanization": "jil-mu-na-da",
+      "meaning": "to ask"
+    },
+    {
+      "korean": "-(으)세요",
+      "romanization": "-eu-se-yo",
+      "meaning": "imperative (polite)"
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "고3",
+      "romanization": "go-sam",
+      "meaning": "senior student in high school, third year high school student"
+    },
+    {
+      "korean": "그럼",
+      "romanization": "geu-reom",
+      "meaning": "then"
+    },
+    {
+      "korean": "도시락",
+      "romanization": "do-si-rak",
+      "meaning": "lunch box"
+    },
+    {
+      "korean": "싸다",
+      "romanization": "ssa-da",
+      "meaning": "to pack"
+    },
+    {
+      "korean": "다시",
+      "romanization": "da-si",
+      "meaning": "again"
+    },
+    {
+      "korean": "들어오다",
+      "romanization": "deu-reo-o-da",
+      "meaning": "to come in"
+    },
+    {
+      "korean": "땡땡이",
+      "romanization": "ttaeng-ttaeng-i",
+      "meaning": "cutting class"
+    },
+    {
+      "korean": "이제",
+      "romanization": "i-je",
+      "meaning": "now"
+    },
+    {
+      "korean": "그만",
+      "romanization": "geu-man",
+      "meaning": "stop"
+    },
+    {
+      "korean": "수업",
+      "romanization": "su-eop",
+      "meaning": "class"
+    },
+    {
+      "korean": "시작하다",
+      "romanization": "si-ja-ka-da",
+      "meaning": "to start"
+    },
+    {
+      "korean": "선생님",
+      "romanization": "seon-saeng-nim",
+      "meaning": "teacher"
+    },
+    {
+      "korean": "질문",
+      "romanization": "jil-mun",
+      "meaning": "question"
+    },
+    {
+      "korean": "있다",
+      "romanization": "it-tta",
+      "meaning": "to exist, to have"
+    },
+    {
+      "korean": "질문하다",
+      "romanization": "jil-mu-na-da",
+      "meaning": "to ask"
+    },
+    {
+      "korean": "저희",
+      "romanization": "jeo-hui",
+      "meaning": "we, us (humble)"
+    },
+    {
+      "korean": "방학",
+      "romanization": "bang-hak",
+      "meaning": "school vacation"
+    },
+    {
+      "korean": "언제",
+      "romanization": "eon-je",
+      "meaning": "when"
+    },
+    {
+      "korean": "7월",
+      "romanization": "chi-rwol",
+      "meaning": "July"
+    },
+    {
+      "korean": "8월",
+      "romanization": "pa-rwol",
+      "meaning": "August"
+    },
+    {
+      "korean": "학교",
+      "romanization": "hak-kyo",
+      "meaning": "school"
+    },
+    {
+      "korean": "나오다",
+      "romanization": "na-o-da",
+      "meaning": "to come out"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "Possession",
+      "pattern": "NOUN + 있어요 = I have NOUN. / There is NOUN.",
+      "meaning": "I have NOUN. / There is NOUN.",
+      "explanation": "Ex) 질문 + 있어요 → 질문 있어요. = I have a question.",
+      "examples": [
+        {
+          "korean": "질문 + 있어요 → 질문 있어요.",
+          "romanization": "",
+          "english": "I have a question."
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "도시락 + 있어요",
+          "answer": "도시락 있어요.",
+          "english": "I have a lunch box. / I brought my lunch."
+        },
+        {
+          "prompt": "수업 + 있어요",
+          "answer": "수업 있어요.",
+          "english": "I have a class."
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Extended Time",
+      "pattern": "NOUN + -부터 NOUN + -까지 = from NOUN to NOUN",
+      "meaning": "from NOUN to NOUN",
+      "explanation": "Ex) 7월 + -부터 + 8월 + -까지 → 7월부터 8월까지 = from July to August",
+      "examples": [
+        {
+          "korean": "7월 + -부터 + 8월 + -까지 → 7월부터 8월까지",
+          "romanization": "",
+          "english": "from July to August"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "월요일 + -부터 + 금요일 + -까지",
+          "answer": "월요일부터 금요일까지",
+          "english": "from Monday to Friday"
+        },
+        {
+          "prompt": "여기 + -부터 + 저기 + -까지",
+          "answer": "여기부터 저기까지",
+          "english": "from here to there"
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "When a consonant is combined with -ㄹ, the -ㄹ is pronounced as l.",
+      "examples": [
+        {
+          "korean": "저희",
+          "pronounced": "[저히]",
+          "romanization": "jeo-hi"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "희망 (hope, wish)",
+          "answer": "[히망]",
+          "gloss": "(hope, wish)"
+        },
+        {
+          "prompt": "무늬 (pattern)",
+          "answer": "[무니]",
+          "gloss": "(pattern)"
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "Time for a review!",
+      "examples": [],
+      "exercises": [
+        {
+          "prompt": "방학은",
+          "answer": "[방하근]",
+          "gloss": ""
+        },
+        {
+          "prompt": "학교",
+          "answer": "[학꼬]",
+          "gloss": ""
+        },
+        {
+          "prompt": "들어와요",
+          "answer": "[드러와요]",
+          "gloss": ""
+        },
+        {
+          "prompt": "시작할게요",
+          "answer": "[시자깔게요]",
+          "gloss": ""
+        }
+      ]
+    }
+  ]
+}

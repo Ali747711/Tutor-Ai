@@ -1,0 +1,321 @@
+{
+  "chapter": 17,
+  "title": "Movie Date",
+  "category": "On a Date",
+  "shortDialogue": [
+    {
+      "speaker": "정석",
+      "korean": "민아 씨, 어떤 영화 좋아해요?",
+      "romanization": "",
+      "english": "Min-a, what kind of movie do you like?"
+    },
+    {
+      "speaker": "민아",
+      "korean": "저는 액션 영화 좋아해요.",
+      "romanization": "",
+      "english": "I like action movies."
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "정석",
+      "korean": "민아 씨, 어떤 영화 좋아해요?",
+      "romanization": "",
+      "english": "Min-a, what kind of movie do you like?"
+    },
+    {
+      "speaker": "민아",
+      "korean": "저는 액션 영화 좋아해요.",
+      "romanization": "",
+      "english": "I like action movies."
+    },
+    {
+      "speaker": "정석",
+      "korean": "저도 액션 영화 정말 좋아해요.",
+      "romanization": "",
+      "english": "I really like action movies, too."
+    },
+    {
+      "speaker": "민아",
+      "korean": "재미있는 액션 영화 하나 개봉했어요. 우리 그거 볼래요?",
+      "romanization": "",
+      "english": "An interesting action movie was released. Do you want to watch that?"
+    },
+    {
+      "speaker": "정석",
+      "korean": "네. 좋아요. 그럼 제가 지금 예매할게요.",
+      "romanization": "",
+      "english": "Yes. Sounds good. Then, I will reserve the tickets now."
+    },
+    {
+      "speaker": "민아",
+      "korean": "네. 고마워요.",
+      "romanization": "",
+      "english": "Ok, thank you."
+    },
+    {
+      "speaker": "정석",
+      "korean": "그럼 영화 보기 전에 밥 먹을까요?",
+      "romanization": "",
+      "english": "Then, shall we eat before watching the movie?"
+    },
+    {
+      "speaker": "민아",
+      "korean": "네. 뭐 먹을까요? 정석 씨 좋아하는 삼겹살 먹을까요?",
+      "romanization": "",
+      "english": "Ok. What shall we eat? Shall we eat pork belly, which you like?"
+    },
+    {
+      "speaker": "정석",
+      "korean": "삼겹살 먹고 싶은데 냄새날 것 같아요.",
+      "romanization": "",
+      "english": "I want to eat pork belly, but I think we might smell bad."
+    },
+    {
+      "speaker": "민아",
+      "korean": "아, 그럼 뭐 먹을까요?",
+      "romanization": "",
+      "english": "Oh, then what shall we eat?"
+    },
+    {
+      "speaker": "정석",
+      "korean": "햄버거 어때요?",
+      "romanization": "",
+      "english": "How about hamburgers?"
+    },
+    {
+      "speaker": "민아",
+      "korean": "좋아요. 햄버거 먹으러 가요.",
+      "romanization": "",
+      "english": "Alright. Let's go eat hamburgers."
+    }
+  ],
+  "culturalTip": "A typical date in Korea includes going to see a movie, but a movie date can feel different since most people genuinely enjoy seeing a movie. In fact, people love going to the movies so much that the most popular movie of the year will often draw in 10 million or more viewers, which is about a quarter of the Korean population. The price of a ticket will vary as there are multiple options to consider (which theater, 3D, 4D, Standard, Lounge Seating, VIP, etc.), but the average price is about 10,000KRW.",
+  "koreanReview": "- Short Dialogue\n정석: 민아 씨, 어떤 영화 좋아해요?\n민아: 저는 액션 영화 좋아해요.\n\n- Long Dialogue\n정석: 민아 씨, 어떤 영화 좋아해요?\n민아: 저는 액션 영화 좋아해요.\n정석: 저도 액션 영화 정말 좋아해요.\n민아: 재미있는 액션 영화 하나 개봉했어요. 우리 그거 볼래요?\n정석: 네. 좋아요. 그럼 제가 지금 예매할게요.\n민아: 네. 고마워요.\n정석: 그럼 영화 보기 전에 밥 먹을까요?\n민아: 네. 뭐 먹을까요? 정석 씨 좋아하는 삼겹살 먹을까요?\n정석: 삼겹살 먹고 싶은데 냄새날 것 같아요.\n민아: 아, 그럼 뭐 먹을까요?\n정석: 햄버거 어때요?\n민아: 좋아요. 햄버거 먹으러 가요.",
+  "coreVocab": [
+    {
+      "korean": "씨",
+      "romanization": "ssi",
+      "meaning": "honorific suffix which implies respect toward the person whose name it is attached to"
+    },
+    {
+      "korean": "어떤",
+      "romanization": "eo-tteon",
+      "meaning": "what kind of, which"
+    },
+    {
+      "korean": "영화",
+      "romanization": "yeong-hwa",
+      "meaning": "movie"
+    },
+    {
+      "korean": "좋아하다",
+      "romanization": "jo-a-ha-da",
+      "meaning": "to like"
+    },
+    {
+      "korean": "저",
+      "romanization": "jeo",
+      "meaning": "I, me"
+    },
+    {
+      "korean": "액션",
+      "romanization": "aek-ssyeon",
+      "meaning": "action"
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "어떤",
+      "romanization": "eo-tteon",
+      "meaning": "what kind of, which"
+    },
+    {
+      "korean": "영화",
+      "romanization": "yeong-hwa",
+      "meaning": "movie"
+    },
+    {
+      "korean": "좋아하다",
+      "romanization": "jo-a-ha-da",
+      "meaning": "to like"
+    },
+    {
+      "korean": "재미있다",
+      "romanization": "jae-mi-it-tta",
+      "meaning": "to be interesting, to be fun"
+    },
+    {
+      "korean": "하나",
+      "romanization": "ha-na",
+      "meaning": "one"
+    },
+    {
+      "korean": "개봉하다",
+      "romanization": "gae-bong-ha-da",
+      "meaning": "to be released"
+    },
+    {
+      "korean": "그거",
+      "romanization": "geu-geo",
+      "meaning": "that, that one"
+    },
+    {
+      "korean": "보다",
+      "romanization": "bo-da",
+      "meaning": "to see, to watch"
+    },
+    {
+      "korean": "지금",
+      "romanization": "ji-geum",
+      "meaning": "now"
+    },
+    {
+      "korean": "예매하다",
+      "romanization": "ye-mae-ha-da",
+      "meaning": "to reserve"
+    },
+    {
+      "korean": "고맙다",
+      "romanization": "go-map-tta",
+      "meaning": "to be thankful"
+    },
+    {
+      "korean": "밥",
+      "romanization": "bap",
+      "meaning": "meal"
+    },
+    {
+      "korean": "먹다",
+      "romanization": "meok-tta",
+      "meaning": "to eat"
+    },
+    {
+      "korean": "뭐",
+      "romanization": "mwo",
+      "meaning": "what"
+    },
+    {
+      "korean": "삼겹살",
+      "romanization": "sam-gyeop-ssal",
+      "meaning": "pork belly"
+    },
+    {
+      "korean": "냄새나다",
+      "romanization": "naem-sae-na-da",
+      "meaning": "to smell (lit. smell comes out)"
+    },
+    {
+      "korean": "햄버거",
+      "romanization": "haem-beo-geo",
+      "meaning": "hamburger"
+    },
+    {
+      "korean": "가다",
+      "romanization": "ga-da",
+      "meaning": "to go"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "Future Tense with \"Will\"",
+      "pattern": "VERB + -(으)ㄹ래요? = Will you VERB?",
+      "meaning": "Asking if someone will do something",
+      "explanation": "",
+      "examples": [
+        {
+          "korean": "보다 + -(으)ㄹ래요? → 볼래요?",
+          "romanization": "",
+          "english": "Will you see (it)?"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "예매하다 + -(으)ㄹ래요?",
+          "answer": "예매할래요?",
+          "english": "Will you reserve (it)?"
+        },
+        {
+          "prompt": "먹다 + -(으)ㄹ래요?",
+          "answer": "먹을래요?",
+          "english": "Will you eat?"
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Making a Suggestion to Include Self + Verb",
+      "pattern": "VERB + -(으)러 가요. = Let's go VERB.",
+      "meaning": "Suggesting to go do something together",
+      "explanation": "",
+      "examples": [
+        {
+          "korean": "먹다 + -(으)러 가요. → 먹으러 가요.",
+          "romanization": "",
+          "english": "Let's go eat."
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "보다 + -(으)러 가요.",
+          "answer": "보러 가요.",
+          "english": "Let's go watch."
+        },
+        {
+          "prompt": "쇼핑하다 + -(으)러 가요.",
+          "answer": "쇼핑하러 가요.",
+          "english": "Let's go shopping."
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "When a syllable ends with ㄱ and is followed by a syllable that begins with a vowel, ㄱ becomes part of the following syllable rather than being pronounced distinctly as two different syllables.",
+      "examples": [
+        {
+          "korean": "먹을까요",
+          "pronounced": "머글까요",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "먹으러",
+          "answer": "머그러",
+          "gloss": ""
+        },
+        {
+          "prompt": "먹을래요",
+          "answer": "머글래요",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "When a syllable ends with ㅂ and is followed by a syllable that begins with ㅅ, the ㅅ is pronounced as ㅆ.",
+      "examples": [
+        {
+          "korean": "삼겹살",
+          "pronounced": "삼겹쌀",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "몹시",
+          "answer": "몹씨",
+          "gloss": "(very, really)"
+        },
+        {
+          "prompt": "집사",
+          "answer": "집싸",
+          "gloss": "(butler, steward)"
+        }
+      ]
+    }
+  ]
+}

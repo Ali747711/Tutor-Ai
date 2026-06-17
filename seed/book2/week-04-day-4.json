@@ -1,0 +1,110 @@
+{
+  "week": 4,
+  "day": 4,
+  "order": 25,
+  "keyword": "길",
+  "meaning": "road, street; way",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "길거리",
+      "english": "street; ground",
+      "notes": "거리 = street"
+    },
+    {
+      "korean": "지름길",
+      "english": "shortcut",
+      "notes": ""
+    },
+    {
+      "korean": "오르막길",
+      "english": "uphill road",
+      "notes": "오르막 = uphill, ascent"
+    },
+    {
+      "korean": "막다른 길",
+      "english": "dead end",
+      "notes": "막다르다 = to be a dead end"
+    },
+    {
+      "korean": "길을 잃다",
+      "english": "to lose one's way; to get lost",
+      "notes": "잃다 = to lose"
+    },
+    {
+      "korean": "길을 걷다",
+      "english": "to walk the road",
+      "notes": "걷다 = to walk"
+    },
+    {
+      "korean": "길을 건너다",
+      "english": "to cross the road",
+      "notes": "건너다 = to cross (a street)"
+    },
+    {
+      "korean": "길을 물어보다",
+      "english": "to ask the way",
+      "notes": "물어보다 = to ask"
+    },
+    {
+      "korean": "길을 잃은 것 같아요.",
+      "english": "I think I lost the way.\nI think I am lost.",
+      "notes": "-(으)ㄴ 것 같다 = it seems/looks like + S + V; I think + S + V"
+    },
+    {
+      "korean": "길 좀 여쭤봐도 될까요?",
+      "english": "May I ask you how to get there?\nDo you mind telling me the way to get there?",
+      "notes": "여쭤보다 = (honorific) to ask"
+    },
+    {
+      "korean": "이 길이 아닌 것 같아요.",
+      "english": "I don't think this is the way.",
+      "notes": "이 = this\n아니다 = to be not"
+    },
+    {
+      "korean": "이 길로 가면 더 빨라요.",
+      "english": "If you go this way, it is faster.",
+      "notes": ""
+    },
+    {
+      "korean": "제가 지름길을 알고 있어요.",
+      "english": "I know a shortcut.",
+      "notes": "알다 = to know"
+    },
+    {
+      "korean": "여기에서 어느 길로 가야 하나요?",
+      "english": "Which way should I go from here?",
+      "notes": "어느 = which; some"
+    },
+    {
+      "korean": "어떤 사람이 길을 막고 서 있어요.",
+      "english": "Someone is blocking the road.\nThere is someone standing in the road, blocking it.",
+      "notes": "어떤 사람 = someone; which person\n막다 = to block\n서 있다 = to be standing"
+    },
+    {
+      "korean": "길을 물어보는 게 좋을 것 같아요.",
+      "english": "I think it's better if we ask for directions.",
+      "notes": ""
+    },
+    {
+      "korean": "나가는 길이 어디인지 알려 주세요.",
+      "english": "Please tell me which way is the way out.",
+      "notes": "나가다 = to go out\n알려 주다 = to let someone know; to teach something to someone"
+    },
+    {
+      "korean": "이 길이 아닌가 봐요. 여긴 막다른 길이에요.",
+      "english": "This must not be the way. It is a dead end.",
+      "notes": "-(으)ㄴ가 봐다 = I think/guess + S + be + N, N + must be + adjective\n여긴 is a contraction of 여기 + 는."
+    },
+    {
+      "korean": "어제 길을 걸어다가 친구를 우연히 만났어요.",
+      "english": "I met a friend by chance yesterday while walking down the street.",
+      "notes": "어제 = yesterday\n우연히 = by chance\n만나다 = to meet (up)"
+    },
+    {
+      "korean": "길을 건널 때는 차가 오나 안 오나 잘 보고 건너야 돼요.",
+      "english": "When crossing the street, you must carefully look to see if a car is coming or not, then proceed.",
+      "notes": "-(으)ㄹ 때 = when/while + S + V\n차 = car\n-나 안 -나 = if + S + V or not\n잘 = well; carefully"
+    }
+  ]
+}

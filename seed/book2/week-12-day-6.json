@@ -1,0 +1,110 @@
+{
+  "week": 12,
+  "day": 6,
+  "order": 83,
+  "keyword": "문자",
+  "meaning": "text message",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "문자 메시지",
+      "english": "text message",
+      "notes": "메시지 = message"
+    },
+    {
+      "korean": "문자를 받다",
+      "english": "to get a text message",
+      "notes": ""
+    },
+    {
+      "korean": "문자를 씹다",
+      "english": "to ignore one's text message",
+      "notes": "씹다 is a slang expression that means \"to ignore one's text message or what one says.\""
+    },
+    {
+      "korean": "문자를 보내다",
+      "english": "to send a text message; to text",
+      "notes": ""
+    },
+    {
+      "korean": "문자를 주고받다",
+      "english": "to send text messages to each other",
+      "notes": ""
+    },
+    {
+      "korean": "문자 주세요.",
+      "english": "Send me a text message.",
+      "notes": ""
+    },
+    {
+      "korean": "문자로 보내 주세요.",
+      "english": "Tell me with a text message.",
+      "notes": ""
+    },
+    {
+      "korean": "나중에 문자 보낼게요.",
+      "english": "I'll text you later.",
+      "notes": ""
+    },
+    {
+      "korean": "제 문자 왜 자꾸 씹어요?",
+      "english": "Why do you keep ignoring my text messages?",
+      "notes": "자꾸 = repeatedly, again and again"
+    },
+    {
+      "korean": "장난 문자 보내지 마세요.",
+      "english": "Don't send me phony text messages.",
+      "notes": "장난 = prank\n장난 문자 = phony text message"
+    },
+    {
+      "korean": "연락처를 문자로 보낼게요.",
+      "english": "I will send you my contact information via text message.",
+      "notes": "연락처 = contact; phone number"
+    },
+    {
+      "korean": "어제 제가 보낸 문자 보셨어요?",
+      "english": "Did you see the text message I sent you yesterday?",
+      "notes": "보시다 = (honorific) to see; to look; to watch"
+    },
+    {
+      "korean": "해외에서도 문자 보낼 수 있어요?",
+      "english": "Can you send text messages from overseas?",
+      "notes": "해외 = overseas"
+    },
+    {
+      "korean": "문자는 받았는데 아직 못 읽었어요.",
+      "english": "I got the text message, but I haven't read it yet.",
+      "notes": "아직 = (not) yet"
+    },
+    {
+      "korean": "전화 통화가 안 돼서 문자 보냈어요.",
+      "english": "I couldn't get through when I called you, so I sent a text message.",
+      "notes": "통화 = phone call, telephone conversation\n안 되다 = S + doesn't work; can't + V"
+    },
+    {
+      "korean": "핸드폰 액정이 깨져서 문자를 못 읽어요.",
+      "english": "The display screen on my cellphone is cracked, so I can't read text messages.",
+      "notes": "핸드폰 = mobile phone\n액정 = display screen (usually for mobile phones)\n깨지다 = to be cracked, broken"
+    },
+    {
+      "korean": "지금은 전화 못 하니까 문자로 보낼게요.",
+      "english": "I can't call you right now, so I will send a text message.",
+      "notes": "-(으)니까 = since, because"
+    },
+    {
+      "korean": "그 사람은 문자 메시지를 참 재미있게 보내요.",
+      "english": "His text messages are funny.",
+      "notes": "참 = very, quite\n재미있다 = to be fun; to be funny; to be interesting\n재미있게 is the adverb form of 재미있다."
+    },
+    {
+      "korean": "핸드폰 문자 메시지를 너무 많이 써서 손이 아파요.",
+      "english": "I've been texting too much, so my hands are sore.",
+      "notes": "문자를 쓰다 = to send text messages; to use text messaging service\n손 = hand\n아프다 = to be sick, hurt"
+    },
+    {
+      "korean": "저는 문자 쓰는 거 별로 안 좋아해요. 전화하는 게 편해요.",
+      "english": "I don't really like texting. It's more convenient to call.",
+      "notes": "별로 = not particularly, not very, not so much, not really\n좋아하다 = to like\n편하다 = to be comfortable; to be convenient"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "week": 8,
+  "day": 2,
+  "order": 51,
+  "keyword": "잠",
+  "meaning": "sleep",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "낮잠",
+      "english": "nap",
+      "notes": "낮 = daytime"
+    },
+    {
+      "korean": "늦잠",
+      "english": "sleeping late, getting up late",
+      "notes": ""
+    },
+    {
+      "korean": "잠꼬대",
+      "english": "talking in one's sleep",
+      "notes": ""
+    },
+    {
+      "korean": "깊은 잠",
+      "english": "deep sleep",
+      "notes": "깊다 = to be deep\n깊은 is the adjective form of 깊다."
+    },
+    {
+      "korean": "잠들다",
+      "english": "to fall asleep",
+      "notes": ""
+    },
+    {
+      "korean": "잠을 자다",
+      "english": "to sleep",
+      "notes": "자다 = to sleep"
+    },
+    {
+      "korean": "잠이 많다",
+      "english": "to sleep a lot",
+      "notes": ""
+    },
+    {
+      "korean": "잠이 오다",
+      "english": "to feel sleepy",
+      "notes": "오다 = to come"
+    },
+    {
+      "korean": "잠을 설치다",
+      "english": "to not sleep very well",
+      "notes": ""
+    },
+    {
+      "korean": "잠에서 깨다",
+      "english": "to wake up from sleep",
+      "notes": "깨다 = to wake up"
+    },
+    {
+      "korean": "벌써 잠들면 안 돼요!",
+      "english": "You can't fall asleep already!",
+      "notes": "벌써 = already\n잠들다 = to fall asleep\n-(으)면 안 되다 = shouldn't; must not"
+    },
+    {
+      "korean": "너무 더워서 잠이 안 와요.",
+      "english": "It's too hot, so I can't sleep.",
+      "notes": "덥다 = to be hot\n-어/-여 = because, since\n잠이 오다 = to be sleepy; to feel drowsy\n잠이 인 오다 = to be unable to sleep"
+    },
+    {
+      "korean": "오늘 아침에 늦잠을 잤어요.",
+      "english": "This morning, I got up late.",
+      "notes": "아침 = morning; breakfast"
+    },
+    {
+      "korean": "그 사람은 잠꼬대가 심해요.",
+      "english": "He talks a lot in his sleep.",
+      "notes": "그 사람 = that person; he, she\n잠꼬대 = talking in one's sleep\n심하다 = to be excessive, too much; to be harsh"
+    },
+    {
+      "korean": "저는 잠이 너무 많아서 문제예요.",
+      "english": "I sleep too much and it's a problem.",
+      "notes": "저 = (polite) I; me\n문제 = problem, issue; thing; matter"
+    },
+    {
+      "korean": "운전하다가 잠 오면 어떻게 해요?",
+      "english": "What do you do when you feel sleepy while you are driving?",
+      "notes": "운전하다 = to drive\n-다가 = as a result of V-ing\n-(으)면 = if + S + V; when/once + S + V\n어떻게 = how\n-(으)면 어떻게 해요? = What do you do when + S + V ?; What am I supposed to do if you + V?"
+    },
+    {
+      "korean": "어제는 평소보다 잠을 늦게 잤어요.",
+      "english": "I went to bed later than usual yesterday.",
+      "notes": "평소 = usual day, ordinary day\n-보다 = than + N"
+    },
+    {
+      "korean": "어제 잠을 설쳐서 오늘 너무 피곤해요.",
+      "english": "I didn't sleep well last night, so I feel very tired today.",
+      "notes": "잠을 설치다 = to not sleep very well"
+    },
+    {
+      "korean": "버스에서 잠들어서 내릴 곳을 놓쳤어요.",
+      "english": "I fell asleep on the bus and missed my stop.",
+      "notes": "버스 = bus\n내리다 = to get off (from a vehicle)\n곳 = place\n놓치다 = to miss"
+    },
+    {
+      "korean": "이렇게 시끄러운 데에서 어떻게 잠을 자요?",
+      "english": "How do you sleep in such a noisy place?",
+      "notes": "이렇게 = like this, in this manner; so +adjective\n시끄럽다 = to be noisy, loud\n시끄러운 is the adjective form of 시끄럽다.\n-ㄴ, -데 = (adjective) + place"
+    }
+  ]
+}

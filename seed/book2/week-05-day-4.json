@@ -1,0 +1,110 @@
+{
+  "week": 5,
+  "day": 4,
+  "order": 32,
+  "keyword": "발",
+  "meaning": "foot",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "발판",
+      "english": "foothold, scaffold, support for the feet",
+      "notes": ""
+    },
+    {
+      "korean": "평발",
+      "english": "flat feet",
+      "notes": ""
+    },
+    {
+      "korean": "발소리",
+      "english": "footstep",
+      "notes": "소리 = sound"
+    },
+    {
+      "korean": "발냄새",
+      "english": "foot odor",
+      "notes": "냄새 = smell, odor"
+    },
+    {
+      "korean": "발자국",
+      "english": "footprint",
+      "notes": "자국 = trail; mark; stain"
+    },
+    {
+      "korean": "발가락",
+      "english": "toe",
+      "notes": ""
+    },
+    {
+      "korean": "발 마사지",
+      "english": "foot massage",
+      "notes": "마사지 = massage"
+    },
+    {
+      "korean": "발이 작다",
+      "english": "to have small feet",
+      "notes": "작다 = to be small, little"
+    },
+    {
+      "korean": "발이 아프다",
+      "english": "to have sore feet, pain in the feet",
+      "notes": ""
+    },
+    {
+      "korean": "발이 못생겼다",
+      "english": "to have ugly feet",
+      "notes": "못생기다 = to be ugly"
+    },
+    {
+      "korean": "발을 혹사시키다",
+      "english": "to overwork one's feet",
+      "notes": "혹사시키다 = to overtax/overwork + N"
+    },
+    {
+      "korean": "이 신발, 발에 잘 맞아요?",
+      "english": "Do these shoes fit your feet well?",
+      "notes": "신발 = shoes\n잘 = well; carefully\n맞다 = to fit"
+    },
+    {
+      "korean": "발소리가 들린 것 같아요.",
+      "english": "I think I heard footsteps.",
+      "notes": "발소리 = footstep\n들리다 = to be heard, audible; to sound"
+    },
+    {
+      "korean": "오래 걸어서 발이 너무 아파요.",
+      "english": "I walked for a long time, so my feet hurt.",
+      "notes": "오래 = for long, for a long time\n걷다 = to walk"
+    },
+    {
+      "korean": "발 마사지를 받으니까 정말 개운해요.",
+      "english": "Now that I got a foot massage, I feel so refreshed.",
+      "notes": "받다 = to receive\n-니까 = since, because\n정말 = really; very\n개운하다 = to feel refreshed"
+    },
+    {
+      "korean": "저는 하이힐을 신으면 발이 너무 아파요.",
+      "english": "When I wear high heels, my feet hurt badly.",
+      "notes": "하이힐 = high heels\n신다 = to wear (footwear/socks)\n-(으)면 = if + S + V; when/once + S + V\n발 = foot"
+    },
+    {
+      "korean": "추운 데에 오래 있어서 발이 너무 시려 요.",
+      "english": "I stayed in a cold place for a long time, so my feet are really cold.",
+      "notes": "춥다 = to be cold\n추운 = the adverb form of 춥다.\n곳 = (adjective) + place\n시리다 = (a body part) feels cold"
+    },
+    {
+      "korean": "저는 발이 평발이어서 달리기를 잘 못해요.",
+      "english": "I have flat feet, so I'm not good at running.",
+      "notes": "평발 = flat feet\n달리기 = running\n달리기를 하다 = to run\n잘 못하다 = to be not good at + V-ing"
+    },
+    {
+      "korean": "새로 산 신발 때문에 발에 물집이 생겼어요.",
+      "english": "I have a blister on my foot because of my new shoes.",
+      "notes": "새로 = newly; (do something) over\n때문에 = because (of), since\n물집 = blister\n생기다 = to come into being; to be formed; to appear"
+    },
+    {
+      "korean": "저는 발이 너무 작아서, 맞는 사이즈를 찾기가 어려워요.",
+      "english": "My feet are too small, so it's hard to find my size.",
+      "notes": "사이즈 = size\n찾다 = to find; to look for"
+    }
+  ]
+}

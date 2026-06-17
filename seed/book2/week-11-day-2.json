@@ -1,0 +1,110 @@
+{
+  "week": 11,
+  "day": 2,
+  "order": 72,
+  "keyword": "약속",
+  "meaning": "plans; promise",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "약속 시간",
+      "english": "a time for meeting someone",
+      "notes": "시간 = time; hour\n\n있다 = to be there; to exist; to have"
+    },
+    {
+      "korean": "약속이 있다",
+      "english": "to have something to attend; to have plans; to have an appointment",
+      "notes": "있다 = to be there; to exist; to have"
+    },
+    {
+      "korean": "약속을 지키다",
+      "english": "to keep one's promise",
+      "notes": "지키다 = to keep; to guard"
+    },
+    {
+      "korean": "약속을 어기다",
+      "english": "to break one's promise",
+      "notes": "어기다 = to break (one's promise)"
+    },
+    {
+      "korean": "약속을 취소하다",
+      "english": "to cancel an appointment; to cancel plans",
+      "notes": "취소하다 = to cancel"
+    },
+    {
+      "korean": "약속할 수 있어요?",
+      "english": "Can you promise?",
+      "notes": "약속하다 = to promise, make a promise\n-(으)ㄹ 수 있다 = can, to be able to; there is a chance that + S + V"
+    },
+    {
+      "korean": "약속 지킬 수 있어요?",
+      "english": "Can you keep your promise?",
+      "notes": ""
+    },
+    {
+      "korean": "약속 꼭 지키실 거죠?",
+      "english": "You are definitely going to keep your promise, right?",
+      "notes": "꼭 = for sure; at any cost; certainly; definitely; make sure to (do something); tight"
+    },
+    {
+      "korean": "약속 장소가 어디예요?",
+      "english": "Where are you going to meet them?\nWhere are you supposed to go (to meet someone)?",
+      "notes": "장소 = place; venue"
+    },
+    {
+      "korean": "약속 시간에 또 늦었어요.",
+      "english": "I'm late for an appointment again.",
+      "notes": "또 = again\n늦다 = to be late"
+    },
+    {
+      "korean": "친구와 점심 약속이 있어요.",
+      "english": "I have a lunch date with a friend.",
+      "notes": "점심 = lunch"
+    },
+    {
+      "korean": "제가 언제 그런 약속을 했어요?",
+      "english": "When did I make such a promise?",
+      "notes": "제 = (polite) my; I\n그런 = (something) like that; such a noun\n약속을 하다 = to promise, make a promise"
+    },
+    {
+      "korean": "지키지 못 할 약속은 하지 마세요.",
+      "english": "Don't make a promise that you can't keep.",
+      "notes": "못 = can't"
+    },
+    {
+      "korean": "다시는 거짓말 안 한다고 약속할게요.",
+      "english": "I promise you that I won't lie again.",
+      "notes": "다시는 = (not) again\n거짓말 = lie\n거짓말 하다 = to lie"
+    },
+    {
+      "korean": "약속이라도 한 못이 모두 다 지각했어요.",
+      "english": "As if everyone had planned it together, they were all late.",
+      "notes": "-리도 한 못 = as if + S + V-ed\n모두 = all; every; everyone\n다 = all; every (thing)\n지각하다 = to be late"
+    },
+    {
+      "korean": "지는 오늘 약속이 있어서 먼저 가 불게 요.",
+      "english": "I need to go somewhere today, so I'm going to go now.",
+      "notes": "지 = (polite) I; me\n오늘 = today\n먼저 = first; before + N\n가다 = to go; to leave"
+    },
+    {
+      "korean": "친구하고 약속했기 때문에 안 가면 안 돼요.",
+      "english": "I promised my friend, so I have to go.\nI made a promise to my friend, so I can't skip out.",
+      "notes": "때문에 = because (of), since\n-(으)면 안 되다 = shouldn't; must not"
+    },
+    {
+      "korean": "오늘 저녁에 친구와 약속이 있는 걸 깜빡 잊어버렸어요.",
+      "english": "I completely forgot that I was supposed to meet my friend this evening.",
+      "notes": "저녁 = evening; dinner\n깜빡 잊어버리다 = to completely forget about something (for a short period of time)"
+    },
+    {
+      "korean": "이번 일요일에는 다른 약속이 있어서 못 만날 것 같아요.",
+      "english": "I have something else to do this Sunday, so I don't think I can meet you.",
+      "notes": "이번 = this; this time\n일요일 = Sunday\n다르다 = to be different\n다른 = the adjective form of 다르다.\n만나다 = to meet (up)\n-(으)ㄹ 것 같다 = I think + S + will/be going to; it seems like + S + will/be going to"
+    },
+    {
+      "korean": "오늘은 너무 피곤해서 약속을 취소하고 집에서 쉬었어요.",
+      "english": "I was very tired today, so I cancelled my plans and got some rest at home.",
+      "notes": "너무 = too much, excessively; very\n피곤하다 = to be tired, exhausted; to be tiring\n집 = house; home\n쉬다 = to take a break; to get some rest"
+    }
+  ]
+}

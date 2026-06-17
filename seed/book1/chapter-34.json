@@ -1,0 +1,294 @@
+{
+  "chapter": 34,
+  "title": "Hospital",
+  "category": "Health",
+  "shortDialogue": [
+    {
+      "speaker": "수진",
+      "korean": "배가 아파요.",
+      "romanization": "",
+      "english": "My stomach hurts."
+    },
+    {
+      "speaker": "의사",
+      "korean": "설사하셨어요?",
+      "romanization": "",
+      "english": "Did you have diarrhea?"
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "수진",
+      "korean": "배가 아파요.",
+      "romanization": "",
+      "english": "My stomach hurts."
+    },
+    {
+      "speaker": "의사",
+      "korean": "설사하셨어요?",
+      "romanization": "",
+      "english": "Did you have diarrhea?"
+    },
+    {
+      "speaker": "수진",
+      "korean": "네. 어제 설사했어요.",
+      "romanization": "",
+      "english": "Yes, I had diarrhea yesterday."
+    },
+    {
+      "speaker": "의사",
+      "korean": "오늘도 설사하셨어요?",
+      "romanization": "",
+      "english": "Did you have diarrhea today, too?"
+    },
+    {
+      "speaker": "수진",
+      "korean": "아니요. 오늘은 안 했어요.",
+      "romanization": "",
+      "english": "No, not today."
+    },
+    {
+      "speaker": "의사",
+      "korean": "열이 있으세요.",
+      "romanization": "",
+      "english": "You have a fever."
+    },
+    {
+      "speaker": "수진",
+      "korean": "진짜요?",
+      "romanization": "",
+      "english": "Really?"
+    },
+    {
+      "speaker": "의사",
+      "korean": "네. 39도에요.",
+      "romanization": "",
+      "english": "Yes. It's 39 degrees [Celsius]."
+    },
+    {
+      "speaker": "수진",
+      "korean": "아···",
+      "romanization": "",
+      "english": "Oh..."
+    },
+    {
+      "speaker": "의사",
+      "korean": "장염이에요.",
+      "romanization": "",
+      "english": "It's enteritis."
+    },
+    {
+      "speaker": "수진",
+      "korean": "장염이요?",
+      "romanization": "",
+      "english": "Enteritis?"
+    },
+    {
+      "speaker": "의사",
+      "korean": "네. 따뜻한 물 많이 드세요. 고기랑 술 드시지 마세요.",
+      "romanization": "",
+      "english": "Yes. Drink a lot of hot water. Don't eat meat or drink alcohol."
+    },
+    {
+      "speaker": "수진",
+      "korean": "아···네··· 감사합니다.",
+      "romanization": "",
+      "english": "Oh...I see...Thank you."
+    }
+  ],
+  "culturalTip": "According to statistical data from the Korean Health Insurance Review & Assessment Service, the most common reason why people in Korea visit the doctor's office is for acute bronchitis. When it comes to more serious conditions which require hospitalization, the top two most common reasons are gastroenteritis and disk problems in the neck or back. Due to the use of computers and smartphones, the number of people who are suffering from forward head posture is increasing dramatically.",
+  "koreanReview": "- Short Dialogue\n수진: 배가 아파요.\n의사: 설사하셨어요?\n\n- Long Dialogue\n수진: 배가 아파요.\n의사: 설사하셨어요?\n수진: 네. 어제 설사했어요.\n의사: 오늘도 설사하셨어요?\n수진: 아니요. 오늘은 안 했어요.\n의사: 열이 있으세요.\n수진: 진짜요?\n의사: 네. 39도에요.\n수진: 아···\n의사: 장염이에요.\n수진: 장염이요?\n의사: 네. 따뜻한 물 많이 드세요. 고기랑 술 드시지 마세요.\n수진: 아···네··· 감사합니다.",
+  "coreVocab": [
+    {
+      "korean": "배",
+      "romanization": "bae",
+      "meaning": "stomach"
+    },
+    {
+      "korean": "아프다",
+      "romanization": "a-peu-da",
+      "meaning": "to be sick, to hurt"
+    },
+    {
+      "korean": "설사하다",
+      "romanization": "seol-ssa-ha-da",
+      "meaning": "to have diarrhea"
+    },
+    {
+      "korean": "VERB + -셨어요?",
+      "romanization": "syeo-sseo-yo?",
+      "meaning": "Did you VERB? (honorific)"
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "배",
+      "romanization": "bae",
+      "meaning": "stomach"
+    },
+    {
+      "korean": "아프다",
+      "romanization": "a-peu-da",
+      "meaning": "to be sick, to hurt"
+    },
+    {
+      "korean": "설사하다",
+      "romanization": "seol-ssa-ha-da",
+      "meaning": "to have diarrhea"
+    },
+    {
+      "korean": "어제",
+      "romanization": "eo-je",
+      "meaning": "yesterday"
+    },
+    {
+      "korean": "오늘",
+      "romanization": "o-neul",
+      "meaning": "today"
+    },
+    {
+      "korean": "열",
+      "romanization": "yeol",
+      "meaning": "fever"
+    },
+    {
+      "korean": "진짜",
+      "romanization": "jin-jja",
+      "meaning": "really"
+    },
+    {
+      "korean": "장염",
+      "romanization": "jjang-yeom",
+      "meaning": "enteritis"
+    },
+    {
+      "korean": "따뜻하다",
+      "romanization": "tta-tteu-ta-da",
+      "meaning": "to be warm"
+    },
+    {
+      "korean": "물",
+      "romanization": "mul",
+      "meaning": "water"
+    },
+    {
+      "korean": "맣이",
+      "romanization": "ma-ni",
+      "meaning": "many, much, a lot"
+    },
+    {
+      "korean": "도시다",
+      "romanization": "deu-si-da",
+      "meaning": "to eat (honorific)"
+    },
+    {
+      "korean": "고기",
+      "romanization": "go-gi",
+      "meaning": "meat"
+    },
+    {
+      "korean": "술",
+      "romanization": "sul",
+      "meaning": "alcoholic drink"
+    },
+    {
+      "korean": "감사하다",
+      "romanization": "gam-sa-ha-da",
+      "meaning": "to be thankful"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "Making an Inquiry",
+      "pattern": "VERB + -시- + -았/었/였어요? = Did you VERB? (honorific)",
+      "meaning": "Did you VERB? (honorific)",
+      "explanation": "Ex) 설사하다 + -시- + -았/었/였어요? → 설사하셨어요? = Did you have diarrhea?",
+      "examples": [],
+      "exercises": [
+        {
+          "prompt": "식사하다 + -시- + -았/었/였어요?",
+          "answer": "식사하셨어요?",
+          "english": "Did you eat? / Have you eaten?"
+        },
+        {
+          "prompt": "공부하다 + -시- + -았/었/였어요?",
+          "answer": "공부하셨어요?",
+          "english": "Did you study?"
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Negative Imperative",
+      "pattern": "VERB + -지 마세요 = Don't VERB. (honorific)",
+      "meaning": "Don't VERB. (honorific)",
+      "explanation": "Ex) 드시다 + -지 마세요 → 드시지 마세요. = Don't eat.",
+      "examples": [],
+      "exercises": [
+        {
+          "prompt": "하다 + -지 마세요 ·····>",
+          "answer": "하지 마세요",
+          "english": "Don't do (it). / Stop (it)."
+        },
+        {
+          "prompt": "오다 + -지 마세요 ·····>",
+          "answer": "오지 마세요",
+          "english": "Don't come."
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "For Sino-Korean words (words influenced by hanja or Chinese characters), when a syllable ends with ㄹ and is followed by a syllable that begins with ㅅ, the ㅅ is pronounced as ㄸ.",
+      "examples": [
+        {
+          "korean": "설사",
+          "pronounced": "설싸",
+          "romanization": "seol-ssa"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "일시",
+          "answer": "일씨",
+          "gloss": ""
+        },
+        {
+          "prompt": "말살",
+          "answer": "말쌀",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "Let's review a few pronunciation rules that have been covered already.",
+      "examples": [],
+      "exercises": [
+        {
+          "prompt": "장염이에요",
+          "answer": "장엄미에요",
+          "gloss": ""
+        },
+        {
+          "prompt": "따뜻한",
+          "answer": "따뜻한",
+          "gloss": ""
+        },
+        {
+          "prompt": "맣이",
+          "answer": "마니",
+          "gloss": ""
+        },
+        {
+          "prompt": "감사합니다",
+          "answer": "감사합니다",
+          "gloss": ""
+        }
+      ]
+    }
+  ]
+}

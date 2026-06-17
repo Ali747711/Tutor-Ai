@@ -1,0 +1,110 @@
+{
+  "week": 11,
+  "day": 7,
+  "order": 77,
+  "keyword": "모르다",
+  "meaning": "to not know",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "모르는 사람",
+      "english": "a person who one doesn't know; a stranger",
+      "notes": ""
+    },
+    {
+      "korean": "모르는 번호",
+      "english": "a phone number that one doesn't recognize",
+      "notes": "번호 = number\n번호 is often used when referring one's phone number."
+    },
+    {
+      "korean": "모르는 이야기",
+      "english": "something that one has not heard of before; a story that one has not heard before",
+      "notes": "이야기 = story; what one says"
+    },
+    {
+      "korean": "자는 잘 모르겠어요.",
+      "english": "I don't know.; I'm not sure.",
+      "notes": ""
+    },
+    {
+      "korean": "저만 몰랐던 거에요?",
+      "english": "So, only I didn't know?",
+      "notes": "-던 것이다 is a sentence ending that expresses a fact which was previously not revealed."
+    },
+    {
+      "korean": "누구인지 모르겠어요.",
+      "english": "I don't know who that is.",
+      "notes": "누구 = who\n-(느)지 is a verb ending that comes before words such as \"to know,\" \"to ask,\" \"to not know,\" \"to find out,\" etc, to show what the speaker is referring to."
+    },
+    {
+      "korean": "모르는 척 하지 마세요.",
+      "english": "Don't pretend that you don't know.",
+      "notes": ""
+    },
+    {
+      "korean": "자는 모르는 이야기에요.",
+      "english": "I don't know what you are talking about.",
+      "notes": ""
+    },
+    {
+      "korean": "저도 이 동네는 잘 몰라요",
+      "english": "I don't know this neighborhood that well, either.",
+      "notes": "이 = this\n동네 = neighborhood"
+    },
+    {
+      "korean": "어디에 있는지 모르겠어요.",
+      "english": "I don't know where it is.",
+      "notes": ""
+    },
+    {
+      "korean": "아직은 모르는 척 해 주세요.",
+      "english": "For now, please pretend that you don't know about it yet.",
+      "notes": "아직은 = (not) yet"
+    },
+    {
+      "korean": "아직 모르는 게 좋을 거에요.",
+      "english": "It'll be better for you not to know about it yet.",
+      "notes": "좋다 = to be good, likable; be desirable; to be nice; to like"
+    },
+    {
+      "korean": "모르는 번호로 전화가 왔어요.",
+      "english": "I received a phone call from a number that I don't know.",
+      "notes": "전화 = phone call; telephone\n전화기 오다 = to get a phone call"
+    },
+    {
+      "korean": "그 사람은 모르는 것이 없어요.",
+      "english": "There is nothing he doesn't know.",
+      "notes": "것 = thing"
+    },
+    {
+      "korean": "몰라도 괜찮아요. 물어보면 돼요.",
+      "english": "It's okay if you don't know. You can just ask.",
+      "notes": "-이/어/여도 괜찮다 = to be okay to + V\n몰라보다 = to ask\n-(이)면 돼다 = to be just supposed to + V; to just have to + V; can just + V"
+    },
+    {
+      "korean": "어디에 가야 살 수 있는지 몰라요.",
+      "english": "I don't know where I need to go to buy this.",
+      "notes": "-이/어/어-(으)는 + 있다 = to have to + V₁ + to be able to + V₂"
+    },
+    {
+      "korean": "아무리 생각해 봐도 답을 모르겠어요.",
+      "english": "No matter how much I think about it, I still don't know the answer.",
+      "notes": "아무리 = no matter + adjective/adverb\n생각하다 = to think\n답 = answer; correct answer; reply"
+    },
+    {
+      "korean": "모르는 게 있으면 저한테 물어보세요.",
+      "english": "If there is something that you don't know, please ask me.",
+      "notes": ""
+    },
+    {
+      "korean": "이야기하느라 시간 가는 줄 몰랐어요.",
+      "english": "We were busy talking, so we didn't notice the passage of time.",
+      "notes": "이야기하다 = to talk, speak, say, tell; to have a conversation; to tell a story\n는 줄 모르다 = to not know/notice + S + V"
+    },
+    {
+      "korean": "모르는 사람을 함부로 따라가면 안 돼요.",
+      "english": "You shouldn't carelessly follow a stranger.",
+      "notes": "함부로 = carelessly\n따라가다 = to follow"
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "chapter": 29,
+  "title": "Coffee Shop",
+  "category": "Food",
+  "shortDialogue": [
+    {
+      "speaker": "윤아",
+      "korean": "아메리카노 한 잔 주세요.",
+      "romanization": "",
+      "english": "Give me one Americano, please."
+    },
+    {
+      "speaker": "직원",
+      "korean": "네. 영수증 드릴까요?",
+      "romanization": "",
+      "english": "Ok. Would you like the receipt?"
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "윤아",
+      "korean": "아메리카노 한 잔 주세요.",
+      "romanization": "",
+      "english": "Give me one Americano, please."
+    },
+    {
+      "speaker": "직원",
+      "korean": "네. 영수증 드릴까요?",
+      "romanization": "",
+      "english": "Ok. Would you like the receipt?"
+    },
+    {
+      "speaker": "윤아",
+      "korean": "아니요. 괜찮아요.",
+      "romanization": "",
+      "english": "No. It's alright (to not receive it)."
+    },
+    {
+      "speaker": "직원",
+      "korean": "네. 진동벨 가져가세요.",
+      "romanization": "",
+      "english": "Ok. Please take the pager."
+    },
+    {
+      "speaker": "윤아",
+      "korean": "아, 죄송해요. 아이스로 바꿔 주세요.",
+      "romanization": "",
+      "english": "Oh, I'm sorry. Please change it to iced."
+    },
+    {
+      "speaker": "직원",
+      "korean": "아이스 아메리카노요?",
+      "romanization": "",
+      "english": "Iced Americano?"
+    },
+    {
+      "speaker": "윤아",
+      "korean": "네.",
+      "romanization": "",
+      "english": "Yes."
+    },
+    {
+      "speaker": "직원",
+      "korean": "500원 더 비싸요. 그래서 취소하고 다시 결제해야 합니다.",
+      "romanization": "",
+      "english": "It's 500 won more. So, you need to cancel the order and pay again."
+    },
+    {
+      "speaker": "윤아",
+      "korean": "아, 진짜요? 음...",
+      "romanization": "",
+      "english": "Oh, really? Hmm..."
+    },
+    {
+      "speaker": "직원",
+      "korean": "아이스 아메리카노로 할까요?",
+      "romanization": "",
+      "english": "Shall I make it an iced Americano?"
+    },
+    {
+      "speaker": "윤아",
+      "korean": "아니에요. 그냥 따뜻한 아메리카노 주세요.",
+      "romanization": "",
+      "english": "No. Just give me a hot Americano."
+    },
+    {
+      "speaker": "직원",
+      "korean": "네. 잠깐만 기다리세요.",
+      "romanization": "",
+      "english": "Ok. Please wait just a moment."
+    }
+  ],
+  "culturalTip": "Korean coffee shops use Italian words for the names of coffee items, such as 카페 라떼 [ka-pe la-tte] (caffé latte) or 카푸치노 [ka-pu-chi-no] (cappuccino). For other items besides coffee, loanwords are usually used, which are just English words written in Hangul and pronounced with a Korean accent. Some common menu items that are loanwords include 오렌지 주스 [o-ren-ji ju-seul] (orange juice) and 캐모마일 티 [kae-mo-ma-il ti] (chamomile tea).",
+  "koreanReview": "- Short Dialogue\n윤아: 아메리카노 한 잔 주세요.\n직원: 네. 영수증 드릴까요?\n\n- Long Dialogue\n윤아: 아메리카노 한 잔 주세요.\n직원: 네. 영수증 드릴까요?\n윤아: 아니요. 괜찮아요.\n직원: 네. 진동벨 가져가세요.\n윤아: 아, 죄송해요. 아이스로 바꿔 주세요.\n직원: 아이스 아메리카노요?\n윤아: 네.\n직원: 500원 더 비싸요. 그래서 취소하고 다시 결제해야 합니다.\n윤아: 아, 진짜요? 음...\n직원: 아이스 아메리카노로 할까요?\n윤아: 아니에요. 그냥 따뜻한 아메리카노 주세요.\n직원: 네. 잠깐만 기다리세요.",
+  "coreVocab": [
+    {
+      "korean": "아메리카노",
+      "romanization": "a-me-ri-ka-no",
+      "meaning": "Americano"
+    },
+    {
+      "korean": "한 잔",
+      "romanization": "han jan",
+      "meaning": "one glass"
+    },
+    {
+      "korean": "주다",
+      "romanization": "ju-da",
+      "meaning": "to give"
+    },
+    {
+      "korean": "-(으)세요",
+      "romanization": "-eu-se-yo",
+      "meaning": "imperative (polite)"
+    },
+    {
+      "korean": "네.",
+      "romanization": "ne",
+      "meaning": "Yes. / Ok."
+    },
+    {
+      "korean": "영수증",
+      "romanization": "yeong-su-jeung",
+      "meaning": "receipt"
+    },
+    {
+      "korean": "드리다",
+      "romanization": "deu-ri-da",
+      "meaning": "to give (honorific)"
+    },
+    {
+      "korean": "VERB + -(으)까요?",
+      "romanization": "-eul-kka-yo",
+      "meaning": "Shall we VERB?"
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "한 잔",
+      "romanization": "han jan",
+      "meaning": "one glass"
+    },
+    {
+      "korean": "주다",
+      "romanization": "ju-da",
+      "meaning": "to give"
+    },
+    {
+      "korean": "영수증",
+      "romanization": "yeong-su-jeung",
+      "meaning": "receipt"
+    },
+    {
+      "korean": "드리다",
+      "romanization": "deu-ri-da",
+      "meaning": "to give (honorific)"
+    },
+    {
+      "korean": "괜찮다",
+      "romanization": "gwaen-chan-ta",
+      "meaning": "to be ok, to be alright"
+    },
+    {
+      "korean": "진동벨",
+      "romanization": "jin-dong-bell",
+      "meaning": "pager (call coaster)"
+    },
+    {
+      "korean": "가져가다",
+      "romanization": "ga-jeo-ga-da",
+      "meaning": "to take, to bring"
+    },
+    {
+      "korean": "죄송하다",
+      "romanization": "joe-song-ha-da",
+      "meaning": "to be sorry"
+    },
+    {
+      "korean": "아이스",
+      "romanization": "a-i-sseul",
+      "meaning": "iced"
+    },
+    {
+      "korean": "바꾸다",
+      "romanization": "ba-kku-da",
+      "meaning": "to change"
+    },
+    {
+      "korean": "비싸다",
+      "romanization": "bi-ssa-da",
+      "meaning": "to be expensive"
+    },
+    {
+      "korean": "그래서",
+      "romanization": "geu-rae-seo",
+      "meaning": "so"
+    },
+    {
+      "korean": "취소하다",
+      "romanization": "chwi-so-ha-da",
+      "meaning": "to cancel"
+    },
+    {
+      "korean": "다시",
+      "romanization": "da-si",
+      "meaning": "again"
+    },
+    {
+      "korean": "결제하다",
+      "romanization": "gyeol-je-ha-da",
+      "meaning": "to pay"
+    },
+    {
+      "korean": "진짜",
+      "romanization": "jin-jja",
+      "meaning": "really"
+    },
+    {
+      "korean": "하다",
+      "romanization": "ha-da",
+      "meaning": "to do"
+    },
+    {
+      "korean": "그냥",
+      "romanization": "geu-nyang",
+      "meaning": "just"
+    },
+    {
+      "korean": "따뜻하다",
+      "romanization": "tta-tteu-ta-da",
+      "meaning": "to be warm"
+    },
+    {
+      "korean": "잠깐만",
+      "romanization": "jiam-kkan-man",
+      "meaning": "just a moment"
+    },
+    {
+      "korean": "기다리다",
+      "romanization": "gi-da-ri-da",
+      "meaning": "to wait"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "Suggesting",
+      "pattern": "NOUN + -(으)로 할까요?",
+      "meaning": "Shall (I/we) go for NOUN?",
+      "explanation": "Ex) 아메리카노 + -(으)로 할까요? → 아메리카노로 할까요? = Shall (I/we) go for an Americano?",
+      "examples": [
+        {
+          "korean": "아메리카노 + -(으)로 할까요?",
+          "romanization": "",
+          "english": "Shall (I/we) go for an Americano?"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "김치찌개 + -(으)로 할까요?",
+          "answer": "김치찌개로 할까요?",
+          "english": "Shall (I/we) go for kimchi stew?"
+        },
+        {
+          "prompt": "오렌지 주스 + -(으)로 할까요?",
+          "answer": "오렌지 주스로 할까요?",
+          "english": "Shall (I/we) go for some orange juice?"
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Adjective: \"more\"",
+      "pattern": "더 = more",
+      "meaning": "more",
+      "explanation": "Ex) 더 + 비싸다 → 더 비싸다 = to be more expensive",
+      "examples": [
+        {
+          "korean": "더 + 비싸다",
+          "romanization": "",
+          "english": "to be more expensive"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "더 + 기다리다",
+          "answer": "더 기다리다",
+          "english": "to wait more"
+        },
+        {
+          "prompt": "더 + 따뜻하다",
+          "answer": "더 따뜻하다",
+          "english": "to be warmer"
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "When a syllable ends with ㅅ (which sounds the same as ㄷ when in the 받침 position) and is followed by a syllable that begins with ㅈ, the ㅅ becomes part of the following syllable and is pronounced as ㄹ.",
+      "examples": [
+        {
+          "korean": "따뜻한",
+          "pronounced": "[따뜬한]",
+          "romanization": "tta-tteun-han"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "못하다 (to be bad at)",
+          "answer": "모타다",
+          "gloss": ""
+        },
+        {
+          "prompt": "닷하다 (to blame)",
+          "answer": "타타다",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "Take a moment to review some pronunciation rules that were previously covered.",
+      "examples": [],
+      "exercises": [
+        {
+          "prompt": "괜찮아요",
+          "answer": "궤짜나요",
+          "gloss": ""
+        },
+        {
+          "prompt": "결제",
+          "answer": "겷쩨",
+          "gloss": ""
+        },
+        {
+          "prompt": "합니다",
+          "answer": "함니다",
+          "gloss": ""
+        }
+      ]
+    }
+  ]
+}

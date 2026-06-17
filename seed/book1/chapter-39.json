@@ -1,0 +1,347 @@
+{
+  "chapter": 39,
+  "title": "Airplane",
+  "category": "Transportation",
+  "shortDialogue": [
+    {
+      "speaker": "해윤",
+      "korean": "나 비행기 처음 타.",
+      "romanization": "",
+      "english": "This is my first time riding an airplane."
+    },
+    {
+      "speaker": "보람",
+      "korean": "진짜? 네가 창가에 앉아.",
+      "romanization": "",
+      "english": "Really? Sit by the window."
+    }
+  ],
+  "longDialogue": [
+    {
+      "speaker": "보람",
+      "korean": "우와! 드디어 여행 시작!",
+      "romanization": "",
+      "english": "Wow! The trip finally begins!"
+    },
+    {
+      "speaker": "해윤",
+      "korean": "나 비행기 처음 타. 해외여행도 처음이야.",
+      "romanization": "",
+      "english": "This is my first time riding an airplane. It's also my first time traveling overseas."
+    },
+    {
+      "speaker": "보람",
+      "korean": "진짜? 네가 창가에 앉아.",
+      "romanization": "",
+      "english": "Really? Sit by the window."
+    },
+    {
+      "speaker": "해윤",
+      "korean": "그래. 기내식도 먹고 싶다.",
+      "romanization": "",
+      "english": "Ok. I want to try the in-flight meal, too."
+    },
+    {
+      "speaker": "보람",
+      "korean": "해윤아. 우리 일본 가서 기내식 없어.",
+      "romanization": "",
+      "english": "Hae-yun, we are going to Japan, so there is no in-flight meal."
+    },
+    {
+      "speaker": "해윤",
+      "korean": "정말?",
+      "romanization": "",
+      "english": "Really?"
+    },
+    {
+      "speaker": "보람",
+      "korean": "어. 2시간밖에 안 걸려.",
+      "romanization": "",
+      "english": "Yeah. It only takes 2 hours."
+    },
+    {
+      "speaker": "해윤",
+      "korean": "아··· 기내식 먹고 싶다.",
+      "romanization": "",
+      "english": "Argh... I want to have an in-flight meal."
+    },
+    {
+      "speaker": "보람",
+      "korean": "해윤아. 비행기 탈 때 신발 벗고 타. 알지?",
+      "romanization": "",
+      "english": "Hae-yun, you should take off your shoes when you get in the airplane, ok?"
+    },
+    {
+      "speaker": "해윤",
+      "korean": "정말? 에이. 거짓말하지 마.",
+      "romanization": "",
+      "english": "Really? Come on, don't lie."
+    },
+    {
+      "speaker": "보람",
+      "korean": "진짜야. 너 신발 신고 탈 거야?",
+      "romanization": "",
+      "english": "For real. Are you going to fly with your shoes on?"
+    },
+    {
+      "speaker": "해윤",
+      "korean": "거짓말하지 마. 진짜 신발 벗어?",
+      "romanization": "",
+      "english": "Don't lie. Should I really take my shoes off?"
+    },
+    {
+      "speaker": "보람",
+      "korean": "응.",
+      "romanization": "",
+      "english": "Yeah."
+    }
+  ],
+  "culturalTip": "Prior to the Seoul Olympics in 1988, the Korean government placed many restrictions on traveling abroad, until 1989 when the restrictions were lifted and people were allowed to travel freely. Now, only Korean men over 24 who have not completed their compulsory military service have some restrictions (they have to get additional permission from the Military Manpower Administration). Many low-cost Korean airlines began operating in the late 2000s, leading to a steady increase in the number of people from Korea traveling abroad.",
+  "koreanReview": "- Short Dialogue\n해윤: 나 비행기 처음 타.\n보람: 진짜? 네가 창가에 앉아.\n\n- Long Dialogue\n보람: 우와! 드디어 여행 시작!\n해윤: 나 비행기 처음 타. 해외여행도 처음이야.\n보람: 진짜? 네가 창가에 앉아.\n해윤: 그래. 기내식도 먹고 싶다.\n보람: 해윤아. 우리 일본 가서 기내식 없어.\n해윤: 정말?\n보람: 어. 2시간밖에 안 걸려.\n해윤: 아··· 기내식 먹고 싶다.\n보람: 해윤아. 비행기 탈 때 신발 벗고 타. 알지?\n해윤: 정말? 에이. 거짓말하지 마.\n보람: 진짜야. 너 신발 신고 탈 거야?\n해윤: 거짓말하지 마. 진짜 신발 벗어?\n보람: 응.",
+  "coreVocab": [
+    {
+      "korean": "나",
+      "romanization": "na",
+      "meaning": "I (casual)"
+    },
+    {
+      "korean": "비행기",
+      "romanization": "bi-haeng-gi",
+      "meaning": "plane"
+    },
+    {
+      "korean": "처음",
+      "romanization": "cheo-eum",
+      "meaning": "first time"
+    },
+    {
+      "korean": "타다",
+      "romanization": "ta-da",
+      "meaning": "to ride, to take"
+    },
+    {
+      "korean": "진짜",
+      "romanization": "jin-jja",
+      "meaning": "really"
+    },
+    {
+      "korean": "네",
+      "romanization": "ne",
+      "meaning": "you (casual)"
+    },
+    {
+      "korean": "창가",
+      "romanization": "chang-kka",
+      "meaning": "window"
+    },
+    {
+      "korean": "앉다",
+      "romanization": "an-tta",
+      "meaning": "to sit"
+    }
+  ],
+  "extendedVocab": [
+    {
+      "korean": "드디어",
+      "romanization": "deu-di-eo",
+      "meaning": "finally"
+    },
+    {
+      "korean": "여행",
+      "romanization": "yeo-haeng",
+      "meaning": "trip"
+    },
+    {
+      "korean": "시작",
+      "romanization": "si-jak",
+      "meaning": "start"
+    },
+    {
+      "korean": "비행기",
+      "romanization": "bi-haeng-gi",
+      "meaning": "airplane"
+    },
+    {
+      "korean": "처음",
+      "romanization": "cheo-eum",
+      "meaning": "first time"
+    },
+    {
+      "korean": "타다",
+      "romanization": "ta-da",
+      "meaning": "to ride, to take"
+    },
+    {
+      "korean": "해외여행",
+      "romanization": "hae-oe-yeo-haeng",
+      "meaning": "traveling overseas, international trip"
+    },
+    {
+      "korean": "진짜",
+      "romanization": "jin-jja",
+      "meaning": "really"
+    },
+    {
+      "korean": "창가",
+      "romanization": "chang-kka",
+      "meaning": "window"
+    },
+    {
+      "korean": "앉다",
+      "romanization": "an-tta",
+      "meaning": "to sit"
+    },
+    {
+      "korean": "기내식",
+      "romanization": "gi-nae-sik",
+      "meaning": "in-flight meal"
+    },
+    {
+      "korean": "먹다",
+      "romanization": "meok-tta",
+      "meaning": "to eat"
+    },
+    {
+      "korean": "일본",
+      "romanization": "il-bon",
+      "meaning": "Japan"
+    },
+    {
+      "korean": "가다",
+      "romanization": "ga-da",
+      "meaning": "to go"
+    },
+    {
+      "korean": "없다",
+      "romanization": "eop-tta",
+      "meaning": "to not exist, to not have, to not be there"
+    },
+    {
+      "korean": "걸리다",
+      "romanization": "geol-li-da",
+      "meaning": "to take (time)"
+    },
+    {
+      "korean": "신발",
+      "romanization": "sin-bal",
+      "meaning": "shoes"
+    },
+    {
+      "korean": "벗다",
+      "romanization": "beot-tta",
+      "meaning": "to take off one's shoes"
+    },
+    {
+      "korean": "거짓말하다",
+      "romanization": "geo-jin-ma-ra-da",
+      "meaning": "to tell a lie"
+    },
+    {
+      "korean": "신다",
+      "romanization": "sin-tta",
+      "meaning": "to wear, to put on one's shoes"
+    }
+  ],
+  "grammar": [
+    {
+      "slot": "A",
+      "title": "At the Time/When",
+      "pattern": "VERB + -(으)ㄹ 때 = when (SUBJECT) VERB",
+      "meaning": "when (SUBJECT) VERB",
+      "explanation": "",
+      "examples": [
+        {
+          "korean": "타다 + -(으)ㄹ 때 → 탈 때",
+          "romanization": "",
+          "english": "when (they) ride"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "만나다 + -(으)ㄹ 때 ······>",
+          "answer": "만날 때",
+          "english": "when (they) meet"
+        },
+        {
+          "prompt": "먹다 + -(으)ㄹ 때 ······>",
+          "answer": "먹을 때",
+          "english": "when (they) eat"
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "title": "Conjunction: \"and\"",
+      "pattern": "VERB + -고 + VERB = to VERB and VERB",
+      "meaning": "to VERB and VERB",
+      "explanation": "* The first action continues while you do the second action.",
+      "examples": [
+        {
+          "korean": "벗다 + -고 + 타다 → 벗고 타다",
+          "romanization": "",
+          "english": "to take (it) off and ride"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "신다 + -고 + 타다 ······>",
+          "answer": "신고 타다",
+          "english": "to put on one's shoes and ride / to ride with one's shoes on"
+        },
+        {
+          "prompt": "들다 + -고 + 타다 ······>",
+          "answer": "들고 타다",
+          "english": "to pick (it) up and ride / to ride while carrying (it)"
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "slot": "A",
+      "rule": "When a syllable ends with ㄹ (which sounds the same as ㅂ when in the 받침 position) and is followed by a syllable that begins with ㄷ, the ㄷ is pronounced as ㄸ.",
+      "examples": [
+        {
+          "korean": "먹고 싶다",
+          "pronounced": "먹꼬 싶따",
+          "romanization": ""
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "깊다 (to be deep) ······>",
+          "answer": "깊따",
+          "gloss": ""
+        },
+        {
+          "prompt": "앞뒤 (the front and back) ······>",
+          "answer": "앞뛰",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "slot": "B",
+      "rule": "When a verb stem ends with ㄹ and is followed by an ending that begins with ㄱ, the ㄱ is pronounced as ㅇ.",
+      "examples": [
+        {
+          "korean": "신고",
+          "pronounced": "신고",
+          "romanization": "[신꼬]"
+        }
+      ],
+      "exercises": [
+        {
+          "prompt": "안고 ······>",
+          "answer": "앙고",
+          "gloss": ""
+        },
+        {
+          "prompt": "껴안고 ······>",
+          "answer": "껴앙고",
+          "gloss": ""
+        }
+      ]
+    }
+  ]
+}

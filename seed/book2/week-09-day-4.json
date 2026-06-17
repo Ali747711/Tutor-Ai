@@ -1,0 +1,110 @@
+{
+  "week": 9,
+  "day": 4,
+  "order": 60,
+  "keyword": "묻다",
+  "meaning": "to ask",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "물어보다",
+      "english": "to ask",
+      "notes": ""
+    },
+    {
+      "korean": "길을 묻다",
+      "english": "to ask for directions; to ask the way (to get somewhere)",
+      "notes": "길 = road, street; way"
+    },
+    {
+      "korean": "이유를 묻다",
+      "english": "to ask the reason",
+      "notes": "이유 = reason"
+    },
+    {
+      "korean": "의견을 묻다",
+      "english": "to ask one's opinion",
+      "notes": "의견 = opinion"
+    },
+    {
+      "korean": "친구에게 묻다",
+      "english": "to ask a friend",
+      "notes": ""
+    },
+    {
+      "korean": "뭐 좀 물어볼게요.",
+      "english": "Let me ask you something.",
+      "notes": "뭐 = what; something\n뭐 is the contracted form of 무엇."
+    },
+    {
+      "korean": "언제든지 물어보세요.",
+      "english": "Ask me anytime.",
+      "notes": ""
+    },
+    {
+      "korean": "묻는 말에만 대답하세요.",
+      "english": "Answer to only what you are asked.",
+      "notes": "말 = language; what one says; expression; word, term\n-만 = only; just\n대답하다 = to answer"
+    },
+    {
+      "korean": "가격이 얼마인지 물어봐 줄래요?",
+      "english": "Can you ask how much the price is?",
+      "notes": "가격 = price\n얼마 = how much\n-(으)ㄹ래요? = Do you want to + V?; Shall we + V?"
+    },
+    {
+      "korean": "지금 제 의견을 묻으시는 건가요?",
+      "english": "Are you asking my opinion now?",
+      "notes": "제 = (polite) my; I"
+    },
+    {
+      "korean": "그만 좀 물어보세요, 저도 몰라요.",
+      "english": "Please stop asking. I don't know either.",
+      "notes": "그만 -(으)세요. = Stop + V-ing.; Quit + V-ing.\n-도 = too, also\n모르다 = to not know"
+    },
+    {
+      "korean": "모르는 게 있으면 저한테 물어보세요.",
+      "english": "If you have something you don't know about, ask me.",
+      "notes": ""
+    },
+    {
+      "korean": "길을 잃어서 지나가는 사람한테 물어봤어요.",
+      "english": "I lost my way, so I asked a person passing by.",
+      "notes": "잃다 = to lose"
+    },
+    {
+      "korean": "제가 묻지도 않았는데 그 사람이 말해 줬어요.",
+      "english": "I didn't even ask, but he told me (anyway).",
+      "notes": "-지도 않다 = to not even + V\n말하다 = to talk; to say; to speak; to tell"
+    },
+    {
+      "korean": "저도 잘 모르는데 친구한테 한 번 물어 볼게요.",
+      "english": "I don't know (about that very) well, but I will ask my friend.",
+      "notes": "한 번 = once, one time"
+    },
+    {
+      "korean": "공부하다가 모르는 게 있으면 바로 물 어보세요.",
+      "english": "If you come across something you don't know while studying, ask (about it) right away.",
+      "notes": "공부하다 = to study\n-다가 = as a result of V-ing\n바로 = right away; straight; exactly; close(ly); right"
+    },
+    {
+      "korean": "저한테 묻지 말고 그 사람한테 직접 물 어보세요.",
+      "english": "Don't ask me, but ask him directly.",
+      "notes": "직접 = directly; by oneself; with one's own hands"
+    },
+    {
+      "korean": "물어보는 것이 자존심 상해요, 그냥 제 가 알아볼게요.",
+      "english": "If I ask, it'll hurt my pride. I'll just look into it myself.",
+      "notes": "자존심 = self-esteem; one's pride\n상하다 = to hurt; to go bad\n그냥 = just, only, simply\n알아보다 = to investigate; to check up on; to find out; to search; to look into"
+    },
+    {
+      "korean": "제가 물어봤는데 그 사람이 제대로 대 답을 안 해 줬어요.",
+      "english": "I asked, but he didn't give me a proper answer.",
+      "notes": "제대로 = properly\n대답을 하다 = to answer\n안 = not"
+    },
+    {
+      "korean": "어제 물어볼 게 있어서 전화했는데 전 화를 안 받으시더라고요.",
+      "english": "I called you yesterday because I had something to ask, but you didn't answer the phone.",
+      "notes": "전화하다 = to call, make a phone call\n전화 = phone call; telephone\n전화를 받다 = to receive a phone call, pick up/ answer the phone"
+    }
+  ]
+}

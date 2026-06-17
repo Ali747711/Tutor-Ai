@@ -1,0 +1,110 @@
+{
+  "week": 11,
+  "day": 5,
+  "order": 75,
+  "keyword": "알다",
+  "meaning": "to know",
+  "romanization": "",
+  "expressions": [
+    {
+      "korean": "아는 사람",
+      "english": "a person one knows; an acquaintance",
+      "notes": ""
+    },
+    {
+      "korean": "잘 알다",
+      "english": "to know well",
+      "notes": ""
+    },
+    {
+      "korean": "제가 알기로는",
+      "english": "from what I understand; as far as I know",
+      "notes": ""
+    },
+    {
+      "korean": "대충 알아요.",
+      "english": "I know roughly.",
+      "notes": "대충 = approximately, roughly; not thoroughly"
+    },
+    {
+      "korean": "이제 알겠어요.",
+      "english": "Now I understand it.",
+      "notes": "이제 = now"
+    },
+    {
+      "korean": "그걸 어떻게 알아요?",
+      "english": "How do you know that?",
+      "notes": "그걸 = that, that thing (object)\n그걸 is the contracted form of 그것을.\n어떻게 = how"
+    },
+    {
+      "korean": "아는 척 하지 마세요.",
+      "english": "Don't pretend you know.; Don't act as if you know.",
+      "notes": "- 척 하다 = to pretend"
+    },
+    {
+      "korean": "윤아 씨가 알 수도 있어요.",
+      "english": "Yoona might know.",
+      "notes": "-(으)ㄹ 수도 있다 = may/might + V; can/could + V"
+    },
+    {
+      "korean": "알면서 왜 모른 척 했어요?",
+      "english": "Why did you pretend not to know when you do (actually) know?",
+      "notes": "-(으)면서 = while + S + V-ing\n왜 = why; for what reason; how come\n모르다 = to not know"
+    },
+    {
+      "korean": "답을 알면 빨리 알려주세요.",
+      "english": "If you know the answer, tell me quickly.",
+      "notes": "빨리다 = to be fast\n빨리 is an adverb form of 빠르다."
+    },
+    {
+      "korean": "제 친구 통해서 알게 됐어요.",
+      "english": "I learned (about it) through my friend.",
+      "notes": "통해서 = through, via\n-게 되다 = will + V (unintentionally); to get to + V; to end up + V-ing"
+    },
+    {
+      "korean": "전화번호 좀 알 수 있을까요?",
+      "english": "Can I know the phone number?\nCan I get the phone number?",
+      "notes": "전화번호 = phone number"
+    },
+    {
+      "korean": "왜 알면서도 말을 안 했어요?",
+      "english": "Why didn't you tell me when you knew?",
+      "notes": "-(으)면서도 = even though; (even) while; even when\n말 = language; what one says; expression; word; term\n말을 하다 = to speak; to talk; to tell; to say"
+    },
+    {
+      "korean": "비밀번호는 효진 씨만 알아요.",
+      "english": "Only Hyojin knows the password.",
+      "notes": "비밀번호 = password"
+    },
+    {
+      "korean": "혹시 석진 씨 전화번호 알아요?",
+      "english": "Do you, by any chance, know Seokjin's phone number?",
+      "notes": "혹시 = by any chance"
+    },
+    {
+      "korean": "그 일에 대해서라면 제가 잘 알아요.",
+      "english": "When it comes to that (subject), I know a lot about it.\nI know about that (subject) well.",
+      "notes": "-에 대해서라면 = about + N; when it comes to + N"
+    },
+    {
+      "korean": "그 사람이 어디 있는지 알 것 같아요.",
+      "english": "I think I know where he is.",
+      "notes": ""
+    },
+    {
+      "korean": "모두가 알고 있었는데 저만 몰랐어요.",
+      "english": "Everyone (already) knew, but I was the only one who did not know.",
+      "notes": ""
+    },
+    {
+      "korean": "제가 알기로는 그 사람은 지금 출장 중 이에요.",
+      "english": "From what I know, that person is now on a business trip.",
+      "notes": "출장 = business trip\n중 = in, in the middle of"
+    },
+    {
+      "korean": "어제 영화관에서 우연히 아는 사람을 만났어요.",
+      "english": "I bumped into a person I know in the movie theater yesterday.",
+      "notes": "어제 = yesterday\n영화관 = movie theater, cinema\n우연히 = by chance\n우연히 만나다 = to bump into someone"
+    }
+  ]
+}
