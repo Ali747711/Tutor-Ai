@@ -6,6 +6,12 @@ const Anthropic = require("@anthropic-ai/sdk");
 const { connectDb } = require("../db");
 const DailyWordSet = require("../models/DailyWordSet");
 
+function parseJsonFromLlm(text) {
+  // Strip markdown code fences (```json ... ``` or ``` ... ```)
+  const stripped = text.trim().replace(/^```(?:json)?\s*/i, "").replace(/\s*```$/, "")
+  return JSON.parse(stripped)
+}
+
 const router = express.Router();
 
 const EXTRACT_MODEL = "claude-haiku-4-5-20251001";
@@ -60,7 +66,7 @@ ${wordList}`,
         ],
       });
       try {
-        extracted = JSON.parse(msg.content[0].text.trim())
+        extracted = parseJsonFromLlm(msg.content[0].text)
       } catch {
         return res.status(422).json({ error: "AI returned unexpected response. Please retry." })
       }
@@ -97,7 +103,7 @@ Format: [{"korean":"사랑","romanization":"sarang","english":"love"}]`,
         ],
       });
       try {
-        extracted = JSON.parse(msg.content[0].text.trim())
+        extracted = parseJsonFromLlm(msg.content[0].text)
       } catch {
         return res.status(422).json({ error: "AI returned unexpected response. Please retry." })
       }
