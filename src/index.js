@@ -16,6 +16,7 @@ const {
 } = require("./prompts");
 const progressRouter = require("./routes/progress");
 const curriculumRouter = require("./routes/curriculum");
+const dailyWordsRouter = require("./routes/dailyWords");
 
 const PORT = process.env.PORT || 3001;
 const MODEL = "claude-opus-4-8";
@@ -35,7 +36,7 @@ const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
 const app = express();
 app.use(cors({ origin: true, credentials: true }));
-app.use(express.json({ limit: "1mb" }));
+app.use(express.json({ limit: "5mb" }));
 
 // ---------------------------------------------------------------------------
 // Helpers
@@ -226,6 +227,7 @@ app.post("/api/tts", async (req, res) => {
 // ---------------------------------------------------------------------------
 app.use("/api", curriculumRouter);
 app.use("/api/progress", progressRouter);
+app.use("/api/daily-words", dailyWordsRouter);
 
 app.listen(PORT, () => {
   console.log(`KoreanPrep Pro API listening on http://localhost:${PORT}`);
